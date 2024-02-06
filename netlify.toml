@@ -2,11 +2,7 @@
   publish = "_book"
   command = """
     wget -qO- https://github.com/quarto-dev/quarto-cli/releases/download/v1.4.549/quarto-1.4.549-linux-amd64.tar.gz | tar xz && \
-    ls -la && \  # List contents of the current directory
-    ./quarto-1.4.549-linux-amd64/bin/quarto render .
+    ls -la quarto-1.4.549 && \  # List contents of the quarto-1.4.549 directory
+    ./quarto-1.4.549/bin/quarto render .
   """
-
-# [build.environment]
-#   ENV_NAME = "value"
-# Uncomment and replace ENV_NAME and value with your environment variables if needed
 
