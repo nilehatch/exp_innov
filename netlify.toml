@@ -2,6 +2,7 @@
   publish = "_book"
   command = """
     wget -qO- https://github.com/quarto-dev/quarto-cli/releases/download/v1.4.549/quarto-1.4.549-linux-amd64.tar.gz | tar xz && \
+    ls -la && \  # List contents of the current directory
     ./quarto-1.4.549-linux-amd64/bin/quarto render .
   """
 
