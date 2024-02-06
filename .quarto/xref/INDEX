@@ -1,0 +1,44 @@
+{
+  "index.qmd": {
+    "index.html": "7a69e442"
+  },
+  "intro.qmd": {
+    "intro.html": "c7790ce4"
+  },
+  "summary.qmd": {
+    "summary.html": "45f6cae7"
+  },
+  "references.qmd": {
+    "references.html": "c35763ab"
+  },
+  "Expeditionary_Innovation.qmd": {
+    "Expeditionary_Innovation.html": "8478edd9"
+  },
+  "Organize_Team.qmd": {
+    "Organize_Team.html": "43ff1a19"
+  },
+  "Choose_People.qmd": {
+    "Choose_People.html": "3ca1581a"
+  },
+  "Explore_Community.qmd": {
+    "Explore_Community.html": "35d21f6f"
+  },
+  "Hypothesize_Pain.qmd": {
+    "Hypothesize_Pain.html": "e70b01dd"
+  },
+  "Validate_Pain.qmd": {
+    "Validate_Pain.html": "7b019200"
+  },
+  "Ideate_Solution.qmd": {
+    "Ideate_Solution.html": "32175b91"
+  },
+  "Hypothesize_Solution.qmd": {
+    "Hypothesize_Solution.html": "746f5524"
+  },
+  "Test_Solution.qmd": {
+    "Test_Solution.html": "87854726"
+  },
+  "Conclusion.qmd": {
+    "Conclusion.html": "00396cf5"
+  }
+}

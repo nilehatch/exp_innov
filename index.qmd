@@ -1,0 +1,17 @@
+# Welcome {.unnumbered}
+
+**Expeditionary Innovation** is an innovation process that seeks to maximize the probability of a successful innovation for entrepreneurs. While it is better to fail fast than to fail late or fail expensive, it is better still to not fail.  Uncertainty is a primary cause for the failure of startups -- not only are we missing important knowledge, our intuition tells us to do exactly the wrong thing leading to failure.  
+
+Expeditionary innovation is designed to replace the unknown with the newly known.  Drawing from the breadths of the scientific method, entrepreneurs can comfortably and confidently cycle between _exploratory_ and _informative_ experiments to target and acquire the knowledge needed to make the right decisions and succeed. These tools allow entrepreneurs to embrace uncertainty and solve problems that others cannot.
+
+<!-- 
+I have chosen the [Cassia crossbill](https://en.wikipedia.org/wiki/Cassia_crossbill) (_Loxia sinesciuris_) for the cover art of this book.  The Cassia crossbill is a finch with a criss-crossed beak that has co-evolved with the lodgepole pines of Southern Idaho.  The absence of red squirrels in this area left a gap in seed dispersal compared to other areas.  "Finding" this unfilled need in the ecosystem, the Cassia crossbill developed deeper bills to access seeds in the co-evolving thick scaled cones of the lodgepole pines. 
+
+The first key to success in innovating in extreme uncertainty is to find a previously unknown need and fill it.  The people with these needs will be thrilled by the attention that existing companies deny them. We will succeed by seeking gaps in the market that are not only unfilled but also unknown, much like the Cassia crossbill.
+-->
+
+This book is adapted from an earlier book _Entrepreneurial Innovation_ (2018) on the same topic.  It is published for the first time here as _Expeditionary Innovation_ with a shorter and more direct process.
+
+This website is free, licensed under the [CC BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/us/) license. 
+
+The book is written in [Quarto](https://quarto.org/docs/books) and hosted by [Netlify](https://www.netlify.com) as part of their support of open source software and communities.

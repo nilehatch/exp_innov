@@ -1,0 +1,885 @@
+{
+    "sources": [
+        {
+            "author": [
+                {
+                    "family": "Baum",
+                    "given": "Lyman Frank"
+                }
+            ],
+            "id": "baum00",
+            "issued": {
+                "date-parts": [
+                    [
+                        1900
+                    ]
+                ]
+            },
+            "publisher": "George M. Hill Company",
+            "publisher-place": "Chicago, Illinois",
+            "title": "The wonderful wizard of oz",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Bertolotti",
+                    "given": "Tommaso"
+                }
+            ],
+            "container-title": "Model-based reasoning in science and technology: Theoretical and cognitive issues",
+            "id": "bertolotti2013generative",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013
+                    ]
+                ]
+            },
+            "page": "479-498",
+            "publisher": "Springer",
+            "title": "Generative and demonstrative experiments",
+            "type": "chapter"
+        },
+        {
+            "author": [
+                {
+                    "family": "Bertolotti",
+                    "given": "Tommaso"
+                }
+            ],
+            "container-title": "Patterns of Rationality: Recurring Inferences in Science, Social Cognition and Religious Thinking",
+            "id": "bertolotti2015models",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015
+                    ]
+                ]
+            },
+            "page": "67-86",
+            "publisher": "Springer",
+            "title": "Models in action: An eco-cognitive outlook on experimental science",
+            "title-short": "Models in action",
+            "type": "article-journal"
+        },
+        {
+            "author": [
+                {
+                    "family": "Boyd",
+                    "given": "Drew"
+                },
+                {
+                    "family": "Goldenberg",
+                    "given": "Jacob"
+                }
+            ],
+            "id": "boyd2013inside",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013
+                    ]
+                ]
+            },
+            "publisher": "Springer",
+            "title": "Inside the box",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Burian",
+                    "given": "Richard M"
+                }
+            ],
+            "container-title": "History and Philosophy of the Life Sciences",
+            "id": "burian2007microrna",
+            "issued": {
+                "date-parts": [
+                    [
+                        2007
+                    ]
+                ]
+            },
+            "page": "285-311",
+            "publisher": "JSTOR",
+            "title": "On microRNA and the need for exploratory experimentation in post-genomic molecular biology",
+            "type": "article-journal"
+        },
+        {
+            "author": [
+                {
+                    "family": "Constable",
+                    "given": "Giff"
+                },
+                {
+                    "family": "Rimalovski",
+                    "given": "Frank"
+                }
+            ],
+            "id": "constable2014talking",
+            "issued": {
+                "date-parts": [
+                    [
+                        2014
+                    ]
+                ]
+            },
+            "publisher": "Giff Constable",
+            "title": "Talking to humans: Success starts with understanding your customers",
+            "title-short": "Talking to humans",
+            "type": "book"
+        },
+        {
+            "URL": "https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html?smid=pl-share&_r=0",
+            "author": [
+                {
+                    "family": "Duhigg",
+                    "given": "Charles"
+                }
+            ],
+            "id": "duhigg15",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016,
+                        2,
+                        25
+                    ]
+                ]
+            },
+            "title": "What google learned from its quest to build the perfect team",
+            "type": "webpage"
+        },
+        {
+            "author": [
+                {
+                    "family": "Edmondson",
+                    "given": "Amy"
+                }
+            ],
+            "container-title": "Administrative Science Quarterly",
+            "id": "edmondson99",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        1999
+                    ]
+                ]
+            },
+            "page": "350-383",
+            "publisher": "SAGE Publications",
+            "title": "Psychological safety and learning behavior in work teams",
+            "type": "article-journal",
+            "volume": "44"
+        },
+        {
+            "URL": "https://www.qualtrics.com/blog/primary-vs-secondary-market-research/",
+            "author": [
+                {
+                    "family": "Ethington",
+                    "given": "Justin"
+                }
+            ],
+            "id": "ethington18",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018,
+                        6,
+                        21
+                    ]
+                ]
+            },
+            "title": "Primary vs. Secondary market research: What they are and when to use each",
+            "title-short": "Primary vs. Secondary market research",
+            "type": "webpage"
+        },
+        {
+            "author": [
+                {
+                    "family": "Furr",
+                    "given": "Nathan"
+                },
+                {
+                    "family": "Ahlstrom",
+                    "given": "Paul"
+                }
+            ],
+            "id": "furr-ahlstrom11",
+            "issued": {
+                "date-parts": [
+                    [
+                        2011
+                    ]
+                ]
+            },
+            "publisher": "NISI Institute",
+            "title": "Nail it then scale it: The entrepreneur’s guide to creating and managing breakthrough innovation.",
+            "title-short": "Nail it then scale it",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Furr",
+                    "given": "Nathan"
+                },
+                {
+                    "family": "Dyer",
+                    "given": "Jeffrey"
+                }
+            ],
+            "id": "furr-dyer14",
+            "issued": {
+                "date-parts": [
+                    [
+                        2014
+                    ]
+                ]
+            },
+            "publisher": "Harvard Business Press",
+            "publisher-place": "Cambridge, MA",
+            "title": "The innovator’s method: Bringing the lean start-up into your organization",
+            "title-short": "The innovator’s method",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Gardner",
+                    "given": "Richard G."
+                },
+                {
+                    "family": "Bednar",
+                    "given": "Jeffrey S."
+                },
+                {
+                    "family": "Stewart",
+                    "given": "Bryan W."
+                },
+                {
+                    "family": "Oldroyd",
+                    "given": "James B."
+                },
+                {
+                    "family": "Moore",
+                    "given": "Joseph"
+                }
+            ],
+            "container-title": "Journal of Vocational Behavior",
+            "id": "gardner2019must",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019
+                    ]
+                ]
+            },
+            "page": "103337",
+            "publisher": "Elsevier",
+            "title": "I must have slipped through the cracks somehow?: An examination of coping with perceived impostorism and the role of social support",
+            "title-short": "I must have slipped through the cracks somehow?",
+            "type": "article-journal",
+            "volume": "115"
+        },
+        {
+            "author": [
+                {
+                    "family": "Garvin",
+                    "given": "David A."
+                },
+                {
+                    "family": "Roberto",
+                    "given": "Michael A."
+                }
+            ],
+            "container-title": "Harvard Business Review",
+            "id": "garvin-roberto01",
+            "issue": "8",
+            "issued": {
+                "date-parts": [
+                    [
+                        2001
+                    ]
+                ]
+            },
+            "page": "108-119",
+            "title": "What you don’t know about making decisions",
+            "type": "article-journal",
+            "volume": "79"
+        },
+        {
+            "author": [
+                {
+                    "family": "Goldenberg",
+                    "given": "Jacob"
+                },
+                {
+                    "family": "Horowitz",
+                    "given": "Roni"
+                },
+                {
+                    "family": "Levav",
+                    "given": "Amnon"
+                },
+                {
+                    "family": "Mazursky",
+                    "given": "David"
+                }
+            ],
+            "container-title": "Harvard Business Review",
+            "id": "goldenberg2003finding",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2003
+                    ]
+                ]
+            },
+            "page": "120-129",
+            "publisher": "Harvard Business School Publication Corp.",
+            "title": "Finding your innovation sweet spot",
+            "type": "article-journal",
+            "volume": "81"
+        },
+        {
+            "author": [
+                {
+                    "family": "Hacking",
+                    "given": "Ian"
+                }
+            ],
+            "container-title": "Philosophical Topics",
+            "id": "hacking82experimentation",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        1982
+                    ]
+                ]
+            },
+            "page": "71-87",
+            "title": "Experimentation and scientific realism",
+            "type": "article-journal"
+        },
+        {
+            "author": [
+                {
+                    "family": "Hacking",
+                    "given": "Ian"
+                }
+            ],
+            "id": "hacking1983representing",
+            "issued": {
+                "date-parts": [
+                    [
+                        1983
+                    ]
+                ]
+            },
+            "publisher": "Cambridge University Press",
+            "title": "Representing and intervening: Introductory topics in the philosophy of natural science",
+            "title-short": "Representing and intervening",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Hacking",
+                    "given": "Ian"
+                }
+            ],
+            "id": "hacking2006emergence",
+            "issued": {
+                "date-parts": [
+                    [
+                        2006
+                    ]
+                ]
+            },
+            "publisher": "Cambridge University Press",
+            "title": "The emergence of probability: A philosophical study of early ideas about probability, induction and statistical inference",
+            "title-short": "The emergence of probability",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Johnson",
+                    "given": "Steven"
+                }
+            ],
+            "id": "johnson10",
+            "issued": {
+                "date-parts": [
+                    [
+                        2010
+                    ]
+                ]
+            },
+            "publisher": "Penguin UK",
+            "title": "Where good ideas come from: The natural history of innovation",
+            "title-short": "Where good ideas come from",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Kauffman",
+                    "given": "Stuart A"
+                }
+            ],
+            "id": "kauffman1995home",
+            "issued": {
+                "date-parts": [
+                    [
+                        1995
+                    ]
+                ]
+            },
+            "publisher": "Oxford University Press, USA",
+            "title": "At home in the universe: The search for laws of self-organization and complexity",
+            "title-short": "At home in the universe",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1093/comjnl/27.2.97",
+            "ISSN": "0010-4620",
+            "URL": "https://doi.org/10.1093/comjnl/27.2.97",
+            "author": [
+                {
+                    "family": "Knuth",
+                    "given": "Donald E."
+                }
+            ],
+            "container-title": "Comput. J.",
+            "id": "knuth84",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        1984,
+                        5
+                    ]
+                ]
+            },
+            "page": "97-111",
+            "publisher": "Oxford University Press, Inc.",
+            "publisher-place": "USA",
+            "title": "Literate programming",
+            "type": "article-journal",
+            "volume": "27"
+        },
+        {
+            "author": [
+                {
+                    "family": "Kumar",
+                    "given": "Vijay"
+                }
+            ],
+            "id": "kumar12",
+            "issued": {
+                "date-parts": [
+                    [
+                        2012
+                    ]
+                ]
+            },
+            "publisher": "John Wiley & Sons",
+            "title": "101 design methods: A structured approach for driving innovation in your organization",
+            "title-short": "101 design methods",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Mattson",
+                    "given": "Christopher A."
+                },
+                {
+                    "family": "Sorensen",
+                    "given": "Carl David"
+                }
+            ],
+            "id": "mattson-sorensen13",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013
+                    ]
+                ]
+            },
+            "title": "Fundamentals of product development",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Mattson",
+                    "given": "Christopher A."
+                },
+                {
+                    "family": "Sorensen",
+                    "given": "Carl D."
+                }
+            ],
+            "edition": "5",
+            "id": "mattson-sorensen18",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "title": "Fundamentals of product development",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Patnaik",
+                    "given": "Dev"
+                }
+            ],
+            "id": "patnaik09",
+            "issued": {
+                "date-parts": [
+                    [
+                        2009
+                    ]
+                ]
+            },
+            "publisher": "FT Press",
+            "title": "Wired to care: How companies prosper when they create widespread empathy",
+            "title-short": "Wired to care",
+            "type": "book"
+        },
+        {
+            "annote": "",
+            "author": [
+                {
+                    "family": "Pauling",
+                    "given": "Linus"
+                }
+            ],
+            "id": "pauling79",
+            "issued": {
+                "date-parts": [
+                    [
+                        1995
+                    ]
+                ]
+            },
+            "note": "As quoted by Francis Crick in a presentation",
+            "title": "The impact of linus pauling on molecular biology",
+            "type": ""
+        },
+        {
+            "author": [
+                {
+                    "family": "Plattner",
+                    "given": "Hasso"
+                },
+                {
+                    "family": "Meinel",
+                    "given": "Christoph"
+                },
+                {
+                    "family": "Weinberg",
+                    "given": "Ulrich"
+                }
+            ],
+            "id": "plattner2009design",
+            "issued": {
+                "date-parts": [
+                    [
+                        2009
+                    ]
+                ]
+            },
+            "publisher": "Springer",
+            "title": "Design thinking",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Plattner",
+                    "given": "Hasso"
+                }
+            ],
+            "id": "plattner2013empathy",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013
+                    ]
+                ]
+            },
+            "publisher": "Institute of Design at Stanford",
+            "publisher-place": "Palo Alto",
+            "title": "Empathy field guide",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Popper",
+                    "given": "Karl R"
+                }
+            ],
+            "id": "popper1959logic",
+            "issued": {
+                "date-parts": [
+                    [
+                        1959
+                    ]
+                ]
+            },
+            "publisher": "Hutchinson & Co.",
+            "title": "The logic of scientific discovery",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Popper",
+                    "given": "Karl R"
+                }
+            ],
+            "container-title": "Conjectures and Refutations",
+            "id": "popper1963science",
+            "issue": "1963",
+            "issued": {
+                "date-parts": [
+                    [
+                        1963
+                    ]
+                ]
+            },
+            "page": "33-39",
+            "title": "Science as falsification",
+            "type": "article-journal",
+            "volume": "1"
+        },
+        {
+            "author": [
+                {
+                    "family": "Pugh",
+                    "given": "Stuart"
+                }
+            ],
+            "id": "pugh1991total",
+            "issued": {
+                "date-parts": [
+                    [
+                        1991
+                    ]
+                ]
+            },
+            "publisher": "Addison-Wesley Wokingham",
+            "title": "Total design: Integrated methods for successful product engineering",
+            "title-short": "Total design",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "Rohrbach",
+                    "given": "Bernd"
+                }
+            ],
+            "container-title": "Absatzwirtschaft",
+            "id": "rohrbach1969creative",
+            "issued": {
+                "date-parts": [
+                    [
+                        1969
+                    ]
+                ]
+            },
+            "page": "73-75",
+            "title": "Creative by rules—method 635, a new technique for solving problems",
+            "type": "article-journal",
+            "volume": "12"
+        },
+        {
+            "author": [
+                {
+                    "family": "Shannon",
+                    "given": "C. E."
+                }
+            ],
+            "container-title": "Bell System Technical Journal",
+            "id": "shannon48",
+            "issued": {
+                "date-parts": [
+                    [
+                        1948
+                    ]
+                ]
+            },
+            "page": "379-423",
+            "title": "A mathematical theory of communication",
+            "type": "article-journal",
+            "volume": "27"
+        },
+        {
+            "author": [
+                {
+                    "family": "Steinle",
+                    "given": "Friedrich"
+                }
+            ],
+            "container-title": "Philosophy of Science",
+            "id": "steinle1997entering",
+            "issue": "S4",
+            "issued": {
+                "date-parts": [
+                    [
+                        1997
+                    ]
+                ]
+            },
+            "page": "S65-S74",
+            "publisher": "Cambridge University Press",
+            "title": "Entering new fields: Exploratory uses of experimentation",
+            "title-short": "Entering new fields",
+            "type": "article-journal",
+            "volume": "64"
+        },
+        {
+            "author": [
+                {
+                    "family": "Steinle",
+                    "given": "Friedrich"
+                }
+            ],
+            "container-title": "Perspectives on Science",
+            "id": "steinle2002experiments",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2002
+                    ]
+                ]
+            },
+            "page": "408-432",
+            "publisher": "MIT Press One Rogers Street, Cambridge, MA 02142-1209, USA journals-info …",
+            "title": "Experiments in history and philosophy of science",
+            "type": "article-journal",
+            "volume": "10"
+        },
+        {
+            "author": [
+                {
+                    "family": "Swenson",
+                    "given": "Michael J"
+                },
+                {
+                    "family": "Rhoads",
+                    "given": "Gary K"
+                },
+                {
+                    "family": "Whitlark",
+                    "given": "David B"
+                }
+            ],
+            "container-title": "Journal of Applied Business and Economics",
+            "id": "swenson2013finding",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013
+                    ]
+                ]
+            },
+            "page": "19-25",
+            "title": "Finding and developing new product ideas: An ideation process for entrepreneurs",
+            "title-short": "Finding and developing new product ideas",
+            "type": "article-journal",
+            "volume": "15"
+        },
+        {
+            "URL": "https://www.thinkwithgoogle.com/intl/en-emea/consumer-insights/consumer-trends/five-dynamics-effective-team/",
+            "author": [
+                {
+                    "family": "Tamiru",
+                    "given": "Natasha"
+                }
+            ],
+            "id": "tamiru23",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        6,
+                        1
+                    ]
+                ]
+            },
+            "title": "Team dynamics: Five keys to building effective teams",
+            "title-short": "Team dynamics",
+            "type": "webpage"
+        },
+        {
+            "author": [
+                {
+                    "family": "Tuckman",
+                    "given": "Bruce W."
+                }
+            ],
+            "container-title": "Psychological Bulletin",
+            "id": "tuckman1965developmental",
+            "issue": "6",
+            "issued": {
+                "date-parts": [
+                    [
+                        1965
+                    ]
+                ]
+            },
+            "page": "384",
+            "publisher": "American Psychological Association",
+            "title": "Developmental sequence in small groups.",
+            "type": "article-journal",
+            "volume": "63"
+        },
+        {
+            "author": [
+                {
+                    "family": "Ulrich",
+                    "given": "Karl T."
+                },
+                {
+                    "family": "Eppinger",
+                    "given": "Steve"
+                }
+            ],
+            "id": "ulrich-eppinger95",
+            "issued": {
+                "date-parts": [
+                    [
+                        1995
+                    ]
+                ]
+            },
+            "keyword": "modularity, innovation",
+            "publisher": "McGraw-Hill",
+            "publisher-place": "New York",
+            "title": "Product design and development",
+            "type": "book"
+        }
+    ],
+    "project_biblios": [
+        "references.bib"
+    ]
+}

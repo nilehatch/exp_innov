@@ -1,0 +1,47 @@
+project:
+  type: book
+
+book:
+  title: "Expeditionary Innovation"
+  #author: "Nile Hatch"
+  #date: "1/26/2024"
+  search: true
+  #cover-image: cassia_crossbill_2.jpg
+  chapters:
+    - index.qmd
+    - Expeditionary_Innovation.qmd
+    - Organize_Team.qmd
+    - Choose_People.qmd
+    - Explore_Community.qmd
+    - Hypothesize_Pain.qmd
+    - Validate_Pain.qmd
+    - Ideate_Solution.qmd
+    - Hypothesize_Solution.qmd
+    - Test_Solution.qmd
+    - Conclusion.qmd
+    - references.qmd
+  page-navigation: true
+
+  page-footer:
+    left: |
+      _Expeditionary Innovation_ was written by Nile Hatch.
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>.
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    code-fold: true
+    number-sections: true
+    number-depth: 3
+    colorlinks: true
+    embed-resources: true
+  #pdf:
+  #  documentclass: scrreprt
+
+editor: source
+
+execute:
+  echo: false

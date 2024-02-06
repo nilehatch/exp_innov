@@ -1,0 +1,14 @@
+{
+  "hash": "f6c3627b2a3614d2ed6c906abcf4c6ea",
+  "result": {
+    "markdown": "# Welcome {.unnumbered}\n\nThis is the website for __\"Expeditionary Innovation\"__.  \n\nTo learn more about Quarto books visit <https://quarto.org/docs/books>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
