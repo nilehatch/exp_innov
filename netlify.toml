@@ -1,11 +1,9 @@
 [build]
   publish = "_book"
   command = """
-    wget -qO- https://github.com/quarto-dev/quarto-cli/releases/download/v1.4.549/quarto-1.4.549-linux-amd64.deb > quarto.deb && \
-    sudo dpkg -i quarto.deb && \
-    quarto render .
+    wget -qO- https://github.com/quarto-dev/quarto-cli/releases/download/v1.4.549/quarto-1.4.549-linux-amd64.tar.gz | tar xz && \
+    ./quarto-1.4.549-linux-amd64/bin/quarto render .
   """
-  # Replace {quarto_version} with the desired version number, e.g., "1.1.189"
 
 # [build.environment]
 #   ENV_NAME = "value"
