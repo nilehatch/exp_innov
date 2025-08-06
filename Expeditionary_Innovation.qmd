@@ -3,14 +3,6 @@ title: "Expeditionary Innovation"
 subtitle: "Exploratory and confirmatory experiments to find and fill unknown, unmet needs"
 ---
 
-```{r}
-#| output: false
-library(tidyverse)
-library(ggthemes)
-library(scales)
-library(gt)
-```
-
 ```{=html}
 <style>
 .wrapfig {
@@ -21,126 +13,245 @@ library(gt)
 </style>
 ```
 
-## Navigating the Innovation Terrain with more than Intuition
+## Navigating Innovation with more than Intuition
 
-Innovation, while exhilarating, is fraught with challenges and uncertainties. The path to successful innovation is rarely a straight line; it's a journey that requires navigating through the unknown, transforming obscurity into clarity. Our innate intuition often compels us to jump headfirst into solution-building. However, this approach, akin to Reid Hoffman's metaphor of building a plane while plummeting off a cliff, often leads us astray. The reality is that many innovations fail not due to flawed execution but because they aim to solve the wrong problem --- a problem that might not even exist.
+
+Innovation, while exhilarating, is fraught with challenges and uncertainties. The path to successful innovation is rarely straightforward; it requires navigating the unknown and transforming uncertainty into clarity. Our intuition often urges us to dive straight into solution-building, but this can lead us astray. Many innovations fail not because of poor execution but because they aim to solve the wrong problem — a problem that might not even exist.
 
 ### Escaping the Solution-First Trap
 
-The allure of the solution-first approach is understandable. It's a path trodden by numerous successful innovations, shaping our lives in profound ways. Consider the birth of Google: Larry Page and Sergei Brin didn't start by identifying a market need; they began with a mathematical fascination. Their exploration of the web's link structure led to the PageRank algorithm, fundamentally changing how we access information. This narrative, however, is more an exception than the rule.
+The allure of the solution-first approach is understandable. Many successful innovations have shaped our lives by following this path. For example, Larry Page and Sergei Brin, the founders of Google, began with a mathematical fascination rather than a market need. Their exploration of the web's link structure led to the PageRank algorithm, fundamentally changing how we access information. However, this narrative is more the exception than the rule.
 
-For every Google, countless other ventures have followed this intuitive path only to encounter failure. The story of Webvan serves as a cautionary tale. Their assumption that most customers would embrace online grocery shopping led to a massive investment in infrastructure. However, this ambitious expansion was predicated on an untested assumption about customer behavior, ultimately leading to their downfall.
+For every Google, countless ventures have followed this intuitive path only to encounter failure. Webvan is a cautionary tale. They assumed most customers would embrace online grocery shopping and made massive investments in infrastructure. However, their expansion was based on untested assumptions about customer behavior, ultimately leading to their downfall.
+
+
 
 ### An Evidence-Based Approach to Innovation
 
-Enter the lean startup method, an approach that tests intuitive, solution-first ideas with experiments. It advocates for a hypothesis-driven, experimental process where learning and adaptation take precedence over blind execution. This method, rooted in lean manufacturing principles, involves continuous testing and validation, focusing on learning from customer feedback and adapting accordingly.
+The lean startup method tests intuitive, solution-first ideas through experiments. It advocates for a hypothesis-driven, experimental process where learning and adaptation take precedence over blind execution. Rooted in lean manufacturing principles, this method involves continuous testing and validation, focusing on learning from customer feedback and adapting accordingly.
 
-Take Zappos as an example. Instead of investing heavily in inventory and infrastructure, they started by simply testing customer willingness to buy shoes online. This low-cost experiment provided valuable insights, laying the groundwork for what would become a billion-dollar business.
+Consider Zappos as an example. Instead of investing heavily in inventory and infrastructure, they started by simply testing whether customers would buy shoes online. This low-cost experiment provided valuable insights, laying the groundwork for a billion-dollar business.
 
-The lean startup method, while reducing the cost and time of failure, does not inherently increase the probability of an idea's success. It facilitates a quicker cycle of hypothesis testing, allowing entrepreneurs to pivot efficiently until they find a viable path. However, it often operates on the principle that all hypotheses are equally viable, leading to a trial-and-error approach.
+While the lean startup method reduces the cost and time of failure, it doesn't inherently increase the probability of an idea's success. It facilitates a quicker cycle of hypothesis testing, allowing entrepreneurs to pivot efficiently until they find a viable path. However, it often operates on the principle that all hypotheses are equally viable, leading to a trial-and-error approach.
+
+
 
 ### An Exploratory Approach to Innovation
 
-In contrast, to the lean startup method, *expeditionary innovation* offers a strategy that elevates the quality of hypotheses. It focuses on deeply understanding customer needs first, thereby increasing the likelihood of developing solutions that genuinely address these needs. This approach doesn't just accelerate the process of innovation; it directs efforts towards areas with a higher probability of success.
+In contrast to the lean startup method, *expeditionary innovation* elevates the quality of hypotheses by focusing on deeply understanding customer needs first. This approach increases the likelihood of developing solutions that genuinely address these needs, directing efforts towards areas with a higher probability of success.
 
-Expeditionary innovation is not just about failing fast; it's about informed exploration. It's about gathering insights that hone in on areas ripe for innovation, where the probability of finding valuable solutions is significantly higher. This book aims to guide you through the entrepreneurial innovation process, emphasizing the importance of customer-centric exploration in generating high-probability hypotheses for success. As we delve deeper into this journey, we'll explore practical strategies and frameworks that enable innovators to discover and solve problems worth solving, transforming the daunting landscape of innovation into a terrain of opportunity and impact.
+Expeditionary innovation is not about failing fast; it's about informed exploration. It involves gathering insights that pinpoint areas ripe for innovation, significantly raising the probability of finding valuable solutions. This book guides you through the entrepreneurial innovation process, emphasizing customer-centric exploration to generate high-probability hypotheses for success. As we delve into this journey, we'll explore practical strategies and frameworks that help innovators discover and solve meaningful problems, transforming the challenging landscape of innovation into a realm of opportunity and impact.
+
+
 
 ## Expeditionary Innovation: Embracing Uncertainty in the Innovation Process
 
-Expeditionary innovation represents the journey of navigating the uncharted territories of customer needs and market opportunities.[^1] Unlike traditional approaches that often start with a solution in search of a problem, expeditionary innovation embraces uncertainty by exploring the unknown and replacing it with the newly known. It's about embarking on an explorative quest to uncover hidden problems worth solving and then devising solutions with a higher probability of success.
+Expeditionary innovation is the journey of navigating uncharted territories of customer needs and market opportunities.[^1] Unlike traditional approaches that start with a solution in search of a problem, expeditionary innovation embraces uncertainty by exploring the unknown and turning it into valuable knowledge. It focuses on uncovering hidden problems worth solving and devising solutions with a higher probability of success.
 
-[^1]: The term expedition derives from the verb expedite which comes from the Latin *ex* meaning out and *ped* meaning foot. In other words, it means to stride out. It also means to remove impediments and accelerate the progress of. As we will see, expeditionary innovation follows a winding path that turns out to be the shortcut to successful innovation.
+[^1]: The term "expedition" derives from the verb "expedite," which comes from the Latin *ex* (out) and *ped* (foot). It means to stride out and also to remove impediments and accelerate progress. As we will see, expeditionary innovation follows a winding path that ultimately becomes the shortcut to successful innovation.
 
 ### Uncertainty in Innovation
 
-Uncertainty is an intrinsic aspect of innovation, resembling a journey into uncharted territory. Innovating under these conditions is like navigating through a wilderness where the clear paths and visible peaks of value are hidden, shrouded in the fog of the unknown.
+Uncertainty is an intrinsic aspect of innovation, akin to navigating uncharted territory. Innovating under these conditions is like exploring a wilderness where clear paths and visible peaks of value are hidden in the fog of the unknown.
 
-Yet, this fog of uncertainty presents not just challenges, but opportunities for exploration and discovery. It's within this uncertainty that creativity and innovation thrive. You can't directly see the peaks of value, and neither can others. This presents a unique opportunity: to engage with the uncertainty, to illuminate the unseen, and to chart new paths. This process of exploration, while slower and more deliberate, offers a more assured route to innovative success.
+However, this fog of uncertainty presents not just challenges but also opportunities for exploration and discovery. Within this uncertainty, creativity and innovation thrive. The obscured peaks of value are unseen by others as well, offering a unique opportunity to engage with the unknown, illuminate the unseen, and chart new paths. This exploratory process, though slower and more deliberate, provides a more assured route to innovative success.
 
-*Expeditionary innovation* is about embracing this uncertainty and using it as a catalyst for exploration and discovery. It involves a methodical journey through the unknown, guided by insights gathered through exploratory experiments. Each step in this journey is a deliberate effort to uncover new insights and illuminate paths that lead to solutions deeply resonant with customer needs and market dynamics.
+*Expeditionary innovation* embraces this uncertainty, using it as a catalyst for exploration and discovery. It involves a methodical journey through the unknown, guided by insights gathered from exploratory experiments. Each step is a deliberate effort to uncover new insights and illuminate paths that lead to solutions deeply resonant with customer needs and market dynamics.
 
-In expeditionary innovation, the central challenge is finding peaks of value in a landscape you can't fully see. This approach replaces the daunting unknown with knowledge gained from a series of thoughtful explorations. It's not about wandering aimlessly in the dark; it's about progressing methodically, turning uncertainty from a barrier into a beacon that guides you towards impactful and meaningful innovation.
+In expeditionary innovation, the central challenge is finding peaks of value in a landscape you can't fully see. This approach transforms the daunting unknown into knowledge gained from a series of thoughtful explorations. It's not about wandering aimlessly in the dark; it's about progressing methodically, turning uncertainty from a barrier into a beacon that guides you toward impactful and meaningful innovation.
 
-#### Exploratory vs. Informative Experiments
 
-The innovative process in expeditionary innovation is characterized by two types of experiments: exploratory and informative. Exploratory experiments are akin to scouting missions, where the goal is to observe, learn, and generate knowledge about the unknown. These experiments provide the necessary illumination to form informed hypotheses about what problems exist and what solutions might be viable.
 
-On the other hand, informative experiments are more focused, testing these formed hypotheses to validate or invalidate them. While informative experiments are crucial, their effectiveness is significantly enhanced when preceded by thorough exploratory experiments. This sequential approach ensures that the hypotheses being tested are grounded in a deeper understanding of the market and customer needs.
+#### Exploratory vs. Confirmatory Experiments
+
+In expeditionary innovation, the process involves two types of experiments: _exploratory_ and _confirmatory_. Exploratory experiments are like scouting missions, aiming to observe, learn, and generate knowledge about the unknown. They provide the necessary insights to form informed hypotheses about existing problems and potential solutions.
+
+Confirmation experiments, on the other hand, focus on testing these hypotheses to validate or invalidate them. While confirmatory experiments are crucial, their effectiveness is greatly enhanced when preceded by thorough exploratory experiments. This sequential approach ensures that the hypotheses being tested are based on a deep understanding of the market and customer needs.
+
+
 
 #### An Iterative Process of Learning and Adapting
 
-Expeditionary innovation is inherently iterative. It's about continually refining your understanding of the problem and the solution through a cycle of learning and adaptation. This process involves:
+Expeditionary innovation is inherently iterative, continually refining your understanding of the problem and solution through a cycle of learning and adaptation. This process involves:
 
 -   Gathering insights through exploratory experiments to uncover unmet needs or new opportunities.
 -   Formulating hypotheses based on these insights.
--   Testing these hypotheses through informative experiments.
--   Learning from the outcomes, whether success or failure.
+-   Testing these hypotheses through confirmatory experiments.
+-   Learning from the outcomes, whether successful or not.
 -   Iterating on the solution based on feedback and new knowledge.
 
-Expeditionary innovation offers a structured yet flexible framework for navigating the complexities of the innovation process. By emphasizing exploratory experiments to generate high-probability hypotheses and following up with informative experiments for validation, this approach maximizes the chances of creating solutions that genuinely meet customer needs and succeed in the market. As such, it is a powerful methodology for entrepreneurs and innovators who seek to turn uncertainty into opportunity and exploration into impactful innovation.
+Expeditionary innovation provides a structured yet flexible framework for navigating the complexities of innovation. By emphasizing exploratory experiments to generate high-probability hypotheses and following up with confirmatory experiments for validation, this approach maximizes the chances of creating solutions that genuinely meet customer needs and succeed in the market. It is a powerful methodology for entrepreneurs and innovators seeking to turn uncertainty into opportunity and exploration into impactful innovation.
+
+
+
+
 
 ## Expeditionary Innovation in a Typology of Innovation
 
 Uncertainty in innovation can be categorized based on the familiarity of customer needs and the novelty of solutions. This typology helps innovators identify their approach and anticipate the challenges and opportunities each category presents.
 
-![](images/innov_typology_3.png){#fig:innovation-typology width="90%"}
+
+<style>
+/* Centering the table */
+.innovation-table {
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse: collapse;
+}
+
+/* Setting the width of the first column and allowing other columns to have uniform width */
+.innovation-table th:first-child, .innovation-table td:first-child {
+  width: 14%; /* Makes the first column as narrow as the text allows */
+  white-space: nowrap; /* Prevents the text in the first column from wrapping */
+}
+
+
+<style>
+/* Centering the table */
+.innovation-table {
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse: collapse;
+}
+
+/* Setting the width of the first column and allowing other columns to have uniform width */
+.innovation-table th:first-child, .innovation-table td:first-child {
+  width: 14%; /* Makes the first column as narrow as the text allows */
+  white-space: nowrap; /* Prevents the text in the first column from wrapping */
+}
+
+/* Styles for th and td elements */
+.innovation-table th, .innovation-table td {
+  border: 1px solid black;
+  text-align: center;
+  padding: 5px;
+  font-weight: normal;
+}
+
+/* Removing borders and minimizing padding for all headers, and setting line height */
+.innovation-table th {
+  border: none;
+  padding: 3px;
+  line-height: 1;
+  background-color: #f2f2f2; /* Light gray background for headers */
+}
+
+/* Media Queries for Responsive Adjustments */
+@media (max-width: 768px) {
+  .innovation-table th[scope="row"], .innovation-table td:first-child {
+    width: auto;
+    display: block; /* Stack the table cells vertically on small screens */
+  }
+  .innovation-table th, .innovation-table td {
+    display: block;
+    text-align: left; /* Align text to the left for better readability on small screens */
+  }
+}
+
+/* Specific styles for row headers */
+.innovation-table th[scope="row"] {
+  text-align: right;
+  background-color: #f2f2f2; /* Light gray background for row headers */
+}
+
+/* Specific styles for column headers */
+.innovation-table th[scope="col"] {
+  vertical-align: bottom;
+}
+
+/* Styles for the expeditionary innovation cell */
+.expeditionary {
+  font-size: 20px;
+  background-color: #3774B7;
+  color: #ffffff;
+  font-weight: bold;
+}
+</style>
+
+<!-- Table content -->
+<table class="innovation-table">
+  <tr>
+    <th scope="col"></th> <!-- Blank cell for the row header, no border -->
+    <th scope="col">Known solution</th>
+    <th scope="col">Unknown solution<br>(within reach)</th>
+    <th scope="col">Unknown solution<br>(beyond reach)</th>
+  </tr>
+  <tr>
+    <th scope="row">Known<br>customer<br>need</th>
+    <td>Execution-oriented innovation</td>
+    <td>Deterministic-problem innovation</td>
+    <td>Frontier innovation</td>
+  </tr>
+  <tr>
+    <th scope="row">Unknown<br>customer<br>need</th>
+    <td colspan="2" class="expeditionary">Expeditionary innovation</td>
+    <td>Exploratory innovation</td>
+  </tr>
+</table>
+
 
 ### Known Customer Need
 
-1.  **Execution-Oriented Innovation (Process Innovation and Product Imitation):** When both the customer need and the solution are well-understood, innovation involves executing a known solution with efficiency and effectiveness. It's about optimizing existing solutions, like improving manufacturing processes or adapting a successful business model to a new market. For example, a new fast-food franchise in a developing area isn't innovating a new product but is instead adapting a proven solution to a new market context.
+1. **Execution-Oriented Innovation (Process Innovation and Product Imitation)**: When both the customer need and the solution are well-understood, innovation focuses on executing known solutions efficiently and effectively. This involves optimizing existing solutions, such as improving manufacturing processes or adapting a successful business model to a new market. For example, a new fast-food franchise adapts a proven solution to a new market context.
 
-2.  **Deterministic-Problem Innovation:** Here, the customer need is clear, but the solution is not. Innovators use their expertise to create solutions that address these known needs. For example, longer-lasting batteries for smartphones represent a deterministic-problem innovation --- the need is clear, and the challenge is to develop a solution using current technological capabilities.
+2. **Deterministic-Problem Innovation**: In this case, the customer need is clear, but the solution is not. Innovators leverage their expertise to develop solutions that address these known needs. For instance, creating longer-lasting batteries for smartphones represents deterministic-problem innovation—the need is clear, and the challenge is to develop a solution using current technological capabilities.
 
-3.  **Frontier Innovation:** Known needs but with solutions that push beyond current knowledge boundaries. These innovations often require significant scientific or technological breakthroughs. A classic example is the ongoing research into curing certain diseases; the need is evident, but the solution requires pioneering new scientific understanding.
+3. **Frontier Innovation**: This involves known needs but requires solutions that push beyond current knowledge boundaries. These innovations often necessitate significant scientific or technological breakthroughs. A classic example is ongoing research into curing certain diseases; the need is evident, but the solution demands pioneering new scientific understanding.
+
+
 
 ### Unknown Customer Need
 
-1.  **Expeditionary Innovation (Known Solutions):** This involves uncovering customer needs that are not immediately apparent and addressing them with existing solutions. Chobani's introduction of Greek yogurt to the U.S. market is a prime example. The need for healthier, protein-rich breakfast options was unarticulated until Chobani identified and met it with a known product type.
+1. **Expeditionary Innovation (Known Solutions)**: This involves uncovering hidden customer needs and addressing them with existing solutions. For example, Chobani introduced Greek yogurt, a known solution, to the U.S. market, meeting the unarticulated need for healthier, protein-rich breakfast options.
 
-2.  **Expeditionary Innovation (Unknown Solutions):** Here, both the customer need and the solution are initially unknown. Innovators not only discover these latent needs but also develop new solutions to address them. The rise of ride-sharing platforms like Uber and Lyft exemplifies this, where both the customer's desire for a different type of taxi service and the solution (a technology platform connecting drivers and passengers) were developed together.
+**Expeditionary Innovation (Unknown Solutions)**: In this scenario, both the customer need and the solution are initially unknown. Innovators discover latent needs and develop new solutions to address them. Ride-sharing platforms like Uber and Lyft exemplify this, where the desire for a different type of taxi service and the solution (a technology platform connecting drivers and passengers) were developed together.
 
-3.  **Exploratory Innovation:** This represents the most challenging form of innovation, where both the need and the solution are unknown and beyond the current knowledge frontier. Often, these innovations emerge from advanced research and lead to the creation of entirely new markets or industries. The space exploration efforts and subsequent technological advancements (like GPS technology) are examples of exploratory innovation.
+3. **Exploratory Innovation**: This represents the most challenging form of innovation, where both the need and the solution are unknown and beyond current knowledge. These innovations often arise from advanced research and lead to entirely new markets or industries. Space exploration efforts and the resulting technological advancements, like GPS technology, are examples of exploratory innovation.
+
+
 
 ### Why Focus on Expeditionary Innovation?
 
-Expeditionary innovation is particularly compelling because it often leads to the creation of new markets or significantly alters existing ones. Unlike deterministic-problem or execution-oriented innovation, where competition can be intense, expeditionary innovation allows for a first-mover advantage in newly created or redefined markets. It aligns with the entrepreneurial spirit of discovering hidden opportunities and addressing them creatively. This approach doesn't just solve existing problems; it discovers and defines new problems, often leading to more sustainable and less competitive market positions.
+Expeditionary innovation is compelling because it often leads to the creation of new markets or significantly alters existing ones. Unlike deterministic-problem or execution-oriented innovation, where competition can be intense, expeditionary innovation allows for first-mover advantages in newly created or redefined markets. It aligns with the entrepreneurial spirit of discovering hidden opportunities and addressing them creatively. This approach not only solves existing problems but also discovers and defines new problems, often leading to more sustainable and less competitive market positions.
 
-The process of expeditionary innovation involves a deep understanding of potential customers and their unarticulated needs. It requires a blend of market insight, customer empathy, and the ability to think outside existing paradigms. Innovators in this space often redefine the way we think about everyday needs or uncover needs we didn't know we had.
+The process of expeditionary innovation involves deeply understanding potential customers and their unarticulated needs. It requires a blend of market insight, customer empathy, and the ability to think beyond existing paradigms. Innovators in this space often redefine everyday needs or uncover needs we didn't know we had.
 
-While expeditionary innovation with known solutions is challenging, it often doesn't require the extensive R&D of frontier or exploratory innovation. It's about seeing the familiar in unfamiliar ways. On the other hand, when dealing with unknown solutions, the challenge is twofold: identifying the hidden need and developing a novel solution. This dual challenge can be more complex but also more rewarding, as it allows for truly transformative innovations.
+While expeditionary innovation with known solutions is challenging, it often doesn't require the extensive R&D of frontier or exploratory innovation. It's about seeing the familiar in unfamiliar ways. When dealing with unknown solutions, the challenge is twofold: identifying the hidden need and developing a novel solution. This dual challenge can be more complex but also more rewarding, as it allows for truly transformative innovations.
 
-In summary, focusing on expeditionary innovation offers a strategic path for entrepreneurs. It aligns with the essential entrepreneurial skills of opportunity identification, resourcefulness, and risk management. While it requires a keen sense of observation and the ability to venture into the unknown, it holds the promise of unveiling unique market opportunities and establishing new paradigms in business and technology.
-
+In summary, focusing on expeditionary innovation offers a strategic path for entrepreneurs. It aligns with essential entrepreneurial skills of opportunity identification, resourcefulness, and risk management. While it requires keen observation and the courage to venture into the unknown, it holds the promise of unveiling unique market opportunities and establishing new paradigms in business and technology.
 
 
 
 ## There Are Always Unknown Customer Needs to Unearth
 
-The process of expeditionary innovation begins with a deep dive into the lives of a chosen group of people to discover and address their needs. This approach is rooted in the understanding that there are always unknown customer needs waiting to be discovered, a phenomenon driven by the 'tyranny of the market'. This concept illustrates how markets, while efficient at serving the majority, often overlook the needs of those with less prevalent preferences.
+The process of expeditionary innovation begins with a deep dive into the lives of a chosen group of people to discover and address their needs. This approach is based on the understanding that there are always unknown customer needs waiting to be uncovered, driven by the 'tyranny of the market'. This concept illustrates how markets, while efficient at serving the majority, often overlook the needs of those with less prevalent preferences.
+
 
 ### Tyranny of the Market
 
 The market tyranny arises from the tendency of companies to focus on serving mainstream customer preferences, neglecting those with unique or fringe needs. This neglect creates opportunities for entrepreneurial innovators to discover and address these unmet needs.
 
+
 ### Heterogeneous Customer Preferences and Willingness to Pay
 
 <img src="images/dist_2_wtp.png" alt="Distribution of customers and their willingness to pay" class="wrapfig"/>
-Different people want different things. It is common to assume everyone wants what the average consumer wants but this assumption is unrealistic and leads to errors in judgement. A more accurate approach is to visualize a distribution of customer preferences, where the majority may cluster around a certain point, but significant numbers have different, often unmet, preferences. 
+Different people want different things. Assuming everyone desires what the average consumer wants is unrealistic and can lead to errors in judgment. A more accurate approach is to visualize a distribution of customer preferences, where the majority may cluster around a certain point, but significant numbers have different, often unmet, preferences.
 
-To see this, consider a graph where the x-axis defines the range of things that customers might want and the y-axis shows how many customers want any particular thing.  There are many more customers in the mainstream of customer preferences than in the fringe.
+Consider a graph where the x-axis defines the range of customer preferences and the y-axis shows the number of customers for each preference. Many more customers fall within the mainstream preferences than in the fringe.
 
-A customer's willingness to pay for a product varies depending on how closely it aligns with the customer's individual preferences. Products that closely match these preferences command a higher willingness to pay. Products that are less aligned with the customer's preferences result in lower willingness to pay.
+A customer's willingness to pay for a product varies depending on how closely it aligns with their individual preferences. Products that closely match these preferences command a higher willingness to pay, while those that are less aligned result in lower willingness to pay.
+
 
 ### Market Dynamics and Entrepreneurial Opportunities
 
 <img src="images/dist_3_incumbents.png" alt="Existing companies serve the mainstream of the market and neglect customers in the fringe" class="wrapfig"/>
-Companies tend to congregate their solutions to serve the mainstream customers in the middle of the market. Not only does this escalate competition in the market but the customers who want things that are further from the mainstream tend to get neglected; they suffer from the tyranny of the market.  You can be assured that there are always neglected customers you can discover and serve better. From the very rich to the very poor, almost all customers are willing to pay at least a small premium for a product that better satisfies their personal preferences.  Expeditionary innovation thrives in these neglected spaces. 
+Companies tend to focus their solutions on mainstream customers in the middle of the market. This not only escalates competition but also neglects customers with preferences that deviate from the mainstream, suffering from the tyranny of the market. There are always neglected customers you can discover and serve better. From the very rich to the very poor, almost all customers are willing to pay at least a small premium for a product that better satisfies their personal preferences. Expeditionary innovation thrives in these neglected spaces.
+
 
 ### Profitability and Positioning: 
 
 <img src="images/dist_4_profit.png" alt="The greatest profit potential lies in the fringes of the distribution of customers" class="wrapfig"/>
-Choosing to serve these neglected customer segments can be more profitable than competing in the overcrowded mainstream market. Positioning near incumbents to serve the mainstream customers will typically result in low or even negative profits.  In contrast,  neglected customers suffering the tyranny of the market will be grateful for a solution that serves them better and they will gladly pay you a premium for your better solution.  If there are enough customers who have that need and want that product, they will reward you for freeing them from the tyranny of the market.  The green areas in the graphical representation symbolize the higher profitability potential in serving these segments.  By moving away from mainstream customers and toward fringe customers who are eager to pay to finally have their needs met, innovators can find greater profitability.
-
+Choosing to serve neglected customer segments can be more profitable than competing in the overcrowded mainstream market. Positioning near incumbents to serve mainstream customers typically results in low or even negative profits. In contrast, neglected customers suffering from the tyranny of the market will be grateful for a solution that serves them better and will gladly pay a premium for it. If there are enough customers with that need, they will reward you for freeing them from the market's neglect. The green areas in the graphical representation symbolize the higher profitability potential in serving these segments. By moving away from mainstream customers and toward fringe customers eager to have their needs met, innovators can find greater profitability.
 
 The lean startup method, while effective in confirming customer interest, doesn't guarantee optimal market positioning. Innovators using this method risk being outmaneuvered by competitors who identify and target better positions based on a deeper understanding of customer needs.
 
@@ -148,55 +259,58 @@ The key takeaway for entrepreneurs is the assurance that there are always opport
 
 
 
-## Expanded View of the Scientific Method for Expeditionary Innovation
+## Expanded View of the Scientific Method
 
 ### Traditional Scientific Method
 
 The traditional scientific method has been pivotal in advancing our understanding of the natural world and shaping numerous technological breakthroughs.[^2] Its structured approach to questioning, hypothesizing, testing, analyzing, and iterating is foundational in any rigorous inquiry process. Here's a brief overview of its steps:
 
-[^2]: Using experiments as part of the scientific method of inquiry dates back to Aristotle (384--322 BC) and has been steadily refined including notable advances coming from Ibn al-Haytham (965--1039), Johannes Kepler (1571--1630), and Galileo Galilei (1564--1642).\
-    Karl Popper, a prominent philosopher of science, introduced a scientific methodology in 1934 that significantly influenced the way science is conducted and understood [@popper1959logic]. His approach contrasts with the traditional inductivist view and centers around the principle of falsifiability. According to Popper, a theory is scientific only if it is falsifiable. If a theory can be structured in such a way that nothing could possibly prove it wrong, then it falls outside the realm of science. While Popper's views have been highly influential, they are not without criticism. Some have argued that falsifiability is too stringent a criterion or that real scientific practice does not always follow the method Popper prescribed. However, his emphasis on critical testing and his rejection of induction as a method of scientific reasoning have left an indelible mark on the philosophy of science.
+[^2]: Using experiments as part of the scientific method dates back to Aristotle (384–322 BC) and has been refined over time by figures such as Ibn al-Haytham (965–1039), Johannes Kepler (1571–1630), and Galileo Galilei (1564–1642). Karl Popper, a prominent philosopher of science, introduced a scientific methodology in 1934 that significantly influenced modern scientific practice [@popper1959logic]. Popper's approach contrasts with the traditional inductivist view and centers on the principle of falsifiability. According to Popper, a theory is scientific only if it is falsifiable. If a theory cannot be structured to be proven wrong, it falls outside the realm of science. While Popper's views have been influential, they have also faced criticism. Some argue that falsifiability is too stringent or that real scientific practice does not always follow Popper's method. Nonetheless, his emphasis on critical testing and rejection of induction as a method of scientific reasoning have left an indelible mark on the philosophy of science.
 
-1.  **Questioning:** Identifying knowledge gaps and formulating pertinent questions.
-2.  **Hypothesizing:** Developing testable conjectures based on existing knowledge.
-3.  **Testing:** Designing experiments to validate or invalidate hypotheses.
-4.  **Analysis:** Interpreting results to refine hypotheses and understanding.
-5.  **Repetition:** Conducting iterative experiments to build upon findings.
+1. **Questioning:** Identifying knowledge gaps and formulating pertinent questions.
+2. **Hypothesizing:** Developing testable conjectures based on existing knowledge.
+3. **Testing:** Designing experiments to validate or invalidate hypotheses.
+4. **Analysis:** Interpreting results to refine hypotheses and understanding.
+5. **Repetition:** Conducting iterative experiments to build upon findings.
 
 In well-established scientific fields, these steps are applied within the context of existing theories and knowledge, providing a clear roadmap for inquiry. However, in the context of expeditionary innovation, where we often venture into uncharted territories, a broader, more adaptive approach is required.
+
+
 
 
 ### Defining Exploratory Experiments
 
 Exploratory experiments are characterized by their open-ended, discovery-oriented nature.[^3] They often precede the formulation of precise hypotheses, serving as a means to gather insights, identify patterns, and generate new questions. These experiments are not solely aimed at confirming or refuting established theories but are designed to expand the horizon of understanding in areas where existing knowledge is limited or non-existent.
 
-[^3]: The philosopher of science Ian Hacking [-hacking2006emergence] proposes that one important type of experimentation is *adventure* which is not guided by theory but rather (possibly) invites a guess as to what might happen before embarking to see what will happen. Adventure is an exploratory experiment that comes before theory and generates data on which a hypothesis may be formulated for later testing. Throughout the history of the philosophy of science, testing has been the dominant perspective of experiments [@hacking1983representing, @bertolotti2015models]. Exploratory experiments are a relatively new category of experiments [@steinle1997entering, @burian2007microrna].
+[^3]: The philosopher of science Ian Hacking [-@hacking2006emergence] proposes that one important type of experimentation is *adventure*, which is not guided by theory but rather invites a guess as to what might happen before embarking to see what will happen. Adventure is an exploratory experiment that comes before theory and generates data on which a hypothesis may be formulated for later testing. Throughout the history of the philosophy of science, testing has been the dominant perspective of experiments [@hacking1983representing; @bertolotti2015models]. Exploratory experiments are a relatively new category of experiments [@steinle1997entering; @burian2007microrna].
 
 
-### Key Features of Exploratory Experiments 
+### Key Features of Exploratory Experiments
 
-1. __Exploration Over Confirmation:__ Unlike conventional experiments that test specific hypotheses, exploratory experiments are more about observing, learning, and discovering new phenomena. They often start without preconceived theories, making them ideal for investigating unknown territories.
+1. **Exploration Over Confirmation**: Unlike conventional experiments that test specific hypotheses, exploratory experiments focus on observing, learning, and discovering new phenomena. They often begin without preconceived theories, making them ideal for investigating unknown territories.
 
-2. __Adaptability and Flexibility:__ These experiments are inherently adaptable. They evolve in response to new findings, unexpected results, or emerging insights, often leading to shifts in direction or focus.
+2. **Adaptability and Flexibility**: These experiments are inherently adaptable. They evolve in response to new findings, unexpected results, or emerging insights, often leading to shifts in direction or focus.
 
-3. __Instrument and Method Development:__ Exploratory experiments frequently necessitate the creation or refinement of new experimental tools or methods. They push the boundaries of existing techniques, paving the way for novel approaches to data collection and analysis.
+3. **Instrument and Method Development**: Exploratory experiments frequently require the creation or refinement of experimental tools or methods. They push the boundaries of existing techniques, paving the way for novel approaches to data collection and analysis.
 
-4. __Complementarity with Other Methods:__ While exploratory in nature, these experiments can be effectively combined with more structured, hypothesis-testing methods. They often lay the groundwork for further, more focused inquiry.
+4. **Complementarity with Other Methods**: While exploratory in nature, these experiments can be effectively combined with more structured, hypothesis-testing methods. They often lay the groundwork for further, more focused inquiry.
 
-5. __Embracing Uncertainty:__ Given their exploratory nature, the outcomes of these experiments can be less definitive or more open to interpretation. This aspect is not a drawback but a reflection of the complex and nuanced nature of exploring the unknown.
+5. **Embracing Uncertainty**: Given their exploratory nature, the outcomes of these experiments can be less definitive or more open to interpretation. This aspect is not a drawback but a reflection of the complex and nuanced nature of exploring the unknown.
 
-6. __Interdisciplinary Integration:__ The flexible and open-ended approach of exploratory experiments makes them particularly valuable in interdisciplinary research, where they can bridge diverse fields and methodologies.
+6. **Interdisciplinary Integration**: The flexible and open-ended approach of exploratory experiments makes them particularly valuable in interdisciplinary research, where they can bridge diverse fields and methodologies.
 
-### Implementing Exploratory Experiments in Expeditionary Innovation 
+### Implementing Exploratory Experiments in Expeditionary Innovation
 
-In the context of expeditionary innovation, exploratory experiments play a crucial role in navigating the uncertainties inherent in the innovation process. They allow innovators to:
+In expeditionary innovation, exploratory experiments play a crucial role in navigating uncertainties. They enable innovators to:
 
-- Systematically explore customer needs and market dynamics that are not yet fully understood. 
-- Test a wide range of ideas and concepts in a preliminary way to gauge their potential. 
-- Gather rich, qualitative data that can inform the development of more targeted, hypothesis-driven experiments. 
-- Adapt and refine their innovation strategies based on emergent insights and understanding. 
+- Systematically explore customer needs and market dynamics that are not yet fully understood.
+- Test a wide range of ideas and concepts preliminarily to gauge their potential.
+- Gather rich, qualitative data to inform the development of more targeted, hypothesis-driven experiments.
+- Adapt and refine their innovation strategies based on emergent insights and understanding.
 
-By integrating exploratory experiments into the innovation process, innovators can effectively transform uncertainty from a barrier into an opportunity for discovery and learning. This approach aligns with the broader philosophy of expeditionary innovation, where the journey of exploration and the insights gathered along the way are as valuable as the destination itself.
+By integrating exploratory experiments into the innovation process, innovators can transform uncertainty from a barrier into an opportunity for discovery and learning. This approach aligns with the broader philosophy of expeditionary innovation, where the journey of exploration and the insights gathered are as valuable as the destination.
+
+By integrating exploratory experiments into the innovation process, innovators can transform uncertainty from a barrier into an opportunity for discovery and learning. This approach aligns with the broader philosophy of expeditionary innovation, where the journey of exploration and the insights gathered are as valuable as the destination.
 
 
 ### Generating Informed Hypotheses through Abduction
@@ -205,74 +319,84 @@ By integrating exploratory experiments into the innovation process, innovators c
 
 Abduction is the process of generating hypotheses in expeditionary innovation. Unlike deduction or induction, abduction is a creative and speculative form of reasoning that seeks the best explanation for observed phenomena. This method is particularly relevant when dealing with uncharted territories of innovation, where surprises and unexpected observations are commonplace.
 
+### Generating Informed Hypotheses through Abduction
+
+#### Concept of Abduction
+
+Abduction is the process of generating hypotheses in expeditionary innovation. Unlike deduction or induction, abduction is a creative and speculative form of reasoning that seeks the best explanation for observed phenomena. This method is particularly relevant when dealing with uncharted territories of innovation, where surprises and unexpected observations are common.
+
 #### Process of Abductive Reasoning
 
-1. __Observation:__ Begins with noticing an unexpected or surprising fact or phenomenon.
-2. __Hypothesis Generation:__ Formulates a hypothesis that could explain the observation.
-3. __Hypothesis Evaluation:__ Assesses the hypothesis for fit, simplicity, explanatory power, and other virtues.
-4. __Deduction and Prediction:__ Deduces specific predictions that follow from the hypothesis.
-5. __Testing and Validation:__ Employs further observations or experiments to test these predictions.
-6. __Iterative Refinement:__ Continually improves the hypothesis based on new insights and validations.
+1. **Observation**: Begins with noticing an unexpected or surprising fact or phenomenon.
+2. **Hypothesis Generation**: Formulates a hypothesis that could explain the observation.
+3. **Hypothesis Evaluation**: Assesses the hypothesis for fit, simplicity, explanatory power, and other virtues.
+4. **Deduction and Prediction**: Deduces specific predictions that follow from the hypothesis.
+5. **Testing and Validation**: Employs further observations or experiments to test these predictions.
+6. **Iterative Refinement**: Continually improves the hypothesis based on new insights and validations.
 
 #### Role in Expeditionary Innovation
 
-Abduction is the bridge between the insights gathered from exploratory experiments and the formulation of testable hypotheses. It allows innovators to creatively infer potential explanations for the phenomena observed during exploratory phases and then to refine these hypotheses through iterative processes.
+Abduction serves as the bridge between insights gathered from exploratory experiments and the formulation of testable hypotheses. It allows innovators to creatively infer potential explanations for observed phenomena and then refine these hypotheses through iterative processes.
+
 
 ### Validation by Traditional Experiments: Testing and Confirming Hypotheses
 
 #### Integration with Traditional Scientific Method
 
-Once a hypothesis is formulated through abduction, it's subjected to the traditional scientific method for testing and validation. This includes:
+Once a hypothesis is formulated through abduction, it is subjected to the traditional scientific method for testing and validation. This includes:
 
-1. __Designing Experiments:__ Crafting experiments that can effectively test the hypothesis.
-2. __Conducting Experiments:__ Implementing these experiments and collecting data.
-3. __Analyzing Results:__ Interpreting the data to ascertain the validity of the hypothesis.
+1. **Designing Experiments**: Crafting experiments that can effectively test the hypothesis.
+2. **Conducting Experiments**: Implementing these experiments and collecting data.
+3. **Analyzing Results**: Interpreting the data to determine the validity of the hypothesis.
 
 #### Effectiveness in Innovation
 
-This approach is especially effective in innovation because it builds on a foundation of understanding gained from exploratory experiments. Innovators illuminate parts of the unknown landscape through these explorations, allowing for more informed and focused hypotheses.
+This approach is especially effective in innovation because it builds on a foundation of understanding gained from exploratory experiments. These explorations illuminate parts of the unknown landscape, allowing for more informed and focused hypotheses.
 
 In expeditionary innovation, the process is ongoing. The understanding of customer needs and the alignment of solutions are continually refined through cycles of exploration, hypothesis generation, testing, and validation. This iterative process ensures that the innovation evolves in close alignment with customer needs and market dynamics.
 
 By focusing first on understanding customers and their needs, especially those that are not well-articulated or understood, expeditionary innovation aims to develop solutions that genuinely address these needs. Although initial solutions may be imperfect, the ongoing process of probing, refining, and validating ensures a progressively better fit between the innovation and the market.
 
-In summary, expeditionary innovation leverages the power of exploratory experiments and abductive reasoning to generate hypotheses that are grounded in a deep understanding of uncharted customer needs. This approach is then rigorously tested and refined through traditional scientific methods, ensuring a solution that is both innovative and closely aligned with market requirements.
+In summary, expeditionary innovation leverages the power of exploratory experiments and abductive reasoning to generate hypotheses grounded in a deep understanding of uncharted customer needs. This approach is then rigorously tested and refined through traditional scientific methods, ensuring a solution that is both innovative and closely aligned with market requirements.
+
 
 
 
 ## Use a Double Diamond Structure to Facilitate Expeditionary Innovation
 
-Expeditionary innovation involves a systematic approach that begins with the discovery of an unknown customer problem, followed by the development of a solution. This process can be effectively structured by adapting the Double Diamond design process, originally developed by the Design Council in London. 
+Expeditionary innovation involves a systematic approach that begins with discovering an unknown customer problem and then developing a solution. This process can be effectively structured by adapting the Double Diamond design process, originally developed by the Design Council in London.
 
 ### The Double Diamond Design Process
 
-The process is visually represented by two diamonds, each signifying a stage of the innovation journey. The first diamond focuses on the discovery and definition of the problem, while the second diamond is dedicated to the development and delivery of the solution.
+The Double Diamond design process visually represents the innovation journey through two diamonds. The first diamond focuses on the discovery and definition of the problem, while the second diamond is dedicated to the development and delivery of the solution.
 
 ![](images/10_double_diamond.png){#fig:double-diamond width="100%"}
 
-The essence of the Double Diamond process is rooted in divergent and convergent thinking. This approach echoes Linus Pauling's insight on creativity: to arrive at good ideas, one must first explore a multitude of possibilities, and then skillfully sift through them to find the most viable ones.
+The essence of the Double Diamond process lies in divergent and convergent thinking. This approach echoes Linus Pauling's insight on creativity: to arrive at good ideas, one must first explore a multitude of possibilities and then skillfully sift through them to find the most viable ones.
 
-This structured approach ensures that every aspect of innovation - from understanding the customer's unmet needs to crafting a solution that effectively addresses these needs - is thoroughly explored and validated. It aligns with the ethos of expeditionary innovation, emphasizing the importance of both creative exploration and focused execution.
+This structured approach ensures that every aspect of innovation—from understanding the customer's unmet needs to crafting a solution that effectively addresses these needs—is thoroughly explored and validated. It aligns with the ethos of expeditionary innovation, emphasizing the importance of both creative exploration and focused execution.
+
 
 ### Discover and Define the Customer Problem:
 
-In the first diamond, we diverge and converge to find an unknown customer need. In the divergent stage, use exploratory experiments to collect a mountain of data.  In the convergent stage, use abduction to generate an informed hypothesis about an unmet need.  Finally, test the hypothesis with an informative validation test.
+In the first diamond, we diverge and converge to find an unknown customer need. In the divergent stage, exploratory experiments collect a wealth of data. In the convergent stage, abduction generates an informed hypothesis about an unmet need. Finally, this hypothesis is tested with an confirmatory validation test.
 
 ![](images/21_double_diamond_pain.png){#fig:pain_validation width="75%"}
 
-1. __Choose a Community of People:__ Begin by considering many possible groups of people and then converge to choose a community of people to study.  Test whether you can reach them.
-2. __Explore the Community through Research:__ Use exploratory experiments to gather information through primary (ethnographic) and secondary research to gain insight into their needs.
-3. __Define Unmet Needs Through Empathy:__ Use abduction to analyze the data to identify common themes and and define the most salient unmet needs.  This generates a hypothesis of customer pains to solve.
-4. __Test the Hypothesized Pain:__ Conduct a traditional, informative test that validates the customer pain hypothesis.
+1. **Choose a Community of People**: Start by considering many possible groups and then narrow down to a specific community to study. Test whether you can reach them.
+2. **Explore the Community through Research**: Use exploratory experiments to gather information through primary (ethnographic) and secondary research to gain insights into their needs.
+3. **Define Unmet Needs Through Empathy**: Use abduction to analyze the data, identify common themes, and define the most salient unmet needs. This generates a hypothesis of customer pains to solve.
+4. **Test the Hypothesized Pain**: Conduct a traditional, confirmatory test to validate the customer pain hypothesis.
+
 
 ### Develop and Deliver a Solution:
 
-In the second diamond, we diverge and converge to find a solution to the validated customer pain. In the divergent stage, use creativity tools as exploratory experiments to generate many possible solutions.  In the convergent stage, use evaluation tools as abduction to generate an informed hypothesis about a solution for the unmet need.  Finally, test the solution hypothesis with an array of informative tests.
+In the second diamond, we diverge and converge to find a solution to the validated customer pain. In the divergent stage, creativity tools are used as exploratory experiments to generate many possible solutions. In the convergent stage, evaluation tools are used as abduction to generate an informed hypothesis about a solution for the unmet need. Finally, the solution hypothesis is tested with an array of confirmatory tests.
 
 ![](images/22_double_diamond_solution.png){#fig:solution_test width="75%"}
 
-1. __Ideate Many Solutions:__ Engage in creative activities such as brainstorming, brainwriting, and SCAMPER as exploratory experiments to generate many solution ideas.
+1. __Ideate Many Solutions:__ Engage in creative activities such as brainstorming, brainwriting, SCAMPER, and Systematic Inventive Thinking (SIT) as exploratory experiments to generate many solution ideas.
 2. __Evaluate Solution Ideas:__ Use screening techniques such as feasibility filters, passion, and the screening matrix as abduction to narrow down these ideas to a few promising ones as hypothesized solutions.
-3. __Test with Prototypes:__ Design and conduct an array of informative experiments to confirm that you can build the solution and that customers want it.  These experiments are designed with prototypes that improve the veracity of the informative experiment in verification and validation.
+3. __Test with Prototypes:__ Design and conduct an array of confirmatory experiments to confirm that you can build the solution and that customers want it.  These experiments are designed with prototypes that improve the veracity of the confirmatory experiment in verification and validation.
 
-The double diamond experiment structure clarifies the roadmap for innovators to navigate the complexities of expeditionary innovation. By methodically moving through the stages of problem discovery, definition, solution development, and delivery, innovators can effectively transform uncertainty into actionable insights, leading to solutions that are not only innovative but also resonate deeply with their target customers.
+The Double Diamond experiment structure clarifies the roadmap for innovators to navigate the complexities of expeditionary innovation. By methodically moving through the stages of problem discovery, definition, solution development, and delivery, innovators can effectively transform uncertainty into actionable insights, leading to solutions that are not only innovative but also resonate deeply with their target customers.

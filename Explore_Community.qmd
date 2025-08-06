@@ -1,33 +1,7 @@
 ---
-title: "Explore the Community through Research"
-subtitle: "Divergent thinking through exploratory experiments with your people"
-#author: "Nile Hatch"
-#format: 
-#  pdf:
-#    toc: true
-#    number-sections: true
-#    colorlinks: true
-format:
-  html: 
-    toc: true
-    code-fold: true
-    number-sections: true
-    number-depth: 3
-    colorlinks: true
-    embed-resources: true
-editor: source
-execute:
-  echo: false
-#bibliography: references.bib
+title: "Explore the Community"
+subtitle: "Exploratory experiments to gain experience and insights about the lives of your people"
 ---
-
-```{r}
-#| output: false
-library(tidyverse)
-library(ggthemes)
-library(scales)
-library(gt)
-```
 
 ```{=html}
 <style>
@@ -66,9 +40,9 @@ Convenience sampling---relying on easily accessible but non-representative data 
 
 ### Strategies for Engaging Your Target Community
 
-1.  **Go to Where They Are**: Physically seek out places where your target community is likely to congregate. For example, if studying bodybuilders, consider gyms or nutritional supplement stores. Always approach with respect and mindfulness of the setting.
+1.  **Go Where They Are**: Physically seek out places where your target community is likely to congregate. For example, if studying bodybuilders, consider gyms or nutritional supplement stores. Always approach with respect and mindfulness of the setting.
 
-2.  **Leveraging Social Media Effectively**:
+2.  **Leverage Social Media Effectively**:
 
     -   Avoid using your personal social media circles for feedback, as this often constitutes convenience sampling.
     -   Utilize social media groups formed around common interests relevant to your target community. Look for large, active groups.

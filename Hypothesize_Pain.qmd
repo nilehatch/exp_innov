@@ -1,33 +1,7 @@
 ---
-title: "Hypothesize Unmet Needs Through Empathy"
-subtitle: "Convergent thinking through empathy tools to define the problem to solve"
-#author: "Nile Hatch"
-#format: 
-#  pdf:
-#    toc: true
-#    number-sections: true
-#    colorlinks: true
-format:
-  html: 
-    toc: true
-    code-fold: true
-    number-sections: true
-    number-depth: 3
-    colorlinks: true
-    embed-resources: true
-editor: source
-execute:
-  echo: false
-#bibliography: references.bib
+title: "Hypothesize Customer Pain"
+subtitle: "Abductive convergence through empathy tools to hypothesize an unknown, unmet need (pain) in the lives of your people"
 ---
-
-```{r}
-#| output: false
-library(tidyverse)
-library(ggthemes)
-library(scales)
-library(gt)
-```
 
 ```{=html}
 <style>

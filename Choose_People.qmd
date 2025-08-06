@@ -1,33 +1,7 @@
 ---
-title: "Who Are Your People?"
-subtitle: "Exploration and testing to diverge and converge on a community of people"
-#author: "Nile Hatch"
-#format: 
-#  pdf:
-#    toc: true
-#    number-sections: true
-#    colorlinks: true
-format:
-  html: 
-    toc: true
-    code-fold: true
-    number-sections: true
-    number-depth: 3
-    colorlinks: true
-    embed-resources: true
-editor: source
-execute:
-  echo: false
-#bibliography: references.bib
+title: "Choose Your People"
+subtitle: "Exploration and testing to focus on a community of people"
 ---
-
-```{r}
-#| output: false
-library(tidyverse)
-library(ggthemes)
-library(scales)
-library(gt)
-```
 
 ```{=html}
 <style>

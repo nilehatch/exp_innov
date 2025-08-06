@@ -1,33 +1,7 @@
 ---
-title: "Navigating the Path to Successful Expeditionary Innovation"
-#subtitle: "Using the scientific method to determine when the solution is aligned with customers and profitable to launch"
-#author: "Nile Hatch"
-#format: 
-#  pdf:
-#    toc: true
-#    number-sections: true
-#    colorlinks: true
-format:
-  html: 
-    toc: true
-    code-fold: true
-    number-sections: true
-    number-depth: 3
-    colorlinks: true
-    embed-resources: true
-editor: source
-execute:
-  echo: false
-#bibliography: references.bib
+title: "Succeed with Expeditionary Innovation"
+subtitle: "Maximize the probability of a successful innovation through iterative use of exploratory experiments, hypothesizing, and confirmatory tests"
 ---
-
-```{r}
-#| output: false
-library(tidyverse)
-library(ggthemes)
-library(scales)
-library(gt)
-```
 
 ```{=html}
 <style>
@@ -58,9 +32,9 @@ Exploratory experiments are instrumental in the early stages of the innovation p
 ## Hypothesizing through Abduction
 Abduction plays a pivotal role in transitioning from exploratory experiments to formulating hypotheses. It involves observing surprising facts or phenomena, generating hypotheses that could explain these observations, and then evaluating these hypotheses based on their fit with known facts, simplicity, and explanatory power.
 
-## Informative Experiments for Validation
+## Confirmatory Experiments for Validation
 
-Once a hypothesis is formulated, the next step is validation through informative experiments. This traditional aspect of the scientific method tests the hypothesized solutions against real-world scenarios, ensuring they are viable, effective, and truly meet customer needs.
+Once a hypothesis is formulated, the next step is validation through confirmatory experiments. This traditional aspect of the scientific method tests the hypothesized solutions against real-world scenarios, ensuring they are viable, effective, and truly meet customer needs.
 
 ## The Journey from Uncertainty to Market Success
 
@@ -68,4 +42,4 @@ Expeditionary innovation transforms the journey of innovation from a gamble in t
 
 ## Final Thoughts
 
-Expeditionary innovation offers a robust, systematic approach to innovation. By steering clear of the solution-first trap and focusing on discovering and solving real customer problems, innovators can significantly enhance their chances of success. The Double Diamond framework, coupled with exploratory experiments, abduction, and informative experiments, provides a comprehensive roadmap for navigating the complexities of innovation in uncertain environments. This process leads to solutions that not only solve real problems but also resonate deeply with customers, ensuring both satisfaction and market success.
+Expeditionary innovation offers a robust, systematic approach to innovation. By steering clear of the solution-first trap and focusing on discovering and solving real customer problems, innovators can significantly enhance their chances of success. The Double Diamond framework, coupled with exploratory experiments, abduction, and confirmatory experiments, provides a comprehensive roadmap for navigating the complexities of innovation in uncertain environments. This process leads to solutions that not only solve real problems but also resonate deeply with customers, ensuring both satisfaction and market success.

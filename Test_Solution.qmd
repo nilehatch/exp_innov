@@ -1,33 +1,7 @@
 ---
-title: "Validate and Verify Solutions to Customer Pain"
+title: "Test Solutions with Prototypes"
 subtitle: "Using the scientific method to determine when the solution is aligned with customers and profitable to launch"
-#author: "Nile Hatch"
-#format: 
-#  pdf:
-#    toc: true
-#    number-sections: true
-#    colorlinks: true
-format:
-  html: 
-    toc: true
-    code-fold: true
-    number-sections: true
-    number-depth: 3
-    colorlinks: true
-    embed-resources: true
-editor: source
-execute:
-  echo: false
-#bibliography: references.bib
 ---
-
-```{r}
-#| output: false
-library(tidyverse)
-library(ggthemes)
-library(scales)
-library(gt)
-```
 
 ```{=html}
 <style>
@@ -46,7 +20,7 @@ Validating a solution is a nuanced balancing act. It requires ensuring that your
 
 For entrepreneurs, this iterative process of testing and refining is indispensable. It's the bridge that turns abstract ideas into concrete, market-ready products. It significantly lowers the risk of market failure and heightens the chances of creating a solution that genuinely resonates with customer needs. This chapter delves into the various stages of prototype testing. It highlights the pivotal role of customer feedback and outlines practical strategies for refining your solution.
 
-![Informative testing to validate the solution with the customer](images/22_double_diamond_solution.png){width=75% #fig:test-solution}
+![Confirmatory testing to validate the solution with the customer](images/22_double_diamond_solution.png){width=75% #fig:test-solution}
 
 ## Testing with Prototypes
 

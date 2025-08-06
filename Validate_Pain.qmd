@@ -1,33 +1,7 @@
 ---
-title: "Experiment to Validate Customer Pain"
-subtitle: "Using the scientific method to determine when the pain hypothesis is supported"
-#author: "Nile Hatch"
-#format: 
-#  pdf:
-#    toc: true
-#    number-sections: true
-#    colorlinks: true
-format:
-  html: 
-    toc: true
-    code-fold: true
-    number-sections: true
-    number-depth: 3
-    colorlinks: true
-    embed-resources: true
-editor: source
-execute:
-  echo: false
-#bibliography: references.bib
+title: "Validate Customer Pain"
+subtitle: "Using the scientific method to determine whether the pain hypothesis is supported"
 ---
-
-```{r}
-#| output: false
-library(tidyverse)
-library(ggthemes)
-library(scales)
-library(gt)
-```
 
 ```{=html}
 <style>
@@ -44,7 +18,7 @@ Validating pain hypotheses is crucial yet distinct from validating solution conc
 
 Validating pain hypotheses involves a scientific methodology applied to entrepreneurship. It requires a clear definition of the suspected pain, a strategic approach to gathering data, and a rigorous analysis to interpret the results. This process ensures that the solutions you develop are not just innovative but are also addressing real and significant customer pains.
 
-![Informative testing to validate the hypothesis of customer pain](images/21_double_diamond_pain.png){#fig:test-pain width=75%}
+![Confirmatory testing to validate the hypothesis of customer pain](images/21_double_diamond_pain.png){#fig:test-pain width=75%}
 
 The distinction between validating pains and solutions lies in the focus. While solution validation is about testing the viability, desirability, and feasibility of your product or service, pain validation is about confirming the existence and intensity of the problem your solution intends to solve. By validating pains, entrepreneurs gain a deeper understanding of their customers' needs, which leads to more effective and impactful solutions.
 
@@ -76,9 +50,9 @@ Triangulating data involves using multiple methods or sources to test the same h
 
 By integrating the scientific method into the entrepreneurial process, you not only validate customer pains more effectively but also position your venture for more informed decision-making and strategic growth. The next step is to delve into crafting and refining hypotheses that are the building blocks of this scientific approach.
 
-## Designing Informative Experiments
+## Designing Confirmatory Experiments
 
-When it comes to validating hypotheses about customer pain, designing informative experiments is crucial. These experiments provide concrete evidence to support or refute your assumptions and guide your entrepreneurial journey.
+When it comes to validating hypotheses about customer pain, designing confirmatory experiments is crucial. These experiments provide concrete evidence to support or refute your assumptions and guide your entrepreneurial journey.
 
 ### Crafting Your Hypothesis
 
@@ -116,7 +90,7 @@ Your sample should reflect the diversity within your target customer group. This
 
 The size of your sample depends on the size of your target market and the precision you need. For a broad market, a larger sample gives more reliable results. Statistical tools and expert consultation can help in determining the right sample size.
 
-In summary, designing and conducting informative experiments is a careful balance of methodological rigor and practical constraints. By meticulously planning and executing these experiments, you validate your hypotheses about customer pains with a high degree of confidence, thereby paving the way for successful innovation. Next, we'll explore the practical aspects of running these experiments and analyzing their outcomes.
+In summary, designing and conducting confirmatory experiments is a careful balance of methodological rigor and practical constraints. By meticulously planning and executing these experiments, you validate your hypotheses about customer pains with a high degree of confidence, thereby paving the way for successful innovation. Next, we'll explore the practical aspects of running these experiments and analyzing their outcomes.
 
 ## Conducting the Experiment
 

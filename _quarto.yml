@@ -1,12 +1,23 @@
 project:
   type: book
+  output-dir: _book
 
 book:
   title: "Expeditionary Innovation"
-  #author: "Nile Hatch"
-  #date: "1/26/2024"
-  search: true
-  #cover-image: cassia_crossbill_2.jpg
+  reader-mode: true
+
+  page-footer:
+    left: |
+      _Expeditionary Innovation_ was written by Nile Hatch.
+    right: |
+      This book was built with <a href="https://quarto.org/">Quarto</a>.
+# cover-image: cassia_crossbill_2.jpg
+  site-url: https://ei.nilehatch.com/
+  repo-url: https://github.com/nilehatch/exp_innov/
+#  page-navigation: true
+#  bread-crumbs: true
+#  search: true
+
   chapters:
     - index.qmd
     - Expeditionary_Innovation.qmd
@@ -15,31 +26,22 @@ book:
     - Explore_Community.qmd
     - Hypothesize_Pain.qmd
     - Validate_Pain.qmd
-    - Ideate_Solution.qmd
+    - Ideate_Solutions.qmd
     - Hypothesize_Solution.qmd
     - Test_Solution.qmd
     - Conclusion.qmd
     - references.qmd
-  page-navigation: true
-
-  page-footer:
-    left: |
-      _Expeditionary Innovation_ was written by Nile Hatch.
-    right: |
-      This book was built with <a href="https://quarto.org/">Quarto</a>.
 
 bibliography: references.bib
 
 format:
   html:
     theme: cosmo
-    code-fold: true
+#    code-fold: true
+#    code-link: true
     number-sections: true
-    number-depth: 3
-    colorlinks: true
-    embed-resources: true
-  #pdf:
-  #  documentclass: scrreprt
+    number-depth: 2
+#    embed-resources: true
 
 editor: source
 
