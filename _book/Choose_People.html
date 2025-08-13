@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.56">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -37,10 +37,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-626149efe8f5d16e1d391ba177679bf0.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -70,9 +70,11 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
+<link rel="stylesheet" href="base.css">
+<link rel="stylesheet" href="custom.css">
 </head>
 
-<body class="nav-sidebar floating">
+<body class="nav-sidebar floating slimcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -117,7 +119,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">An Invitation to Entrepreneurs Seeking a Surer Path to Success</span></a>
+ <span class="menu-text">How to Reduce Uncertainty and Raise Your Odds of Success</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -228,7 +230,7 @@ ul.task-list li input[type="checkbox"] {
 </nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -265,7 +267,7 @@ ul.task-list li input[type="checkbox"] {
 <p><img src="images/30_double_diamond_people.png" alt="Generative and informative testing of access to the community of people." class="wrapfig"></p>
 <p>The initial phase in the double-diamond process of innovation involves identifying a group of people to study intimately. This step is crucial for uncovering and validating their challenges, often unrecognized even to themselves. Embrace divergent thinking to explore a wide array of communities. Then, apply convergent thinking to focus on a group with potential for significant unmet needs and one that resonates with your understanding and empathy. This approach sets the foundation for a deep and meaningful exploration of their lives, paving the way for impactful innovation.</p>
 </section>
-<section id="diverge-to-identify-people-mainstream-and-extreme" class="level2" data-number="3.2">
+<section id="diverge-to-identify-people-mainstream-and-extreme" class="level2 page-columns page-full" data-number="3.2">
 <h2 data-number="3.2" class="anchored" data-anchor-id="diverge-to-identify-people-mainstream-and-extreme"><span class="header-section-number">3.2</span> Diverge to Identify People: Mainstream and Extreme</h2>
 <p>Innovation starts not with a solution, but by understanding the community. Your first task is to brainstorm a diverse array of groups, focusing on quantity and diversity. This divergent thinking should expand your perspective, considering both mainstream and extreme users. Remember, extreme users often face the most significant unmet needs.</p>
 <section id="embracing-divergent-thinking" class="level3">
@@ -286,12 +288,12 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>Extreme Limits</strong>: Don’t forget to consider the extremes.</li>
 </ol>
 </section>
-<section id="demonstrating-the-process-worker-productivity" class="level3">
+<section id="demonstrating-the-process-worker-productivity" class="level3 page-columns page-full">
 <h3 class="anchored" data-anchor-id="demonstrating-the-process-worker-productivity">Demonstrating the Process: Worker Productivity</h3>
-<div id="fig:miro-productivity" class="quarto-figure quarto-figure-center anchored">
-<figure class="figure">
-<p><img src="images/Miro_People_Map.png" style="width:100.0%" class="figure-img"></p>
-<figcaption>Partial map of people in the problem domain of productivity</figcaption>
+<div id="fig:miro-productivity" class="quarto-figure quarto-figure-center anchored page-columns page-full">
+<figure class="figure page-columns page-full">
+<p><img src="images/Miro_People_Map.png" class="figure-img" style="width:100.0%"></p>
+<figcaption class="margin-caption">Partial map of people in the problem domain of productivity</figcaption>
 </figure>
 </div>
 <p>As illustrated in this figure, avoid getting bogged down by the format of your brainstorming. Whether it’s a mind map or a list, the focus should be on generating ideas without restraint.</p>
@@ -479,8 +481,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -591,7 +591,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

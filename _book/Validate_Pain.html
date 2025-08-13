@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.56">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -37,10 +37,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-626149efe8f5d16e1d391ba177679bf0.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -70,9 +70,11 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
+<link rel="stylesheet" href="base.css">
+<link rel="stylesheet" href="custom.css">
 </head>
 
-<body class="nav-sidebar floating">
+<body class="nav-sidebar floating slimcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -117,7 +119,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">An Invitation to Entrepreneurs Seeking a Surer Path to Success</span></a>
+ <span class="menu-text">How to Reduce Uncertainty and Raise Your Odds of Success</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -245,7 +247,7 @@ ul.task-list li input[type="checkbox"] {
 </nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -274,14 +276,14 @@ ul.task-list li input[type="checkbox"] {
     width: 70%; /* adjust image width */
 }
 </style>
-<section id="validating-pain-hypotheses" class="level2" data-number="6.1">
+<section id="validating-pain-hypotheses" class="level2 page-columns page-full" data-number="6.1">
 <h2 data-number="6.1" class="anchored" data-anchor-id="validating-pain-hypotheses"><span class="header-section-number">6.1</span> Validating Pain Hypotheses</h2>
 <p>Validating pain hypotheses is crucial yet distinct from validating solution concepts. Entrepreneurs often leap into developing and testing solutions without thoroughly understanding the underlying customer pains. This chapter underscores the importance of a methodical and evidence-based approach to confirm or refute the pains your potential customers experience.</p>
 <p>Validating pain hypotheses involves a scientific methodology applied to entrepreneurship. It requires a clear definition of the suspected pain, a strategic approach to gathering data, and a rigorous analysis to interpret the results. This process ensures that the solutions you develop are not just innovative but are also addressing real and significant customer pains.</p>
-<div id="fig:test-pain" class="quarto-figure quarto-figure-center anchored">
-<figure class="figure">
+<div id="fig:test-pain" class="quarto-figure quarto-figure-center anchored page-columns page-full">
+<figure class="figure page-columns page-full">
 <p><img src="images/21_double_diamond_pain.png" class="img-fluid figure-img" style="width:75.0%"></p>
-<figcaption>Confirmatory testing to validate the hypothesis of customer pain</figcaption>
+<figcaption class="margin-caption">Confirmatory testing to validate the hypothesis of customer pain</figcaption>
 </figure>
 </div>
 <p>The distinction between validating pains and solutions lies in the focus. While solution validation is about testing the viability, desirability, and feasibility of your product or service, pain validation is about confirming the existence and intensity of the problem your solution intends to solve. By validating pains, entrepreneurs gain a deeper understanding of their customers’ needs, which leads to more effective and impactful solutions.</p>
@@ -677,8 +679,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -789,7 +789,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

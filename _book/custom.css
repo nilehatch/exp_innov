@@ -1,0 +1,381 @@
+/* ===============================
+   Expeditionary Innovation — custom.css
+   Palette + gentle typographic + component refinements
+   =============================== */
+
+/* ---------- Base colors ---------- */
+:root {
+  --ei-primary: #3774B7;
+  --ei-primary-dark: #24548A;
+  --ei-primary-tint: #E8F0FA;
+  --ei-accent: #E3A008;
+  --ei-text: #1F2937;
+  --ei-muted: #6B7280;
+  --ei-success: #16A34A;
+  --ei-warning: #EA580C;
+  --ei-danger: #DC2626;
+}
+
+/* ---------- Body & headings ---------- */
+body {
+  color: var(--ei-text);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--ei-text);
+  scroll-margin-top: 90px; /* nicer anchor jumps */
+}
+
+/* Title block spacing (reuse from Profit Analytics, slightly tuned) */
+.quarto-title-block h1.title {
+  margin-bottom: 40px !important;
+}
+
+/* Section headers: spacing + subtle underline for h2 only */
+.level2 h2.anchored {
+  margin-top: 40px;
+  padding-bottom: 6px;
+  border-bottom: 2px solid #e5e7eb; /* light gray rule */
+}
+
+/* h3 spacing (as you used before) */
+h3 {
+  margin-top: 30px;
+}
+
+/* Paragraph rhythm */
+p + p {
+  margin-top: 0.6em;
+}
+
+/* ---------- Links ---------- */
+a, .link-secondary {
+  color: var(--ei-primary);
+  text-decoration-thickness: 0.06em;
+}
+a:hover, a:focus {
+  color: var(--ei-primary-dark);
+  text-decoration-color: var(--ei-primary-dark);
+}
+
+/* ---------- Blockquotes ---------- */
+blockquote {
+  border-left: 4px solid var(--ei-primary);
+  padding-left: 1rem;
+  color: var(--ei-muted);
+  background: linear-gradient(to right, var(--ei-primary-tint), transparent);
+}
+
+/* ---------- Code blocks ---------- */
+pre, code, kbd, samp {
+  font-variant-ligatures: none;
+}
+pre code {
+  background: #f8fafc; /* near-white */
+  border: 1px solid #eef2f7;
+  border-radius: 6px;
+  display: block;
+  padding: 0.75rem 1rem;
+}
+
+/* Inline code contrast */
+p code, li code, table code {
+  background: #f3f6fb;
+  border: 1px solid #e9eef7;
+  padding: 0.05rem 0.35rem;
+  border-radius: 4px;
+}
+
+/* ---------- Callouts ---------- */
+.callout {
+  border-left-width: 4px;
+}
+.callout-note, .callout-tip, .callout-important {
+  border-left-color: var(--ei-primary);
+}
+.callout-title-container {
+  color: var(--ei-primary-dark);
+}
+
+/* ---------- Figures & captions ---------- */
+/* Margin captions are set via Quarto; tweak typography only */
+.figure-caption, .quarto-title-meta, figcaption, .quarto-figure .caption {
+  color: var(--ei-muted);
+  font-size: 0.92rem;
+  line-height: 1.25;
+}
+
+/* Ensure images scale well on mobile */
+.quarto-figure img, img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* ---------- Tables ---------- */
+/* General table polish (non-typology) */
+.table, table.table {
+  font-size: 0.98rem;
+}
+table thead th {
+  background: #f7f7f9;
+}
+
+/* Footnotes within tables slightly smaller */
+table tfoot, table .footnotes {
+  font-size: 0.9rem;
+}
+
+/* ---------- Footnotes block ---------- */
+/* Insert a visible "Footnotes" label above the auto-generated notes */
+.footnotes::before {
+  content: "Footnotes";
+  display: block;
+  margin-bottom: 0.25rem;
+  font-weight: 600;
+  color: var(--ei-muted);
+  text-transform: none;
+  letter-spacing: 0.02em;
+}
+
+/* Horizontal rule styling near footnotes */
+.footnotes hr {
+  border: 0;
+  border-top: 1px solid #e5e7eb;
+  margin-bottom: 0.75rem;
+}
+
+/* Footnote text size + spacing */
+.footnotes ol {
+  font-size: 0.95rem;
+  color: var(--ei-muted);
+}
+.footnotes li {
+  margin-bottom: 0.5rem;
+}
+
+/* ---------- Buttons (if used) ---------- */
+.btn-primary {
+  background-color: var(--ei-primary);
+  border-color: var(--ei-primary);
+}
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: var(--ei-primary-dark);
+  border-color: var(--ei-primary-dark);
+}
+
+/* ---------- Utility: soft highlight class (for rare emphasis) ---------- */
+.ei-highlight {
+  background: var(--ei-primary-tint);
+  padding: 0.15rem 0.35rem;
+  border-radius: 4px;
+}
+
+/* ---------- Optional: deprecate legacy float wrap (wrapfig) on mobile ---------- */
+@media (max-width: 768px) {
+  .wrapfig {
+    float: none !important;
+    width: 100% !important;
+    margin: 0 0 1rem 0 !important;
+  }
+}
+
+/* ---------- (Chapter-specific) Typology table lives with inline styles ----------
+   Keep the typology table’s custom CSS scoped inside the chapter as you’re doing,
+   so it doesn’t affect other tables globally. This file intentionally does not
+   style .innovation-typology-table to avoid cross-page side effects.
+*/
+
+/* Centering the table */
+.innovation-typology-table {
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse: collapse;
+  table-layout: fixed; /* Ensures columns follow assigned widths */
+}
+
+/* Setting the width of the first column */
+.innovation-typology-table th:first-child, .innovation-typology-table td:first-child {
+  width: 14%; /* Keeps the first column narrow */
+  white-space: nowrap; /* Prevents wrapping in the first column */
+}
+
+/* Setting equal widths for columns 2–4 */
+.innovation-typology-table th:nth-child(2),
+.innovation-typology-table td:nth-child(2),
+.innovation-typology-table th:nth-child(3),
+.innovation-typology-table td:nth-child(3),
+.innovation-typology-table th:nth-child(4),
+.innovation-typology-table td:nth-child(4) {
+  width: 28%; /* Divide remaining space equally among these columns */
+}
+
+/* Styles for th and td elements */
+.innovation-typology-table th, .innovation-typology-table td {
+  border: 1px solid black;
+  text-align: center;
+  padding: 5px;
+  font-weight: normal;
+  word-wrap: break-word; /* Prevents overflow in fixed layout */
+  line-height: 1.1; /* Tighten line spacing for body cells */
+}
+
+/* Header styling */
+.innovation-typology-table th {
+  border: none;
+  padding: 3px;
+  line-height: 1;
+  background-color: #f2f2f2; /* Light gray background for headers */
+}
+
+/* Media Queries for small screens */
+@media (max-width: 768px) {
+  .innovation-typology-table th[scope="row"], .innovation-typology-table td:first-child {
+    width: auto;
+    display: block; 
+  }
+  .innovation-typology-table th, .innovation-typology-table td {
+    display: block;
+    text-align: left;
+  }
+}
+
+/* Specific styles for row headers */
+.innovation-typology-table th[scope="row"] {
+  text-align: right;
+  background-color: #f2f2f2;
+}
+
+/* Column headers */
+.innovation-typology-table th[scope="col"] {
+  vertical-align: bottom;
+}
+
+/* Styles for the expeditionary innovation cell */
+.expeditionary {
+  font-size: 20px;
+  background-color: #3774B7;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+
+/* ===============================
+   Expeditionary Innovation — visible-but-tasteful enhancements
+   =============================== */
+
+/* 1) Chapter title “banner” (subtle): colored underline + tiny top accent */
+.quarto-title-block {
+  position: relative;
+  padding-top: 0.25rem;
+  margin-bottom: 1.25rem;
+}
+.quarto-title-block::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0;
+  width: 56px; height: 4px;
+  background: var(--ei-primary);
+  border-radius: 2px;
+}
+.quarto-title-block h1.title {
+  border-bottom: 3px solid var(--ei-primary);
+  padding-bottom: 0.35rem;
+  margin-bottom: 0.75rem !important;
+}
+
+/* Optional: make subtitles lighter and tighter under title */
+.quarto-title-block .subtitle {
+  color: var(--ei-muted);
+  margin-top: -0.25rem;
+}
+
+/* 2) Section dividers for big breaks (use asterism class on a paragraph)
+   In qmd: write `::: {.asterism} :::` between big sections if desired. */
+.asterism {
+  display: block;
+  height: 1px;
+  background: linear-gradient(to right, transparent, var(--ei-primary), transparent);
+  margin: 1.75rem 0;
+  border: 0;
+}
+
+/* 3) Branded callouts: calmer fills and clear headers */
+.callout {
+  border-left-width: 5px;
+  border-radius: 6px;
+  overflow: hidden;
+}
+.callout-note    { border-left-color: var(--ei-primary);    background: var(--ei-primary-tint); }
+.callout-tip     { border-left-color: var(--ei-success);    background: #EAF7EF; }
+.callout-important{ border-left-color: var(--ei-warning);   background: #FFF1E9; }
+.callout-caution { border-left-color: var(--ei-danger);     background: #FDECEC; }
+.callout .callout-title-container {
+  font-weight: 600;
+  color: var(--ei-text);
+}
+
+/* 4) Pull quote (use sparingly)
+   In qmd: 
+   ::: {.pull-quote}
+   Your short, resonant line.
+   ::: 
+*/
+.pull-quote {
+  margin: 1.25rem 0;
+  padding: 0.75rem 1rem;
+  border-left: 4px solid var(--ei-primary);
+  background: linear-gradient(to right, var(--ei-primary-tint), transparent 60%);
+  font-size: 1.05rem;
+  font-style: italic;
+  color: var(--ei-text);
+}
+
+/* 5) Figure & table captions: small brand accent bar */
+.quarto-figure .caption, figure figcaption, .table .caption, caption {
+  position: relative;
+  padding-left: 0.75rem;
+}
+.quarto-figure .caption::before,
+figure figcaption::before,
+.table .caption::before,
+caption::before {
+  content: "";
+  position: absolute;
+  left: 0; top: 0.35em;
+  width: 4px; height: 0.9em;
+  background: var(--ei-primary);
+  border-radius: 2px;
+}
+
+/* 6) Nav & link emphasis (slightly bolder on hover) */
+.sidebar .nav-link.active, .sidebar .nav-link:focus {
+  color: var(--ei-primary) !important;
+}
+a:hover, a:focus {
+  text-decoration-thickness: 0.09em;
+}
+
+/* 7) Print: keep it clean (no heavy fills) */
+@media print {
+  .callout { background: #fff !important; }
+  .pull-quote { background: #fff !important; }
+  .quarto-title-block::before { background: #000; }
+  .quarto-title-block h1.title { border-bottom-color: #000; }
+}
+
+
+/* Bolder chapter banner (swap in if you want a stronger brand cue) */
+.quarto-title-block {
+  background: linear-gradient(90deg, var(--ei-primary) 0%, var(--ei-primary-dark) 70%);
+  color: white;
+  padding: 1.2rem 1.2rem 1rem;
+  border-radius: 10px;
+  margin-bottom: 1.25rem;
+}
+.quarto-title-block h1.title,
+.quarto-title-block .subtitle {
+  color: white;
+  border-bottom: none !important;
+  margin: 0 !important;
+}

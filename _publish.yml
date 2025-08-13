@@ -1,4 +1,4 @@
 - source: project
   netlify:
     - id: 096b301f-b209-4e18-9862-1c6b653bcbfe
-      url: 'https://ei.nilehatch.com'
+      url: https://ei.nilehatch.com
