@@ -21,6 +21,7 @@ book:
   chapters:
     - index.qmd
     - Expeditionary_Innovation.qmd
+    - Experimentation_Toolkit.qmd
     - Organize_Team.qmd
     - Choose_People.qmd
     - Explore_Community.qmd

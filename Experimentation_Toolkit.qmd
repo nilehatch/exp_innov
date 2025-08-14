@@ -1,0 +1,319 @@
+---
+title: "Experimentation Toolkit"
+subtitle: "How to Document Learning and Build Knowledge Under Uncertainty"
+---
+
+## Experimentation Manifesto
+
+### Why We Document Every Experiment
+
+Innovation begins in uncertainty. We don't pretend to know more than we do. We don’t guess blindly. We run experiments to reduce uncertainty, and we document those experiments to ensure clarity, progress, and scientific integrity.
+
+Documentation is not bureaucracy. It is the act that transforms an experience into evidence, and a hunch into understanding.
+
+Whether you're observing a person in a setting, testing a technical part, or interviewing a customer, your work matters *only if it's recorded in a way that you and others can understand later.*
+
+> We run experiments, and we document them.\
+> Because without documentation, there is no science.\
+> And without science, there is no progress under uncertainty.
+
+### Our Purpose
+
+Innovation is not a straight path. It winds through fog—through questions without answers, hypotheses not yet formed, problems not yet defined. And so, our work is not to *get it right on the first try*. Our work is to reduce uncertainty through structured learning. To turn the unknown into the knowable. And to turn guesses into grounded beliefs.
+
+That is the purpose of the experiment.\
+And that is why every experiment must be recorded.
+
+
+### Our Method
+
+We follow the scientific method—not as a rigid formula, but as a discipline of thought:
+
+- We identify the most urgent unknowns before rushing to act.
+- We choose methods that match the question, not the trend.
+- We collect evidence, not anecdotes.
+- We reflect on what we now know, how strongly we know it, and how we might still be wrong.
+- And we decide what to do next—not based on hope, but on learning.
+
+Some experiments will be exploratory: we collect data to discover patterns we could not have predicted.\
+Others will be confirmatory: we test a clear hypothesis to see if it holds.\
+Still others will be technical: we resolve design or performance tradeoffs with targeted trials.
+
+All are legitimate.\
+**But none are legitimate if undocumented**.
+
+### Our Standard
+
+Every documented experiment—no matter how small—is a contribution:
+
+- to your own understanding,
+- to your team’s shared knowledge,
+- and to the broader practice of evidence-based entrepreneurship.
+
+It may not look like a lab notebook.\
+It may take the form of a field log, a survey memo, an interview summary, a data table, or a simple write-up.
+But it must capture the logic, the method, the findings, and the epistemic update.
+
+In other words:
+
+> You are not just building ventures.\
+> You are building knowledge.
+
+
+### The Habit That Builds Everything Else
+
+You will run dozens of experiments during this course. Most will fail in the traditional sense. That’s expected. What matters is that **each one teaches you something you could not have known otherwise**—and that you capture it, question it, and act on it.
+
+If you make experiment documentation a habit now, you will:
+
+- Think more clearly,
+- Design more intentionally,
+- Learn more rigorously,
+- And innovate with greater confidence.
+
+This is not extra work.\
+This *is* the work.
+
+
+## Toolkit Overview
+
+This toolkit equips you to document your experiments like a practicing scientist. You will use these tools to:
+
+- Reduce uncertainty
+- Record your evidence and reasoning
+- Build cumulative knowledge
+- Guide next steps in your venture
+
+### Toolkit Structure
+
+It includes:
+
+- **Manifesto and Guide**: Philosophy of documentation
+- **Primary Experiment Template**: Use this for major expeditionary innovation experiments (people access, pain, solution)
+- **Supporting Experiment Template**: Use this for exploratory and supporting (intermediate) experiments (exploratory, confirmatory, and technical experiments)
+- **Experiment Log Tracker**: Use this to index and track all experiments
+- **Toolkit README**:  This document
+
+
+### Usage Instructions
+
+1. Copy the appropriate template for each experiment or field note.
+2. Keep all docs in your project or team folder.
+3. For each experiment or field observation:
+
+    - Go to the relevant template (primary or supporting)
+    - File → Make a copy
+    - Rename it clearly 
+        
+            Recommended File Naming Convention
+            - Exp [##] – [Short Title] – [Date]
+            - Sup – [Date] – [Group or Activity]
+            - (e.g., Exp 03 – Cafeteria Observations – 2025-09-12)
+        
+    - Place your copy in your team's working folder
+
+4. Update your Experiment Log Tracker with each new entry
+
+
+### Best Practices
+
+- Document immediately after you gather data
+- Be honest about surprises, gaps, and mistakes
+- Write to your *future self* and your teammates
+- Link any external data, recordings, or images in your documents
+
+### What You’re Building
+
+By the end of your expedition, you will have a **recorded trail of discovery**, a logic of decisions, and an epistemic foundation for whatever you choose to launch.
+
+This is not busywork. This is the work.
+
+
+## Primary Experiment Template
+
+This template is used to document the primary experiments of expeditionary innovation.  Each primary experiment is one diamond in the triple diamond framework.  The primary experiments are
+- People access
+- Pain validation
+- Solution validation and testing with prototypes
+
+> Every **Supporting Experiment** should be linked in your **Primary Experiment** document and tracked in your **Experiment Log Tracker**.\
+> \
+> - **Primary Experiment Template** documents your full inquiry into expeditionary innovation unknowns. It will often include multiple forms of data collection and synthesis over time.\
+> - **Supporting Experiment Template** documents each individual exploratory, confirmatory, or technical experiment. These are the building blocks that generate evidence, insight, or surprise.
+
+### General Info
+- **Title**: [Descriptive Name]\
+- **Date(s)**:\
+- **Team Members Involved**:
+
+### 1.  Clarify the Unknown
+- **Most Urgent Unknown**: What uncertainty are you trying to reduce?
+- **Other Urgent Unknowns**: Why is this one most pressing?
+
+### 2. Modalities and Data Sources
+- **Modalities Used** (e.g., Interviews, Observations, Social Media, etc.):
+- **Supporting Experiment Logs**: (Link to supporting experiment docs)
+- **Why this mix?** What makes this combination appropriate for the unknown?
+
+### 3. Synthesis of Design and Implementation
+- What kinds of people or data sources were targeted?
+- Sampling challenges or bias concerns?
+- Key notes across different collection types?
+
+### 4. Summary of Results and Patterns
+- Summarize major insights, themes, or findings
+- Were there convergences or contradictions?
+- Refer to **supporting experiment docs** for detail
+
+### 5. Knowledge Updating
+- What do you now believe more strongly?
+- What surprised you?
+- How confident are you? Why?
+- Did this lead to a new hypothesis, persona, need statement, or opportunity?
+
+### 6. Next Steps
+- What follow-up experiment or decision does this point to?
+
+
+## Supporting Experiment Template
+
+This template is used to document the many supporting experiments that comprise a single primary experiment.  Each supporting experiment is drawn from a slice from the divergent stage of one of the triple diamonds. Some common supporting experiments include
+
+- **Exploratory Experiments**: Used to uncover patterns, insights, or hypotheses. Often open-ended and inductive. For example, observation, conversation, secondary research, ideation
+- **Confirmatory Experiments**: Used to test a clear hypothesis. Controlled, deductive, and evidence-seeking. For example, people access test, customer pain validation, solution validation
+- **Technical Experiments**: Used to compare, validate, or refine solution design and implementation decisions. Focused on how things work, not just what people think or do. For example, A/B tests, micro-validations, component trials, usability checks, feature verification
+
+### General Info
+- **Title / Observation Type**:
+- **Date**:
+- **Location / Setting**:
+- **Team Member(s)**:
+- **Modality** (e.g., Interview, Observation, etc.):
+- **Linked Primary Experiment**:
+
+
+### 1. Clarify the Unknown 
+
+- **Most Urgent Unknown**: What uncertainty are you trying to reduce?
+- **Other Urgent Unknowns**: Why is this one most pressing?
+
+### 2. Experiment Type
+
+- [ ] Exploratory Experiment
+- [ ] Confirmatory Experiment
+- [ ] Technical Experiment
+
+
+### 3. Modality and Fit
+
+- **Modality Chosen** (e.g., Interview, Observation, Survey, etc.):
+- **Why it fits** this unknown:
+
+### 4. Design
+
+- **Source of Evidence**:
+- **Collection Mechanism** (Interview guide, survey, etc.):
+- **Sampling Strategy**:
+- **Sample Size Goal**:
+
+### 5. Execution Notes
+
+- What did you actually do?
+- Who did you reach?
+- Deviations from the plan? Surprises?
+- Sampling biases?
+
+### 6. Results and Data Summary
+
+- Link raw data, quotes, tables, etc.
+- Highlight key findings:
+
+### 7. Knowledge Updating
+
+- What do you now know?
+- How confident are you? Why?
+- What assumptions did you update or abandon?
+
+### 8. Next Steps
+
+- What are you doing next based on this experiment?
+
+
+## Experiment Log Tracker
+
+This is a spreadsheet to track all primary and secondary experiments.  Columns in the spreadsheet would include
+
+- Experiment \#	
+- Date(s)	
+- Experiment title
+- Type: (exploratory experiment, confirmatory experiment, technical experiment)
+- Modality
+
+    - observation
+    - conversation
+    - role play
+    - secondary research
+    - A/B testing
+    - feature verification
+    - many others
+    - 
+    
+- Urgent Unknown	
+- Link to Google doc	
+- Summary of results	
+- Confidence score	
+
+    How confident are you in your conclusions.  Convenience sampling, small samples, ineffective questions, and myriad other experiment execution limitations would lower your confidence.
+    
+- Next action
+
+## Usage Instructions
+
+This toolkit equips you to document your experiments like a practicing scientist. You will use these tools to:
+
+- Reduce uncertainty
+- Record your evidence and reasoning
+- Build cumulative knowledge
+- Guide next steps in your venture
+
+## Toolkit Structure
+
+It includes:
+
+- **Manifesto and Guide**: Philosophy of documentation
+- **Primary Experiment Template**: Use this for major expeditionary innovation experiments (people access, pain, solution)
+- **Supporting Experiment Template**: Use this for exploratory and supporting (intermediate) experiments (exploratory, confirmatory, and technical experiments)
+- **Experiment Log Tracker**: Use this to index and track all experiments
+- **Toolkit README**:  This document
+
+
+## Usage Instructions
+
+1. Copy the appropriate template for each experiment or field note.
+2. Keep all docs in your project or team folder.
+3. For each experiment or field observation:
+
+    - Go to the relevant template (primary or supporting)
+    - File → Make a copy
+    - Rename it clearly 
+        
+            Recommended File Naming Convention
+            - Exp [##] – [Short Title] – [Date]
+            - Sup – [Date] – [Group or Activity]
+            - (e.g., Exp 03 – Cafeteria Observations – 2025-09-12)
+        
+    - Place your copy in your team's working folder
+
+4. Update your Experiment Log Tracker with each new entry
+
+
+## Best Practices
+
+- Document immediately after you gather data
+- Be honest about surprises, gaps, and mistakes
+- Write to your *future self* and your teammates
+- Link any external data, recordings, or images in your documents
+
+## What You’re Building
+
+By the end of your expedition, you will have a **recorded trail of discovery**, a logic of decisions, and an epistemic foundation for whatever you choose to launch.

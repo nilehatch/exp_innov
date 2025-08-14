@@ -1,0 +1,73 @@
+---
+title: "Experimentation Manifesto"
+format: html
+---
+
+## Why We Document Every Experiment
+
+Innovation begins in uncertainty. We don't pretend to know more than we do. We don’t guess blindly. We run experiments to reduce uncertainty, and we document those experiments to ensure clarity, progress, and scientific integrity.
+
+Documentation is not bureaucracy. It is the act that transforms an experience into evidence, and a hunch into understanding.
+
+Whether you're observing a person in a setting, testing a technical part, or interviewing a customer, your work matters *only if it's recorded in a way that you and others can understand later.*
+
+> We run experiments, and we document them.\
+> Because without documentation, there is no science.\
+> And without science, there is no progress under uncertainty.
+
+## Our Purpose
+
+Innovation is not a straight path. It winds through fog—through questions without answers, hypotheses not yet formed, problems not yet defined. And so, our work is not to *get it right on the first try*. Our work is to reduce uncertainty through structured learning. To turn the unknown into the knowable. And to turn guesses into grounded beliefs.
+
+That is the purpose of the experiment.\
+And that is why every experiment must be recorded.
+
+
+## Our Method
+
+We follow the scientific method—not as a rigid formula, but as a discipline of thought:
+
+- We identify the most urgent unknowns before rushing to act.
+- We choose methods that match the question, not the trend.
+- We collect evidence, not anecdotes.
+- We reflect on what we now know, how strongly we know it, and how we might still be wrong.
+- And we decide what to do next—not based on hope, but on learning.
+
+Some experiments will be exploratory: we collect data to discover patterns we could not have predicted.\
+Others will be confirmatory: we test a clear hypothesis to see if it holds.\
+Still others will be technical: we resolve design or performance tradeoffs with targeted trials.
+
+All are legitimate.\
+**But none are legitimate if undocumented**.
+
+## Our Standard
+
+Every documented experiment—no matter how small—is a contribution:
+
+- to your own understanding,
+- to your team’s shared knowledge,
+- and to the broader practice of evidence-based entrepreneurship.
+
+It may not look like a lab notebook.\
+It may take the form of a field log, a survey memo, an interview summary, a data table, or a simple write-up.
+But it must capture the logic, the method, the findings, and the epistemic update.
+
+In other words:
+
+> You are not just building ventures.\
+> You are building knowledge.
+
+
+## The Habit That Builds Everything Else
+
+You will run dozens of experiments during this course. Most will fail in the traditional sense. That’s expected. What matters is that **each one teaches you something you could not have known otherwise**—and that you capture it, question it, and act on it.
+
+If you make experiment documentation a habit now, you will:
+
+- Think more clearly,
+- Design more intentionally,
+- Learn more rigorously,
+- And innovate with greater confidence.
+
+This is not extra work.\
+This *is* the work.

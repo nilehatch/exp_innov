@@ -1,0 +1,79 @@
+---
+title: Supporting Experiment Template
+---
+
+> Every **Supporting Experiment** should be linked in your **Primary Experiment** document and tracked in your **Experiment Log Tracker**.\
+> \
+> - **Primary Experiment Template** documents your full inquiry into a major unknown. It will often include multiple forms of data collection and synthesis over time.\
+> - **Supporting Experiment Template** documents each individual exploratory, confirmatory, or technical experiment. These are the building blocks that generate evidence, insight, or surprise.
+
+<!--
+Use this for each **individual data collection instance** (observation, intercept interview, brief interaction, etc.). These are the building blocks for exploratory synthesis.
+-->
+
+## General Info
+- **Title / Observation Type**:
+- **Date**:
+- **Location / Setting**:
+- **Team Member(s)**:
+- **Modality** (e.g., Interview, Observation, etc.):
+- **Linked Primary Experiment**:
+
+
+## 1. Clarify the Unknown 
+
+- **Most Urgent Unknown**: What uncertainty are you trying to reduce?
+- **Other Urgent Unknowns**: Why is this one most pressing?
+
+## 2. Experiment Type
+
+- **Exploratory Experiments**:  Used to uncover patterns, insights, or hypotheses. Often open-ended and inductive. For example, observation, conversation, secondary research
+- **Confirmatory Experiments**: Used to test clear formal hypotheses. Controlled, deductive, and evidence-seeking. For example, people access test, customer pain validation, solution validation
+- **Technical Experiments**: Used to compare, validate, or refine solution design and implementation decisions. Focused on how things work, not just what people think or do. For example, quick A/B tests, micro-validations, component trials, usability checks
+
+
+## 3. Modality and Fit
+
+- **Modality Chosen** (e.g., Interview, Observation, Survey, etc.):
+- **Why it fits** this unknown:
+
+## 4. Design
+
+- **Source of Evidence**:
+- **Collection Mechanism** (Interview guide, survey, etc.):
+- **Sampling Strategy**:
+- **Sample Size Goal**:
+
+## 5. Execution Notes
+
+- What did you actually do?
+- Who did you reach?
+- Deviations from the plan? Surprises?
+- Sampling biases?
+
+## 6. Results and Data Summary
+
+- Link raw data, quotes, tables, etc.
+- Highlight key findings:
+
+## 7. Knowledge Updating
+
+- What do you now know?
+- How confident are you? Why?
+- What assumptions did you update or abandon?
+
+## 8. Next Steps
+
+- What are you doing next based on this experiment?
+
+<!--
+## Field Notes
+- What did you see, hear, feel, or record?
+- Quotes or highlights?
+- Unexpected moments or reactions?
+
+## Initial Reflection
+- What might this mean?
+- How strong is the signal?
+- Any next questions this raises?
+-->
