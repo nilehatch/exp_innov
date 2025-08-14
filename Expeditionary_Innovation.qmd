@@ -3,6 +3,8 @@ title: "Expeditionary Innovation"
 subtitle: "A proven path to find, validate, and win with solutions only you can deliver"
 ---
 
+<br>
+
 ## Why So Many Good Ideas Still Fail {.unnumbered}
 
 If you’ve been in the entrepreneurial world for more than five minutes, you’ve heard the mantra: *fail fast*. Failing early and cheaply is better than failing late and expensively. But failure shouldn’t be your primary learning strategy.
@@ -19,7 +21,6 @@ There *is* a better way: a process that lets you move forward without pretending
 
 This book is about that process.
 
-```{=html}
 <!--
 ## Why So Many Good Ideas Still Fail {.unnumbered}
 
@@ -36,7 +37,6 @@ When those answers aren’t known, guessing takes over. Some guess through “bu
 
 You don’t have to gamble. You don’t have to love uncertainty, either. There’s a process that cuts through the fog — helping you learn what matters most before you launch. That’s what this book is about.
 -->
-```
 
 ## What Expeditionary Innovation Is — and Isn’t {.unnumbered}
 
@@ -301,177 +301,4 @@ Most importantly, by resisting intuitive but low‑probability methods, you dram
 
 Begin your expedition. Follow the process — not a script — and discover the value you can create for your customers and for yourself.
 
-
-
-```{=html}
-<style>
-/* ---------------------------------------------------
-   Quick, contained style sandbox for this mock file
-   (safe to paste into a single .qmd while comparing)
-   --------------------------------------------------- */
-
-/* Fallback palette in case custom.css isn't loaded */
-:root {
-  --ei-primary: #3774B7;
-  --ei-primary-dark: #24548A;
-  --ei-primary-tint: #E8F0FA;
-  --ei-text: #1F2937;
-  --ei-muted: #6B7280;
-}
-
-/* Shared hero utilities */
-.hero-wrap {
-  margin: 1.25rem 0 2rem 0;
-  border-radius: 14px;
-  overflow: hidden;
-  box-shadow: 0 6px 18px rgba(0,0,0,0.06);
-  border: 1px solid rgba(0,0,0,0.06);
-}
-.hero-inner {
-  position: relative;
-  width: 100%;
-}
-.hero-inner img {
-  display: block;
-  width: 100%;
-  height: auto;
-}
-
-/* Headline used inside hero overlays */
-.hero-title {
-  position: absolute;
-  left: 5%;
-  bottom: 10%;
-  color: white;
-  font-weight: 700;
-  line-height: 1.15;
-  text-shadow: 0 2px 8px rgba(0,0,0,0.35);
-}
-
-/* Small caption helper under each demo */
-.hero-caption {
-  font-size: 0.95rem;
-  color: var(--ei-muted);
-  margin: 0.6rem 0 1.4rem 0;
-}
-
-/* ==========================
-   1) Reduced-Height Hero
-   ========================== */
-.hero-reduced .hero-inner {
-  /* Clamp the visual height so it feels light */
-  max-height: clamp(180px, 28vw, 260px);
-}
-.hero-reduced .hero-inner img {
-  object-fit: cover;
-  height: clamp(180px, 28vw, 260px);
-}
-
-/* ==========================
-   2) Integrated Title Hero
-   (title over the image)
-   ========================== */
-.hero-integrated .hero-inner {
-  max-height: clamp(240px, 34vw, 360px);
-}
-.hero-integrated .hero-inner img {
-  object-fit: cover;
-  height: clamp(240px, 34vw, 360px);
-  filter: saturation(0.95);
-}
-.hero-integrated .hero-overlay {
-  position: absolute; inset: 0;
-  background:
-    linear-gradient(180deg, rgba(0,0,0,0.35) 0%, rgba(0,0,0,0.05) 45%, rgba(0,0,0,0.45) 100%);
-}
-.hero-integrated .hero-title {
-  font-size: clamp(1.4rem, 3.5vw, 2.25rem);
-  max-width: 60ch;
-}
-
-/* ==========================
-   3) Thin Accent Banner
-   (subtle brand stripe + small art)
-   ========================== */
-.hero-accent {
-  border-radius: 10px;
-  overflow: hidden;
-  border: 1px solid rgba(0,0,0,0.06);
-}
-.hero-accent .accent-bar {
-  height: 10px;
-  background: linear-gradient(90deg, var(--ei-primary), var(--ei-primary-dark));
-}
-.hero-accent .accent-body {
-  display: grid;
-  grid-template-columns: 1fr minmax(180px, 28%);
-  gap: clamp(12px, 2vw, 24px);
-  align-items: center;
-  padding: clamp(14px, 2.6vw, 22px);
-  background: #fff;
-}
-.hero-accent .accent-text h2 {
-  margin: 0 0 0.35rem 0;
-  font-size: clamp(1.15rem, 2.5vw, 1.5rem);
-  color: var(--ei-text);
-}
-.hero-accent .accent-text p {
-  margin: 0;
-  color: var(--ei-muted);
-}
-.hero-accent .accent-art {
-  background: linear-gradient(180deg, var(--ei-primary-tint), #fff);
-  border: 1px solid rgba(0,0,0,0.06);
-  border-radius: 10px;
-  padding: clamp(6px, 1.2vw, 10px);
-}
-.hero-accent .accent-art img {
-  border-radius: 8px;
-}
-
-/* ==========================
-   4) Title Card Hero
-   (image framed in a card)
-   ========================== */
-.hero-card .card {
-  max-width: 980px;
-  margin: 0 auto;
-  background: #fff;
-  border-radius: 16px;
-  border: 1px solid rgba(0,0,0,0.06);
-  box-shadow: 0 8px 22px rgba(0,0,0,0.07);
-  overflow: hidden;
-}
-.hero-card .card-media {
-  background: linear-gradient(180deg, var(--ei-primary-tint), #fff);
-  padding: clamp(12px, 2.2vw, 16px);
-}
-.hero-card .card-media img {
-  border-radius: 10px;
-}
-.hero-card .card-body {
-  padding: clamp(14px, 2.6vw, 24px);
-}
-.hero-card .card-body h2 {
-  margin: 0 0 0.35rem 0;
-  font-size: clamp(1.2rem, 2.6vw, 1.6rem);
-  color: var(--ei-text);
-}
-.hero-card .card-body p {
-  margin: 0;
-  color: var(--ei-muted);
-}
-
-/* Mobile: tighten outer margins */
-@media (max-width: 640px) {
-  .hero-wrap { margin: 0.8rem 0 1.2rem 0; }
-}
-</style>
-```
-
-<div class="hero-wrap hero-reduced">
-  <div class="hero-inner">
-     <img src="images/01/01-hero.svg" alt="Expeditionary innovation hero art (reduced height)">
-  </div>
-</div>
 

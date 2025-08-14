@@ -41,7 +41,7 @@ format:
       - base.css
       - custom.css
     number-sections: true
-    number-depth: 2
+    number-depth: 1
     fig-cap-location: margin
     tbl-cap-location: margin
 #    embed-resources: true

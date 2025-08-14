@@ -310,3 +310,13 @@ Abduction, adapted in this context, moves us from empathetic insights to the for
 The interplay of empathy and abduction in this process cannot be understated. While empathy allows us to immerse ourselves in the lives of our target community, abduction gives us a structured method to hypothesize and refine our understanding of their pains. This symbiosis is essential for entrepreneurs aiming to innovate solutions that are not only creative but also deeply relevant and effective in addressing the real pains of their target community.
 
 In essence, this chapter has equipped us with a methodology to navigate from a vast array of data to a precise understanding of unmet needs, framing our innovative efforts in a way that resonates with the very people we aim to serve.
+
+
+<!-- moved from teh peopel chapter ...
+::: {.callout-tip title="Watch for Signs Your Access Isn’t Working"}
+- You can’t find where your people spend time — physically or online  
+- You rely entirely on personal connections or convenience samples  
+- People respond briefly or not at all, even after clear outreach  
+- You can’t seem to get past surface-level answers  
+:::
+-->

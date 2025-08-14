@@ -379,3 +379,20 @@ a:hover, a:focus {
   border-bottom: none !important;
   margin: 0 !important;
 }
+
+
+/* Example: soften callout styling */
+.callout-note {
+  border-left: 3px solid #5b8ec9;
+  background-color: #f7faff;
+}
+
+/* Custom style for Halo Alert blocks (if desired) */
+.callout-demo {
+  border-left: 3px solid #9b59b6;
+  background-color: #f9f4fb;
+}
+
+.callout-demo .callout-title {
+  font-weight: bold;
+}
