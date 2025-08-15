@@ -48,19 +48,19 @@ Because the term “innovation” gets used for almost everything, it’s worth 
 -   a **high-tech arms race** aimed at beating incumbents through engineering firepower.
 -   **university-led frontier research**, extending the frontiers of human knowledge through the work of scientists at the boundaries.
 
-As we seen in @tbl-typology, expeditionary innovation is its own creature. It starts with an **unknown, unmet need** — one that almost always exists — often hidden at the fringes where incumbents don’t look. It’s a need that real people feel every day, but that no one has yet recognized, written down, or started working to solve. It’s about going into the field, surfacing those needs, and designing solutions that serve them so well they can’t help but say “yes.”
+As we seen in @tbl-innovation-typology, expeditionary innovation is its own creature. It starts with an **unknown, unmet need** — one that almost always exists — often hidden at the fringes where incumbents don’t look. It’s a need that real people feel every day, but that no one has yet recognized, written down, or started working to solve. It’s about going into the field, surfacing those needs, and designing solutions that serve them so well they can’t help but say “yes.”
 
 That’s why it works for people who don’t think of themselves as especially “creative.” Follow the process and you’ll look like one of the most creative entrepreneurs in the room — not because you guessed right, but because you discovered a need that others missed.
 
 Later in the book, we’ll look at how this same process can lead to big opportunities, even unicorn-scale ones, and why it naturally produces the kind of disruptive innovations that incumbents avoid until it’s too late. But first, you need to see it for what it is: *a different category of innovation with its own rules, its own mindset, and its own extraordinary reliability*.
 
 
-
+<!--
 :::{#tbl-typology tbl-cap="Typology of innovation categories including **expeditionary innovation** where customer needs are initially unknown" tbl-cap-location="margin"}
-<!-- Table content -->
+
 <table class="innovation-typology-table">
   <tr>
-    <th scope="col"></th> <!-- Blank cell for the row header, no border -->
+    <th scope="col"></th> 
     <th scope="col">Known solution</th>
     <th scope="col">Unknown solution<br>(within reach)</th>
     <th scope="col">Unknown solution<br>(beyond reach)</th>
@@ -77,7 +77,9 @@ Later in the book, we’ll look at how this same process can lead to big opportu
   </tr>
 </table>
 :::
+-->
 
+![Typology of innovation categories including **expeditionary innovation** where customer needs are initially unknown](images/innov_typology_4.svg){#tbl-innovation-typology fig-align="center" fig-cap-location="margin"}
 
 ## Why This Works So Reliably {.unnumbered}
 
@@ -124,6 +126,7 @@ df_right  <- df %>% filter(x >  c_hi)
 
 inc_label <- "Incumbents cluster around\n mainstream customers"
 
+#my_plot <- ggplot(df, aes(x, y)) +
 ggplot(df, aes(x, y)) +
   # Areas
   geom_area(data = df_all,    fill = "grey85") +
@@ -177,6 +180,11 @@ geom_label(
     panel.grid  = element_blank(),
     plot.margin = margin(5, 10, 10, 5)  # give the vertical label some room
   )
+
+# Save ggplot as PNG
+#ggsave("tyranny_market.png", plot = my_plot, width = 8, height = 6, dpi = 300)
+# Save ggplot as SVG
+#ggsave("tyranny_market.svg", plot = my_plot, width = 8, height = 6, dpi = 300)
 ```
 
 Notice how most competitors crowd into the tall central peak, chasing the mainstream (see @fig-tyranny-market). The shaded blue edges mark underserved customers — often invisible to incumbents — where fresh opportunities await.
@@ -219,7 +227,7 @@ The Expeditionary Innovation process is built around a **three-diamond innovatio
 
 [^2]: The triple diamond extends the well-known double diamond model popularized by the UK Design Council, which organizes innovation into two cycles of divergence and convergence: defining the problem and developing the solution. Expeditionary innovation adds a first diamond—choosing the right people—because starting with the wrong group undermines the entire process.
 
-![The triple diamond framework for expeditionary innovation. Explore to gain insight, generate informed hypotheses, and test the hypotheses about your people, their needs, and your solution.](images/10_triple_diamond.png){#fig-triple-diamond fig-align="center" fig-cap-location="margin"}
+![The triple diamond framework for expeditionary innovation. Explore to gain insight, generate informed hypotheses, and test the hypotheses about your people, their needs, and your solution.](images/10_triple_diamond.svg){#fig-triple-diamond fig-align="center" fig-cap-location="margin"}
 
 ------------------------------------------------------------------------
 
@@ -232,7 +240,7 @@ This decision is foundational: everything that follows will be shaped by *who* y
 
 By the end of this diamond, you should have **evidence of access** to a specific group you can reliably reach and engage.
 
-![Choose a target population and validate that you have access](images/21_people_diamond_test.png){#fig-people-diamond fig-align="center" fig-cap-location="margin"}
+![Choose a target population and validate that you have access](images/21_people_diamond_test.svg){#fig-people-diamond fig-align="center" fig-cap-location="margin"}
 
 ------------------------------------------------------------------------
 
@@ -261,7 +269,7 @@ In Diamond 2, exploratory experiments help you systematically navigate ambiguity
 
 By the end of this diamond, you should have a **validated solution concept** and **prototype evidence** that customers will buy.
 
-![Discover an unknown, unmet need and validate that your people have the need](images/22_pain_diamond_test.png){#fig-pain-diamond fig-align="center" fig-cap-location="margin"}
+![Discover an unknown, unmet need and validate that your people have the need](images/22_pain_diamond_test.svg){#fig-pain-diamond fig-align="center" fig-cap-location="margin"}
 
 ------------------------------------------------------------------------
 
@@ -277,7 +285,7 @@ Here, confirmatory experiments dominate. Their role is to validate that your cho
 
 By the end of this diamond, you should have a solution concept and prototypes that you have confirmed that it solves customer needs and they will buy it.
 
-![Discover an elegant solution to the customer need, verify that you can build it, and validate that customers want it](images/23_solution_diamond_test.png){#fig-solution-diamond fig-align="center" fig-cap-location="margin"}
+![Discover an elegant solution to the customer need, verify that you can build it, and validate that customers want it](images/23_solution_diamond_test.svg){#fig-solution-diamond fig-align="center" fig-cap-location="margin"}
 
 ------------------------------------------------------------------------
 
