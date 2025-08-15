@@ -48,7 +48,7 @@ Because the term “innovation” gets used for almost everything, it’s worth 
 -   a **high-tech arms race** aimed at beating incumbents through engineering firepower.
 -   **university-led frontier research**, extending the frontiers of human knowledge through the work of scientists at the boundaries.
 
-As we seen in @tbl-innovation-typology, expeditionary innovation is its own creature. It starts with an **unknown, unmet need** — one that almost always exists — often hidden at the fringes where incumbents don’t look. It’s a need that real people feel every day, but that no one has yet recognized, written down, or started working to solve. It’s about going into the field, surfacing those needs, and designing solutions that serve them so well they can’t help but say “yes.”
+As we see in @tbl-innovation-typology, expeditionary innovation is its own creature. It starts with an **unknown, unmet need** — one that almost always exists — often hidden at the fringes where incumbents don’t look. It’s a need that real people feel every day, but that no one has yet recognized, written down, or started working to solve. It’s about going into the field, surfacing those needs, and designing solutions that serve them so well they can’t help but say “yes.”
 
 That’s why it works for people who don’t think of themselves as especially “creative.” Follow the process and you’ll look like one of the most creative entrepreneurs in the room — not because you guessed right, but because you discovered a need that others missed.
 
@@ -283,7 +283,7 @@ With a validated problem in hand, you can now move quickly through solution gene
 
 Here, confirmatory experiments dominate. Their role is to validate that your chosen solution not only works, but works *for the right people*, *solves the right problem*, and is *worth building at scale*.
 
-By the end of this diamond, you should have a solution concept and prototypes that you have confirmed that it solves customer needs and they will buy it.
+By the end of this diamond, you should have a **validated solution concept** and prototypes that confirm that you can solve customer needs and they will buy it.
 
 ![Discover an elegant solution to the customer need, verify that you can build it, and validate that customers want it](images/23_solution_diamond_test.svg){#fig-solution-diamond fig-align="center" fig-cap-location="margin"}
 

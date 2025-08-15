@@ -78,3 +78,13 @@ th {
   }
 }
 
+/* ===== wrapfig styling (html) used for half diamonds - needs adaptation is want to use as .css ===== */
+/*<style> */
+/*.wrapfig {*/
+/*    float: left; */
+/*    margin: 0 20px 10px 0; /* adjust space around the image */
+/*    width: 25%; /* adjust image width */
+/*}*/
+/* ===== then use html  code ===== */
+/* <img src="images/31_double_diamond_research.png" alt="Divergent generative, exploratory experiments through primary and secondary research." class="wrapfig"/> */
+</style>

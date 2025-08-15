@@ -11,7 +11,7 @@ Innovation rarely begins with a fully formed idea. It begins with people — oft
 
 The first diamond in the expeditionary innovation process is all about choosing your people wisely. You’ll begin by diverging: exploring a wide range of possible groups who might be living with meaningful unmet needs. Then you’ll converge: narrowing your focus based on empathy, observability, and early signs of potential. Finally, you’ll test access: verifying that you can reach, interact with, and learn from the group you’ve chosen.
 
-![Diverge and converge to choose a community of people and then test your access to them.](images/21_people_diamond_test.png){#fig-people-diamond-3 fig-align="center" fig-cap-location="margin"}
+![Diverge and converge to choose a community of people and then test your access to them.](images/21_people_diamond_test.svg){#fig-people-diamond-3 fig-align="center" fig-cap-location="margin"}
 
 This isn’t a casual decision. Who you choose to study will shape the rest of your journey — what you discover, what problems you uncover, and which solutions are possible. By the end of this chapter, you’ll have done more than pick a target audience. You’ll have begun to commit to a community.
 
