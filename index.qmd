@@ -50,7 +50,7 @@ Each diamond is a cycle of divergence, convergence, and validation. Each test gi
 
 ## What This Book Offers {.unnumbered}
 
-This book is adapted from an earlier version, *Entrepreneurial Innovation* (2018), and field-tested with entrepreneurs, executives, and EMBA students. It offers:
+This book is adapted from an earlier version, *Entrepreneurial Innovation* (2018), and field-tested with entrepreneurs, executives, and students. It offers:
 
 - A rigorous process that reduces uncertainty  
 - A framework for discovering and validating unmet needs  

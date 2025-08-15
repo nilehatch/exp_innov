@@ -78,13 +78,28 @@ th {
   }
 }
 
-/* ===== wrapfig styling (html) used for half diamonds - needs adaptation is want to use as .css ===== */
-/*<style> */
-/*.wrapfig {*/
-/*    float: left; */
-/*    margin: 0 20px 10px 0; /* adjust space around the image */
-/*    width: 25%; /* adjust image width */
-/*}*/
-/* ===== then use html  code ===== */
-/* <img src="images/31_double_diamond_research.png" alt="Divergent generative, exploratory experiments through primary and secondary research." class="wrapfig"/> */
-</style>
+/* wrapfig stylings to manage text / fig interfaces */
+
+.wrapfig_left_30 {
+  float: left;
+  margin: 0 20px 10px 10px;
+  width: 30%;
+}
+
+.wrapfig_right_30 {
+  float: right;
+  margin: 0 0 10px 20px;
+  width: 30%;
+}
+
+.wrapfig_left_25 {
+  float: left;
+  margin: 0 20px 10px 10px;
+  width: 25%;
+}
+
+.wrapfig_right_25 {
+  float: right;
+  margin: 0 0 10px 20px;
+  width: 25%;
+}

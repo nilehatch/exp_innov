@@ -240,7 +240,7 @@ This decision is foundational: everything that follows will be shaped by *who* y
 
 By the end of this diamond, you should have **evidence of access** to a specific group you can reliably reach and engage.
 
-![Choose a target population and validate that you have access](images/21_people_diamond_test.svg){#fig-people-diamond fig-align="center" fig-cap-location="margin"}
+![Choose a target population and validate that you have access](images/21_people_diamond_test.svg){#fig-people-diamond style="max-height: 340px;" fig-align="center" fig-cap-location="margin"}
 
 ------------------------------------------------------------------------
 
@@ -269,7 +269,7 @@ In Diamond 2, exploratory experiments help you systematically navigate ambiguity
 
 By the end of this diamond, you should have a **validated solution concept** and **prototype evidence** that customers will buy.
 
-![Discover an unknown, unmet need and validate that your people have the need](images/22_pain_diamond_test.svg){#fig-pain-diamond fig-align="center" fig-cap-location="margin"}
+![Discover an unknown, unmet need and validate that your people have the need](images/22_pain_diamond_test.svg){#fig-pain-diamond fig-align="center" style="max-height: 340px;" fig-cap-location="margin"}
 
 ------------------------------------------------------------------------
 
@@ -285,7 +285,7 @@ Here, confirmatory experiments dominate. Their role is to validate that your cho
 
 By the end of this diamond, you should have a **validated solution concept** and prototypes that confirm that you can solve customer needs and they will buy it.
 
-![Discover an elegant solution to the customer need, verify that you can build it, and validate that customers want it](images/23_solution_diamond_test.svg){#fig-solution-diamond fig-align="center" fig-cap-location="margin"}
+![Discover an elegant solution to the customer need, verify that you can build it, and validate that customers want it](images/23_solution_diamond_test.svg){#fig-solution-diamond style="max-height: 340px;" fig-align="center" fig-cap-location="margin"}
 
 ------------------------------------------------------------------------
 

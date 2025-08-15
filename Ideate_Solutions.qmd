@@ -3,18 +3,11 @@ title: "Ideate Many Solutions"
 subtitle: "Exploratory, divergent use of creativity tools to generate many solution concepts"
 ---
 
-```{=html}
-<style>
-.wrapfig {
-    float: left; 
-    margin: 10px 20px 10px 10px; /* adjust space around the image */
-    width: 25%; /* adjust image width */
-}
-</style>
-```
 ## Solution Ideation
 
-<img src="images/33_double_diamond_ideate.png" alt="Divergent ideation to obtain many solution ideas." class="wrapfig"/> Having defined and validated an unmet need of our people, we turn to innovating to fill that need.  Innovating encompasses three stages: the divergent phase of ideating solutions, the convergent process of hypothesis formation, and the conclusive phase of testing the solution. Our focus now shifts to designing the right solution for the validated customer pain, blending creativity with structured exploration to discover innovative solutions.
+<img src="images/231_solution_diverge.svg" alt="Divergent ideation to obtain many solution ideas." class="wrapfig_left_25"/> 
+
+Having defined and validated an unmet need of our people, we turn to innovating to fill that need.  Innovating encompasses three stages: the divergent phase of ideating solutions, the convergent process of hypothesis formation, and the conclusive phase of testing the solution. Our focus now shifts to designing the right solution for the validated customer pain, blending creativity with structured exploration to discover innovative solutions.
 
 The double diamond process, a visual representation of the innovation journey, underscores two pivotal phases: problem discovery and solution development. In the first diamond, the objective is to 'design the right thing' by identifying and validating customer pain. The second diamond revolves around 'designing the thing right,' where you ideate, develop, and refine potential solutions.
 
@@ -36,9 +29,7 @@ Ideation is not just about brainstorming; it's an exploratory experiment where e
 
 These principles echo principles of psychological safety in teams. By adhering to these principles, you create a supportive atmosphere where creative thinking can flourish. This approach not only generates a wider range of ideas but also builds a team culture that values openness and collaborative innovation.
 
-<img src="images/card_catalog_HBLL_5.jpg" alt="Card catalog as a metaphor for recombinative creativity." class="wrapfig"/>
-
-Creativity in ideation stems from the ability to recombine existing ideas in novel ways. This process is akin to exploring an extensive card catalog in an old-fashioned library, where each card represents a distinct *percept* - a bit of knowledge, observation, memory, or impression. These percepts, when combined, can unexpectedly spark new ideas. Like a librarian sifting through a card catalog, the innovator combines different percepts, sometimes finding unrelated cards, while at other times discovering connections that form innovative ideas.
+<img src="images/card_catalog_HBLL_5.jpg" alt="Card catalog as a metaphor for recombinative creativity." class="wrapfig_right_30"/> Creativity in ideation stems from the ability to recombine existing ideas in novel ways. This process is akin to exploring an extensive card catalog in an old-fashioned library, where each card represents a distinct *percept* - a bit of knowledge, observation, memory, or impression. These percepts, when combined, can unexpectedly spark new ideas. Like a librarian sifting through a card catalog, the innovator combines different percepts, sometimes finding unrelated cards, while at other times discovering connections that form innovative ideas.
 
 This notion of creativity as recombination suggests that every new experience, every piece of knowledge acquired, becomes a potential building block for future creative ideas. It's the sum of these percepts that delineate the boundaries of one's 'adjacent possible,'[^2]. The adjacent possible represents an ever-expanding frontier of creative possibilities, limited only by the scope of one's experiences and knowledge. As society collectively expands its card catalog of percepts, the societal adjacent possible grows even more rapidly, suggesting an accelerating pace of discovery and innovation. This principle implies that the frontier of what can be discovered and created is not static but continually advancing, pushed forward by the recombination of our expanding collective knowledge.
 

@@ -1,26 +1,17 @@
 ---
 title: "Test Solutions with Prototypes"
-subtitle: "Using the scientific method to determine when the solution is aligned with customers and profitable to launch"
+subtitle: "Use confirmatory experiments to determine when the solution is aligned with customers and profitable to launch"
 ---
 
-```{=html}
-<style>
-.wrapfig {
-    float: right; 
-    margin: 10px 20px 10px 10px; /* adjust space around the image */
-    width: 33%; /* adjust image width */
-}
-</style>
-```
 ## Testing Solutions
 
-Developing a solution is just one milestone in the innovation journey. The real challenge lies in validating this solution - a process that unfolds through a sequence of prototype testing. Unlike a one-off test, this entails a series of progressively complex and costly experiments. Each stage of this validation journey is designed to incrementally align your solution more closely with your customer's pain points and expectations.
+<img src="images/233_solution_test.svg" alt="Confirmatory testing to validate the solution with the customer." class="wrapfig_left_25"/> Developing a solution is just one milestone in the innovation journey. The real challenge lies in validating this solution - a process that unfolds through a sequence of prototype testing. Unlike a one-off test, this entails a series of progressively complex and costly experiments. Each stage of this validation journey is designed to incrementally align your solution more closely with your customer's pain points and expectations.
 
 Validating a solution is a nuanced balancing act. It requires ensuring that your solution not only addresses the identified customer pains but is also technically feasible and economically viable. Each prototype test acts as a pivotal moment, providing crucial feedback and insights. This feedback is instrumental in making necessary adjustments and enhancements to your solution.
 
 For entrepreneurs, this iterative process of testing and refining is indispensable. It's the bridge that turns abstract ideas into concrete, market-ready products. It significantly lowers the risk of market failure and heightens the chances of creating a solution that genuinely resonates with customer needs. This chapter delves into the various stages of prototype testing. It highlights the pivotal role of customer feedback and outlines practical strategies for refining your solution.
 
-![Confirmatory testing to validate the solution with the customer](images/22_double_diamond_solution.png){width=75% #fig:test-solution}
+<!-- ![Confirmatory testing to validate the solution with the customer](images/233_solution_test.svg){width=75% #fig:test-solution} -->
 
 ## Testing with Prototypes
 

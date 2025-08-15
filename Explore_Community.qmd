@@ -1,35 +1,18 @@
 ---
 title: "Explore the Community"
-subtitle: "Exploratory experiments to gain experience and insights about the lives of your people"
+subtitle: "Exploratory experiments to gain experience and insights into the lives of your people"
 ---
-
 
 ## Unearthing Unmet Needs
 
+<img src="images/221_pain_diverge.svg" alt="Divergent exploration of the community of people to gain insight for better hypotheses of customer pain." class="wrapfig_left_25"/> 
 
-:::: {.columns}
+After choosing and confirming access to a community of people, the journey of entrepreneurial innovation continues with an in-depth exploration of their lives. This chapter delves into generative, exploratory experiments---our journey into divergent thinking---aimed at amassing a "mountain of data" about the selected community. At this stage, the emphasis is on extensive data collection, through both *primary* and *secondary research*, laying the groundwork for later interpretation and hypothesis formation. This process will reveal valuable insights, guiding us toward identifying unmet needs worthy of innovative solutions.
 
-::: {.column width="35%" }
-<!-- Divergent exploratory experiments through ethnographic and secondary research ... alt text = caption-->
-![](images/221_pain_diverge.svg){#fig-triple-diamond-explore style="max-width: 90%; height: auto;"} <!-- style="max-height: 400px;" fig-align="center" } --> <!--  fig-cap-location="top"} -->
-:::
-
-::: {.column width="65%"}
-<div style="display: table; height: 100%; width: 100%;">
-  <div style="display: table-cell; vertical-align: middle;">
-<!-- <div style="display: flex; align-items: center; height: 100%; min-height: 250px;">
-  <div> -->
-  After choosing and confirming access to a community of people, the journey of entrepreneurial innovation continues with an in-depth exploration of their lives. This chapter delves into generative, exploratory experiments---our journey into divergent thinking---aimed at amassing a "mountain of data" about the selected community. At this stage, the emphasis is on extensive data collection, through both *primary* and *secondary research*, laying the groundwork for later interpretation and hypothesis formation. This process will reveal valuable insights, guiding us toward identifying unmet needs worthy of innovative solutions.
-  
 #### Learning from Failure to Explore: Gillette's Revised Approach in India {.unnumbered}
 
 Gillette's revised strategy in India is a prime example of the effectiveness of starting with a thorough understanding of customer needs. Faced with the challenge that 500 million Indian men still relied on traditional safety razors, Gillette adopted a more customer-centric approach that ultimately led to a product embraced by the market.
   
-  </div>
-</div>
-:::
-
-::::
 
 ##### Gillette's Exploratory Experiment
 
