@@ -1,4 +1,10 @@
-# How to Reduce Uncertainty and Raise Your Odds of Success {.unnumbered}
+# Preface {.unnumbered}
+
+#### An invitation to entrepreneurs and innovators to stop guessing, stop failing, and confidently, reliably succeed through innovation
+
+---
+
+## How to Reduce Uncertainty and Raise Your Odds of Success through Innovation {.unnumbered}
 
 Entrepreneurship is thrilling—but it’s also uncertain. When you’re building something new, you’re often missing the very knowledge needed to make good decisions. Most innovation advice tells you to embrace this uncertainty or fail your way through it. But guessing isn’t a strategy, and failure is a costly teacher.
 
@@ -6,7 +12,6 @@ This book offers another way.
 
 **Expeditionary innovation** is a structured method for reducing uncertainty, discovering unmet needs, and increasing your chances of success—deliberately. It replaces intuition with insight, guessing with grounded learning, and paralysis with practical next steps.
 
----
 
 ## Why Do So Many Innovations Fail? {.unnumbered}
 
@@ -17,8 +22,6 @@ The real problem in most startups is uncertainty. Who is the right customer? Wha
 Some try to escape uncertainty through rapid iteration: launch, test, pivot, repeat.  But the odds of stumbling into a good answer this way are painfully low. If you’re doing something this difficult, you deserve a better process — one that helps you learn before you launch.
 
 
----
-
 ## The Emotional Weight of Uncertainty {.unnumbered}
 
 Uncertainty isn't just a technical problem. It's a human one.
@@ -27,7 +30,6 @@ We crave closure. We want answers. And when we don’t have them, we tend to fal
 
 Expeditionary innovation offers relief. It won’t give you instant answers, but it will give you a path. You don’t have to know the destination. You just need to trust a method that lets you discover what others overlook. You’ll know what to do next—and why it matters.
 
----
 
 ## The Expeditionary Method and the Triple Diamond Framework {.unnumbered}
 
@@ -46,17 +48,21 @@ You’ll apply this method inside the **triple diamond framework**, which maps o
 
 Each diamond is a cycle of divergence, convergence, and validation. Each test gives you knowledge instead of assumptions. And each step is one you can take with confidence.
 
----
 
 ## What This Book Offers {.unnumbered}
 
-This book is adapted from an earlier version, *Entrepreneurial Innovation* (2018), and field-tested with entrepreneurs, executives, and students. It offers:
+If you’ve ever felt like innovation is just a game of high-stakes guessing, this book will change how you work. It gives you a proven way to move from uncertainty to clarity—and to do it with confidence.
 
-- A rigorous process that reduces uncertainty  
-- A framework for discovering and validating unmet needs  
-- Tools to test ideas without gambling your resources  
-- A mindset shift: from guessing to discovering
+- A rigorous, repeatable process for reducing uncertainty
+- A framework for uncovering and validating unmet needs
+- Practical tools for testing ideas without gambling resources
+- A mindset shift—from guessing to discovering
 
-You’ll learn how to lead innovation with clarity, evidence, and integrity—even in conditions that once felt impossible to navigate.
+You’ll finish with the skills to lead innovation with clarity, evidence, and integrity—even in situations that once felt impossible to navigate.
+
+
+---
+
+This book is written by Nile Hatch and is adapted from an earlier version, *Entrepreneurial Innovation* (2018).
 
 This site is free to access, licensed under [CC BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/us/), and made possible through [Quarto](https://quarto.org/docs/books) and [Netlify](https://www.netlify.com)’s support of open innovation.
