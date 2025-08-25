@@ -1,9 +1,6 @@
----
-title: "Choose Your People"
-subtitle: "Exploration and testing to focus on a community of people"
----
+# Choose Your People {#sec-choose-people-chapter}
 
-<br>
+#### Exploration and testing to focus on a community of people {.subtitle}
 
 ## Start With People
 

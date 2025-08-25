@@ -1,0 +1,47 @@
+# Role Play Guide {#sec-role-play-guide .unnumbered} 
+
+This guide should be used with the methods outlined in the @sec-role-play-section section of [Chapter @sec-explore-community-chapter].
+
+---
+
+Role play lets you step into your customer’s shoes and act out their experience. It surfaces pain points, emotions, and breakdowns you might not see from the outside.
+
+## When to Use
+- To simulate tasks or situations where direct observation isn’t possible.
+- To explore how customers might feel using a new process, product, or service.
+- To test for friction points in journeys before building solutions.
+
+## Setup
+1. **Define the Scenario**: What situation are you reenacting? (“Ordering lunch through a delivery app,” “navigating the airport with a stroller,” etc.).
+2. **Assign Roles**: Someone acts as the customer, others as staff, systems, or obstacles.
+3. **Gather Props**: Use physical stand-ins (phone, chair, bag, sticky notes) to make it real.
+4. **Clarify Goals**: What do you hope to learn? Pain points? Emotions? Workarounds?
+
+## Running the Role Play
+- **Act It Out**: Walk through the task as realistically as possible. Stay in character.
+- **Narrate Feelings**:– Pause to voice what the “customer” feels (“This step feels confusing.”).
+- **Iterate**: Replay with variations (different personas, contexts, or constraints).
+- **Observe & Record**: Note where frustration, delay, or improvisation appears.
+
+## Key Questions
+- Where did confusion, hesitation, or frustration occur?
+- What emotions surfaced (stress, delight, boredom)?
+- Which workarounds did the “customer” invent?
+- What surprised you compared to your expectations?
+
+::: callout-note
+**Common Confusion:**  
+
+- It’s not acting class — the goal is empathy, not performance.
+- Don’t design solutions yet — focus on experiencing the pain, not fixing it.
+- Props don’t have to be perfect — rough stand-ins are enough to trigger insight.
+:::
+
+## Afterward
+- Debrief as a team — What did we learn? What new hypotheses emerged?
+- Compare with real observations — do the pains match what customers actually experience?
+- Capture quotes, sketches, and surprises immediately before memory fades.
+
+---
+
+*For a practical checklist to use in the field, see the “Role Play Guide” in the Experimentation Toolkit.*

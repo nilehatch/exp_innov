@@ -1,0 +1,92 @@
+# Supporting Experiment — Sarah Thompson Interview {#sec-conversation-a-ha .unnumbered}
+
+#### Following the toolkit naming conventions, this file is named `exp-04a-conversation-sarah-thompson-2025-02-24.qmd`. {.subtitle} 
+
+
+## General Info
+- **Title / Observation Type**: Interview with Sarah Thompson, Professional Woman Commuter  
+- **Date**: [24 February 2024]  
+- **Location / Setting**: Outside Queens–Midtown subway route, New York  
+- **Team Member(s)**: Nile  
+- **Modality**: Interview (exploratory)  
+- **Linked Primary Experiment**: Diamond 2 — Find and Validate Pain for Professional Women Commuters  
+
+---
+
+## 1. Clarify the Unknown 
+- **Most Urgent Unknown**: What pains or unmet needs do professional women face during their daily commute?  
+- **Other Urgent Unknowns**: 
+
+    1. Are these pains related more to predictability, safety, or control?  
+    2. What is the most salient stage of the commute?
+    3. Are the pains different for professional women and college students?
+
+---
+
+## 2. Experiment Type
+- [x] Exploratory Experiment  
+- [ ] Confirmatory Experiment  
+- [ ] Technical Experiment  
+
+---
+
+## 3. Modality and Fit
+- **Modality Chosen**: Guided conversation interview using the Conversation Guide  
+- **Why it fits**: Allows uncovering of personal stories and emotional triggers around commuting, rather than surface-level or hypothetical responses.  
+
+---
+
+## 4. Design
+- **Source of Evidence**: Professional women exiting/entering subway stations  
+- **Collection Mechanism**: Halo Alert Conversation Guide (story-first + emotional probes)  
+- **Sampling Strategy**: Walk-up interviews of commuters during morning/evening transitions  
+- **Sample Size Goal**: 2–5 interviews (Sarah = first participant)  
+
+---
+
+## 5. Execution Notes
+- Approached Sarah leaving Astoria station during morning commute.  
+- Rapport established; she described a full door-to-door journey.  
+- Interview lasted ~20 minutes, recorded with consent.  
+- No major deviations, though follow-up questions leaned heavily into emotional triggers (e.g., frustration during reroutes).  
+- Sample bias: early-morning commuter, professional context, not representative of all demographics.  
+
+---
+
+## 6. Results and Data Summary
+
+**Representative Evidence (Excerpts):**
+
+- *On rerouting*:  
+  “You develop this sort of rhythm in your daily routine, and unexpected changes, even small ones, can throw you off… I wasn’t familiar with the detour route, which made me slightly anxious.”  
+
+- *On crowded trains*:  
+  “I do find myself becoming more vigilant… It’s not outright fear, but there’s definitely a sense of wariness… My pulse quickens if someone brushes against me.”  
+
+- *On personal discomfort*:  
+  “The most uncomfortable part is overcrowded trains — personal space disappears, and getting off at my stop becomes nerve-wracking.”  
+
+- *On safety routines*:  
+  “Whenever I’m commuting late, I send a quick text to my roommate or close friend. We even set up a system — if I don’t check in by a certain time, she knows to reach out.”  
+
+**Themes Identified (from notes):**  
+- Predictability matters (disruption = frustration + anxiety).  
+- Vigilance over belongings in crowds (heightened alertness, not fear).  
+- Discomfort tied to *situations* (overcrowding, darkness) rather than locations.  
+- Coping routines create a sense of *control and connection*.  
+
+[Link: Exp 04.a Full Transcript — Sarah Thompson Interview](exp-04.a-results-full-transcript-2025-02-24.qmd)  
+
+---
+
+## 7. Knowledge Updating
+- **What do you now know?** Commuters balance efficiency and safety, but psychological security (control, predictability, connection) is as important as physical safety.  
+- **Confidence level**: Moderate — consistent with expectations but revealed richer emotional nuance than hypothesized.  
+- **Assumptions updated**: Originally assumed “safety risk” was primarily physical (theft, assault). In reality, *feeling safe* often comes from **control routines** (e.g., texts, route choice).  
+
+---
+
+## 8. Next Steps
+- Interview additional women at different times (late evening, early morning, non-rush hour).  
+- Cross-validate with observational notes at stations.  
+- Cluster across multiple transcripts to draft a **pain hypothesis** around *predictability + reassurance*.  

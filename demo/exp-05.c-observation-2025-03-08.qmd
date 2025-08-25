@@ -1,0 +1,55 @@
+# Observation: Evening Subway Exit (8 PM, Manhattan) {#sec-observation-b-ha .unnumbered}
+
+#### Following the toolkit naming conventions, this file is named `exp-05c-observation-2025-03-06.qmd`. {.subtitle} 
+
+---
+
+- **Date & Time:** 2025-03-08, ~11:00 PM  
+- **Location:** Urban university campus and nearby streets
+- **Observer:** Nile + Seth
+- **Consent:** Public-space observation (no identifying details recorded).  
+
+---
+
+## 1. Clarify the Unknown
+- **Most Urgent Unknown**: How do students and young women navigate safety, sociality, and mobility late at night on campus?  
+- **Context**: Campus transitioning into night; mix of students leaving classes, social groups, and late-night commuters.  
+
+## 2. Raw Observation Notes
+- Group heading for social activity, laughing, some isolated.  
+- Three women walking alone with backpacks and textbooks, focused but glancing around nervously.  
+- Group of three women laughing, close together, relaxed.  
+- Solo woman brisk with headphones, eyes ahead, occasionally checks behind.  
+- Two women with dog, conversing, ensuring pet is secure.  
+- Woman on bench scrolling phone, waiting, checking surroundings.  
+- Woman exits campus building, hoodie up, walks under streetlights, quick pace.  
+- Cyclist with backpack, steady pace, careful navigation.  
+- Jogger with reflective gear, earbuds, nodding to others.  
+- Person near campus map comparing phone and map.  
+- Two women walking side by side, one reassuring other who clutches bag.  
+- Woman at bus stop under light, checks schedule, reserved.  
+- Student with stack of books leaving library, chooses well-lit path, cautious.  
+- Solo woman eating snack, relaxed but scanning shadows.  
+- Two women leaving study group, deep in discussion, purposeful stride.  
+- Woman exits campus, shifts demeanor to alert, quickens pace, avoids dark areas.  
+
+## 3. Emerging Patterns & Surprises
+- **Visible frictions**:  
+  - Anxiety about safety in darker or isolated areas.  
+  - Navigational uncertainty (maps, routes).  
+  - Managing mobility while carrying heavy loads (books, bags).  
+
+- **Workarounds**:  
+  - Sticking to lit paths, hoodies up, brisk walking.  
+  - Walking in pairs/groups for safety.  
+  - Using pets, music, or phones as comfort/distraction.  
+
+- **Social dynamics**:  
+  - Groups feel relaxed and expressive.  
+  - Solo travelers visibly tense, often scanning surroundings.  
+  - Small rituals of reassurance (friends calming each other, nods to joggers).  
+
+## 4. Next Steps
+- Explore how late-night students perceive campus safety and what tools they use to cope.  
+- Test whether group-walking apps, buddy systems, or lighting interventions reduce anxiety.  
+- Interview students about trade-offs between independence, convenience, and safety measures.  

@@ -1,0 +1,99 @@
+# Halo Alert Demonstration  {#sec-demo-part .unnumbered}  
+
+#### Worked examples that show the expeditionary method in action {.subtitle} 
+
+
+::: callout-note
+💡 **Tip:** This section contains many short demo “chapters.”  
+If you don’t see them in the sidebar, click the ▶ arrow next to **Halo Alert Demos** to expand the list.
+:::
+
+# Purpose of this Demo Part {#sec-demos-purpose}
+
+This book teaches a **repeatable process** for reducing uncertainty and finding unmet needs.  
+The **Halo Alert** demos show that process **as it actually looks in practice**—field notes, interview transcripts, observation logs, clustering, hypotheses, and confirmatory tests—so students can trace each step and reuse the same tools on their own projects.
+
+- **Narrative + How-to:** Every method chapter in the book explains *why* and *how*.  
+  These demos show *what it looks like* when a real team does the work.
+- **Linkable & modular:** Each demo stands alone, and chapters link back to the relevant toolkit guides (templates, checklists, prompts).
+- **Right level of detail:** Brief vignettes for quick ideas; full transcripts where depth helps (e.g., conversations).
+
+# What is Halo Alert? {#sec-what-halo-alert}
+
+**Halo Alert** is a fictitious—but realistic—project about **reassurance and safety** for **women who walk as part of their commute** (including professional women and female university students).  
+The core concept explores **discreet, low-friction ways to stay connected** (e.g., a subtle trigger that signals “I need you watching me now”) without escalating situations or requiring overt phone use.
+
+> Background: The seed idea came from a student team that later disbanded; no IP is being pursued. We use the scenario here as a **teaching demo**.
+
+# How to Use This Demo Part {#sec-how-to-use}
+
+1. **Read the appropriat narrative chapter** first (e.g., Explore the Community, Hypthesize a Pain…).  
+2. **Skim the matching toolkit guide** for the method (template + checklist).  
+3. **Open the corresponding Halo Alert demo** to see the method *applied* (design → execution → evidence → learning → next steps).
+
+Keep your own **data room** in parallel: copy the templates, adapt the guides, and mirror the demo structure (file naming, links, and cross-refs).
+
+# What’s Included (Quick Map) {#sec-whats-included}
+
+## Diamond 1 — Choose the People
+- Access exploration & outreach protocol *(stubs/placeholders as you add)*
+
+## Diamond 2 — Understand the Unmet Need
+- **Conversation method**
+  - Guide adaptation: [Conversation Guide — Halo Alert Commuters](../toolkit/conversation-guide.qmd)
+  - Supporting experiments:
+    - [Exp 04 — Commuter Conversation: Sarah Thompson](exp-04-conversation-sarah-2025-02-24.qmd)
+    - [Exp 05 — Commuter Conversation: Emily Rivera](exp-05-conversation-emily-2025-02-24.qmd)
+- **Observation method**
+  - Guide: [Observation Guide](../toolkit/observation-guide.qmd)  <!-- if you stored it in toolkit -->
+  - Supporting experiments:
+    - Exp 06 — Observation: Morning Subway Exit
+    - Exp 07 — Observation: Evening Subway Entrance
+    - Exp 08 — Observation: University Campus at Night
+- **Synthesis & validation**
+  - Theme clustering & need statements
+  - Pain hypothesis & validation plan
+
+## Diamond 3 — Build the Right Solution
+- Divergent ideation snapshots and filters
+- Prototype tests (usability, desirability)
+- Wow factor & WTP (confirmatory)
+- Profit analytics summary
+
+> As you add files, keep them **lowercase with dashes** (e.g., `exp-06-observation-morning-exit.qmd`) and set pretty titles inside the files.
+
+# Conventions & Reuse {#sec-conventions}
+
+- **Templates:** Primary & Supporting Experiment templates live in the Toolkit; each demo links back to them.  
+- **Structure:** Each supporting experiment includes: *Unknown → Design → Execution → Evidence → Knowledge update → Next steps*.  
+- **IDs & Links:** Use stable anchors (e.g., `#sec-conversation-guide`) for cross-refs from narrative chapters.  
+- **File naming:** `exp-XX-[modality]-[short-label]-YYYY-MM-DD.qmd` (sortable, human-readable).
+
+# Ethics & Privacy {#sec-ethics}
+
+- **Pseudonyms** are used and personally identifying details are removed or altered.  
+- **Public-space observations** avoid facial features and identifying markers; private locations require permission.  
+- **Do no harm:** Avoid interventions that could escalate risk; prefer **reassurance** over confrontation.  
+- **Consent:** For recorded conversations, obtain explicit permission and state your non-sales intent.
+
+# How These Demos Connect to the Toolkit {#sec-connect-toolkit}
+
+Every demo ties to at least one guide:
+
+- Conversations → see @sec-conversation-guide  
+- Observation → see @sec-observation-guide  
+- Supporting/Primary Experiment templates → Toolkit section
+
+The intent is **traceability**: a student can jump from a technique in the narrative → to a guide → to a concrete Halo Alert example → and back to their own data room with the same template.
+
+# What to Look For (Learning Lenses) {#sec-lenses}
+
+- **Signals of unmet need**: friction, workaround, anxiety, surprise, “I wish…”  
+- **Moderators**: lighting, crowd density, time of day, route familiarity  
+- **Reassurance patterns**: connection rituals (texts/ETAs), discreet triggers, route choices  
+- **Decision rules**: how each experiment updates beliefs and points to the next test
+
+# License & Attribution {#sec-license}
+
+This demo content follows the book’s license (CC BY-NC-ND 3.0).  
+Use in teaching is encouraged; please attribute **Expeditionary Innovation — Halo Alert Demos** and retain the license notice.

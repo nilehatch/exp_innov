@@ -1,0 +1,35 @@
+# Observation Guide {#sec-observation-guide .unnumbered} 
+
+This guide should be used with the methods outlined in the @sec-observation-section section of [Chapter @sec-explore-community-chapter].
+
+---
+
+If conversations help people tell their stories, observation lets you see the parts of those stories they don’t or can’t put into words. People often normalize their frustrations — they stop noticing the little workarounds, delays, and mismatches that shape their daily lives. By watching closely in context, you surface unmet needs that would remain invisible in an interview. This is why we call observation an *experiment in context*: your decision to focus attention on a setting, group, or behavior is a deliberate probe into reality.
+
+Observation can take many forms. Sometimes it means sitting quietly in a coffee shop and watching how students interact with payment systems. Other times it means shadowing a nurse during a hospital shift, or watching commuters board buses at peak hours. What matters is that you are deliberate about what you are trying to learn and systematic in how you capture what you see.
+
+## How to Observe
+
+- **Pay attention to actions, not just words.** Watch what people actually do, not only what they claim to do.  
+- **Notice workarounds.** When people invent hacks or shortcuts, that often signals pain points.  
+- **Look for friction.** Moments of hesitation, frustration, or repetition can indicate unmet needs.  
+- **Stay unobtrusive.** The less you interfere, the more authentic the behavior you’ll see.  
+
+## Recording What You See
+
+Take notes immediately, even if rough. Sketch the environment if it helps. Capture direct quotes or memorable phrases. Write down sequences of actions (“first… then… next…”) and note the tools, layouts, and constraints that shape the experience.  
+
+If you’re working as a team, assign one person to observe and another to capture notes. Afterward, regroup quickly while details are fresh, and compare what each person noticed. Often, different observers will see very different things — triangulation adds depth.
+
+## Turning Observation into Insight
+
+Raw notes aren’t enough. You need to translate observations into possible explanations and hypotheses. That might mean clustering observations around recurring themes, or asking, *What surprised us? What seemed ordinary? What does this tell us about how people experience this part of their world?* From there, you can decide what to test further in conversation, survey, or secondary research.  
+
+::: callout-note
+**Common Confusion:**  
+Observation is not passive. It is an experiment in context, shaped by where you look and what you choose to notice. The goal is not to be invisible, but to surface insights that guide the next round of exploration.  
+:::
+
+---
+
+*For a practical checklist to use in the field, see the “Observation Guide” in the Experimentation Toolkit.*

@@ -1,0 +1,70 @@
+# Conversation Guide  {#sec-conversation-guide-ha .unnumbered}  
+
+#### Halo Alert Commuter Interviews {.subtitle} 
+
+**Context:** These interviews were part of the *Halo Alert* team’s early exploratory experiments during **Diamond 2: Understand an Unmet Need**. The team focused on professional women and female university students who commute via walking and public transit.  
+
+---
+
+## Before the Conversation  
+- **Protocol:** Engage women commuters outside urban/suburban metro stations. Aim for natural, conversational tone rather than a rigid questionnaire.  
+- **Resources:** Notebook + recorder (with consent).  
+- **Introduction:**  
+  “Hi, my name is Nile. I’m working on a student project to better understand people’s commuting experiences. I’m not selling anything — I’d just love to hear your perspective. The conversation will take 15–20 minutes. Is it okay if I ask a few questions, and possibly record for accuracy?”  
+
+---
+
+## Opening and Rapport  
+- Exchange names, age (optional), and commuting origin/destination.  
+- Ask about the *shape of their commute* (walking, subway, bus, etc.).  
+
+---
+
+## Story-First Questions  
+(Anchor to *specific past commutes*.)  
+1. “Tell me about your last commute.”  
+   - Probe: “What stood out about that day?”  
+   - Probe: “What was different from your usual?”  
+
+2. “What’s the most hectic part of your commute?”  
+   - Probe: “How do you feel in those moments?”  
+   - Probe: “What do you do to manage the chaos?”  
+
+3. “When do you feel uncomfortable during your commute?”  
+   - Probe: “Can you tell me about a time when that happened?”  
+   - Probe: “What did you do to handle it?”  
+
+4. “Are you ever concerned about your belongings?”  
+   - Probe: “What goes through your mind in crowded spaces?”  
+
+5. “How safe do you feel, personally, during your commute?”  
+   - Probe: “Can you describe a time when you felt unsafe?”  
+   - Probe: “How did you respond in that moment?”  
+
+---
+
+## Emotional Triggers  
+(Probe when you notice body language or emotion.)  
+- “I noticed you paused there — can you tell me more?”  
+- “Why was that stressful for you?”  
+- “What would I not expect about that experience?”  
+- Use **5 Whys** to dig into root causes: “Why was that important to you?”  
+
+*Example tied to Sarah:* “It seems like you were frustrated by the detour, even though you arrived fine. Why did that throw you off?”  
+
+*Example tied to Emily:* “You mentioned feeling tense walking home at night. Why does the lighting or quietness affect you so strongly?”  
+
+---
+
+## Closing  
+- “Has your commute changed over time? How?”  
+- “What routines or habits help you feel safer?”  
+- “Who else should we talk to who might have different commuting experiences?”  
+- Thank them sincerely and explain: “Your experiences will help us better understand commuting challenges. We’ll never use your name, but your story helps us see patterns.”  
+
+---
+
+## After the Conversation  
+- **Debrief immediately:** What surprised us? What patterns did we hear?  
+- **Document:** Store transcript + notes in the Supporting Experiment template.  
+- **Feed into analysis:** Later cluster insights into themes (predictability, vigilance, connection).  

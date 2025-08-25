@@ -1,0 +1,32 @@
+# Experiment Log Tracker {#sec-experiment-log-tracker .unnumbered}
+
+#### Use a spreadsheet to track all of your experiments {.subtitle} 
+
+## Track Your Experiments
+
+This is a spreadsheet to track all primary and secondary experiments.  Columns in the spreadsheet would include
+
+- Experiment \#	
+- Date(s)	
+- Experiment title
+- Type: (exploratory experiment, confirmatory experiment, technical experiment)
+- Modality
+
+    - observation
+    - conversation
+    - role play
+    - secondary research
+    - A/B testing
+    - feature verification
+    - many others
+    - 
+    
+- Urgent Unknown	
+- Link to Google doc	
+- Summary of results	
+- Confidence score	
+
+    How confident are you in your conclusions.  Convenience sampling, small samples, ineffective questions, and myriad other experiment execution limitations would lower your confidence.
+    
+- Next action
+

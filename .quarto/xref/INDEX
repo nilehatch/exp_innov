@@ -1,50 +1,128 @@
 {
   "index.qmd": {
-    "index.html": "7a69e442"
-  },
-  "intro.qmd": {
-    "intro.html": "c7790ce4"
-  },
-  "summary.qmd": {
-    "summary.html": "45f6cae7"
-  },
-  "references.qmd": {
-    "references.html": "c35763ab"
+    "index.html": "b68b679d"
   },
   "Expeditionary_Innovation.qmd": {
-    "Expeditionary_Innovation.html": "8478edd9"
+    "Expeditionary_Innovation.html": "275a54bf"
   },
   "Organize_Team.qmd": {
-    "Organize_Team.html": "43ff1a19"
+    "Organize_Team.html": "b9783f2a"
   },
   "Choose_People.qmd": {
-    "Choose_People.html": "3ca1581a"
+    "Choose_People.html": "cd871037"
   },
   "Explore_Community.qmd": {
-    "Explore_Community.html": "35d21f6f"
+    "Explore_Community.html": "56d9520b"
   },
   "Hypothesize_Pain.qmd": {
-    "Hypothesize_Pain.html": "e70b01dd"
+    "Hypothesize_Pain.html": "179e52a5"
   },
   "Validate_Pain.qmd": {
-    "Validate_Pain.html": "7b019200"
-  },
-  "Ideate_Solution.qmd": {
-    "Ideate_Solution.html": "32175b91"
-  },
-  "Hypothesize_Solution.qmd": {
-    "Hypothesize_Solution.html": "746f5524"
-  },
-  "Test_Solution.qmd": {
-    "Test_Solution.html": "87854726"
-  },
-  "Conclusion.qmd": {
-    "Conclusion.html": "00396cf5"
+    "Validate_Pain.html": "afd1701d"
   },
   "Ideate_Solutions.qmd": {
-    "Ideate_Solutions.html": "3230ffee"
+    "Ideate_Solutions.html": "8efec71f"
+  },
+  "Hypothesize_Solution.qmd": {
+    "Hypothesize_Solution.html": "4b1e76d1"
+  },
+  "Test_Solution.qmd": {
+    "Test_Solution.html": "1f586060"
+  },
+  "Conclusion.qmd": {
+    "Conclusion.html": "17249508"
   },
   "Experimentation_Toolkit.qmd": {
-    "Experimentation_Toolkit.html": "e0589776"
+    "Experimentation_Toolkit.html": "ec0fb7e0"
+  },
+  "Conversation_Guide.qmd": {
+    "Conversation_Guide.html": "0813a4ce"
+  },
+  "Observation_Guide.qmd": {
+    "Observation_Guide.html": "3ec6bfe4"
+  },
+  "Role_Play_Guide.qmd": {
+    "Role_Play_Guide.html": "03d59c92"
+  },
+  "Secondary_Research_Guide.qmd": {
+    "Secondary_Research_Guide.html": "620385c0"
+  },
+  "Primary_Experiment_Template.qmd": {
+    "Primary_Experiment_Template.html": "2e80c60f"
+  },
+  "Supporting_Experiment_Template.qmd": {
+    "Supporting_Experiment_Template.html": "c28b69c5"
+  },
+  "Experiment_Log_Tracker.qmd": {
+    "Experiment_Log_Tracker.html": "3dfbd3b9"
+  },
+  "references.qmd": {
+    "references.html": "e0814cb2"
+  },
+  "Survey_Guide.qmd": {
+    "Survey_Guide.html": "23067ff7"
+  },
+  "toolkit/Primary_Experiment_Template.qmd": {
+    "Primary_Experiment_Template.html": "42637e98"
+  },
+  "toolkit/Supporting_Experiment_Template.qmd": {
+    "Supporting_Experiment_Template.html": "ea602ddc"
+  },
+  "toolkit/Experiment_Log_Tracker.qmd": {
+    "Experiment_Log_Tracker.html": "0ee1d34e"
+  },
+  "toolkit/Conversation_Guide.qmd": {
+    "Conversation_Guide.html": "3210cd40"
+  },
+  "toolkit/Observation_Guide.qmd": {
+    "Observation_Guide.html": "5bd26683"
+  },
+  "toolkit/Role_Play_Guide.qmd": {
+    "Role_Play_Guide.html": "48c52118"
+  },
+  "toolkit/Survey_Guide.qmd": {
+    "Survey_Guide.html": "fe6e1bc9"
+  },
+  "toolkit/Secondary_Research_Guide.qmd": {
+    "Secondary_Research_Guide.html": "b6f88de4"
+  },
+  "demo/Conversation_Guide_ha.qmd": {
+    "Conversation_Guide_ha.html": "2c011d42"
+  },
+  "toolkit/Experimentation_Toolkit.qmd": {
+    "Experimentation_Toolkit.html": "e77d58c1"
+  },
+  "demo/exp-04.a-conversation-sarah-thompson-2025-02-24.qmd": {
+    "exp-04.a-conversation-sarah-thompson-2025-02-24.html": "35b1f570"
+  },
+  "demo/exp-04.a-results-full-transcript-2025-02-24.qmd": {
+    "exp-04.a-results-full-transcript-2025-02-24.html": "bbd192d3"
+  },
+  "demo/_diamond2-separator.qmd": {
+    "_diamond2-separator.html": "d04ffbb6"
+  },
+  "demo/exp-04.b-conversation-emily-rivera-2025-02-25.qmd": {
+    "exp-04.b-conversation-emily-rivera-2025-02-25.html": "84160ce7"
+  },
+  "demo/exp-04.b-results-full-transcript-2025-02-25.qmd": {
+    "exp-04.b-results-full-transcript-2025-02-25.html": "86626e19"
+  },
+  "demo/exp-05.a-observation-2025-03-05.qmd": {
+    "exp-05.a-observation-2025-03-05.html": "7b5a9b8b"
+  },
+  "demo/exp-05.b-observation-2025-03-06.qmd": {
+    "exp-05.b-observation-2025-03-06.html": "23df2829"
+  },
+  "demo/exp-05.c-observation-2025-03-08.qmd": {
+    "exp-05.c-observation-2025-03-08.html": "7b2023cb"
+  },
+  "demo/_diamond1-separator.qmd": {
+    "_diamond1-separator.html": "1c1675f9"
+  },
+  "demo/_diamond3-separator.qmd": {
+    "_diamond3-separator.html": "dcb8a9bc"
+  },
+  "demo/demo-halo-alert.qmd": {
+    "demo-halo-alert.html": "8528fdc6"
   }
 }

@@ -1,0 +1,52 @@
+# Observation: Evening Subway Exit (8 PM, Manhattan) {#sec-observation-b-ha .unnumbered}
+
+#### Following the toolkit naming conventions, this file is named `exp-05b-observation-2025-03-06.qmd`. {.subtitle} 
+
+---
+
+- **Date & Time:** 2025-03-06, ~8:00 PM  
+- **Location:** Manhattan subway entrance, 8 PM   
+- **Observer:** Seth
+- **Consent:** Public-space observation (no identifying details recorded).  
+
+---
+
+## 1. Clarify the Unknown
+- **Most Urgent Unknown**: How do commuters balance safety, fatigue, and social interaction in evening transit routines?  
+- **Context**: Post-workday, evening crowd, mix of commuters and locals.  
+
+## 2. Raw Observation Notes
+- Business formal woman with laptop bag, walking briskly, repeatedly checking phone, quickens pace after seeing time. Also scans surroundings and sticks to streetlights.  
+- Couple on bench sharing takeout, unwinding after day. Not co-workers, more personal connection.  
+- Musician playing near entrance, soft guitar music.  
+- Group around food cart, laughing, snacking, socializing.  
+- Woman in business attire sitting on bench, checking phone, visibly tired, clutching bag.  
+- Group of young professionals, casually dressed with work bags, animated discussion.  
+- Solo traveler (young woman with backpack), anxious, checking map, boards, phone, surroundings repeatedly.  
+- Worker in uniform carrying cleaning supplies, fatigued.  
+- Woman in red coat rushes out of subway, checks watch, accelerates.  
+- Lady with tote bag fumbles with earphones, drops one, multitasking.  
+- Young woman in business suit on phone, brisk pace.  
+- Person juggling multiple bags and coffee, stops to rearrange before continuing.  
+
+## 3. Emerging Patterns & Surprises
+- **Visible frictions**:  
+  - Safety concerns (choosing lit paths, scanning surroundings).  
+  - Fatigue and stress after workday.  
+  - Burden of multitasking (bags, food, coffee, tech).  
+
+- **Workarounds**:  
+  - Sticking to streetlights to avoid risk.  
+  - Rearranging bags mid-commute.  
+  - Taking rest breaks (sitting, eating, chatting).  
+
+- **Social dynamics**:  
+  - Shared food/social rituals as decompression.  
+  - Music as soft community anchor.  
+  - Solo travelers visibly more anxious, vulnerable.  
+
+## 4. Next Steps
+- Investigate how evening commuters perceive personal safety and what strategies they rely on.  
+- Explore whether food, music, or shared pauses meaningfully reduce commuter stress.  
+- Test whether fatigue and multitasking open opportunities for commuter support services (carry aids, mobile tools, safety apps).  
+

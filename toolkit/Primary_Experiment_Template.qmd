@@ -1,0 +1,50 @@
+# Primary Experiment Template {.unnumbered}
+
+#### Use this template to conduct the primary experiment represented by a complete diamond {.subtitle} 
+
+## Primary Experiments
+
+Each primary experiment is one diamond in the triple diamond framework.  The primary experiments are
+
+- People access
+- Pain validation
+- Solution validation and testing with prototypes
+
+> Every **Supporting Experiment** should be linked in your **Primary Experiment** document and tracked in your **Experiment Log Tracker**.
+> 
+> * **Primary Experiment Template** documents your full inquiry into expeditionary innovation unknowns. It will often include multiple forms of data collection and synthesis over time.\
+> * **Supporting Experiment Template** documents each individual exploratory, confirmatory, or technical experiment. These are the building blocks that generate evidence, insight, or surprise.
+
+## General Info
+- **Title**: [Descriptive Name]\
+- **Date(s)**:\
+- **Team Members Involved**:
+
+## 1.  Clarify the Unknown
+- **Most Urgent Unknown**: What uncertainty are you trying to reduce?
+- **Other Urgent Unknowns**: Why is this one most pressing?
+
+## 2. Modalities and Data Sources
+- **Modalities Used** (e.g., Interviews, Observations, Social Media, etc.):
+- **Supporting Experiment Logs**: (Link to supporting experiment docs)
+- **Why this mix?** What makes this combination appropriate for the unknown?
+
+## 3. Synthesis of Design and Implementation
+- What kinds of people or data sources were targeted?
+- Sampling challenges or bias concerns?
+- Key notes across different collection types?
+
+## 4. Summary of Results and Patterns
+- Summarize major insights, themes, or findings
+- Were there convergences or contradictions?
+- Refer to **supporting experiment docs** for detail
+
+## 5. Knowledge Updating
+- What do you now believe more strongly?
+- What surprised you?
+- How confident are you? Why?
+- Did this lead to a new hypothesis, persona, need statement, or opportunity?
+
+## 6. Next Steps
+- What follow-up experiment or decision does this point to?
+

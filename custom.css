@@ -232,7 +232,7 @@ table tfoot, table .footnotes {
 @media (max-width: 768px) {
   .innovation-typology-table th[scope="row"], .innovation-typology-table td:first-child {
     width: auto;
-    display: block; 
+    display: block;
   }
   .innovation-typology-table th, .innovation-typology-table td {
     display: block;
@@ -316,10 +316,10 @@ table tfoot, table .footnotes {
 }
 
 /* 4) Pull quote (use sparingly)
-   In qmd: 
+   In qmd:
    ::: {.pull-quote}
    Your short, resonant line.
-   ::: 
+   :::
 */
 .pull-quote {
   margin: 1.25rem 0;
@@ -396,3 +396,141 @@ a:hover, a:focus {
 .callout-demo .callout-title {
   font-weight: bold;
 }
+
+/* Subtitles under chapter headings */
+.subtitle {
+  display: block;         /* ensures it takes a full line */
+  font-size: 1.1rem;      /* slightly smaller than main heading */
+  font-weight: 400;       /* lighter than headings */
+  color: #666;            /* muted gray tone */
+  margin-top: -0.5em;     /* pulls subtitle closer to the title */
+  margin-bottom: 1em;     /* gives breathing room before body text */
+  font-style: italic;     /* optional — creates contrast */
+}
+
+
+/* ====== Breadcrumbs INSIDE banner: improved contrast ====== */
+.quarto-title-breadcrumbs {
+  color: rgba(255,255,255,0.85);
+  text-shadow: 0 1px 1px rgba(0,0,0,0.25);
+  font-size: 0.9rem;
+  margin-bottom: 0.35rem; /* space before the main title */
+}
+
+.quarto-title-breadcrumbs a {
+  color: rgba(255,255,255,0.9);
+  text-decoration: none;
+}
+.quarto-title-breadcrumbs a:hover,
+.quarto-title-breadcrumbs a:focus {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.quarto-title-breadcrumbs .bi,
+.quarto-title-breadcrumbs .breadcrumb-item + .breadcrumb-item::before {
+  color: rgba(255,255,255,0.7);
+}
+
+/* subtle separator line below breadcrumbs (optional) */
+.quarto-title-breadcrumbs::after {
+  content: "";
+  display: block;
+  height: 1px;
+  margin-top: 0.35rem;
+  background: linear-gradient(to right, rgba(255,255,255,0.25), rgba(255,255,255,0));
+}
+
+/* ========================
+   Breadcrumbs in title banner
+   Keep the part; hide the current chapter item
+   ======================== */
+
+/* Make breadcrumbs readable on the blue banner */
+.quarto-title-breadcrumbs {
+  color: rgba(255,255,255,0.92);
+}
+.quarto-title-breadcrumbs .breadcrumb-item a {
+  color: rgba(255,255,255,0.92);
+  text-decoration: none;
+}
+.quarto-title-breadcrumbs .breadcrumb-item a:hover,
+.quarto-title-breadcrumbs .breadcrumb-item a:focus {
+  text-decoration: underline;
+}
+
+/* Subtle separator color */
+.quarto-title-breadcrumbs .breadcrumb-item + .breadcrumb-item::before {
+  color: rgba(255,255,255,0.65);
+  padding: 0 0.35rem; /* breathing room around the “>” */
+}
+
+/* Hide the current page (chapter) in the breadcrumb */
+.quarto-title-breadcrumbs .breadcrumb-item.active {
+  display: none;
+}
+
+/* === Quarto breadcrumbs inside the title banner === */
+
+/* 1) Put the crumbs inside the banner (you already like this) */
+.quarto-title-block .quarto-title-breadcrumbs {
+  position: static;            /* keep them in-flow inside the banner */
+  margin-bottom: 0.35rem;
+}
+
+/* 2) Make the text + separators legible on the blue banner */
+.quarto-title-block .quarto-title-breadcrumbs .breadcrumb-item,
+.quarto-title-block .quarto-title-breadcrumbs .breadcrumb-item a {
+  color: #ffffff !important;
+}
+.quarto-title-block .quarto-title-breadcrumbs .breadcrumb-item + .breadcrumb-item::before {
+  color: #ffffff !important;   /* the “>” (separator) */
+}
+
+/* Hide the last breadcrumb (the chapter title) */
+.quarto-title-block .quarto-title-breadcrumbs .breadcrumb-item:last-child {
+  display: none;
+}
+/* Make sure we don't leave a trailing separator behind */
+.quarto-title-block .quarto-title-breadcrumbs .breadcrumb-item:last-child::before {
+  content: none;
+}
+
+
+/* Branded divider for tool boundaries */
+hr.method-divider {
+  border: 0;
+  height: 6px;
+  margin: 2rem 0 1.25rem;     /* space before/after */
+  border-radius: 4px;
+  background: linear-gradient(90deg, var(--ei-primary), var(--ei-primary-dark));
+}
+
+/* Slightly lighter + thinner on small screens/print */
+@media (max-width: 640px), print {
+  hr.method-divider { height: 4px; }
+}
+
+/* Works for H2 or H3 with {.method-header} */
+h2.method-header, h3.method-header {
+  position: relative;
+  padding-left: 0.85rem; /* room for the stripe */
+}
+
+h2.method-header::before, h3.method-header::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.3em;                 /* vertically aligns with text */
+  width: 6px;
+  height: 1.2em;              /* scales with line-height */
+  background: var(--ei-primary);
+  border-radius: 3px;
+}
+
+/* Slightly softer on mobile/print */
+@media (max-width: 640px), print {
+  h2.method-header::before, h3.method-header::before { width: 5px; }
+}
+
+

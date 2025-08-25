@@ -1,0 +1,35 @@
+# Secondary Research Guide {#sec-secondary-research-guide .unnumbered} 
+
+This guide should be used with the methods outlined in the @sec-secondary-research-section section of [Chapter @sec-explore-community-chapter].
+
+---
+
+Secondary research helps you explore what is *already known* about your community, market, and competitors.  Use it to avoid rediscovering basics, sharpen your primary exploration, and ground your insights in broader context.
+
+## What to Search For
+- **Customer insights**: demographics, psychographics, behaviors, usage patterns.  
+- **Market analysis**: market size, growth rates, adoption trends.  
+- **Competitor analysis**: existing players, their models, strengths, and gaps.  
+- **Industry & environment trends**: technology, regulation, cultural shifts, economics.  
+
+## Where to Look
+- **Free and open sources**:  
+  - Government portals (e.g., census, labor data, trade stats)  
+  - Google Trends, social media trend tools  
+  - World Bank, OECD, NGO/think tank reports  
+  - Business press and consulting firm white papers  
+
+- **Paid / institutional sources**:  
+  - Mintel, Euromonitor, IBISWorld, Factiva  
+  - Industry associations  
+  - University library databases (e.g., BYU innovation database index)  
+
+## How to Use It
+- **Start here**: scan secondary sources before entering the field.  
+- **Triangulate**: compare published findings with conversations and observations.  
+- **Treat as experiments**: ask *“If I search here, what will I learn?”*  
+- **Track surprises and absences**: sometimes missing data is as telling as what you find.  
+
+---
+
+*Success measure*: When your secondary research confirms or challenges your field discoveries and prevents wasted interviews on what is already known.

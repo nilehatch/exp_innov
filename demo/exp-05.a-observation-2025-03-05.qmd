@@ -1,0 +1,69 @@
+# Observation: Morning Subway Exit (8 AM, Manhattan) {#sec-observation-a-ha .unnumbered}
+
+#### Following the toolkit naming conventions, this file is named `exp-05a-observation-2025-03-05.qmd`. {.subtitle} 
+
+---
+
+- **Date & Time:** 2025-03-05, ~8:00 AM  
+- **Location:** Subway exit, Manhattan  
+- **Focus:** Commuters emerging from underground into the street environment during morning rush  
+- **Observer:** Nile  
+- **Consent:** Public-space observation (no identifying details recorded).  
+
+::: callout-note
+**Framing:**  
+Observation was chosen to complement commuter interviews. By watching morning flows, we sought to see patterns in body language, pace, group dynamics, and friction points that commuters might not mention in conversation.  
+:::
+
+---
+
+## 1. Clarify the Unknown
+- **Most Urgent Unknown**: What frictions, workarounds, and needs are visible in the commuting experience?  
+- **Context**: Early rush hour, weekday, mixed commuters.  
+
+## 2. Raw Observation Notes
+- Woman in her 30s, formal attire, rushed steps. Carrying a coffee cup and checking phone intermittently. Balancing caffeine with need to start work early.  
+- Group of young women chatting animatedly, laughing, supporting each other during commute.  
+- Elderly lady with cane, slower pace. Some commuters offer assistance, others dodge traffic to avoid delay.  
+- Mother with two children in school uniforms, holding hands and navigating crowd.  
+- Professional woman with headphones, avoiding eye contact, possibly anxious — commuters respect her boundaries.  
+- Street musician playing guitar near exit. Small crowd gathers, some commuters nod at each other.  
+- Two women in heated discussion, gesturing, likely work-related frustration.  
+- Man in suit handing out flyers; mixed reception.  
+- Vendor selling newspapers/snacks; regular commuters greet him.  
+- Security personnel occasionally directing traffic.  
+- Lady stops to remove high heel briefly, resumes walking more slowly.  
+- Two women chatting block someone behind them from passing.  
+
+## 3. Emerging Patterns & Surprises
+- **Visible frictions**:  
+  - Balancing multiple tasks (coffee, phone, bags).  
+  - Congestion and blocked flow (two women chatting, slower elderly lady).  
+  - Footwear discomfort mid-commute.  
+
+- **Workarounds**:  
+  - Dodging traffic to maintain pace.  
+  - Adjusting shoes mid-journey.  
+  - Using headphones as social shield.  
+
+- **Social dynamics**:  
+  - Moments of empathy (helping elderly, nodding at musician).  
+  - Micro-conflicts (blocking path, ignoring assistance).  
+  - Informal rituals (greeting vendor, street performance as shared pause).  
+
+## 4. Next Steps
+- Conduct commuter interviews to ask what stresses them most during the transition from subway to work.  
+- Explore whether micro-frictions (shoes, bags, navigation) add up to significant unmet needs.  
+- Test whether social supports (street performers, friends, vendors) offset commuting stress.  
+
+---
+
+## Researcher Reflection
+
+- **Surprises:** The extent to which micro-interactions (helping elderly, exchanging greetings, pausing for music) shape the tone of the commute.  
+- **Assumptions Updated:** Commuters are not only “rushing” — they also perform care, create rituals, and carve out solitude.  
+- **Next Steps:** Compare these morning dynamics to evening ones (Session 2). Look especially at whether safety and vulnerability cues become more salient at night.  
+
+---
+
+**Attribution:** Observation conducted by Nile as part of the Halo Alert exploratory research series (Diamond 2).

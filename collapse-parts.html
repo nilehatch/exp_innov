@@ -1,0 +1,29 @@
+<script>
+(function() {
+  // Titles of parts to force-collapse on initial load
+  const targetPartTitles = ["Toolkit", "Halo Alert Demos"];
+
+  // Find all sidebar sections (Quarto marks them with .sidebar-item-section)
+  const sections = document.querySelectorAll('.sidebar .sidebar-item-section');
+
+  sections.forEach(sec => {
+    const titleEl = sec.querySelector('.sidebar-item-text, .sidebar-item-title');
+    if (!titleEl) return;
+
+    const title = titleEl.textContent.trim();
+    if (targetPartTitles.includes(title)) {
+      // If a toggle exists and section looks expanded, click it to collapse
+      const toggle = sec.querySelector('.sidebar-item-toggle, button[aria-expanded="true"]');
+      const list   = sec.querySelector('ul, .sidebar-section');
+
+      // Only collapse if (a) we have a toggle, (b) it appears open, (c) the current page is NOT inside this section
+      const isCurrentInside = !!sec.querySelector('.sidebar-item .active, .sidebar-link.active');
+      const isExpanded = toggle && (toggle.getAttribute('aria-expanded') === 'true' || (list && list.style.display !== 'none'));
+
+      if (toggle && isExpanded && !isCurrentInside) {
+        toggle.click(); // collapse it
+      }
+    }
+  });
+})();
+</script>

@@ -1,0 +1,45 @@
+# Survey Guide {#sec-survey-guide .unnumbered} 
+
+This guide should be used with the methods outlined in the @sec-surveys-section section of [Chapter @sec-explore-community-chapter].
+
+---
+
+Surveys are not just questionnaires — they are **structured experiments in convergence**.  
+They work best after you’ve uncovered pains through conversations and observation, helping you measure **how widespread** frustrations are and **which matter most**.
+
+---
+
+## When to Use
+
+- To **validate and rank** insights from conversations or observations.  
+- To measure **prevalence** of pains across a population.  
+- To reach groups you cannot easily interview or observe.  
+
+---
+
+## Design Principles
+
+- **Keep it short** — 5–10 focused questions.  
+- **Ask about past and present**, not hypotheticals or future desires.  
+- Use **ranking or rating scales** (e.g., “Which was hardest?” or “Rate the difficulty from 1–5”).  
+- Add **one or two open-ended prompts** (e.g., “What’s the hardest part of X?”).  
+- **Pilot test** on a few respondents to catch bias or confusion.  
+
+---
+
+## Common Mistakes
+
+- Too long (fatigue → bad data).  
+- Product-centric (“Would you buy this?”).  
+- Future-focused (“Would you want a tool that…”).  
+- Leading or loaded questions.  
+
+---
+
+## Success Signal
+
+Your survey has done its job when it:  
+
+- Clarifies which pains matter most.  
+- Reveals how widespread they are.  
+- Helps you prioritize **which hypotheses to test next**.

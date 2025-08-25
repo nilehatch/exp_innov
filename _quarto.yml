@@ -5,32 +5,71 @@ project:
 book:
   title: "Expeditionary Innovation"
   reader-mode: true
+  site-url: https://ei.nilehatch.com/
+  repo-url: https://github.com/nilehatch/exp_innov/
 
   page-footer:
     left: |
       _Expeditionary Innovation_ was written by Nile Hatch.
     right: |
       This book was built with <a href="https://quarto.org/">Quarto</a>.
-# cover-image: cassia_crossbill_2.jpg
-  site-url: https://ei.nilehatch.com/
-  repo-url: https://github.com/nilehatch/exp_innov/
-#  page-navigation: true
-#  bread-crumbs: true
-#  search: true
 
+  sidebar:
+    style: "docked"   # or "floating"
+    collapse-level: 1
+
+# cover-image:
+#  page-navigation: true
+#  bread-crumbs: false
+#  search: true
   chapters:
     - index.qmd
     - Expeditionary_Innovation.qmd
-    - Experimentation_Toolkit.qmd
     - Organize_Team.qmd
-    - Choose_People.qmd
-    - Explore_Community.qmd
-    - Hypothesize_Pain.qmd
-    - Validate_Pain.qmd
-    - Ideate_Solutions.qmd
-    - Hypothesize_Solution.qmd
-    - Test_Solution.qmd
+
+    - part: "Choose People"
+      chapters:
+        - Choose_People.qmd
+
+    - part: "Find and Validate Pains"
+      chapters:
+        - Explore_Community.qmd
+        - Hypothesize_Pain.qmd
+        - Validate_Pain.qmd
+
+    - part: "Build and Test Solutions"
+      chapters:
+        - Ideate_Solutions.qmd
+        - Hypothesize_Solution.qmd
+        - Test_Solution.qmd
+
     - Conclusion.qmd
+
+    - part: toolkit/Experimentation_Toolkit.qmd #"Experimentation Toolkit"
+      chapters:
+        - toolkit/Primary_Experiment_Template.qmd
+        - toolkit/Supporting_Experiment_Template.qmd
+        - toolkit/Experiment_Log_Tracker.qmd
+        - toolkit/Conversation_Guide.qmd
+        - toolkit/Observation_Guide.qmd
+        - toolkit/Role_Play_Guide.qmd
+        - toolkit/Survey_Guide.qmd
+        - toolkit/Secondary_Research_Guide.qmd
+
+    - part: demo/demo-halo-alert.qmd # "Demonstration: Halo Alert"
+      chapters:
+        - demo/_diamond1-separator.qmd
+        - demo/_diamond2-separator.qmd
+        - demo/Conversation_Guide_ha.qmd
+        - demo/exp-04.a-conversation-sarah-thompson-2025-02-24.qmd
+        - demo/exp-04.a-results-full-transcript-2025-02-24.qmd
+        - demo/exp-04.b-conversation-emily-rivera-2025-02-25.qmd
+        - demo/exp-04.b-results-full-transcript-2025-02-25.qmd
+        - demo/exp-05.a-observation-2025-03-05.qmd
+        - demo/exp-05.b-observation-2025-03-06.qmd
+        - demo/exp-05.c-observation-2025-03-08.qmd
+        - demo/_diamond3-separator.qmd
+
     - references.qmd
 
 bibliography: references.bib
@@ -38,6 +77,7 @@ bibliography: references.bib
 format:
   html:
     theme: cosmo
+#    include-after-body: collapse-parts.html
     css:
       - base.css
       - custom.css

@@ -1,0 +1,68 @@
+# Supporting Experiment Template {#sec-supporting-experiment-template .unnumbered}
+
+#### Use this template to design and conduct exploratory, confirmatory, and technical experiments {.subtitle} 
+
+## Supporting Experiments
+
+This template is used to document the many supporting experiments that comprise a single primary experiment.  Each supporting experiment is drawn from a slice from the divergent stage of one of the triple diamonds. Some common supporting experiments include
+
+- **Exploratory Experiments**: Used to uncover patterns, insights, or hypotheses. Often open-ended and inductive. For example, observation, conversation, secondary research, ideation
+- **Confirmatory Experiments**: Used to test a clear hypothesis. Controlled, deductive, and evidence-seeking. For example, people access test, customer pain validation, solution validation
+- **Technical Experiments**: Used to compare, validate, or refine solution design and implementation decisions. Focused on how things work, not just what people think or do. For example, A/B tests, micro-validations, component trials, usability checks, feature verification
+
+## General Info
+- **Title / Observation Type**:
+- **Date**:
+- **Location / Setting**:
+- **Team Member(s)**:
+- **Modality** (e.g., Interview, Observation, etc.):
+- **Linked Primary Experiment**:
+
+
+## 1. Clarify the Unknown 
+
+- **Most Urgent Unknown**: What uncertainty are you trying to reduce?
+- **Other Urgent Unknowns**: Why is this one most pressing?
+
+## 2. Experiment Type
+
+- [ ] Exploratory Experiment
+- [ ] Confirmatory Experiment
+- [ ] Technical Experiment
+
+
+## 3. Modality and Fit
+
+- **Modality Chosen** (e.g., Interview, Observation, Survey, etc.):
+- **Why it fits** this unknown:
+
+## 4. Design
+
+- **Source of Evidence**:
+- **Collection Mechanism** (Interview guide, survey, etc.):
+- **Sampling Strategy**:
+- **Sample Size Goal**:
+
+## 5. Execution Notes
+
+- What did you actually do?
+- Who did you reach?
+- Deviations from the plan? Surprises?
+- Sampling biases?
+
+## 6. Results and Data Summary
+
+- Link raw data, quotes, tables, etc.
+- Highlight key findings:
+
+## 7. Knowledge Updating
+
+- What do you now know?
+- How confident are you? Why?
+- What assumptions did you update or abandon?
+
+## 8. Next Steps
+
+- What are you doing next based on this experiment?
+
+

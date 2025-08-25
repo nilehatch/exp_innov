@@ -1,0 +1,57 @@
+# Conversation Guide {#sec-conversation-guide .unnumbered} 
+
+This guide should be used with the methods outlined in the @sec-conversation-section section of [Chapter @sec-explore-community-chapter].
+
+---
+
+Exploratory conversations are not sales pitches. They are guided storytelling experiments that uncover what people actually do, feel, and struggle with in their daily lives. The goal is not to validate your idea but to learn from the lived experiences of your community.
+
+## Before the Conversation
+- **Prepare a protocol**: Know whom you’ll visit, what you hope to ask, and how you’ll record the response.  
+- **Gather resources**: notebook, sketchbook, and—if permission is granted—a recorder.  
+- **Craft an introduction**: Be transparent. Tell them you are working on a project, you need their expertise, and you are not selling. Ask for consent if recording.
+
+## Opening and Rapport
+- Exchange names and thank them.  
+- Keep your purpose concise: “I’m working on a school project and would love to learn from your experiences.”  
+- Ask permission to record if relevant.  
+
+## Story-First Questions
+Anchor the conversation in **specific past experiences**, not hypotheticals.  
+- “Tell me about the last time you ____.”  
+- “What was hardest about that experience?”  
+- “Why was it hard?”  
+- “How did you solve it then?”  
+- “Why was that solution not awesome?”  
+
+Encourage follow-ups:  
+
+- “What else happened?”  
+- “What surprised you most?”  
+- "What were you thinking at that point?"
+- “What would I not expect about that experience?”  
+
+## Emotional Triggers
+Emotions often reveal unmet needs. When you notice frustration, excitement, or guilt:  
+
+- “Why do you say that? Can you tell me more?”  
+- “How did you feel when that happened?”  
+- “Why is that important to you?”  
+
+Two powerful tools:  
+
+- **3-peat**: Ask about another time it happened. Do this three times to see patterns.  
+- **5-whys**: Ask “why” repeatedly until you reach the root cause or emotion.  
+
+## Closing
+- Ask if they know others you should talk to. Referrals expand your reach.  
+- Thank them genuinely and explain how their stories will help.  
+
+## After the Conversation
+- Document thoroughly: assign a note-taker or debrief immediately afterward.  
+- Compare notes with your team and identify gaps.  
+- Feed what you learn into your data room (Miro, Google, or similar).  
+
+::: callout-note
+**Common Confusion**: Entrepreneurs often slip into pitching or hypothetical “would you buy” questions. Avoid this. Stay anchored in *past and present stories*—that is where the most reliable data lives.  
+:::
