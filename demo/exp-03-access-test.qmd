@@ -1,0 +1,79 @@
+# Access Test {#sec-test-people-ha .unnumbered}
+
+#### How the team confirmed reachability of professional women commuters {.subtitle}
+
+> Following the toolkit naming conventions, this file is named `exp-03-access-test-2025-02-22`
+
+## 1. Define Your Group {.unnumbered}
+
+- **Chosen people/community:** Professional women commuting on foot as part of their daily routine in mid-sized U.S. cities  
+- **Why this group matters:** Their commute includes segments where safety feels uncertain — walking from transit stops, through crowded streets, or after dark. These women use quiet but persistent workarounds (text check-ins, detours, vigilance) that suggest unmet needs.  
+- **Typical settings or gathering places:** LinkedIn professional groups, coworking spaces, local women-in-tech Slack channels, evening transit stops, women’s safety forums.  
+
+---
+
+## 2. Minimum Access Conditions {.unnumbered}
+
+- [x] We can **find them** (professional networks, transit hubs, coworking lists).  
+- [x] We can **engage them** (via LinkedIn messages, coworking newsletters, Slack forums).  
+- [x] They **respond and open up** (first tests yielded thoughtful, detailed replies).  
+
+**Result:** ✅ Passed.  
+
+---
+
+## 3. Test Design {.unnumbered}
+
+- **Channels tested:**  
+  - LinkedIn: short DMs to 10 women in relevant commuting geographies  
+  - Coworking space email list: 1 announcement inviting brief chats  
+  - Women-in-tech Slack group: posted an open-ended “commuting challenges” question  
+- **Sample size goal:** 10–15 responses across 3 channels  
+- **Method:** Direct outreach (DM/email) + forum post  
+- **Timeline:** 48 hours  
+
+---
+
+## 4. Execution Notes {.unnumbered}
+
+- **LinkedIn:** 10 messages sent → 5 replies; 3 agreed to interviews within a week.  
+- **Coworking list:** 1 group email → 6 replies; 4 substantive, 2 brief.  
+- **Slack forum:** 1 post → ~15 views, 4 replies, 2 sharing detailed personal stories.  
+- Total outreach: ~21 people touched; 15 replies; 9 strong leads for conversations.  
+
+**Surprises:**  
+- Faster, warmer response from coworking list than expected.  
+- Slack replies included safety experiences *outside commuting* (night walks, travel), broadening context.  
+
+---
+
+## 5. Results & Signal Strength {.unnumbered}
+
+- **Strong access (green light):** Multiple channels yielded replies within 24–48 hours; women were responsive and detailed in sharing.  
+- **Weak/blocked access indicators:** None at this stage; only challenge was scheduling.  
+
+**Your assessment:** Green light.  
+
+---
+
+## 6. Knowledge Update {.unnumbered}
+
+- **Validated:** Professional women commuters are reachable through both digital networks and physical coworking channels.  
+- **Overturned:** Expected LinkedIn to be slow/cold; instead, replies were immediate and engaged.  
+- **New insight:** Slack posts revealed adjacent contexts (late-night walking, solo travel) worth exploring later.  
+
+---
+
+## 7. Next Steps {.unnumbered}
+
+- Schedule first round of exploratory conversations with respondents.  
+- Prepare observation plan at evening transit stops to triangulate.  
+- Consider expanding to student commuters as a comparison group.  
+
+---
+
+**Attachments (Data Room pointers):**  
+- Screenshot of LinkedIn DM template  
+- Copy of coworking email invite  
+- Slack forum post + anonymized replies  
+- Quick tally of response counts (CSV)  

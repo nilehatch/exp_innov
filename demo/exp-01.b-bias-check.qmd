@@ -1,0 +1,30 @@
+# Bias Check {#sec-bias-check-ha .unnumbered}
+
+#### Three non-obvious groups to broaden perspective {.subtitle}
+
+> Following the toolkit naming conventions, this file is named `exp-01.b-diverge-people-2025-02-19`
+
+
+## Bias Check Additions
+
+To counteract convenience bias (only focusing on obvious commuting women in NYC), we deliberately added three non-obvious groups:
+
+1. **International students on urban campuses**  
+   - Quick Profile: Often commute on foot late at night after study groups; culturally less likely to report safety fears.  
+   - Why Added: Visibility is lower; needs may differ due to cultural norms.  
+   - Access: Campus cultural clubs, international student office.  
+
+2. **Elderly women commuting to part-time jobs**  
+   - Quick Profile: Commute early/late on limited incomes; may use bus or subway.  
+   - Why Added: Overlooked due to age; different safety perceptions and physical vulnerabilities.  
+   - Access: Senior centers, church groups, job placement programs.  
+
+3. **Immigrant women working late service shifts**
+    - **Quick Profile**: Women employed in restaurants, cleaning, or retail who often walk or use transit home after midnight. Language barriers and documentation status can compound vulnerability.
+    - **Why Added**: Frequently invisible to mainstream “professional women” framing; experience late-night exposure and systemic neglect.
+    - **Access**: Worker advocacy orgs, ESL classes, churches, and immigrant community associations.
+
+---
+
+**Reflection:**  
+These adds diversify our exploration, forcing us to see beyond the default category of “professional young women.” They highlight cultural, generational, and identity-driven differences that mainstream safety products rarely account for.

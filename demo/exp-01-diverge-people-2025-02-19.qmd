@@ -1,0 +1,89 @@
+# People Divergence Sprint {#sec-diverge-people-ha .unnumbered}
+
+#### Shortlist of candidate communities, orbit snapshots, and access channels {.subtitle}
+
+> Following the toolkit naming conventions, this file is named `exp-01-diverge-people-2025-02-19`
+
+
+## Anchor
+We’re exploring friction around **personal safety and vigilance** during **the transitional segments of daily travel** for **women moving between transit and destination** in **urban and campus contexts**.
+
+
+## Shortlist Table (Top 14)
+| # | Group label | One-line profile | Orbit roles | Likely access channels | Access | Why this group might hurt |
+|---|---|---|---|---|---|---|
+| 1 | Professional women walking part of commute | Subway→office walkers avoid side streets after dark | Roommates, property manager, transit security | Station exits (AM/PM), coworking email list, LinkedIn women-in-tech | MED | Lighting gaps, sparse foot traffic, exit anxiety |
+| 2 | Female grad students (off-campus) | Late campus→housing walks with variable schedules | Lab mates, dept admins, campus police | Grad Slack, dept newsletters, library exits | HIGH | Staggered hours, budget routes, thin lighting |
+| 3 | Retail closers (evening shift) | Close store, cash-out, walk to bus/subway after 9–11pm | Shift leads, mall security | Employer break rooms, union/worker groups, bus stops | MED | Fixed late hours, predictable routes, fatigue |
+| 4 | Night-shift nurses | 3am lot crossing when staffing is sparse | Nursing supervisors, hospital security | Staff Slack, union board, hospital lots | LOW | Distance + fatigue + predictable patterns |
+| 5 | Campus staff (custodial/night ops) | Solo building exits to parking or transit ~10pm–2am | Facilities mgr, campus police | Facilities briefings, timeclock areas | MED | Dim pathways, tool bags, routine routes |
+| 6 | Rideshare drop-off walkers | Dropped at arterial, walk last 2–6 blocks home | Drivers, building doormen | Rideshare driver forums, building lobbies | LOW | Micro-routes, inconsistent lighting |
+| 7 | International students new to city | Unfamiliar routes; language/apps not fully internalized | Intl office, peers, RA | Intl student office, WhatsApp groups | HIGH | Map anxiety, time-of-day mismatch, signals |
+| 8 | Suburban park-and-ride walkers | Walk from remote lot/bus to workplace pre-dawn | Lot attendants, employer security | Park-and-ride kiosks, employer listserv | MED | Low density, long uncovered stretches |
+| 9 | Hotel housekeepers (AM start) | Transit + early arrival before dawn | Housekeeping leads, HR | Staff entrances, HR bulletin | MED | Early hours, uniforms, predictable cadence |
+|10 | Restaurant workers (late) | Post-midnight cleanup → transit | Shift leads, door staff | Back-of-house boards, industry FB groups | MED | Cash tips, low foot traffic windows |
+|11 | Early-morning joggers (women) | Pre-sunrise routes; phone not always in hand | Run clubs, park stewards | Strava/Runclub posts, trailheads | LOW | No pockets, routine paths, sparse help |
+|12 | Hospital residents | Rotating late calls; garage/lot to housing | Chiefs, parking office | Residency emails, parking kiosks | MED | Irregular hours, exhaustion, badge access |
+|13 | Tourists near transit | Unfamiliar neighborhoods at dusk | Hotel concierge, tour ops | Hotel lobbies, concierge boards | LOW | Map reliance, visible cues, valuables |
+|14 | Childcare workers with split shifts | Transit + midday/night returns | Center directors, parents | Center break rooms/newsletters | MED | Unpredictable returns, carry supplies |
+
+**Notes:** Prioritized groups with (a) recurring late/eary segments, (b) observable routes, (c) plausible access channels, and (d) signals of *vigilance load* (cognitive tax from staying alert).
+
+
+## Orbit Snapshots (3 of 14)
+
+### A) Female Grad Students (off-campus)
+- **Orbit roles:** Lab mates (walk buddies), department admins (listserv reach), campus police (patrol patterns)
+- **Influences/constraints:** Late lab hours; grant deadlines; campus-to-city lighting gaps
+- **What this unlocks:** Group safety norms (check-ins), preferred paths, “avoid zones,” willingness to share ETAs
+
+### B) Retail Closers (evening shift)
+- **Orbit roles:** Shift leads (schedule owners), mall/strip security (escorts), transit operators (last bus timing)
+- **Influences/constraints:** Fixed closing times; cash handling; uniform visibility; last run bus
+- **What this unlocks:** Predictable windows for observation/intercept; back-of-house access via managers
+
+### C) Professional Women Walking Part of Commute
+- **Orbit roles:** Roommates/partners (check-in routines), building management (lighting), transit security (presence cues)
+- **Influences/constraints:** Seasonal darkness; micro-detours; elevator/door entry lag
+- **What this unlocks:** Rich narratives about **exit anxiety**, **lighting choices**, **text-to-friend routines**
+
+
+## Access Channels to Try (Fastest → Slowest)
+1. **Grad Slack / Dept newsletters (HIGH)** — lightweight message with study invite + 10-min intercept at library exits  
+2. **Campus facilities briefings (MED)** — ask to attend 5-min pre-shift, recruit 1-on-1s; post QR flyers at timeclocks  
+3. **Retail break rooms (MED)** — manager permission + short sign-up; pair with safe-walk offer or coffee cards  
+4. **Employer listservs / HR bulletins (MED)** — custodial, hotel housekeeping, hospital parking office  
+5. **Station exits intercepts (MED)** — clipboard + quick screener + opt-in for 20-min interview later  
+6. **International office WhatsApp groups (HIGH)** — multilingual invite + map anxiety prompt  
+
+**Fallback (LOW):** Rideshare driver forums; tourist hotel lobbies (permission friction)
+
+
+## Micro “Access Smoke Test” Scripts
+- **Digital (Grad Slack):**  
+  “Hi all — quick student study on *feeling safe during the short walks between transit and home/lab at night*. 10-minute chat at [library exit, 8–10pm], $10 coffee card. Not selling anything; anonymized notes only. DM ‘yes’ for details.”
+
+- **Physical (Retail back room):**  
+  “We’re a student team studying *late-night walks from store to transit/parking*. 3 questions, 5 minutes, off-the-clock, $10 coffee card. OK to say no. Who has closed this week and taken transit?”
+
+- **Intercept (Station exit):**  
+  “Two-question study: When you exit here after dark, what do you change? (route/lighting/check-ins) Would you be open to a 20-minute follow-up later this week?”
+
+
+## Bias Check (Applied)
+- Not just “people like us”: included night staff, caregivers, service workers, internationals, commuters outside downtown cores  
+- Mixed digital/physical channels to avoid only-convenience sampling  
+- Retained **LOW access** groups (joggers, tourists) as stretch targets for later
+
+
+## Next Moves into Converge
+- Email/DM **two HIGH** channels this week (Grad Slack, Intl Office)  
+- Run **two MED** physical intercepts (station PM exit, retail back room with manager OK)  
+- Bring counts: *invites sent*, *replies*, *yes to 20-min*, *actuals scheduled* → decide focus group in Converge
+
+
+## Attachments (Data Room pointers)
+- **Shortlist CSV (20+ rows)**: Candidate communities, quick profiles, orbit roles, access notes.
+- **Bias Check Additions (3 non-obvious groups)**: Documented rationale for why they were added.
+- **Draft Access Notes (txt)**: Where/how the team might reach each group (at least one viable channel per group).
+- **Brainstorm Capture (optional):** Screenshot/photo of Miro board, sticky-note clustering, or whiteboard output used to generate candidate groups.

@@ -22,6 +22,7 @@
 
 ## Story-First Questions  
 (Anchor to *specific past commutes*.)  
+
 1. “Tell me about your last commute.”  
    - Probe: “What stood out about that day?”  
    - Probe: “What was different from your usual?”  
@@ -44,7 +45,8 @@
 ---
 
 ## Emotional Triggers  
-(Probe when you notice body language or emotion.)  
+(Probe when you notice body language or emotion.)
+
 - “I noticed you paused there — can you tell me more?”  
 - “Why was that stressful for you?”  
 - “What would I not expect about that experience?”  

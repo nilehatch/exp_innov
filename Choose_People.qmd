@@ -1,357 +1,98 @@
-# Choose Your People {#sec-choose-people-chapter}
+# Commit to a Community {#sec-converge-people-chapter}
 
-#### Exploration and testing to focus on a community of people {.subtitle}
-
-## Start With People
-
-Expeditionary innovation begins by choosing people — preferably those who are overlooked, underserved, or misunderstood. If you want to build something that truly matters, don’t start by brainstorming solutions. Start by deciding who you will aid; who you will learn from.
-
-The first diamond in the expeditionary innovation process is all about choosing your people wisely. You’ll begin by diverging: exploring a wide range of possible groups who might be living with meaningful unmet needs. Then you’ll converge: narrowing your focus based on empathy, observability, and early signs of potential. Finally, you’ll test access: verifying that you can reach, interact with, and learn from the group you’ve chosen.
-
-![Diverge and converge to choose a community of people and then test your access to them.](images/21_people_diamond_test.svg){#fig-people-diamond-3 style="max-height: 340px;" fig-align="center" fig-cap-location="margin"}
-
-This isn’t a casual decision. Who you choose to study will shape the rest of your journey — what you discover, what problems you uncover, and which solutions are possible. By the end of this chapter, you’ll have done more than pick a target audience. You’ll have begun to commit to a community.
-
-## Diverge: Cast a Wide Net to Choose the Right People {.unnumbered}
-
-> “If you only fish where it’s easy to cast, you may miss the part of the lake teeming with fish.”
-
-Most entrepreneurs begin their journey with a hunch about *what* to build. But in expeditionary innovation, the first strategic decision is not about the product — it’s about the *people*. Your choice of who to serve will shape every insight, every need you uncover, and every solution you eventually design. Get it right, and the process accelerates. Get it wrong, and even great ideas may miss the mark.
-
-Yet choosing who to serve isn’t obvious at the outset. You’re stepping into unknown terrain, and the temptation to default to the familiar — people like yourself, or groups you can easily reach — is strong. That’s why we start not with a decision, but with divergence: a wide-ranging exploration of the human landscape around a meaningful problem.
-
-This section offers a four-step guide to that exploration. Think of it as casting a wide net before setting a precise course — a deliberate effort to open up possibilities before narrowing in.
-
----
-
-### 1. Anchor in the Problem Space
-
-Every expedition needs a point of departure. In innovation, that means anchoring your search in a meaningful problem — a domain of friction, tension, or unresolved struggle in the world. This could be as broad as rising school stress, or as specific as managing chronic illness in young adulthood. What matters is that it *matters* — to real people, in real ways.
-
-Start with a space, not a solution. Don’t ask “what can we build?” — ask “where is life harder than it needs to be?” That might lead you to spaces like:
-
-::: {.callout-tip title="Examples of Problem Spaces"}
-- Food insecurity in mid-sized cities  
-- The burden of caregiving for aging parents  
-- Housing instability for gig workers  
-- Safety concerns for women commuting alone  
-- The quiet pressure faced by first-generation college students  
-:::
-
-These anchors give your exploration both focus and flexibility — they frame the hunt without narrowing it too soon.
-
----
-
-### 2. Generate Communities
-
-With your problem space in view, begin identifying groups of people who live inside it. These might be formal communities — like veterans or refugee families — or loosely connected roles and life stages, like single parents, gig workers, or early retirees. The goal here is range, not refinement. You’re not picking yet; you’re populating the landscape.
-
-It helps to push past the obvious. If your anchor is school stress, don’t stop at “students.” Look further: anxious high achievers, overwhelmed counselors, burned-out teachers, parents navigating special education, teens facing cultural stigma. Every group you list adds dimension to the space — and increases the odds you’ll spot a group others have overlooked.
-
-If you need prompts to stretch your thinking, try asking:
-
-::: {.callout-tip title="Prompts for Community Generation"}
-- Who experiences this problem most intensely?  
-- Who is largely ignored by existing solutions?  
-- Who has adapted in ways no one’s paying attention to?  
-- Who is talking about this — but not being heard?  
-:::
-
-In this step, avoid the gravitational pull of familiarity. Just because you *know* a group well doesn’t mean they’re the best group to study. The most promising communities are often those that live at the edge of mainstream attention — underserved, unseen, or stuck with inadequate options.
-
----
-
-### 3. Profile the People
-
-Once you’ve listed a range of groups, start giving them texture. It’s one thing to write “remote workers.” It’s another to sketch out the rhythms of their day: Zoom fatigue, isolation, blurred lines between work and life, a toddler wandering into the frame during a meeting. These are not personas yet — they’re rough sketches of lived experience. What pressures do they face? What workarounds have they normalized? What invisible effort goes into making life “work”?
-
-You might notice friction in patterns like:
-
-::: {.callout-tip title="Patterns of Friction to Watch For"}
-- Juggling conflicting roles (caregiver, breadwinner, student)  
-- Managing language or cultural barriers  
-- Adapting mainstream systems not designed for them  
-- Tolerating chronic delays, confusion, or shame  
-- Building informal support networks to fill institutional gaps  
-:::
-
-Profiling at this stage is about empathy, not precision. Try imagining how these people move through a typical day. A single mom might face a 5:30am wake-up, a 45-minute commute, and a school pick-up that overlaps with work calls. A newly arrived international student might be juggling course loads, visa anxieties, language gaps, and cultural disorientation. These details reveal not just problems, but *contexts* — and innovation lives in context.
-
----
-
-### 4. Map Their Orbit
-
-No one navigates life alone. Once you’ve profiled a few promising groups, ask: who else shapes their experience? Who influences them, supports them, constrains them? These adjacent figures — family members, supervisors, landlords, caseworkers, social media voices — often hold keys to problems and solutions alike.
-
-Mapping the orbit not only broadens your perspective, but also tests your intuition. If you can’t identify anyone else connected to the group, you may be thinking too narrowly. Innovation rarely emerges from individuals in isolation — it emerges from patterns of interaction, constraint, and support.
-
-For example, when studying diabetic teens, the orbit might include:
-
-::: {.callout-tip title="Orbit Roles That Often Matter"}
-- Parents managing medication schedules  
-- Coaches balancing athletic ambition and medical needs  
-- School nurses tracking daily health  
-- TikTok creators normalizing life with chronic conditions  
-:::
-
-Each of these orbiting roles holds a different lens — and often, untapped potential to help or hinder change.
-
-<!--
-::: {.callout-demo title="Halo Alert in Action"}
-The Halo Alert team began with a broad concern about urban safety. But instead of rushing to design a gadget, they diverged — sketching out different groups who felt vulnerable while walking alone. 
-
-They considered college students walking late at night, shift workers heading home before sunrise, and women commuting from the train station to their apartment after dark. Eventually, they profiled professional women in mid-sized cities who walk part of their commute. These women didn’t identify as “at risk,” but had developed subtle workarounds: fake phone calls, mapped detours, keys between fingers.
-
-This profile — not dramatic, but deeply human — gave the team a clearer sense of who they were designing for and why existing tools weren’t a good fit.
-:::
--->
-
----
-
-### A Brief Pause Before You Converge
-
-At this point, you’re not choosing yet. You’re mapping. You’ve anchored in a problem space, brainstormed a diverse set of groups, started to feel the texture of their lives, and expanded the frame to include the people around them.
-
-Now is the time to pause and reflect: Which of these groups seem most underserved? Which ones live in friction-rich environments that incumbents have ignored? Which ones are reachable — not just in theory, but in practice?
-
-::: {.callout-warning title="Watch for These Traps"}
-- Choosing people just because they’re nearby or convenient  
-- Assuming you already know what a group needs  
-- Overgeneralizing — e.g., “college students” as one unified category  
-- Jumping to solutions before understanding daily life  
-:::
-
-Those questions belong to the next stage: convergence. But by investing in divergence first — by deliberately exploring the human terrain — you give yourself a powerful advantage. You’ve escaped the trap of convenience. You’ve resisted the urge to guess. And you’ve laid the groundwork for strategic, testable, and ultimately transformative choices.
-
-In the next section, we’ll help you narrow the field — using disciplined criteria to choose the right people to serve.
+#### Converge from many possible communities to your community of focus {.subtitle}
 
 
-## Converge: Choosing the Right People to Serve {.unnumbered}
+## Converge from Possibilities to Commitment {.unnumbered}
 
-After diverging to explore a wide range of potential communities, the next step is to converge — to move from *possibilities* to a single, well-considered choice. This is more than selecting a study group. You’re choosing the people whose needs you’ll try to understand, whose pain you’ll explore in depth, and whose problems you aim to solve.
+![Convergent narrowing from many candidate groups to one chosen community of people.](images/212_people_converge.svg){.wrapfig_right_25}
+After diverging to explore a wide range of potential communities, the next step is to **converge** — to move from *possibilities* to a single, well-considered choice. This is more than selecting a study group. You’re choosing the people whose needs you’ll try to understand, whose pain you’ll explore in depth, and whose problems you aim to solve.
 
 It’s a quiet but defining decision. Everything that follows — your discoveries, your designs, even your business model — will be shaped by this choice. If you’ve done the work of divergence well, you now have multiple promising communities in view. The goal is not to pick the one you like most or the one that feels most familiar. It’s to choose the group where your insights are likely to run deepest — and your innovation most needed.
 
----
 
-### 1. Compare: Spot Patterns and Weigh Possibilities
+## 1. Compare: Spot Patterns and Weigh Possibilities
 
-Begin by stepping back from the details and asking: what patterns do I see across the communities I explored? Are there recurring traits, shared constraints, or common values? Which groups seemed to face more complexity, more friction, or more blind spots in their current options?
-
-This is the point where clusters often emerge. Some communities reveal themselves as larger, more cohesive, or more clearly defined than others. Others may blur or fall away as too scattered or ill-defined. Look not just at surface features, but at the richness of lived experience beneath them.
-
-::: {.callout-tip title="What to Look For in Comparison"}
-- Patterns of pain or struggle that repeat across individuals  
-- Gaps where no existing solution seems to fit  
-- Communities that seem distinct, coherent, and accessible  
-- Early signs of unmet needs that may be persistent, not passing  
+::: {.callout-tip title="Prompt"}
+Look across your divergent shortlist. Which groups show recurring struggles, clearer friction, or patterns that seem more persistent? Which ones blur or fade as less coherent?  
 :::
 
-This comparison step doesn’t require certainty. You’re not eliminating options; you’re starting to see which ones carry more weight.
+Fill in the table:
 
----
+| Candidate Group | Recurring Frictions | Gaps in Current Solutions | Distinctiveness / Cohesion | Notes |
+|-----------------|---------------------|---------------------------|----------------------------|-------|
+|                 |                     |                           |                            |       |
+|                 |                     |                           |                            |       |
+|                 |                     |                           |                            |       |
 
-### 2. Empathize: Notice the Emotional Pull
+*For an example of how this looks in practice, see @sec-ha-people-converge-compare (the “Compare” section) of the [Halo Alert demo](demo/exp-02-converge-worksheet.qmd).*
 
-Not all patterns are analytical. Sometimes, one group begins to linger in your mind. You keep thinking about them after your work session ends. Their voices echo. Their struggles feel personal. This is empathy beginning to take hold — not as a vague good feeling, but as a focused emotional gravity.
+## 2. Empathize: Notice the Emotional Pull
 
-This is the moment to notice your own response. Which group’s stories stirred something in you? Which ones do you feel drawn to understand more deeply — not because they’re easy or familiar, but because something about their situation *matters*?
-
-This isn’t passion. It’s not about “loving” the people you serve. It’s about noticing that you can’t look away from their needs. You find yourself wanting to help, to understand, to lean in rather than pull back.
-
-::: {.callout-tip title="Signs of Growing Empathy"}
-- You feel a sense of injustice or urgency when thinking about their experience  
-- You want to know more — not to prove something, but to understand  
-- Their problems stay with you longer than others you explored  
-- You feel discomfort at the idea of leaving them unserved  
+::: {.callout-tip title="Prompt"}
+Which groups stay in your mind? Which stories linger? Which situations create a sense of urgency or injustice?  
 :::
 
-This empathic draw is a real signal. It doesn’t guarantee a great solution, but it increases the odds that you’ll persevere long enough to find one.
 
----
+- Group that keeps resurfacing in our conversations: `___________________________`
+- Why this group feels different: `___________________________________________`
+- Signs of empathy pull we noticed (e.g., discomfort at leaving them unserved, desire to know more):  
+  1. `__________________________________`
+  2. `__________________________________`
+  3. `__________________________________`
 
-### 3. Assess Access: Can You Actually Reach Them?
-
-You might feel deeply drawn to a group, but if you can’t observe them, talk to them, or hear their stories firsthand, you’ll struggle to build meaningful insight. That’s why access is a non-negotiable constraint. A powerful need you can’t access is not an opportunity — it’s a wall.
-
-Access means more than knowing one person in the group. It means being able to reach and engage multiple members, observe their context, and explore their lived experience. It means they are:
-
-- **Observable** — you can find and watch them in their environment  
-- **Reachable** — you can initiate contact without barriers  
-- **Willing to engage** — they respond, participate, and reflect  
-
-Without this, your ability to learn evaporates.
-
-::: {.callout-warning title="Common Access Pitfalls"}
-- Choosing a group that feels emotionally compelling but is institutionally locked down  
-- Assuming online access equals permission to probe sensitive topics  
-- Underestimating the time or trust required to reach hard-to-access communities  
-- Over-relying on a single individual as a “representative” of a complex group  
-:::
-
-Your goal isn’t just to find *some* access — it’s to confirm that meaningful, repeatable access is possible. That’s what the **Access Test** does: it helps you validate that this group isn’t just theoretically interesting, but practically reachable.
-
----
-
-### 4. Select Your People
-
-Now bring it together. You’ve compared patterns. You’ve noticed your emotional pull. You’ve confirmed access. It’s time to choose.
-
-Not the group you like most. Not the group with the biggest market size. Choose the group that:
-
-- Holds persistent, friction-filled needs  
-- Draws you in through real empathy  
-- Welcomes your inquiry and participation  
-
-This group becomes your focus for the next phase. You’ll immerse yourself in their world, search for unmet needs they may not articulate, and start shaping the solutions they most need.
-
-This is not a final commitment. You can still shift later if evidence demands it. But for now, choose with clarity and confidence.
-
-<!--
-::: {.callout-demo title="Halo Alert in Action"}
-After profiling several communities affected by commuter safety concerns, the Halo Alert team compared patterns across groups. Professional women walking part of their commute surfaced repeatedly as facing subtle but persistent fears — ones they rarely spoke about publicly.
-
-The team found themselves drawn to this group. The stories were layered: stories of checking over shoulders, avoiding side streets, texting locations to friends — a quiet choreography of self-protection. The team couldn’t shake it. These women didn’t broadcast their concerns, but they carried them constantly.
-
-Critically, the team also confirmed access. Through friends, co-working spaces, and professional networks, they could reach this group quickly and respectfully. That combination — patterns, pull, and access — gave them the confidence to move forward.
-
-They selected professional women commuting on foot in mid-sized cities as their people. Not just to study, but to understand and serve.
-:::
+<!--  USING CSS - not quite working but not bad - more flexible than `___`
+- Group that keeps resurfacing: <span class="blank blank-medium"></span>  
+- Why this group feels different: <span class="blank blank-long"></span>  
+- Notes: <span class="blank blank-long blank-fill"></span>  
+- Thin light line: <span class="blank blank-short blank-light"></span>
+- Brand-colored line: <span class="blank blank-medium blank-brand"></span>
 -->
 
----
+*For an example of how this looks in practice, see @sec-ha-people-converge-empathize (the “Empathize” section) of the [Halo Alert demo](demo/exp-02-converge-worksheet.qmd).*
 
-### A Note on Market Size and Ability to Pay
+## 3. Assess Access: Can You Actually Reach Them?
 
-You might be tempted to use market size or income level as a primary filter here. Don’t.
-
-Market size is only meaningful *after* you’ve validated a need. A large group with no urgent need is a distraction. A small group with a deep need is a springboard.
-
-As for ability to pay: it matters, but only later. Focus first on finding a need worth solving. You can validate viability in later diamonds.
-
----
-
-### What You Need to Move Forward
-
-At the end of convergence, you should be able to say:
-
-- “This is the group we’re committing to.”  
-- “We’ve seen patterns that suggest real unmet needs.”  
-- “We feel drawn to their experience and want to learn more.”  
-- “We can reach them directly, and they’re open to engaging.”  
-
-That’s a solid foundation. With it, you can move into the next phase: exploratory learning, where you’ll uncover the needs behind the noise — and begin the work of real innovation.
-
-
-
-## Test Your Access: Can You Really Reach Them? {.unnumbered}
-
-By now, you’ve chosen a group of people to focus on — not just as an audience, but as the starting point of your innovation journey. You’ve explored widely, converged thoughtfully, and selected with care. But before you dive into deep research, there’s one more step that can save you enormous time and frustration: **access testing**.
-
-This is where you ask a simple but essential question: *Can we actually reach the people we want to learn from?*
-
-It’s easy to assume that because you can imagine your people, you can also find and talk to them. But innovation fails when teams build for people they cannot observe, engage, or understand. Access testing protects you from designing in a vacuum.
-
----
-
-### What Counts as Access?
-
-Access isn’t just about sending a survey or getting a few people to answer DMs. It’s about confirming that you can build a reliable, ethical, and ongoing channel of interaction. For your access test to pass, you need to satisfy **all three conditions**:
-
-1. **You can find them.**  
-   You know where they gather — online or offline — and can reliably locate them. This might mean a subreddit, a neighborhood, a school, a profession, or a specific setting like a hospital waiting room.
-
-2. **You can engage them.**  
-   There’s a viable way to initiate interaction: surveys, interviews, conversations, observations, social media engagement. The format should fit their lifestyle and comfort zone.
-
-3. **They respond — and open up.**  
-   Access isn’t just reach. It’s **reciprocity**. Your people reply, share, reflect, and reveal. They’re willing to talk, and they’re willing to go deeper.
-
-::: {.callout-tip title="Minimum Conditions for a Passed Access Test"}
-- You know **where** your people are  
-- You can **interact** with them directly  
-- They are **responsive and willing to engage**  
+::: {.callout-tip title="Prompt"}
+A powerful need you cannot access is not an opportunity. Confirm that your group is observable, reachable, and willing to engage.  
 :::
 
-If any of these are missing, your access isn’t yet strong enough. And that’s not a failure — it’s a signal. Better to learn this now, while there’s still time to adjust.
+Fill in the checklist for your top 2–3 groups:
+
+| Candidate Group | Observable? (Y/N) | Reachable? (Y/N) | Willing to Engage? (Y/N) | Notes / Risks |
+|-----------------|-------------------|------------------|--------------------------|---------------|
+|                 |                   |                  |                          |               |
+|                 |                   |                  |                          |               |
+
+If you cannot check all three boxes, your access is too weak. Either broaden your group or return to your shortlist.
+
+*For an example of how this looks in practice, see @sec-ha-people-converge-access (the “Assess Access” section) of the [Halo Alert demo](demo/exp-02-converge-worksheet.qmd).*
+
+## 4. Select Your People
+
+Based on comparison, empathy, and access:
+
+- **Chosen Group:** `___________________________________`
+- **Why we chose them (patterns, empathy, access):**  
+  1. `__________________________________`
+  2. `__________________________________`
+  3. `__________________________________`
+
+Remember: this choice is **provisional**. Evidence may pull you toward a new definition later. But for now, this is the group you’ll commit to exploring in depth.
 
 ---
 
-### What You Actually Do
-
-A good access test is low-effort but high-signal. You’re not gathering formal data yet — you’re testing your ability to gather it later. That might look like:
-
-- Posting an open-ended question in a relevant group or subreddit  
-- Sending cold messages or emails to 5–10 potential participants  
-- Visiting a physical location to observe flow and availability  
-- Asking for brief conversations and tracking how many say yes
-
-You’re looking for early traction — signs that your group is not just real, but **reachable** in ways that matter.
+Use the [People Convergence Guide](toolkit/People_Converge_Guide.qmd) from the toolkit to guide your own decision-making, and review the [Halo Alert Demo](demo/exp-02-converge-worksheet.qmd) to see how another team narrowed their options and chose their people.
 
 ---
 
-### What Happens If You Struggle?
+## Attachments (for your Data Room)
 
-If your messages go unanswered, if you can’t find where your people spend time, or if conversations fizzle after two sentences, pay attention. The issue might not be your concept — it might be your choice of people.
+At this stage, your team should create and store artifacts in your shared data room (e.g., Google Drive, Miro, Notion). Typical attachments include:
 
-You may need to **loop back** to your short list from convergence and try again. This isn’t wasted time — it’s forward progress. It means you’re protecting yourself from building for an invisible audience.
+- Comparison table (CSV or Google Sheet)  
+- Empathy reflection notes (txt, journal, or whiteboard photo)  
+- Access test log (doc with attempted contacts or field notes)  
 
-::: {.callout-warning title="When Access Isn’t Working"}
-- You can’t find where your people spend time — physically or online  
-- You rely entirely on personal connections (friends, classmates, roommates)  
-- People are willing to talk but only give surface-level responses  
-- Your target group is too broad to locate or segment effectively  
-- You’re targeting vulnerable or stigmatized groups without a path through gatekeepers or clear ethical strategy  
-- You assume access is working because one person responded — but can’t replicate that across the group  
-:::
-
----
-
-### A Word About Sampling
-
-We’ll return to the topic of sampling in the next chapter. But it’s worth saying now: **access problems almost always lead to sampling bias**. If you only talk to people who are close to you, highly responsive, or especially available, your insights will skew. A successful access test tells you that you can reach a broad and representative slice of the group you’ve chosen — not just the easy-to-find few.
-
----
-
-### Note: You’re Still Defining Your People
-
-Even though you’ve “chosen” your group, you haven’t fully defined them. Not yet. That definition will evolve as you learn what pain unites them. You started with socio-demographic clues — age, role, setting — but you’ll eventually define your people by **shared unmet needs**.
-
-When those needs start to surface in the next stage, your early conversations may sound chaotic. If you’re hearing different themes, it may be because you’re talking to **multiple pain subgroups**. That’s not a failure — it’s how discovery works. You’ll converge again later, using personas and journey maps to isolate pain-defined boundaries.
-
-If this happens, don’t worry — it’s part of the process. Keep listening. The real community is just beginning to take shape.
-
----
-
-<!--
-### Halo Alert in Action
-
-::: {.callout-demo title="Halo Alert in Action"}
-After selecting professional women commuting on foot in mid-sized cities as their focus, the Halo Alert team needed to confirm access. 
-
-They identified a few likely channels: LinkedIn connections, Slack groups for women in tech, a coworking space email list, and local women’s safety forums. They sent messages to small samples in each channel — short, respectful, and focused on learning. Within 48 hours, they had over a dozen enthusiastic replies.
-
-What mattered most wasn’t the volume. It was the quality of the engagement. Respondents were open, thoughtful, and eager to share stories. That was the green light the team needed: access was not just possible, it was strong.
-
-They didn’t collect formal data yet — but they had confirmed that meaningful conversations could happen. That cleared the way for real discovery.
-:::
-
----
--->
-
-### What You Need to Move Forward
-
-You’re ready to begin ethnographic discovery when:
-
-- You can locate your people in specific places or digital communities  
-- You can interact with them in a format that matches their lives  
-- They respond — not just once, but with depth and openness  
-- You know you’re not relying solely on personal convenience samples  
-- You’re prepared to adapt your definition of “your people” as patterns emerge  
-
-Access isn’t a checkbox. It’s a gate. Pass through it, and your expedition can begin in earnest.
-
-You’ve now chosen a group, confirmed you can reach them, and begun to feel the pull of their experience. What comes next is discovery — the core of ethnographic exploration. You’ll step into their world not to validate assumptions, but to learn what they cannot yet articulate: the quiet signals of persistent pain, workarounds they’ve normalized, and needs they may not yet know they have.
-
-This is where real innovation begins — with curiosity, humility, and proximity. You’re no longer circling from a distance. You’re entering the field.
+Use these as a prompt. Your team’s versions will look different, and that’s expected.
 

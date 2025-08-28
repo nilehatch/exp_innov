@@ -1,0 +1,180 @@
+# Choose Your People {#part-choose-people}
+
+
+## Why We Start With People {.unnumbered}
+
+Every expedition begins with a choice of direction. In innovation, that choice is not about *what to build* but *who to learn from*.  
+
+The first diamond of expeditionary innovation is about people: diverging to explore many possible communities, converging to select one, and testing whether you can truly access them. 
+
+![Diverge and converge to choose a community of people and then test your access to them.](images/21_people_diamond_test.svg){#fig-people-diamond-3 style="max-height: 340px;" fig-align="center" fig-cap-location="margin"}
+
+This choice matters more than it seems, because everything downstream — the needs you uncover, the solutions you design, even the shape of your venture — flows from it.  
+
+But here’s the good news: **you cannot choose “wrong.”**  
+
+
+## The Tyranny of the Market {.unnumbered}
+
+Markets are not fair. They reward the mainstream and neglect the edges. Over time, incumbents cluster around the average customer, optimizing for the largest segment. That leaves others — smaller, harder to reach, or less visible — perpetually underserved.  
+
+These people live under the *tyranny of the market*:  
+- Their options are abundant but never quite right.  
+- They adapt with workarounds, hacks, and compromises.  
+- They quietly accept friction, delays, and risks as “normal life.”  
+
+```{r}
+#| label: fig-tyranny-market
+#| echo: false
+#| warning: false
+#| fig-align: right
+#| fig-cap-location: margin
+#| fig-cap: In many markets, competitors converge on the largest customer segment, leaving fringe needs unmet. These edges are where expeditionary innovation takes root.
+#| fig-width: 10
+#| fig-height: 3.6
+#| out-width: 100%
+#| fig-asp: 0.35    # ~wide banner; adjust 0.30–0.40 to taste
+
+library(tidyverse)
+
+# --- Parameters -------------------------------------------------------------
+mu    <- 3
+sigma <- 1
+x_min <- 0.5
+x_max <- 5.5
+edge_k <- 0.75           # width of "center" band (in SDs)
+c_lo <- mu - edge_k*sigma
+c_hi <- mu + edge_k*sigma
+
+# --- Data -------------------------------------------------------------------
+x <- seq(x_min, x_max, length.out = 600)
+df <- tibble(
+  x = x,
+  y = dnorm(x, mean = mu, sd = sigma)
+)
+
+df_all    <- df
+df_center <- df %>% filter(x >= c_lo, x <= c_hi)
+df_left   <- df %>% filter(x <  c_lo)
+df_right  <- df %>% filter(x >  c_hi)
+
+inc_label <- "Incumbents cluster around\n mainstream customers"
+
+#my_plot <- ggplot(df, aes(x, y)) +
+ggplot(df, aes(x, y)) +
+  # Areas
+  geom_area(data = df_all,    fill = "grey85") +
+  geom_area(data = df_left,   fill = "#3774B7", alpha = 1) +
+  geom_area(data = df_right,  fill = "#3774B7", alpha = 1) +
+  geom_area(data = df_center, fill = "grey75") +
+  # Curve + baseline
+  # geom_line(color = "royalblue3", linewidth = 1.6) +
+  geom_hline(yintercept = 0, color = "black", linewidth = 1) +
+
+  # Annotations
+  annotate("text",
+           x = mu, y = max(df$y) * 0.6,
+           label = inc_label, size = 4.5, lineheight = 1.05) +
+geom_label(
+  data = tibble(
+    x = c(x_min + 1.65, x_max - 1.65),
+    y = c(max(df$y)*0.15, max(df$y)*0.15),
+    lab = c("Underserved\nfringe", "Underserved\nfringe"),
+    h = c(1, 0)
+    ),
+  aes(x = x, y = y, label = lab, hjust = h),
+  size = 5,                  # slightly smaller for phones
+  label.size = 0,              # no stroke border
+  label.padding = unit(0.15, "lines"),
+  label.r = unit(0.08, "lines"),
+  color = "white",
+  fill = "#3774B7",
+  alpha = 1
+  ) +
+
+  # Labels
+  xlab("Customer Preferences") + ylab(NULL) +
+
+  # Vertical y-axis title just outside the panel  
+  annotate("text",
+         x = x_min + 0.02 * (x_max - x_min),  # a small nudge inside
+         y = max(df$y) * 0.55,
+         label = "Number of Customers",
+         angle = 90, fontface = "bold", size = 5) +
+  
+  scale_x_continuous(limits = c(x_min, x_max), expand = c(0, 0)) +
+  scale_y_continuous(limits = c(0, max(df$y) * 1.05), expand = c(0, 0)) +
+
+  # Theme: minimal, no grid, tight margins for vertical label
+  theme_minimal(base_size = 11) +
+  theme(
+    axis.title = element_text(size = 14, face = "bold"),
+    axis.ticks  = element_blank(),
+    axis.text   = element_blank(),
+    panel.grid  = element_blank(),
+    plot.margin = margin(5, 10, 10, 5)  # give the vertical label some room
+  )
+
+# Save ggplot as PNG
+#ggsave("tyranny_market.png", plot = my_plot, width = 8, height = 6, dpi = 300)
+# Save ggplot as SVG
+#ggsave("tyranny_market.svg", plot = my_plot, width = 8, height = 6, dpi = 300)
+```
+
+This tyranny guarantees that unmet needs exist in **every community you might choose**. Some will be obvious, others subtle. But if you do the work of ethnographic discovery — listening, observing, probing — you will find them. That is why expeditionary innovation works so reliably. The edges are always there.  
+
+
+
+## Righting a Wrong {.unnumbered}
+
+When you choose a group to study, you’re not just looking for opportunity. You’re stepping into an injustice — a place where people have been forced to make do because no one has designed with them in mind.  
+
+Choosing people at the edges is an act of service. You are saying:  
+- *We see you.*  
+- *Your needs matter.*  
+- *You deserve better than “good enough.”*  
+
+That commitment doesn’t just build better ventures; it builds loyalty. People who have long been ignored rarely forget the first team that designed something truly for them.  
+
+---
+
+## Why Any Group Can Work {.unnumbered}
+
+Entrepreneurs often get stuck here, worrying that if they pick the “wrong” group, they’ll waste their effort. Expeditionary innovation flips that fear:  
+
+- If you choose **carelessly** (say, out of convenience), you may waste time chasing shallow signals.  
+- But if you choose **deliberately**, and commit to access, *any group will reveal unmet needs*.  
+
+The constraint is not the market; it is you. Can you observe them in context? Can you engage them in real conversations? Will they open up enough for you to see what they’ve normalized? If the answer is yes, then the tyranny of the market ensures that needs will surface.  
+
+---
+
+## What This Part Covers {.unnumbered}
+
+In this part of the book, you’ll learn how to:  
+
+1. **Diverge** — cast a wide net across possible groups, anchoring in meaningful problem spaces.  
+2. **Converge** — compare, empathize, and assess access to choose one group.  
+3. **Test Access** — confirm that you can reliably reach and engage them.  
+
+Alongside the narrative chapters, you’ll find practical guides and demonstrations from the Halo Alert project, showing how these methods play out in practice.  
+
+By the end of this part, you will not just have “chosen a target audience.” You’ll have committed to a community — one whose unmet needs are waiting to be uncovered, and whose lives can be changed when you find them.  
+
+
+--- 
+
+::: {.callout-note title="How to Use This Part"}
+Every stage of the *Choosing People* diamond comes in **three parts**:
+
+- **Chapter** — explains the *why* and the big ideas.  
+- **Guide** — gives you a step-by-step worksheet you can use directly.  
+- **Demo** — shows how the Halo Alert team applied the method in practice.  
+
+Think of it this way:  
+The **chapter** teaches, the **guide** directs, and the **demo** proves it’s doable.  
+
+To get the most out of this book, don’t stop at reading. Pair each chapter with its guide, then study the demo to see how real evidence is gathered.
+:::
+
+

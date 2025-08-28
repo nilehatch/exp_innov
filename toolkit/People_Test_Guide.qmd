@@ -1,0 +1,82 @@
+# Access Test Guide {#sec-access-test-guide .unnumbered} 
+
+#### Confirming whether your chosen people are observable, reachable, and willing to engage {.subtitle}
+
+This guide should be used with the methods outlined in [Chapter @sec-test-people-chapter].
+
+---
+
+## Purpose {.unnumbered}
+
+Before you invest in conversations or observations, confirm that you can **reliably reach your chosen people**. Access testing answers a simple but essential question: *Can we actually engage them, repeatedly and meaningfully?*  
+
+A passed access test = you know **where** your people are, you can **reach** them directly, and they are **willing to engage**.  
+
+---
+
+## 1. Define Your Group {.unnumbered}
+
+- **Chosen people/community:** ___  
+- **Why this group matters:** ___  
+- **Typical settings or gathering places:** ___  
+
+---
+
+## 2. Minimum Access Conditions {.unnumbered}
+
+Check each box only if evidence supports it (not just assumptions):  
+
+- [ ] We can **find them** (specific places, online/offline)  
+- [ ] We can **engage them** (via DM, email, intercept, observation, etc.)  
+- [ ] They **respond and open up** (willing to talk, reflect, and share stories)  
+
+---
+
+## 3. Test Design {.unnumbered}
+
+- **Channels to test:** ___  
+- **Sample size goal:** ___  
+- **Method (DM, intercept, post, visit, etc.):** ___  
+- **Timeline:** ___  
+
+---
+
+## 4. Execution Notes {.unnumbered}
+
+- What did you actually do? ___  
+- How many people did you attempt to reach? ___  
+- How many responded positively? ___  
+- Quality of responses (surface vs. depth): ___  
+- Any barriers or surprises? ___  
+
+---
+
+## 5. Results & Signal Strength {.unnumbered}
+
+- **Strong access (green light):** People responded quickly, openly, and repeatedly.  
+- **Weak access (yellow light):** Responses limited, shallow, or hard to replicate.  
+- **Blocked access (red light):** Could not reliably find, reach, or engage.  
+
+**Your assessment:** ___  
+
+---
+
+## 6. Knowledge Update {.unnumbered}
+
+- What do you now know about access to this group? ___  
+- What assumptions did you validate or overturn? ___  
+- Did you learn anything about subgroups, gatekeepers, or hidden barriers? ___  
+
+---
+
+## 7. Next Steps {.unnumbered}
+
+- If green: Plan your first exploratory conversations/observations.  
+- If yellow: Refine channels, messaging, or sampling strategy.  
+- If red: Loop back to convergence; reconsider your chosen people.  
+
+___
+**Attachments (Data Room pointers):**  
+- Screenshot of messages/posts sent  
+- Short intercept script (if used)  
+- Record of replies or field notes  

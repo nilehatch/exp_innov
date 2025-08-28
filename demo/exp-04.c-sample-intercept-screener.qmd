@@ -1,0 +1,48 @@
+# People Divergence Sprint - Halo Alert {#sec-diverge-people-ha .unnumbered}
+
+#### Shortlist of candidate communities, orbit snapshots, and access channels {.subtitle}
+
+> Following the toolkit naming conventions, this file is named `exp-01.a-sample-intercept-screener`
+
+---
+title: "Sample Intercept Screener"
+subtitle: "Field-ready screening questions for quick participant checks"
+---
+
+# Sample Intercept Screener {.unnumbered}
+
+This screener is designed for **short, in-the-moment checks** (e.g., on the street, outside a subway, in a café). It helps you quickly identify whether someone fits your target profile and is willing to participate in a short interview or observation.
+
+---
+
+## Introduction (Script)
+
+Hello, my name is [your name]. I’m a student working on a project about [general problem space].  
+We’re not selling anything. We’re just learning from people’s experiences, and your perspective would really help.  
+Can I ask you a few quick questions? It’ll only take a minute.  
+
+---
+
+## Eligibility Questions
+
+1. Do you walk as part of your daily commute or routine?  
+   - Yes → continue  
+   - No → politely thank and end  
+
+2. Do you usually walk **alone** for at least 5 minutes at a time?  
+   - Yes → continue  
+   - No → politely thank and end  
+
+3. Would you be open to a **10–15 minute conversation** about your experiences?  
+   - Yes → continue to consent  
+   - No → politely thank and end  
+
+---
+
+## Notes for Field Teams
+
+- Keep the tone conversational, not interrogative.  
+- If someone hesitates, reassure them: *“We’re just students, not a company. We’re trying to learn.”*  
+- Respect refusals immediately — thank them for their time.  
+
+---

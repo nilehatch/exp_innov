@@ -1,0 +1,31 @@
+# Draft Access Notes {#sec-access-notes-ha .unnumbered}
+
+#### Potential channels to reach candidate groups {.subtitle}
+
+> Following the toolkit naming conventions, this file is named `exp-01.c-diverge-people-2025-02-19`
+
+## Draft Access Notes for Diverge Candidates
+
+- **Female college students (night classes)**  
+  Access via: campus org newsletters, student unions, safety escort programs.  
+
+- **Professional women (late subway commute)**  
+  Access via: LinkedIn groups, coworking spaces, women-in-tech Slack groups.  
+
+- **Hospital shift workers (nurses/doctors)**  
+  Access via: nurse associations, hospital HR postings, professional listservs.  
+
+- **Gig economy workers (delivery, rideshare)**  
+  Access via: app-based worker subreddits, Discord groups, drivers’ advocacy collectives.  
+
+- **Elderly women (part-time jobs)**  
+  Access via: senior centers, AARP groups, community bulletin boards.  
+
+- **International students**  
+  Access via: international student offices, ESL classes, WeChat groups.  
+
+
+---
+**Notes:**  
+- These are *draft channels*, meant to test reachability in the Access Test.  
+- Actual reliability will need validating (response rates, willingness to engage).  

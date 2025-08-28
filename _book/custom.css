@@ -534,3 +534,26 @@ h2.method-header::before, h3.method-header::before {
 }
 
 
+/* Base blank style */
+.blank {
+  display: inline-block;
+  border-bottom: 1.5px solid #444;  /* underline color + thickness */
+  min-width: 8ch;                   /* default length (characters) */
+  line-height: 1.2;
+  padding-bottom: 0.15em;           /* keeps the line visually separated */
+  background-color: transparent;    /* change if you want a filled box */
+  vertical-align: baseline;
+}
+
+/* Length variants — compose with the base .blank class */
+.blank-short  { min-width: 6ch;  }
+.blank-medium { min-width: 12ch; }
+.blank-long   { min-width: 20ch; }
+
+/* Optional filled style for “entry field” look */
+.blank-fill   { background-color: #f5f5f5; }
+
+/* Optional: color variants */
+.blank-dark   { border-bottom-color: #222; }
+.blank-light  { border-bottom-color: #999; }
+.blank-brand  { border-bottom-color: rebeccapurple; } /* example */

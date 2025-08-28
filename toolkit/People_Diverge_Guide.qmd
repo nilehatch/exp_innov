@@ -1,0 +1,133 @@
+# People Divergence Sprint {#sec-people-divergence-guide .unnumbered}
+
+<!-- Generate a wide set of communities with early access signals -->
+
+#### A 45–90 minute exercise to map candidate communities before you choose {.subtitle}
+
+> Goal: produce a *shortlist* of plausible communities (10–30), each with a clear description, why-they-might-hurt, and at least one **access channel** to verify next.
+
+---
+
+## Materials & Setup {.unnumbered}
+- Sticky notes or a shared doc/board  
+- Timer (phone is fine)  
+- This guide + the **Diverge** chapter for context  
+- Team of 2–5 (solo works too; halve the timers)
+
+::: callout-tip
+**Timebox:** If you only have 45 minutes, use the “Quick Mode” timings in each step.
+:::
+
+---
+
+## Step 1 — Anchor a Problem Space (5–10 min) {.unnumbered}
+Write one **plain-language** statement:
+
+**Anchor:** “We’re exploring friction around ___ for ___ in ___ context.”
+
+Examples:
+- “Safety during the *walking segments* of commutes for *women* in *urban areas*.”
+- “Care coordination for *adult children* supporting *aging parents* across *states*.”
+
+::: callout-warning
+Avoid solution words (“app,” “platform,” “AI”) in the anchor.
+:::
+
+
+## Step 2 — Generate Communities (10–20 min) {.unnumbered}
+Silent brainstorm first (3–5 min), then round-robin share. Aim for **quantity** (20+). Use these **stretch prompts**:
+
+- Who experiences this most **intensely**?
+- Who is **ignored** by current solutions?
+- Who has **workarounds** no one sees?
+- Who faces this at **odd times/places** (night shift, rural routes, transfer points)?
+- Who’s adjacent (caregivers, gatekeepers, frontline workers, volunteers)?
+
+**Quick Mode:** 8–10 minutes total; shoot for 12–15 groups.
+
+
+## Step 3 — Add Texture (8–15 min) {.unnumbered}
+For each promising group, sketch a one-liner **profile**: role + situation + friction.
+
+**Template:**  
+“**[Group]** who **[do X / live in Y]** often **[friction]** because **[why].**”
+
+Examples:
+- “**Professional women** who walk from subway to office often **avoid side streets** because **lighting is inconsistent and foot traffic thins.**”
+- “**Night-shift nurses** crossing hospital lots **carry keys visible** because **security patrols are sparse at 3am.**”
+
+
+## Step 4 — Map an Orbit (6–10 min) {.unnumbered}
+Name 1–3 **orbit roles** per group (people who influence or constrain the experience): e.g., property managers, transit security, roommates, HR, campus police, rideshare drivers, subreddit mods.
+
+::: callout-note
+Orbit roles become **access multipliers** and reveal hidden constraints you’ll test later.
+:::
+
+
+## Step 5 — Capture Light Access Signals (8–12 min) {.unnumbered}
+For each group, jot at least **one plausible channel** where you could reach them in the next week:
+
+- Physical: specific stations, entrances/exits, bus stops, gyms, dorms, employer lobbies
+- Digital: subreddit, Slack/Discord, alumni groups, HOA/Nextdoor, Meetup, church/ward groups
+- Warm routes: student clubs, coworking spaces, HR newsletters, union/local boards
+
+**Rule:** If you can’t imagine where they are *and* how to approach, mark **LOW** access.
+
+
+## Step 6 — Snapshot & Shortlist (5–10 min) {.unnumbered}
+Create a **one-screen** table you can revisit in Converge:
+
+| Group label | One-line profile | Orbit roles | Likely access channels | Access (LOW/MED/HIGH) | Why this group might hurt |
+|---|---|---|---|---|---|
+| Women walking part of commute | Subway → office walkers avoid side streets after dark | Roommates, property mgr, transit security | Station exits, coworking list, r/nyc | MED | Lighting, sparsity, vigilance load |
+| Night-shift nurses | 3am lot crossing w/ fatigue | Hospital security, supervisors | Staff Slack, union board | LOW | Distance, staffing patterns |
+| Female grad students | Campus-to-housing late | Roommates, campus police | Grad Slack, dept admins | HIGH | Staggered hours, low-cost routes |
+
+Keep 10–30 rows; you’ll down-select in the next chapter.
+
+
+## Quick Bias Check (2–4 min) {.unnumbered}
+- Are most groups **people like us** or **easy to reach**? Add three that aren’t.  
+- Did we include at least one **non-obvious** subgroup (e.g., transfers, caregivers, gig workers)?
+
+
+## Done = “Diverge Complete” When… {.unnumbered}
+- You have **10–30** candidate communities with one-line profiles  
+- Each has ≥1 **realistic access channel** (even if tentative)  
+- Orbit roles are noted for at least your top 8–10 candidates
+
+
+## Field Sheet (Copy/Paste) {.unnumbered}
+
+Anchor:
+We’re exploring friction around ______________________ for ________________ in ______________.
+
+Candidate groups (aim 20+):
+1) ___________________________
+2) ___________________________
+3) ___________________________
+...
+
+One-line profiles (pick 10–30 to flesh out):
+- [Group] who [do/live] often [friction] because [why].
+- [Group] who [do/live] often [friction] because [why].
+...
+
+Orbit roles (1–3 each):
+- [Group]: ___________________
+- [Group]: ___________________
+
+Access channels (at least one per group):
+- [Group]: ___________________
+
+Bias check adds (3 non-obvious):
+- ___________________________
+- ___________________________
+- ___________________________
+
+
+## What to Save to Your Data Room {.unnumbered}
+- This guide + a dated sprint doc (export to PDF/PNG if you used a board)  
+- The **shortlist table** (CSV/Sheet) for the Converge chapter  
+- Any contact lists or channel links you surfaced (for Access Test later)

@@ -27,7 +27,7 @@ The core concept explores **discreet, low-friction ways to stay connected** (e.g
 
 # How to Use This Demo Part {#sec-how-to-use}
 
-1. **Read the appropriat narrative chapter** first (e.g., Explore the Community, Hypthesize a Pain…).  
+1. **Read the appropriate narrative chapter** first (e.g., Explore the Community, Hypothesize a Pain…).  
 2. **Skim the matching toolkit guide** for the method (template + checklist).  
 3. **Open the corresponding Halo Alert demo** to see the method *applied* (design → execution → evidence → learning → next steps).
 
@@ -40,12 +40,12 @@ Keep your own **data room** in parallel: copy the templates, adapt the guides, a
 
 ## Diamond 2 — Understand the Unmet Need
 - **Conversation method**
-  - Guide adaptation: [Conversation Guide — Halo Alert Commuters](../toolkit/conversation-guide.qmd)
+  - Guide adaptation: [Conversation Guide — Halo Alert Commuters](Conversation_Guide_ha.qmd)
   - Supporting experiments:
-    - [Exp 04 — Commuter Conversation: Sarah Thompson](exp-04-conversation-sarah-2025-02-24.qmd)
-    - [Exp 05 — Commuter Conversation: Emily Rivera](exp-05-conversation-emily-2025-02-24.qmd)
+    - [Exp 04 — Commuter Conversation: Sarah Thompson](exp-04.a-conversation-sarah-thompson-2025-02-24.qmd)
+    - [Exp 05 — Commuter Conversation: Emily Rivera](exp-04.b-conversation-emily-rivera-2025-02-25.qmd)
 - **Observation method**
-  - Guide: [Observation Guide](../toolkit/observation-guide.qmd)  <!-- if you stored it in toolkit -->
+  - Guide: [Observation Guide](../toolkit/Observation_Guide.qmd)  
   - Supporting experiments:
     - Exp 06 — Observation: Morning Subway Exit
     - Exp 07 — Observation: Evening Subway Entrance
@@ -80,9 +80,9 @@ Keep your own **data room** in parallel: copy the templates, adapt the guides, a
 
 Every demo ties to at least one guide:
 
-- Conversations → see @sec-conversation-guide  
-- Observation → see @sec-observation-guide  
-- Supporting/Primary Experiment templates → Toolkit section
+- Conversations → see [conversation guide](../toolkit/Conversation_Guide.qmd)
+- Observation → see [conversation guide](../toolkit/Observation_Guide.qmd)
+- Supporting/Primary Experiment templates → [experimentation toolkit](../toolkit/Experimentation_Toolkit.qmd)
 
 The intent is **traceability**: a student can jump from a technique in the narrative → to a guide → to a concrete Halo Alert example → and back to their own data room with the same template.
 

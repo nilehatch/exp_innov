@@ -1,0 +1,99 @@
+# Choosing the Right People {#sec-converge-people-ha .unnumbered}
+
+#### From many candidate communities to one deliberate choice {.subtitle}
+
+> Following the toolkit naming conventions, this file is named `exp-02-converge-worksheet-2025-02-20`
+
+## Context {.unnumbered}
+
+This document demonstrates how the Halo Alert team moved from *divergent exploration* of possible communities to a *converged choice* of focus. It follows the **Convergence Guide** and illustrates each step with real decisions, reflections, and evidence from the team’s early work.
+
+
+## 1. Compare: Spot Patterns and Weigh Possibilities {#sec-ha-people-converge-compare}
+
+**Candidate groups under review (from Diverge stage):**
+
+- College women walking home at night  
+- Professional women commuting on foot in mid-sized cities  
+- Female university students crossing campus after dark  
+- Shift workers returning home before sunrise  
+- Immigrant women using late-night buses  
+- Elderly women commuting by public transit  
+- Women in rural areas walking to jobs without cars  
+
+**Patterns noticed:**
+
+- **Recurring theme of vigilance**: across nearly all groups, women adapted routines for safety (texting friends, carrying keys, rerouting).  
+- **Time-of-day effect**: concerns intensified at night or in dark/isolated areas.  
+- **Transit + walking overlap**: many groups blended public transit with walking — friction arose especially in “last mile” segments.  
+- **Uneven visibility in mainstream solutions**: tech apps and products largely targeted “generic commuters” or “college safety,” not nuanced subgroups.  
+
+::: callout-tip
+**Team reflection:** Professional women commuters and female students showed *layered patterns*: safety behaviors woven into daily life, often invisible to outsiders. These weren’t dramatic events, but steady frictions.
+:::
+
+
+## 2. Empathize: Notice the Emotional Pull {#sec-ha-people-converge-empathize}
+
+Groups that lingered after work sessions:  
+- **Professional women commuters** — stories of texting roommates, rerouting streets, balancing career pressure with constant background vigilance.  
+- **College students** — raw vulnerability late at night, but often constrained by campus access rules (harder to study without IRB).  
+
+**What stuck emotionally:**  
+The team couldn’t shake the quiet burden of professional women who “looked fine” yet carried routines of self-protection every day. Unlike campus students, these women rarely voiced complaints — they had normalized fear.  
+
+::: callout-note
+**Signal of empathy:** Team members reported “feeling protective” and a sense of injustice — *why should these capable professionals still have to carry keys between their fingers?*
+:::
+
+
+## 3. Assess Access: Can You Actually Reach Them? {#sec-ha-people-converge-access}
+
+**Quick tests conducted:**  
+- Draft LinkedIn messages to small networks of women in New York and Boston.  
+- Pilot outreach in coworking Slack group: short invite for 15–20 min conversations.  
+- Intercept attempts outside subway exits near campus.  
+
+**Results:**  
+- LinkedIn: 3 out of 5 messages received thoughtful replies within 48 hours.  
+- Slack group: 8 women volunteered stories or referrals.  
+- Subway intercept: 2 agreed to short chats, though one declined recording.  
+
+**Assessment:**
+
+- [x] Observable in public settings.  
+- [x] Reachable through professional and digital networks.  
+- [x] Willing to engage, offering thoughtful accounts.  
+
+
+## 4. Select Your People {#sec-ha-people-converge-select}
+
+**Decision:**  
+Halo Alert chose to focus on **professional women commuting on foot in mid-sized cities**.  
+
+**Rationale:**  
+- Clear patterns of persistent, subtle safety burdens.  
+- Emotional resonance: the team felt drawn to their lived experience.  
+- Proven access: multiple channels worked quickly and respectfully.  
+
+**Note:** This was treated as a *working commitment*, not a final lock-in. The team acknowledged definitions would evolve as pain points clarified.
+
+---
+
+## Attachments (Data Room Pointers)
+
+- **Comparison board (Miro capture)** — clusters of candidate groups & overlap patterns.  
+- **Empathy notes** — debrief docs where team recorded “lingering voices.”  
+- **Access tracker sheet** — outreach attempts, response rates, notes on tone of replies.  
+- **Draft outreach messages** — short LinkedIn / Slack scripts.  
+
+---
+
+## Researcher Reflection
+
+- **Surprises:** Volume and thoughtfulness of replies from professional women via Slack — faster and deeper than expected.  
+- **Updated assumptions:** Safety concerns aren’t always voiced; they’re embedded in daily rituals.  
+- **Next step:** Launch ethnographic exploration (conversations, observations) with this group to surface unmet needs.  
+
+---
+**Attribution:** Convergence documented by the Halo Alert team, 2025-02-20.

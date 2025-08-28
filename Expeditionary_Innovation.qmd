@@ -1,9 +1,6 @@
----
-title: "Expeditionary Innovation"
-subtitle: "A proven path to find, validate, and win with solutions only you can deliver"
----
+# Expeditionary Innovation {#sec-expeditionary-innovation-chapter}
 
-<br>
+#### A proven path to find, validate, and win with solutions only you can deliver {.subtitle}
 
 ## Why So Many Good Ideas Still Fail {.unnumbered}
 
@@ -83,143 +80,38 @@ Later in the book, we’ll look at how this same process can lead to big opportu
 
 ## Why This Works So Reliably {.unnumbered}
 
-Most innovation advice quietly assumes that real opportunities are rare — that creativity is a matter of lucky sparks or sudden genius. In reality, the landscape is full of unmet needs. Many are hiding in plain sight.
+Most innovation advice quietly assumes that real opportunities are rare — that creativity depends on lucky sparks or sudden genius. In reality, unmet needs are everywhere.
 
-Markets tend to pull competitors toward the center. Over time, incumbents cluster around the largest concentration of customers — features and prices converging, everyone chasing what the mainstream customer seems to want — leaving those at the edges underserved. Fringe customers live in the gaps between what’s offered and what they truly need.
+Markets naturally push companies toward the center. Over time, competitors converge on the largest concentration of mainstream customers, piling features and prices into the same crowded peak. That leaves those at the edges underserved. They adapt with workarounds, compromises, or “good enough” solutions that never truly fit.
 
-These edge customers suffer under the *tyranny of the market* where their choices are never quite right. They make do with workarounds, compromises, and awkward fits. They buy “good enough” or go without because no one has bothered to make “exactly right” — and they quietly adapt their lives around the compromises. That’s why you won’t find these needs in analyst reports or industry slides. They live in the blind spots, invisible to companies content to fight over the middle.
+These edge customers suffer under what we call the *tyranny of the market*: they’re visible enough to buy, but not valuable enough for incumbents to design for. Their needs remain invisible in analyst reports, investor decks, and strategy slides. And yet, those unmet needs are where new opportunities live.[^1] 
 
-```{r}
-#| label: fig-tyranny-market
-#| echo: false
-#| warning: false
-#| fig-align: right
-#| fig-cap-location: margin
-#| fig-cap: In many markets, competitors converge on the largest customer segment, leaving fringe needs unmet. These edges are where expeditionary innovation takes root.
-#| fig-width: 10
-#| fig-height: 3.6
-#| out-width: 100%
-#| fig-asp: 0.35    # ~wide banner; adjust 0.30–0.40 to taste
+[^1]: With expeditionary innovation, your solutions naturally fit the pattern of *disruptive innovation* as defined and popularized by Clayton Christensen and Michael Raynor, with you starting in a niche that incumbents dismiss, then growing into something that reshapes the market.You can read more about these influential concepts in *The Innovator's Dilemma* [@christensen1997innovator] and *The Innovator's Solution* [@christensen2003innovator].
 
-library(tidyverse)
 
-# --- Parameters -------------------------------------------------------------
-mu    <- 3
-sigma <- 1
-x_min <- 0.5
-x_max <- 5.5
-edge_k <- 0.75           # width of "center" band (in SDs)
-c_lo <- mu - edge_k*sigma
-c_hi <- mu + edge_k*sigma
+When you learn to see and serve these overlooked edges, you often enter a space with no direct competition. Because your solution fits “exactly right,” the people you help become your most loyal advocates from the start.
 
-# --- Data -------------------------------------------------------------------
-x <- seq(x_min, x_max, length.out = 600)
-df <- tibble(
-  x = x,
-  y = dnorm(x, mean = mu, sd = sigma)
-)
-
-df_all    <- df
-df_center <- df %>% filter(x >= c_lo, x <= c_hi)
-df_left   <- df %>% filter(x <  c_lo)
-df_right  <- df %>% filter(x >  c_hi)
-
-inc_label <- "Incumbents cluster around\n mainstream customers"
-
-#my_plot <- ggplot(df, aes(x, y)) +
-ggplot(df, aes(x, y)) +
-  # Areas
-  geom_area(data = df_all,    fill = "grey85") +
-  geom_area(data = df_left,   fill = "#3774B7", alpha = 1) +
-  geom_area(data = df_right,  fill = "#3774B7", alpha = 1) +
-  geom_area(data = df_center, fill = "grey75") +
-  # Curve + baseline
-  # geom_line(color = "royalblue3", linewidth = 1.6) +
-  geom_hline(yintercept = 0, color = "black", linewidth = 1) +
-
-  # Annotations
-  annotate("text",
-           x = mu, y = max(df$y) * 0.6,
-           label = inc_label, size = 4.5, lineheight = 1.05) +
-geom_label(
-  data = tibble(
-    x = c(x_min + 1.65, x_max - 1.65),
-    y = c(max(df$y)*0.15, max(df$y)*0.15),
-    lab = c("Underserved\nfringe", "Underserved\nfringe"),
-    h = c(1, 0)
-    ),
-  aes(x = x, y = y, label = lab, hjust = h),
-  size = 5,                  # slightly smaller for phones
-  label.size = 0,              # no stroke border
-  label.padding = unit(0.15, "lines"),
-  label.r = unit(0.08, "lines"),
-  color = "white",
-  fill = "#3774B7",
-  alpha = 1
-  ) +
-
-  # Labels
-  xlab("Customer Preferences") + ylab(NULL) +
-
-  # Vertical y-axis title just outside the panel  
-  annotate("text",
-         x = x_min + 0.02 * (x_max - x_min),  # a small nudge inside
-         y = max(df$y) * 0.55,
-         label = "Number of Customers",
-         angle = 90, fontface = "bold", size = 5) +
-  
-  scale_x_continuous(limits = c(x_min, x_max), expand = c(0, 0)) +
-  scale_y_continuous(limits = c(0, max(df$y) * 1.05), expand = c(0, 0)) +
-
-  # Theme: minimal, no grid, tight margins for vertical label
-  theme_minimal(base_size = 11) +
-  theme(
-    axis.title = element_text(size = 14, face = "bold"),
-    axis.ticks  = element_blank(),
-    axis.text   = element_blank(),
-    panel.grid  = element_blank(),
-    plot.margin = margin(5, 10, 10, 5)  # give the vertical label some room
-  )
-
-# Save ggplot as PNG
-#ggsave("tyranny_market.png", plot = my_plot, width = 8, height = 6, dpi = 300)
-# Save ggplot as SVG
-#ggsave("tyranny_market.svg", plot = my_plot, width = 8, height = 6, dpi = 300)
-```
-
-Notice how most competitors crowd into the tall central peak, chasing the mainstream (see @fig-tyranny-market). The shaded blue edges mark underserved customers — often invisible to incumbents — where fresh opportunities await.
-
-When you learn to see these overlooked needs — and design a solution that truly fits — you step into a space with no direct competition. And because you’re solving a problem that matters deeply to real people, they become your most loyal advocates from the start.
-
-Here’s the hidden bonus: solving a small, urgent need for one group often leads to bigger opportunities. Nearby groups may share similar needs, and solutions can expand, adapt, or cascade into much larger markets. This is how unicorn-scale ventures quietly emerge — not from chasing the biggest market first, but from getting something exactly right for the first group you serve.
-
-The edges you explore are often ignored for cost or complexity reasons. With expeditionary innovation, your solutions naturally fit the pattern of *disruptive innovation* as defined by Clayton Christensen[^1] with you starting in a niche incumbents dismiss, then growing into something that reshapes the market.
-
-[^1]: Clayton Christensen and Michael Raynor have defined and popularized disruptive innovation.  You can read more about these influential concepts in *The Innovator's Dilemma* [@christensen1997innovator] and *The Innovator's Solution* [@christensen2003innovator].
-
-This isn’t magic, luck, or a rare gift. It’s a repeatable way to discover, design, and scale innovations — and it works because the edges are always there, waiting to be explored.
-
-<!-- In most markets, competitors fight for the middle — leaving edge customers under the tyranny of the market: plenty of choices, all a little bit wrong. Expeditionary innovation starts here. -->
+We’ll return to this idea in detail — including a visual of how mainstream competitors cluster and leave the edges underserved — in [Figure @fig-tyranny-market] in the **Choosing Your People** part.
 
 ## Finding the Edges {.unnumbered}
 
-Once you know where opportunity hides, the challenge becomes learning to see it. The edges don’t announce themselves. They blend into the background of the mainstream — disguised as “niche markets” too small to bother with, customer complaints shrugged off as outliers, or awkward workarounds people have quietly accepted as normal.
+How do you spot these hidden opportunities? By paying attention to signals most companies ignore.
 
-**Start with the people who don’t fit the mold.** Look for customers whose needs push them outside the sweet spot the industry serves. You’ll find them:
+Look for people who don’t fit the mold.
 
--   Adapting mainstream products in creative ways just to make them usable.
--   Buying multiple solutions and cobbling them together into something functional.
--   Paying for extra steps, labor, or accessories because nothing fits “right” out of the box.
+-  cobbling together multiple products just to make things work,
+- inventing hacks or awkward routines to get by,
+- buying “close enough” but never “just right.”
 
-**Listen for pain hiding in plain sight.** It often surfaces in:
+Listen for pain hiding in plain sight:
 
--   Support tickets or forum threads that keep resurfacing but never get resolved.
--   Product reviews that praise the product overall but carry a sharp, specific frustration.
--   Industries where analysts talk about the “average customer” and skip the messy edge cases.
+- complaints that keep resurfacing in forums or reviews,
+- sharp frustrations tucked inside otherwise positive feedback,
+- stories of delay, confusion, or vulnerability brushed off as “just part of it.”
 
-**Resist the pull toward the middle.** Once you spot an underserved edge, the temptation will be to “round off” your idea so it can appeal to more people. That’s the trap incumbents fall into — diluting the fit until it’s just another compromise. In expeditionary innovation, your first aim is *exact fit* for a small group, not broad fit for a big one.
+The temptation will always be to round your idea back toward the middle. Resist it. The fit that feels “too specific” is usually the one that matters most.
 
-The real skill is not guessing where the edge is, but *proving it*. That’s where exploratory experiments come in — simple, low-cost tests designed to uncover whether the problem is real, urgent, and worth solving. Done well, they transform vague hunches into clear opportunities with loyal early adopters already waiting.
+
 
 ## From Edge to Innovation: The Triple Diamond Framework {.unnumbered}
 
@@ -305,8 +197,8 @@ The journey from edge to evidence isn’t a straight line. With the triple diamo
 
 Follow this process and you’ll create innovations that truly delight your customers. They’ll gladly pay for a solution no one else offers, become loyal advocates, and by addressing a need no one else has spotted, you’ll have a natural window of time to establish your foothold before the rest of the market reacts.
 
-Most importantly, by resisting intuitive but low‑probability methods, you dramatically improve your odds of success. You can address product–market fit risk — often the dominant risk in startups — with a high degree of confidence.
+Most importantly, by resisting intuitive but low‑probability methods, you dramatically improve your odds of success. You can mostly eliminate product–market-fit risk — often the dominant risk in startups.
 
-Begin your expedition. Follow the process — not a script — and discover the value you can create for your customers and for yourself.
+Begin your expedition. Follow the process to create create for your customers and for yourself with confidence from the very first step..
 
 

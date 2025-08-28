@@ -1,0 +1,41 @@
+# Find and Validate Customer Pain {#part-find-pain}
+
+#### From lived experience → to clear, testable statements of unmet need {.subtitle}
+
+## Why Pain Comes Second {.unnumbered}
+
+Most startup methods begin with an *idea* and then test whether anyone cares. Expeditionary innovation flips that order. We begin with people, because you can’t uncover meaningful problems without being anchored in a real community. Only then do we move to the second diamond: surfacing the pain those people actually live with.
+
+This matters because most needs aren’t obvious. People adapt. They normalize friction, create workarounds, and stop noticing how much effort or anxiety a “normal” day demands. If you ask directly, you’ll often hear *“it’s fine”* — even when it isn’t. The work of this diamond is to uncover those hidden frictions, name them clearly, and turn them into hypotheses you can test.
+
+
+![Diverge and converge to find a pain (unknown, unmet need) and test whether your customers feel it.](images/22_pain_diamond_test.svg){#fig-pain-diamond-3 style="max-height: 340px;" fig-align="center" fig-cap-location="margin"}
+
+## The Pattern: Diverge, Converge, Test {.unnumbered}
+
+As with every diamond, the rhythm is diverge → converge → test.
+
+- **Diverge**: *Build a mountain of data.* Through *conversations*, *observations*, *role play*, *surveys*, and *secondary research*, you gather raw material. The aim isn’t validation — it’s abundance. You want messy, overlapping stories and signals you can later sort.
+- **Converge**: *Turn signals into hypotheses*. Using *empathy analysis tools* — clustering notes, developing personas, mapping experiences — you begin to see patterns. From these, you form *hypotheses of pain*: testable statements about unmet needs that feel urgent and consequential.
+- **Test**: *Validate the pain*. Through pain validation experiments — the pain validation protocol, the ouch factor test, and willingness-to-pay probes — you check whether these hypothesized needs are real, frequent, and strong enough that people lean in when you bring them up.
+
+Each stage has its own tools, guides, and demos. Together, they move you from *noise* to *signal* — from thousands of words and fragments in your field notes to a short list of validated pain statements that can anchor solution design.
+
+## Why This Stage Is Critical {.unnumbered}
+
+If you skip pain discovery and jump straight to solutions, you risk solving the wrong problem — or a problem too shallow to matter. That’s why this diamond is second, not last. The people you chose in Diamond 1 will keep you anchored, but it is the pain you surface here that ensures your eventual solution is worth building.
+
+This work is both empathetic and analytical. It demands curiosity to see the hidden burdens of daily life, and discipline to reduce the mess into clear, falsifiable statements. When you get it right, you create the single greatest lever in entrepreneurship: a validated problem that customers are already waiting to have solved.
+
+---
+
+::: callout-note
+**How to Use This Diamond**  
+Pair each chapter with its companion tools and demos:  
+
+- Narrative chapters explain the *why* and *what*.  
+- Guides in the Toolkit show you *how*.  
+- Halo Alert demos show the *real application* — unfiltered notes, transcripts, and synthesis from the field.  
+
+Together, these resources give you both the reasoning and the practice to hypothesize customer pain with confidence.
+:::
