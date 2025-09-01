@@ -1,0 +1,66 @@
+# Experience Map Guide {#sec-experience-map-guide .unnumbered} 
+
+This guide should be used with the methods outlined in the @sec-experience-map-section section of [Chapter @sec-hypothesize-pain-chapter].
+
+---
+
+## Purpose  
+
+An experience map (sometimes called a journey map) lets you “walk alongside” a persona as they try to accomplish a goal. It traces what they do, think, say, and feel at each stage of the journey. The value of the map isn’t in the steps themselves but in the *emotional peaks and valleys* — the stress, frustration, or anxiety points where unmet pains are most visible.  
+
+
+## Steps  
+
+1. **Choose a persona and a goal**  
+   - Pick one persona.  
+   - Define a specific outcome they’re trying to achieve (e.g., commute home safely, buy groceries, attend a doctor’s appointment).  
+
+2. **Break the goal into stages**  
+   - List the key steps they take along the way.  
+   - Keep it simple — 5 to 10 stages is usually enough.  
+
+3. **Fill in four lenses for each stage**  
+   - **Doing:** Actions and behaviors you observed or heard.  
+   - **Thinking:** What’s going through their mind.  
+   - **Saying:** Direct quotes from your interviews.  
+   - **Feeling:** Emotions at that moment (anxiety, frustration, relief, boredom).  
+
+4. **Spot the peaks and valleys**  
+   - Highlight the emotional highs and lows across the journey.  
+   - Mark these as *candidate pains*.  
+
+5. **Capture surprises**  
+   - Note anything unexpected, contradictory, or awkward — these often point to hidden unmet needs.  
+
+
+## Tips & Pitfalls  
+
+- Don’t sanitize. Include awkward or messy realities (e.g., avoiding dark shortcuts, calling family mid-walk).  
+- Don’t map just once. Each persona may have multiple relevant journeys.  
+- Do focus on feelings. Emotional spikes often signal the most valuable pains.  
+
+
+## Method Options  
+
+- **Digital (recommended):**  
+  - Use Miro or MURAL journey map templates.  
+  - Fill in sticky notes for each stage under the four lenses.  
+  - Color-code emotions to make peaks and valleys easy to see.  
+
+- **Paper (quick version):**  
+  - Draw a horizontal line for the journey stages on a large sheet of paper.  
+  - Add sticky notes in four rows (Doing, Thinking, Saying, Feeling).  
+  - Mark emotions with symbols or colored dots.  
+  - Photograph the finished map to save for later.  
+
+Choose whichever medium makes it easiest for your team to *move pieces around*. The key is flexibility, not polish.  
+
+
+## Why It Matters  
+
+Clustering shows you patterns. Personas give those patterns a face. Experience mapping puts that face in motion and shows you *when and where pains emerge*. By tracing the journey, you’ll see which moments create the most stress — and therefore which pains are worth turning into testable hypotheses.  
+
+
+## See the Demo  
+
+In the **Halo Alert demo**, Brooke’s journey to and from work is mapped step by step. You’ll see where her anxiety spikes, how her family becomes entangled in the stress, and how multiple candidate pains surface from a single routine walk.  

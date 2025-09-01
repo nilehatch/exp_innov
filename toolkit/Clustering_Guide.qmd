@@ -1,0 +1,68 @@
+# Clustering → Themes Guide {#sec-observation-guide .unnumbered} 
+
+This guide should be used with the methods outlined in the @sec-cluster-themes-section section of [Chapter @sec-hypothesize-pain-chapter].
+
+---
+
+## Purpose  
+
+Clustering is the first step in making sense of messy data. After exploration, you’ll have dozens or even hundreds of raw notes — quotes, observations, fragments. On their own they feel scattered and overwhelming. Clustering brings order. It reveals the patterns that hide inside the noise and sets you up for personas and experience maps.  
+
+
+## Steps  
+
+1. **Download observations**  
+   - Break your research notes into *single observations* — one idea per sticky.  
+   - Keep them short and concrete:  
+     - A direct quote: *“I always text my roommate when I walk home.”*  
+     - A behavior: *She avoided the shortcut street even though it’s faster.*  
+     - A fact from secondary data: *62% of students report anxiety walking at night.*  
+   - Each sticky (physical or digital) should hold exactly one of these items.  
+
+2. **Spread out the notes**  
+   - If using **Miro or MURAL**: paste each observation into a digital sticky. (Miro has an import function that converts spreadsheet rows into stickies automatically.)  
+   - If using **Google Sheets**: keep each observation in its own cell, then copy/paste into Miro or a whiteboard tool for clustering.  
+   - If using **paper**: write each observation on a separate sticky note. Post them on a wall or large sheet of paper.  
+
+3. **Affinity map**  
+   - Start grouping notes that feel related.  
+   - Add to clusters as you go; start new ones when a note doesn’t fit.  
+   - Let patterns emerge instead of forcing them.  
+
+4. **Name the clusters**  
+   - Give each cluster a short, descriptive phrase (2–4 words).  
+   - Capture the essence of what ties the notes together.  
+   - Keep labels tentative — you may refine them as you work.  
+
+5. **Check coverage**  
+   - Make sure every note is placed, even the odd ones.  
+   - Sometimes an “oddball” becomes the seed of an unexpected new theme.  
+
+
+## Tips & Pitfalls  
+
+- Don’t overthink. Keep the pace brisk and let intuition guide your first groupings.  
+- Don’t force-fit. If a note doesn’t belong anywhere, start a new cluster.  
+- Don’t rush to conclusions. Clusters are starting points, not finished insights.  
+
+
+## Method Options  
+
+- **Digital First:**  
+  - Miro/MURAL → best for remote teams; use sticky import to go fast.  
+  - Google Sheets → quick way to collect raw notes before exporting to Miro.  
+- **Analog First:**  
+  - Paper stickies on a wall → best for co-located teams; highly tactile, easy to move.  
+  - Snap a photo and upload if you need a digital record.  
+
+Choose the method that matches your team context. The important rule: *one observation = one sticky = one movable piece.*  
+
+
+## Why It Matters  
+
+Clustering is where the “aha” moments begin. When three, five, or ten different notes point to the same frustration, you realize: *this is not just one person’s story — it’s a pattern.* Those patterns become the raw material for personas and experience maps, which will surface the deeper pains worth exploring.  
+
+
+## See the Demo  
+
+In the **Halo Alert demo**, you’ll see how raw notes from interviews with college women were clustered into themes about commuting safety. What started as scattered observations became clear patterns that shaped the next steps of analysis.  

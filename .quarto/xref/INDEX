@@ -178,5 +178,23 @@
   },
   "Find_Pain_part.qmd": {
     "Find_Pain_part.html": "bd772255"
+  },
+  "toolkit/Clustering_Guide.qmd": {
+    "Clustering_Guide.html": "30cb1aef"
+  },
+  "toolkit/Persona_Guide.qmd": {
+    "Persona_Guide.html": "d2da13ec"
+  },
+  "toolkit/Experience_Map_Guide.qmd": {
+    "Experience_Map_Guide.html": "c819ab1b"
+  },
+  "toolkit/Abduction_Guide.qmd": {
+    "Abduction_Guide.html": "94b22c95"
+  },
+  "toolkit/Prioritize_Pain_Guide.qmd": {
+    "Prioritize_Pain_Guide.html": "03965488"
+  },
+  "demo/exp-06-cluster-themes-2025-03-12.qmd": {
+    "exp-06-cluster-themes-2025-03-12.html": "31eb3256"
   }
 }

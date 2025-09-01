@@ -1,0 +1,68 @@
+# Prioritization and Refrigeration Guide {#sec-priortize-guide .unnumbered} 
+
+<!-- 
+This guide should be used with the methods outlined in the @sec-pain-hypothesis-section section of [Chapter @sec-hypothesize-pain-chapter].
+-->
+
+
+---
+
+## Purpose  
+
+Experience maps and abduction usually surface **multiple candidate pains**. That’s a good thing — but you can’t test them all at once. This guide shows how to choose *one pain to test now* while keeping the rest in reserve. We call this “refrigerating” pains: storing them safely so you can revisit them later if new evidence points back their way.  
+
+
+## Steps  
+
+1. **List candidate pains**  
+   - Gather all the pain hypotheses you generated from experience mapping and abduction.  
+   - Write each one clearly, side by side.  
+
+2. **Assess urgency**  
+   - Which pains feel most pressing in lived experience?  
+   - Look for strong emotional reactions (anxiety, frustration, stress).  
+
+3. **Check feasibility**  
+   - Which pains can you realistically test first, given your access to people and data?  
+   - A feasible test beats a perfect pain you can’t reach.  
+
+4. **Choose one to test**  
+   - Select the pain that balances urgency with feasibility.  
+   - Commit to testing it before moving on.  
+
+5. **Refrigerate the rest**  
+   - Document the other pains (don’t discard them).  
+   - Store them in a shared document, spreadsheet, or Miro board labeled “Refrigerated Pains.”  
+   - Revisit them if surprises surface during testing or solution design.  
+
+
+## Tips & Pitfalls  
+
+- Don’t try to test everything at once. Focus brings clarity.  
+- Don’t throw away unused pains — they may prove valuable later.  
+- Do keep refrigerated pains visible to the whole team so they aren’t forgotten.  
+- Do revisit the refrigerator when unexpected findings emerge.  
+
+
+## Method Options  
+
+- **Digital (recommended):**  
+  - Use Miro/MURAL or a shared Google Doc.  
+  - Create a board with two zones: *Active Pain* (the one you’re testing) and *Refrigerated Pains*.  
+  - Move stickies between zones as priorities shift.  
+
+- **Paper:**  
+  - Post candidate pains on a wall.  
+  - Circle the one you’ll test first.  
+  - Move the rest to a section labeled “Refrigerator.”  
+  - Photograph the wall to save the record.  
+
+
+## Why It Matters  
+
+Entrepreneurs often fall into two traps: either chasing too many pains at once, or discarding pains that don’t get picked. Prioritization keeps the team focused. Refrigeration keeps the discovery work alive. Together, they ensure you’re ready to adapt when reality surprises you.  
+
+
+## See the Demo  
+
+In the **Halo Alert demo**, experience mapping surfaced multiple pains: longer commutes (functional), family stress (social), and constant anxiety (emotional). The team chose anxiety as the most urgent pain to test, while refrigerating the others for future exploration.  

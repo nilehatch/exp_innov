@@ -1,0 +1,61 @@
+# Persona Guide {#sec-persona-guide .unnumbered} 
+
+This guide should be used with the methods outlined in the @sec-persona-section section of [Chapter @sec-hypothesize-pain-chapter].
+
+---
+
+## Purpose  
+
+A persona turns abstract themes into a vivid, human character. It’s a fictional profile built from real data — a stand-in for the people you studied. Personas make patterns concrete so you can empathize with a person, not just a cluster of notes.  
+
+
+## Steps  
+
+1. **Choose a theme**  
+   - Build one persona for each major theme that surfaced during clustering (unless one persona clearly covers several).  
+
+2. **Give them a name and face**  
+   - Assign a first name to make the persona memorable.  
+   - Add a photo, sketch, or avatar — stock image is fine.  
+
+3. **Sketch their context**  
+   - Include demographics only if they shape the pain.  
+   - Add lifestyle and situational details from your research.  
+
+4. **Highlight pains and goals**  
+   - List the frustrations and frictions this persona faces.  
+   - Note what they value or aspire to (to see what pains get in the way).  
+
+5. **Write a short narrative**  
+   - Create a “day in the life” paragraph in the persona’s voice.  
+   - Draw directly from quotes and observations you collected.  
+
+
+## Tips & Pitfalls  
+
+- Don’t stereotype. Build from data, not clichés.  
+- Don’t overload with demographics. Focus on the pains that cut across boundaries.  
+- Do evolve personas as you learn. They’re living tools, not static profiles.  
+
+
+## Method Options  
+
+- **Digital (recommended):**  
+  - Use Miro persona templates, Google Slides, or Canva to combine text and images.  
+  - Keep personas shareable so the whole team can refer back to them easily.  
+
+- **Paper (quick brainstorm):**  
+  - If co-located, you can sketch a persona on a poster or flip chart with a hand-drawn image and bulleted pains.  
+  - Snap a photo if you need a record, but move to digital if you plan to use the persona long-term.  
+
+The key is not the medium but the clarity. A persona should feel like a real person you can imagine walking beside.  
+
+
+## Why It Matters  
+
+Personas anchor empathy. It’s easier to reason about “Brooke, a 19-year-old college student who feels anxious on dark streets” than about “young women, ages 18–24.” Personas stop you from drifting into abstractions and keep you grounded in lived experiences.  
+
+
+## See the Demo  
+
+In the **Halo Alert demo**, you’ll see how clustered themes became a persona that represents over a hundred college women. Brooke puts a human face on the patterns and makes their pains easier to imagine.  
