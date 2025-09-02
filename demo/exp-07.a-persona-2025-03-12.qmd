@@ -1,0 +1,85 @@
+# Persona — Maya Patel {#sec-persona-a-ha .unnumbered}
+
+#### Representative commuter persona for the reassurance, route choice, vigilance, and predictability clustering themes {.subtitle}
+
+> Following the toolkit naming conventions, this file is named `exp-07.a-persona-2025-03-12.qmd`.
+
+--- 
+
+## Overview {.unnumbered}
+
+This demo shows how we move from **clustered themes** to a **persona**: a fictional yet evidence-based character that represents the lived experiences of real commuters.  
+Maya Patel embodies recurring pains found in the *Reassurance Routines*, *Route Choice & Environment*, and *Crowding & Vigilance* clusters.  
+
+The purpose of this persona is to **anchor empathy**: it’s easier to reason about “Maya, a 23-year-old graduate student” than about “women who feel unsafe at night.”  
+
+## General Info
+- **Name (fictional):** Maya Patel  
+- **Age:** 27  
+- **Occupation:** Accountant 
+- **Location:** Queens, commuting daily to Manhattan  
+- **Commute Mode:** Subway + 15-minute walk (often after evening classes)  
+- **Household:** Shares an apartment with a roommate (also her safety check-in contact)  
+
+
+## Snapshot
+![Persona image - Maya Patel](../images/Maya_Patel.png)  
+
+**At a glance:**  
+Maya is an ambitious young professional who values efficiency and independence, but commuting forces her into daily trade-offs. Her pains come not from one dramatic event, but from constant low-grade stressors: detours that wreck predictability, vigilance in crowded trains, and the subtle anxiety of poorly lit streets at night. To manage this, she leans on routines like timed texts to her roommate.  
+
+
+<!--
+## Pains
+- **Functional:** Longer routes, delays, detours break her tight schedule.  
+- **Emotional:** Anxiety spikes at night, in crowds, or when routines are disrupted.  
+- **Social:** Family/roommate stress — they share her safety concerns.  
+- **Physical:** Fatigue from juggling bags, shoes, and long hours in transit.  
+-->
+
+## Goals & Values
+- Wants independence: prefers to handle her commute alone without constant worry.  
+- Values efficiency: likes a predictable routine and minimal wasted time.  
+- Seeks connection: appreciates subtle reassurance from family/friends during late commutes.  
+- Exudes Professionalism: commits concerted effort to arrive composed and ready for work.  
+
+
+## Day-in-the-Life (Narrative)
+> “I leave class around 9:15. By the time I get to the subway, the streets are quieter. I text my roommate when I head out — she says it helps her too, but honestly, I sometimes feel bad making her worry. On the train, I usually read or listen to podcasts, but if it’s too crowded, I spend the whole ride thinking about how I’ll get off at my stop. When I walk the last stretch home, I keep my keys in my hand and stay under the streetlights, even if it means taking a longer route. It costs me 15 minutes, but I’d rather be late than feel unsafe. It’s not that I expect something bad to happen — it’s just that the possibility is always there.”  
+
+
+## Why Maya Represents the Cluster Themes
+
+- **Reassurance routines** → nightly texts, system with her roommate.  
+- **Route choice & environment** → avoids shortcuts, stays under streetlights, reroutes after mugging news.  
+- **Crowding & vigilance** → hyper-aware in packed subway cars; grips belongings.  
+
+Maya’s persona gives a **human face** to these themes, making it easier to hypothesize unmet needs around **predictability, reassurance, and emotional safety**.  
+
+
+
+## Next Steps
+
+1. Use Maya’s persona to create an **experience map** of her commute (daytime vs. nighttime).  
+2. Identify emotional peaks and valleys in the map (especially late-evening anxiety).  
+3. Draft multiple **pain hypotheses** grounded in her lived experience.  
+4. Carry forward **edge cases** (e.g., footwear discomfort, street musician rituals) as additional color for later tests.  
+
+## Traceability
+
+- **From clusters:**  
+  - Reassurance routines  
+  - Route choice & environment  
+  - Crowding & vigilance  
+
+- **Toolkit links:**  
+  - [Guide — Persona](../toolkit/Persona_Guide.qmd)  
+  - [Guide — Experience Mapping](../toolkit/Experience_Map_Guide.qmd) (next step)
+
+- **Related demos:**  
+  - [Clustering Themes](exp-06-cluster-themes-2025-03-12.qmd)  
+  - [Conversation: Emily Rivera (summary)](exp-04.b-conversation-emily-rivera-2025-02-25.qmd)    
+  - [Observation: Evening University Campus](exp-05.c-observation-2025-03-08.qmd)
+
+
+

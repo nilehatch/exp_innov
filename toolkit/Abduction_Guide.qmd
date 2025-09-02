@@ -62,4 +62,4 @@ Abduction is the bridge between empathy and testing. It prevents you from mistak
 
 ## See the Demo  
 
-In the **Halo Alert demo**, you’ll see abduction in action: how anxiety spikes during her walk home were turned into multiple candidate pain hypotheses, then refined into a single focused statement to test.  
+In the [Halo Alert demo of hypothesizing pain](../demo/exp-09-hypothesize-pain-2025-03-16.qmd), you’ll see abduction in action: how anxiety spikes during her walk home were turned into multiple candidate pain hypotheses, then refined into a single focused statement to test.  

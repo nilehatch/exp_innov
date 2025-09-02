@@ -1,4 +1,4 @@
-# Observation: Evening Subway Exit (8 PM, Manhattan) {#sec-observation-b-ha .unnumbered}
+# Observation: Evening University Campus (8 PM, Manhattan) {#sec-observation-c-ha .unnumbered}
 
 #### Following the toolkit naming conventions, this file is named `exp-05c-observation-2025-03-06.qmd`. {.subtitle} 
 

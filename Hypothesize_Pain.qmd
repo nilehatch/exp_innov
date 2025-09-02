@@ -2,11 +2,11 @@
 
 #### Convergence through empathy tools to hypothesize an unknown, unmet need (pain) in the lives of your people {.subtitle}
 
-## From Exploration to Convergence 
+## Converging from Exploration to Unmet Needs
 <!-- ## Integrating Empathy and Abduction to Define Unmet Needs -->
 
 <!-- <img src="images/222_pain_converge.svg" alt="Convergent synthesis of data to reach informed hypotheses of customer pain." class="wrapfig_right_25"/> --> 
-![Convergent synthesis of data to reach informed hypotheses of customer pain.](images/221_pain_diverge.svg){.wrapfig_left_25}
+![Convergent synthesis of data to reach informed hypotheses of customer pain.](images/222_pain_converge.svg){.wrapfig_right_25}
 When the exploration surprises slow down, it’s time to change gears. You’ve built a mountain of raw notes, quotes, and observations. Now comes the meaningful part: making sense of it. Exploration gives you raw material; convergence turns that material into insight.  
 
 This is where **empathy and abduction work together.** Empathy helps you see the world through your people’s eyes. Abduction helps you turn that empathy into *plausible hypotheses of hidden pain*. Together, they stop you from settling for the obvious needs that everyone else already sees. They help you discover the deeper, less visible pains that others miss — the ones that unlock opportunity.  
@@ -39,7 +39,7 @@ Clustering doesn’t solve the puzzle by itself, but it clears the fog. It turns
 
 ::: callout-note  
 **See the Demo**  
-In the Halo Alert demo, you’ll see how dozens of raw quotes and notes from interviews were clustered into themes about safety during evening commutes. Watch how the noise of scattered observations turns into patterns you can actually work with.  
+In the [Halo Alert demo of clustering into themes](demo/exp-06-cluster-themes-2025-03-12.qmd), you’ll see how dozens of raw quotes and notes from interviews were clustered into themes about safety during evening commutes. Watch how the noise of scattered observations turns into patterns you can actually work with.  
 :::  
 
 
@@ -47,7 +47,7 @@ In the Halo Alert demo, you’ll see how dozens of raw quotes and notes from int
 
 Once you’ve clustered your data into themes, the next step is to give those themes a face. That’s what a persona does. A persona is a fictional character built from real evidence — a stand-in that captures the shared experiences of a group you studied.  
 
-Why bother? Because it’s hard to empathize with “a cluster of notes.” It’s much easier to imagine the daily life of *Brooke, a 19-year-old college student who walks home after late classes and feels a knot of anxiety on dark streets.* Personas take abstract patterns and make them human again. They help you imagine how a real person thinks, feels, and acts when they bump into unmet needs.  
+Why bother? Because it’s hard to empathize with “a cluster of notes.” It’s much easier to imagine the daily life of *Maya, a 27-year-old attorney who walks between the subway and her office and feels a knot of anxiety on dark streets.* Personas take abstract patterns and make them human again. They help you imagine how a real person thinks, feels, and acts when they bump into unmet needs.  
 
 A persona doesn’t have to be perfect or permanent. It’s a working tool, a way of focusing your empathy. The key is that it represents more than demographics. A good persona doesn’t just say “young women, ages 18–24.” It highlights the specific pains and contexts that matter: the late-night walk, the texting family members, the constant low-grade worry.  
 
@@ -55,7 +55,7 @@ As you continue, your personas will evolve. Early on, they may feel rough or eve
 
 ::: callout-note  
 **See the Demo**  
-The Halo Alert demo shows how themes can be personified in a vivid persona — Brooke Hatch. Brooke is an archetypal composite built from more than a hundred conversations with professional women who walk as part of their commute— a living character who makes the patterns concrete.  
+The [Halo Alert demo of developing personas](demo/exp-07.a-persona-2025-03-12.qmd) shows how themes can be personified in a vivid persona — Maya Patel. Maya is an archetypal composite built from more than a hundred conversations with professional women who walk as part of their commute— a living character who makes the patterns concrete.  
 :::  
 
 
@@ -77,7 +77,7 @@ Choose the most urgent pain to test, but don’t discard the rest. Keep them in 
 
 ::: callout-note  
 **See the Demo**  
-In the Halo Alert demo, Brooke’s journey commuting from work to home is mapped stage by stage. The map shows where her anxiety spikes and how her family becomes involved in the stress — surfacing multiple candidate pains to explore further.  
+In the [Halo Alert demo of experience mapping](demo/exp-08.a-experience-map-2025-03-14.qmd), Maya’s journey commuting from work to home is mapped stage by stage. The map shows where her anxiety spikes and how her family becomes involved in the stress — surfacing multiple candidate pains to explore further.  
 :::  
 
 
@@ -101,7 +101,7 @@ Good abduction is active, not passive. It’s not waiting for the right pain to 
 
 ::: callout-note  
 **See the Demo**  
-The Halo Alert demo takes those candidate pains and runs them through abductive reasoning: drafting, comparing, and refining until one pain hypothesis stands out as most urgent and testable.  
+The [Halo Alert demo of hypothesizing pain](demo/exp-09-hypothesize-pain-2025-03-16.qmd) takes those candidate pains and runs them through abductive reasoning: drafting, comparing, and refining until one pain hypothesis stands out as most urgent and testable.  
 :::  
 
 
@@ -156,5 +156,22 @@ The Guard became a market success. Gillette succeeded not by inventing new techn
 
 ## Conclusion: Ready to Test  
 
-Exploration gave you breadth. Convergence gave you depth. Now you have a handful of well-formed hypotheses about the pains your people actually live with. The next step is to test them — to find out which ones are real, urgent, and worth solving.  
+Exploration gave you breadth. Convergence gives you depth. By now, you’ve moved from **exploration** to **sense-making**:  
 
+- You clustered scattered field notes into clear themes.  
+- You gave those themes a human face through personas.  
+- You traced their lived journey in experience maps.  
+- You practiced **abduction** to generate and sharpen candidate pain hypotheses.  
+
+Now you have a handful of well-formed hypotheses about the pains your people actually live with that feel grounded in evidence rather than guesswork. But they are still **hypotheses** — provisional explanations that could be wrong.  The next step is to test them — to find out which ones are real, urgent, and worth solving.  
+<!-- The result is a short list of plausible pains that feel grounded in evidence rather than guesswork. But they are still **hypotheses** — provisional explanations that could be wrong.  -->
+
+That’s why the next step matters. In the final stage of this diamond, we shift from abductive reasoning to **validation testing**. The goal is to find out:  
+
+- Which pains are *real*, not just artifacts of a few stories.  
+- Which pains are *frequent*, not rare edge cases.  
+- Which pains are *urgent enough* that people lean in when you bring them up.  
+
+This is where conjecture meets evidence again. Just as you began with exploratory experiments, you now design **pain validation experiments**. These will confirm whether your hypothesized pains truly exist, how often they occur, and how much they matter.  
+
+<!-- In the next chapter, we’ll walk through that process: how to design, run, and interpret validation tests so that your final problem statement rests on more than intuition.  -->

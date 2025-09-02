@@ -6,27 +6,24 @@
 
 ## Overview {.unnumbered}
 
-This demo shows how we clustered **Halo Alert** [observations](exp-05.a-observation-2025-03-05.qmd) into themes using a **Miro board** (primary) with a **Google Sheet** as the import source (one observation per row). It pairs with the Toolkit: [Clustering Guide](../toolkit/Clustering_Guide.qmd).
+In this demo, we take the mountain of raw data from [conversations](exp-04.a-results-full-transcript-2025-02-24.qmd) and [observations](exp-05.a-observation-2025-03-05.qmd) and cluster it into themes.  
 
-> **Outputs you’ll see here**\
-> - Screenshots of the clustering wall (before/after)\
-> - The theme labels we settled on\
-> - A short narrative explaining why each cluster holds together\
-> - Links to the sample dataset and (optional) view-only Miro board\
+We demonstrate how we used a **Google Sheet** (one observation per row) imported into a **Miro board** for sticky clustering. It pairs with the Toolkit: [Clustering Guide](../toolkit/Clustering_Guide.qmd).
+
+The goal is to see what frictions, routines, and emotional cues repeat often enough to point toward **hypotheses of pain**.
+
+> **Outputs you’ll see here**  
+> – Screenshots of the clustering wall (before/after)  
+> – The theme labels we settled on  
+> – Narrative explanations for each cluster  
+> – Core vs. edge distinction, so you can see which themes anchor hypotheses and which are “refrigerated” for later surprises  
 
 
 ## Files & Links {.unnumbered}
 
-- **Sample dataset (Google Sheet):** [link → halo-alert-clustering-sample-sheet](https://docs.google.com/document/d/1bXnXDxHQFHoGwALlyIgDc2imnDhtmuR0NqYVRegRgbc/edit?usp=drive_link)
+- **Sample dataset (Google Sheet):** [halo-alert-clustering-sample-sheet](https://docs.google.com/document/d/1bXnXDxHQFHoGwALlyIgDc2imnDhtmuR0NqYVRegRgbc/edit?usp=drive_link)
   - One observation per row; ready for Miro sticky import.
-- **Miro board (view-only):** [link → halo-alert-clustering-board](https://miro.com/app/board/uXjVOYyhaPM=/?share_link_id=861713686923) *(optional)*
-
-
-::: callout-tip
-**How to replace placeholders**
-- Update the two bracketed links above once you’ve shared the Sheet and Miro board.
-- Export two screenshots from Miro and save them with the filenames shown. Keep them at ~1600–2000px wide for clarity.
-:::
+- **Miro board (view-only):** [halo-alert-clustering-board](https://miro.com/app/board/uXjVOYyhaPM=/?share_link_id=861713686923) *(optional)*
 
 
 ## 1. Clarify the Unknown
@@ -41,13 +38,11 @@ We combined **quotes from interviews** and **notes from observations**. Each was
 
 **Examples of raw observations (short & concrete):**
 
-- “I text my roommate when I leave campus so she can watch my ETA.”
-- Avoids the shortcut street; takes a longer lit route; arrives 12–15 minutes later.
-- “If a stranger walks directly behind me, I cross the street to re-establish space.”
-- Checks phone intermittently; keeps keys between fingers on two blocks with low foot traffic.
-- “Crowded trains make me vigilant; I grip my bag and plan my exit two stops early.”
-- Family texts: “Ping me when you’re home.” If no ping by 10:30pm, they call.
-- Headphones in, but no music after 9:00pm; uses them as a “do-not-engage” signal.
+- “I text my roommate when I leave campus so she can watch my ETA.”  
+- Avoids shortcut street; takes a longer lit route; arrives 12–15 minutes later.  
+- “Crowded trains make me vigilant; I grip my bag and plan my exit two stops early.”  
+- Keys between fingers; bag positioned tightly under arm.  
+- Family texts: “Ping me when you’re home.” If no ping by 10:30pm, they call.  
 
 > These are examples only. The **full set** is in the sample sheet.
 
@@ -72,16 +67,16 @@ We combined **quotes from interviews** and **notes from observations**. Each was
    - Add a short label (2–4 words) above each group.
    - Write a one-sentence “why this belongs together” note under the label.
 
-> Paper alternative: write each observation on a sticky note; cluster on a wall; snap photos at each stage.
+> Paper option: write each observation on a sticky note; cluster on a wall; snap photos at each stage.
 
 
 ## 4. Before / After (Screenshots)
 
 **Raw, ungrouped stickies**  
-![Raw scattered stickies before clustering](../images/Observation_Sticky_Notes.png)
+![Raw scattered stickies before clustering](../images/Conversation_Observation_Notes.png)
 
 **After grouping & naming clusters**  
-![Clusters labeled and arranged](../images/Observation_Themes.png)
+![Clusters labeled and arranged](../images/Conversation_Observation_Themes.png)
 
 <!-- 
 ::: callout-note
@@ -89,57 +84,94 @@ We combined **quotes from interviews** and **notes from observations**. Each was
 :::
 -->
 
-## 5. Resulting Themes (with Rationale)
+## 5. Resulting Clusters
 
-Below are the **working themes** that emerged for Halo Alert. Your teams may arrive at different labels; what matters is that **each cluster earns its name** from the underlying evidence.
+After clustering, we sorted themes into **core clusters** (strong repeated signals) and **edge clusters** (smaller, but worth keeping).  
 
-### A. Reassurance Routines
-- **What’s inside:** “Text when you leave/arrive,” live-tracking links, timed check-ins.
-- **Why it holds:** Repeated acts that **transfer anxiety** from the walker to a trusted other.
-- **Signal:** Frequent; observed across late-evening and unfamiliar routes.
+Core = likely to anchor hypotheses.  
+Edge = stored in the “refrigerator” for surprises later.
 
-### B. Route Choice for Control
-- **What’s inside:** Choosing lit/busier streets over faster shortcuts; crossing the street to manage spacing.
-- **Why it holds:** Micro-decisions prioritize **predictability & visibility** over speed.
-- **Signal:** High; often co-occurs with Reassurance Routines.
+### Core Clusters
 
-### C. Vigilance & Body Management
-- **What’s inside:** Keys between fingers; bag positioning; scanning; earbuds in but no music.
-- **Why it holds:** Tactics to **feel prepared** without inviting engagement.
-- **Signal:** Moderate-high; rises with crowd density drops.
+1. **Reassurance Routines**  
+   - *Inside:* “Text when you leave/arrive,” timed check-ins, live-tracking links.  
+   - *Why it holds:* Shared acts that transfer anxiety from walker to trusted other.  
+   - *Signal:* Frequent; across late-evening and unfamiliar routes.  
 
-### D. Social Spillover
-- **What’s inside:** Family anxiety; roommate check-ins; “call me if no ping.”
-- **Why it holds:** The pain expands **beyond the walker** to the support network.
-- **Signal:** Moderate; strongest after 9:00pm.
+2. **Social Spillover**  
+   - *Inside:* Family anxiety, roommate stress, “call me if no ping.”  
+   - *Why it holds:* Pain extends beyond the walker to their network.  
+   - *Signal:* Moderate; strongest after 9:00pm.  
+   - *Note:* Could be treated as a sub-cluster of Reassurance, but distinct enough to stand on its own.  
 
-### E. Environment Triggers
-- **What’s inside:** Dark blocks, low foot traffic, broken lights, construction detours.
-- **Why it holds:** Situational factors **amplify** baseline vigilance into spikes.
-- **Signal:** High variability by time & place.
+3. **Route Choice & Environment**  
+   - *Inside:* Choosing lit/busier streets, crossing street to manage spacing, avoiding alleys.  
+   - *Why it holds:* Micro-decisions that trade convenience for predictability and visibility.  
+   - *Signal:* Strong; often co-occurs with Reassurance.  
 
-> **Note:** Two small clusters (“Footwear/Load Management”, “Micro-Delays”) were **kept but merged** later because they consistently co-occurred inside *Route Choice for Control*.
+4. **Crowding & Vigilance**  
+   - *Inside:* Gripping bags, scanning, discomfort in forced closeness.  
+   - *Why it holds:* Overcrowding heightens vigilance and amplifies stress.  
+   - *Signal:* Moderate-high.  
+
+5. **Predictability & Control**  
+   - *Inside:* Frustration at detours, anxiety when late, recalibrating when routine breaks.  
+   - *Why it holds:* Security comes from routine; disruption sparks unease.  
+   - *Signal:* Strong, consistent across sources.  
+
+6. **Body Management & Micro-frictions**  
+   - *Inside:* Footwear discomfort, juggling bags, fatigue, instinctive flinches.  
+   - *Why it holds:* Small bodily frictions accumulate into real stress.  
+   - *Signal:* Smaller, but recurring.  
+
+---
+
+### Edge Clusters
+
+7. **Stranger Dynamics**  
+   - *Inside:* Respectful distance, offers of help, ignoring slower commuters.  
+   - *Why it holds:* Social interactions with strangers shape comfort.  
+   - *Signal:* Small, situational.  
+
+8. **Respite (Personal)**  
+   - *Inside:* Podcasts, daydreaming, phone scrolling, headphones as shield.  
+   - *Why it holds:* Solo commuters carve out mini “bubble zones.”  
+   - *Signal:* Individual but common.  
+
+9. **Connection (Social)**  
+   - *Inside:* Chats with friends, shared meals, group laughter.  
+   - *Why it holds:* Commute as social ritual, not just transit.  
+   - *Signal:* Small, but meaningful.  
+
+10. **Street Ecology**  
+   - *Inside:* Vendors, buskers, security staff.  
+   - *Why it holds:* Environmental features that color mood, sometimes add safety.  
+   - *Signal:* Thin cluster, but vivid.  
+
+11. **Conflict/Frustration**  
+   - *Inside:* Heated discussions, blocked paths.  
+   - *Why it holds:* Social friction; not large, but worth noting.  
+   - *Signal:* Tiny; could merge with Connection.  
 
 
 ## 6. What We Learned
 
-- **Patterns, not anecdotes:** Seeing the same behaviors and quotes recur tells us these are **shared pains** rather than one-offs.
-- **Multiple candidates:** Each cluster hints at **distinct pains** (e.g., emotional anxiety peaks, functional time loss, social stress).
-- **Next move is analysis:** Clusters → **Personas** (to humanize patterns) → **Experience Maps** (to localize spikes).
+- **Patterns, not anecdotes:** Seeing multiple notes echo the same idea makes these clusters reliable.  
+- **Core vs. edge:** Core clusters give us the best candidates for unmet needs. Edge clusters are weaker signals now but may resurface as hidden opportunities later.  
+- **Variety matters:** Conversations gave access to *feelings/thoughts*; observations gave *behaviors/body language*. Together, they balanced the picture.  
 
 
 ## 7. Next Steps
 
-1. Draft **one persona per major theme** (unless one persona plausibly covers several).  
-2. For each persona, map **key activities** (e.g., “walk home after late class”).  
-3. Highlight **emotional peaks/valleys** in those maps to surface **candidate pains**.  
-4. Move into **Abduction**: generate multiple **pain hypotheses** per spike.
+1. Draft **one persona per major core cluster** (unless one persona naturally spans multiple).  
+2. Build **experience maps** for each persona’s key activities.  
+3. Highlight emotional peaks and valleys to surface **candidate pains**.  
+4. Keep edge clusters visible — don’t lead with them, but don’t throw them away.  
 
 ::: callout-tip
-**Keep edge cases**  
-Don’t throw away small clusters. Keep them **visible** on the board; they often become important when testing reveals surprises.
+**The Refrigerator Rule**  
+Edge clusters are like leftovers: not dinner tonight, but they keep well. Store them in your “refrigerator” so you can revisit when surprises appear in testing or solution design.  
 :::
-
 
 ## Traceability
 
@@ -152,7 +184,6 @@ Don’t throw away small clusters. Keep them **visible** on the board; they ofte
   - Conversations: [Exp 04.a — Sarah Thompson (summary)](exp-04.a-conversation-sarah-thompson-2025-02-24.qmd)  
   - Observations: [Exp 05.a — Morning Subway Exit](exp-05.a-observation-2025-03-05.qmd)
 
----
 
 <!-- 
 # Appendix — Import Template (Optional)
@@ -165,6 +196,8 @@ If you don’t want to open the sample sheet, here’s the minimal structure tha
 `“Headphones in, but no music after 9pm.”,“interview”,“21:55”,“earbuds as ‘do-not-engage’ signal”` 
 `“Keys between fingers on low-traffic block.”,“observation”,“22:10”,“one burnt-out streetlight”` 
 `“Family pings if no check-in by 10:30pm.”,“interview”,“22:30”,“shared stress at home”` 
--->
 
 > In Miro: **Paste as stickies** or use **Apps → Sticky Note Import** and select the `observation` column.
+-->
+
+

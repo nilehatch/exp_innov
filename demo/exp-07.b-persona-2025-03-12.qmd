@@ -1,0 +1,69 @@
+# Persona — Elena Rodriguez {#sec-persona-b-ha .unnumbered}
+
+#### Representative college student for the reassurance, route choice, vigilance, and predictability clustering themes {.subtitle}
+
+> Following the toolkit naming conventions, this file is named `exp-07.b-persona-2025-03-12.qmd`.
+
+--- 
+
+## General Info
+- **Name:** Elena Rodriguez  
+- **Age:** 22  
+- **Role/Context:** College junior, lives off-campus, commutes daily with friends.  
+- **Cluster Anchors:** *Respite (personal)* and *Connection (social)*.  
+- **Why this persona matters:** Elena represents students whose commute feels like a **social ritual** rather than a source of anxiety. Her story shows how *connection* can mask vulnerabilities, and how safety often depends on the presence of others.  
+
+
+
+## Snapshot
+![Persona image - Elena Rodriguez](../images/Elena_Rodriguez.png)  
+
+
+<!--
+## Pains
+- **Dependence on group presence:** Feels secure and upbeat when with friends, but uneasy when alone.  
+- **Disrupted rituals:** Small breaks in her routine (a friend absent, a missed meetup) trigger stress disproportionate to the event.  
+- **Overcrowding stress:** Enjoys conversation, but finds physical crowding (packed trains, blocked exits) emotionally draining.  
+- **Invisible reliance:** Hasn’t built strong solo coping mechanisms, leaving her exposed when circumstances shift.  
+-->
+
+## Goals & Values
+- To enjoy commuting as a *buffer* between classes and home.  
+- To maintain connection rituals that make the city feel friendlier.  
+- To avoid feeling like she’s “at risk” when separated from her group.  
+- To preserve spontaneity and joy without sacrificing safety.  
+
+
+
+## Day-in-the-Life
+> Elena leaves campus around 6:00 PM most evenings, walking with two roommates toward the subway. This part of the day is her favorite: stories from class, shared jokes, sometimes pausing for food from a street vendor. The bustle feels energizing — the musician at the subway entrance is part of their routine, a familiar marker that signals “day’s done.”
+>
+> When the train is crowded, Elena laughs it off with her friends, but she notices her pulse quicken when they’re separated in the car. Once, when she had to commute alone after a late study session, she found herself clenching her phone and rushing through poorly lit blocks, surprised at how different the same streets felt without company.
+>
+> For Elena, the commute is less about getting from point A to point B and more about the **connection moments** that make the city livable. But those moments also hide a dependence: her sense of security is relational, not internal.  
+
+
+
+## Next Steps
+
+- **Feeds into Experience Mapping:** Elena’s map highlights how *companionship lowers vigilance* — and how its absence spikes anxiety.  
+- **Contrast with Maya Patel:** Maya relies on structured *reassurance routines* (texts, check-ins), while Elena leans on *companionship*. Both point to unmet needs in **safety without constant dependence**.  
+
+
+## Traceability
+
+- **From clusters:**  
+  - Personal respite
+  - Social connection
+
+- **Toolkit links:**  
+  - [Guide — Persona](../toolkit/Persona_Guide.qmd)  
+  - [Guide — Experience Mapping](../toolkit/Experience_Map_Guide.qmd) (next step)
+
+- **Related demos:**  
+  - [Clustering Themes](exp-06-cluster-themes-2025-03-12.qmd)  
+  - [Conversation: Emily Rivera (summary)](exp-04.b-conversation-emily-rivera-2025-02-25.qmd)    
+  - [Observation: Evening University Campus](exp-05.c-observation-2025-03-08.qmd)
+
+
+

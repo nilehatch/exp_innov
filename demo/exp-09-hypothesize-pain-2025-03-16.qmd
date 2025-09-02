@@ -1,0 +1,131 @@
+# Hypothesize Pain — Maya Patel {#sec-abduction-ha .unnumbered}
+
+#### Use abduction to move from experience map to pain hypotheses {.subtitle}  
+
+> Following the toolkit naming conventions, this file is named `exp-08-hypothesize-pain-2025-03-14.qmd`.
+
+## 1. Clarify the Unknown  
+
+- **Most Urgent Unknown:**  
+  What *hidden pain* best explains Maya’s recurring anxiety spikes during her evening commute home?  
+
+- **Supporting Evidence:**  
+  - Clustered themes: *Reassurance routines*, *Route choice & environment*, *Crowding & vigilance*.  
+  - Persona: [Maya Patel](exp-07.a-persona-2025-03-12.qmd).  
+  - Experience Map: shows **low anxiety leaving work**, **rising vigilance on train**, and a **peak when walking home at night**.  
+
+
+## 2. Generate Possible Explanations  
+
+From the evidence, we brainstormed multiple plausible pain hypotheses and tagged each with pain type(s):  
+
+1. **Uncertainty pain**  
+   - *Hypothesis*: Maya’s stress spikes when her environment feels unpredictable (dark streets, sudden detours).  
+   - *Pain types*: **Functional** (lost time from rerouting), **Emotional** (anxiety from unpredictability).  
+
+2. **Isolation pain**  
+   - *Hypothesis*: Anxiety rises when she feels *alone* — being “watched” over text reduces but doesn’t erase the fear.  
+   - *Pain types*: **Emotional** (fear when walking alone), **Social** (strain on roommate as safety contact).  
+
+3. **Control pain**  
+   - *Hypothesis*: Crowds, erratic strangers, or blocked routes make Maya feel she has *no control* over her commute safety.  
+   - *Pain types*: **Emotional** (stress from powerlessness), **Physical** (fatigue from constant vigilance).  
+
+4. **Social burden pain**  
+   - *Hypothesis*: Her check-in system creates secondary stress — she feels guilty for making her roommate worry.  
+   - *Pain types*: **Social** (guilt, burden on others), **Emotional** (worry about straining relationships).  
+
+
+## 3. Check Alignment  
+
+- **Uncertainty pain**: Supported by route-avoidance behaviors (longer lit path) and her quotes about disruption.  
+- **Isolation pain**: Strongly matches reassurance routines; her texting is evidence.  
+- **Control pain**: Supported by crowded train behaviors (bag-holding, scanning, “keys in hand”).  
+- **Social burden pain**: Present, but less urgent; seems secondary compared to her direct anxieties.  
+
+
+## 4. Refine the List  
+
+We trimmed to three stronger candidates:  
+
+1. **Uncertainty pain** (functional + emotional).  
+2. **Isolation pain** (emotional + social).  
+3. **Control pain** (emotional + physical).  
+
+*Social burden pain* is retained in the “refrigerator” but deprioritized for now.  
+
+
+## 5. Select the Most Plausible  
+
+- **Chosen hypothesis:**  
+  *Maya experiences significant anxiety when commuting at night because she feels unsafe walking alone, especially in unpredictable or poorly lit environments.*  
+
+- **Pain types:**  
+  **Emotional + Functional**, with social overtones.  
+
+- **Reason:**  
+  This explanation best integrates the **emotional spike** in her experience map, the **route-choice cluster**, and her reliance on reassurance routines.  
+
+- **Refrigerated hypotheses:**  
+  - *Control pain*: revisit if subway crowding proves stronger in tests.  
+  - *Social burden pain*: may resurface if reassurance routines become problematic.  
+
+<br>
+
+```{r}
+library(ggplot2)
+library(tidyr)
+
+# Candidate hypotheses with pain type tags
+pain_matrix <- data.frame(
+  Hypothesis = c("Uncertainty pain", "Isolation pain", "Control pain", "Social burden pain"),
+  Physical   = c(FALSE, FALSE, TRUE, FALSE),
+  Functional = c(TRUE, FALSE, FALSE, FALSE),
+  Financial  = c(FALSE, FALSE, FALSE, FALSE),
+  Emotional  = c(TRUE, TRUE, TRUE, TRUE),
+  Social     = c(FALSE, TRUE, FALSE, TRUE)
+)
+
+# Convert to long format for plotting
+pain_long <- pivot_longer(pain_matrix, cols = -Hypothesis, names_to = "PainType", values_to = "Present")
+
+# Heatmap-style matrix
+ggplot(pain_long, aes(x = PainType, y = Hypothesis, fill = Present)) +
+  geom_tile(color = "white", linewidth = 0.5) +
+  scale_fill_manual(values = c("TRUE" = "firebrick", "FALSE" = "grey90")) +
+  labs(
+    title = "Pain Type Matrix for Candidate Hypotheses",
+    subtitle = "Tagging hypotheses across five pain types",
+    x = "Pain Type", y = "Candidate Hypothesis"
+  ) +
+  theme_minimal(base_size = 14) +
+  theme(
+    axis.text.x = element_text(angle = 30, hjust = 1),
+    legend.position = "none"
+  )
+```
+
+## 6. Next Steps  
+
+- Convert the chosen pain into a **testable hypothesis** (Diamond 2 → Test stage).  
+- Design **pain validation experiments** to measure frequency, urgency, and willingness to solve.  
+- Keep refrigerated hypotheses visible — surprises often point back to them.  
+
+
+<!--
+## Teaching Notes  
+
+- **Why tag pain types:** Forces precision. If students can’t assign at least one type, they probably named a *problem* not a pain.  
+- **Stacked pains = high value:** Pains that cut across multiple types (e.g., functional + emotional + social) are often the most compelling to address.  
+- **Reminder:** Hypothesizing pains ≠ proposing solutions. Stay in the *what hurts* stage.  
+-->
+
+## Traceability  
+
+- **From clusters:** [Commuting themes](exp-06-cluster-themes-2025-03-12.qmd) 
+  <!--Reassurance routines, Route choice & environment, Crowding & vigilance.  -->
+- **From persona:** [Maya Patel](exp-07.a-persona-2025-03-12.qmd)
+- **From experience map:** 
+    - [Narrative form](exp-08.a-experience-map-2025-03-14.qmd) 
+    - [Grid view](exp-08.b-experience-map-2025-03-14.qmd)
+- **Toolkit link:** [Abduction Guide](../toolkit/Abduction_Guide.qmd)

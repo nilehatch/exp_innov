@@ -1,0 +1,40 @@
+# Experience Map — Maya Patel (grid view) {#sec-expmap-grid-b-ha .unnumbered}
+
+#### Visual layout for journey mapping (demo version) {.subtitle}
+
+See also: [Narrative view](exp-08.a-experience-map-2025-03-14.qmd) of Maya’s commute
+
+> Sketch the same grid in Miro, MURAL, or on paper stickies. \
+> Each cell = one sticky note or observation.
+
+---
+
+## Maya Patel’s Evening Commute
+
+| **Lens ↓ / Stage →** | **Leaving Office / Class** | **Walking to Subway** | **Entering Station** | **In Subway Car** | **Delay / Reroute** | **Neighborhood Walk** | **Arrival & Check-In** |
+|-----------------------|----------------------------|-----------------------|----------------------|-------------------|---------------------|-----------------------|------------------------|
+| **Doing**            | Packs bag, checks phone, texts roommate | Chooses lit streets, keeps keys in hand | Navigates crowds, scans pass | Holds bag close, plans exit early | Reroutes or waits | Walks briskly, texts ETA | Unlocks door, texts “home safe” |
+| **Thinking**         | “It’s late, streets will be quieter” | “Better add 10 mins than risk shortcut” | “Rush hour might still be bad” | “What if I can’t get out in time?” | “I hate not knowing how long” | “Almost there — two blocks” | “Glad that’s over” |
+| **Saying**           | “I’ll text you when I’m on the train” | (silent — headphones in, no music) | “Excuse me” when passing | (silent — uses silence as shield) | Mutters frustration | Sends text: “5 mins out” | “Sorry if I made you worry” |
+| **Feeling**          | Mild apprehension | Alert, small anxiety spikes | Heightened vigilance | Stress peaks, pulse quickens | Frustrated + anxious | Anxiety peak then relief | Relief, guilt about burdening others |
+
+
+## Building the experience map grid
+
+This grid is not the final product — it’s a **staging tool**.  
+Here are three ways to bring it alive in class or on a Miro board:
+
+- **Color-code emotions**  
+  Give each sticky a background color (e.g., green = calm, yellow = mild stress, red = peak anxiety).  
+  Once the stickies are laid out stage by stage, the color pattern will make the emotional peaks and valleys jump out visually.
+
+- **One sticky per bullet**  
+  Each bullet in the grid (Doing, Thinking, Saying, Feeling) should become its **own sticky note** in Miro or on paper.  
+  This prevents overcrowding and keeps each observation movable.
+
+- **Compare variants**  
+  Have students map the *same commute* at different times of day (e.g., Maya’s 9:30 PM walk vs. her 5:30 PM daylight walk).  
+  The contrast highlights how moderators like lighting, crowd density, and time of day shift the emotional landscape.
+
+> In other words: the grid is a **bridge format**. Use it to structure the raw data before translating it into a visual journey map where patterns — especially emotional spikes — become easy to see.
+

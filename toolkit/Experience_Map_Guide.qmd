@@ -63,4 +63,4 @@ Clustering shows you patterns. Personas give those patterns a face. Experience m
 
 ## See the Demo  
 
-In the **Halo Alert demo**, Brooke’s journey to and from work is mapped step by step. You’ll see where her anxiety spikes, how her family becomes entangled in the stress, and how multiple candidate pains surface from a single routine walk.  
+In the [Halo Alert demo of experience mapping](../demo/exp08), Maya’s journey to and from work is mapped step by step. You’ll see where her anxiety spikes, how her family becomes entangled in the stress, and how multiple candidate pains surface from a single routine walk.  

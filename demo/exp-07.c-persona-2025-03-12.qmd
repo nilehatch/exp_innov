@@ -1,0 +1,78 @@
+# Persona — Anika Shah {#sec-persona-c-ha .unnumbered}
+
+#### Representative commuting professional for the predictability and control clustering theme {.subtitle}
+
+> Following the toolkit naming conventions, this file is named `exp-07.c-persona-2025-03-12.qmd`.
+
+--- 
+
+## General Info
+- **Name:** Anika Shah  
+- **Representative Theme(s):** Predictability & Control  
+- **Demographics (only where relevant):**  
+  - Age: 27  
+  - Profession: Junior Associate at a Midtown law firm  
+  - Commute: Lives in Queens, subway to Manhattan daily  
+- **Why this persona:** Built from repeated patterns in commuter interviews/observations where small disruptions, delays, or unfamiliar routes produced disproportionate stress.
+
+
+
+## Snapshot
+
+Anika is in her late 20s, early in her legal career, and fiercely committed to punctuality and professionalism. Her commute is tightly integrated into her daily rhythm — the train she catches, the block she walks, even the coffee vendor she greets. When that rhythm breaks, stress spikes. A missed train, a detour down an unfamiliar street, or a rescheduled evening meeting creates not just inconvenience but anxiety about being late, looking unprepared, or losing control of her day.
+
+
+![Persona image - Elena Rodriguez](../images/Anika_Shah.png)  
+
+## Themes & Routines
+- **Timing matters:** Leaves home at 7:45 AM sharp to catch the same train car; later trains feel riskier and less reliable.  
+- **Structured mindset:** Pre-loads podcasts, organizes her bag, and carries backup flats in case her heels slow her down.  
+- **Response to disruption:** Feels tension when delays, detours, or crowding force her to improvise.  
+- **Micro-strategies:** Adjusts platform position, scouts less crowded exits, and recalibrates if she misses a routine marker.  
+
+
+## Goals & Values
+- **Professional reliability:** Being on time and composed for client meetings and court filings.  
+- **Routine as stability:** Prefers a predictable schedule that reduces mental load.  
+- **Efficiency:** Wants her commute to feel like “buffered time,” not wasted time.  
+- **Personal safety:** Aware of surroundings, especially in the evening, but prioritizes *predictability* over novelty in route choices.  
+
+
+## Representative Quotes
+
+- “Even small changes can throw me off… I feel like I need to recalibrate my whole day.”  
+- “If I can stay on my routine, I start work calm. If something breaks the routine, I arrive tense.”  
+- “The detour itself isn’t the problem — it’s the not knowing how long it will take.”  
+
+
+## Day-in-the-Life
+> Anika’s mornings are choreographed. She leaves her apartment at nearly the same time every day, aiming to catch the train that she knows will give her a seat by stop three. She queues at the same platform spot, earbuds ready, coffee finished by the time the train doors open.  Most days the rhythm works, and she uses the train ride to scan briefs or listen to legal podcasts.  
+>
+> When the system works, it feels seamless — the commute doubles as prep time for the day ahead. But on days with a delay, detour, or unexpected reroute, her calm unravels. The uncertainty of “will I be late?” gnaws at her. She texts her supervisor if she thinks she might cut it close, even when she probably won’t. She recalibrates quickly, but the energy cost is real.  
+>
+> In the evenings, when she’s tired, that loss of predictability feels sharper. A delayed train means lost gym time or a rushed dinner. The sense of control — not just the minutes — is what’s at stake.  If a shortcut feels unpredictable, she’ll add ten minutes just to preserve peace of mind.  Her commute is not only transportation — it is her anchor of control. Break the anchor, and the ripple spreads through her entire day.  
+
+
+## Next Steps
+
+- **Feeds into Experience Mapping:** Anika’s map will spotlight anxiety spikes when timing slips or routes shift.  
+- **Contrast with Maya & Elena:** Unlike Maya (reassurance routines) and Elena (companionship), Anika relies on **predictable systems and personal routines**. Each persona illustrates a different form of control-seeking.  
+
+
+## Traceability
+
+- **From cluster(s):**  
+  - Predictability and control
+
+- **Toolkit links:**  
+  - [Guide — Persona](../toolkit/Persona_Guide.qmd)  
+  - [Guide — Experience Mapping](../toolkit/Experience_Map_Guide.qmd) (next step)
+
+- **Related demos:**  
+  - [Clustering Themes](exp-06-cluster-themes-2025-03-12.qmd)  
+  - [Conversation: Emily Rivera (summary)](exp-04.b-conversation-emily-rivera-2025-02-25.qmd)    
+  - [Observation: Evening University Campus](exp-05.c-observation-2025-03-08.qmd)
+
+
+## Reflection
+Anika shows how the desire for **predictability** can shape commuting behaviors as much as safety concerns do. Designing for her means asking: *how might reassurance come not from people, but from stability and reliable cues?*

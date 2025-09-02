@@ -65,4 +65,4 @@ Clustering is where the “aha” moments begin. When three, five, or ten differ
 
 ## See the Demo  
 
-In the **Halo Alert demo**, you’ll see how raw notes from interviews with college women were clustered into themes about commuting safety. What started as scattered observations became clear patterns that shaped the next steps of analysis.  
+In the [Halo Alert demo](../demo/exp-06-cluster-themes-2025-03-12.qmd), you’ll see how raw notes from conversations and observations of professional women commuters and college women were clustered into themes about commuting safety. What started as scattered observations became clear patterns that shaped the next steps of analysis.  
