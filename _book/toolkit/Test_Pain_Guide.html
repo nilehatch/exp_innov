@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Secondary Research Guide – Expeditionary Innovation</title>
+<title>Pain Testing Guide – Expeditionary Innovation</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../toolkit/Clustering_Guide.html" rel="next">
-<link href="../toolkit/Survey_Guide.html" rel="prev">
+<link href="../toolkit/_solution_guides_separator.html" rel="next">
+<link href="../toolkit/Prioritize_Pain_Guide.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
@@ -84,7 +84,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../toolkit/Experimentation_Toolkit.html">Experimentation Toolkit</a></li><li class="breadcrumb-item"><a href="../toolkit/Secondary_Research_Guide.html">Secondary Research Guide</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../toolkit/Experimentation_Toolkit.html">Experimentation Toolkit</a></li><li class="breadcrumb-item"><a href="../toolkit/Test_Pain_Guide.html">Pain Testing Guide</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -317,7 +317,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../toolkit/Secondary_Research_Guide.html" class="sidebar-item-text sidebar-link active">
+  <a href="../toolkit/Secondary_Research_Guide.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Secondary Research Guide</span></a>
   </div>
 </li>
@@ -353,7 +353,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../toolkit/Test_Pain_Guide.html" class="sidebar-item-text sidebar-link">
+  <a href="../toolkit/Test_Pain_Guide.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Pain Testing Guide</span></a>
   </div>
 </li>
@@ -554,18 +554,45 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#what-to-search-for" id="toc-what-to-search-for" class="nav-link active" data-scroll-target="#what-to-search-for">What to Search For</a></li>
-  <li><a href="#where-to-look" id="toc-where-to-look" class="nav-link" data-scroll-target="#where-to-look">Where to Look</a></li>
-  <li><a href="#how-to-use-it" id="toc-how-to-use-it" class="nav-link" data-scroll-target="#how-to-use-it">How to Use It</a></li>
+  <li><a href="#quick-start" id="toc-quick-start" class="nav-link active" data-scroll-target="#quick-start">Quick Start</a></li>
+  <li><a href="#what-to-capture-for-every-respondent" id="toc-what-to-capture-for-every-respondent" class="nav-link" data-scroll-target="#what-to-capture-for-every-respondent">What to Capture (for every respondent)</a></li>
+  <li><a href="#test-1-pain-validation" id="toc-test-1-pain-validation" class="nav-link" data-scroll-target="#test-1-pain-validation">Test 1 — Pain Validation</a>
+  <ul class="collapse">
+  <li><a href="#how-to-ask-core-prompts" id="toc-how-to-ask-core-prompts" class="nav-link" data-scroll-target="#how-to-ask-core-prompts">How to Ask (core prompts)</a></li>
+  <li><a href="#evidence-to-log" id="toc-evidence-to-log" class="nav-link" data-scroll-target="#evidence-to-log">Evidence to Log</a></li>
+  <li><a href="#common-pitfalls" id="toc-common-pitfalls" class="nav-link" data-scroll-target="#common-pitfalls">Common Pitfalls</a></li>
+  </ul></li>
+  <li><a href="#test-2-ouch-factor-severity" id="toc-test-2-ouch-factor-severity" class="nav-link" data-scroll-target="#test-2-ouch-factor-severity">Test 2 — Ouch Factor (Severity)</a>
+  <ul class="collapse">
+  <li><a href="#how-to-ask-paired-with-behavior" id="toc-how-to-ask-paired-with-behavior" class="nav-link" data-scroll-target="#how-to-ask-paired-with-behavior">How to Ask (paired with behavior)</a></li>
+  <li><a href="#evidence-to-log-1" id="toc-evidence-to-log-1" class="nav-link" data-scroll-target="#evidence-to-log-1">Evidence to Log</a></li>
+  <li><a href="#common-pitfalls-1" id="toc-common-pitfalls-1" class="nav-link" data-scroll-target="#common-pitfalls-1">Common Pitfalls</a></li>
+  </ul></li>
+  <li><a href="#test-3-willingness-to-pay-for-relief-wtp" id="toc-test-3-willingness-to-pay-for-relief-wtp" class="nav-link" data-scroll-target="#test-3-willingness-to-pay-for-relief-wtp">Test 3 — Willingness to Pay for Relief (WTP)</a>
+  <ul class="collapse">
+  <li><a href="#how-to-ask-behavior-first" id="toc-how-to-ask-behavior-first" class="nav-link" data-scroll-target="#how-to-ask-behavior-first">How to Ask (behavior-first)</a></li>
+  <li><a href="#evidence-to-log-2" id="toc-evidence-to-log-2" class="nav-link" data-scroll-target="#evidence-to-log-2">Evidence to Log</a></li>
+  <li><a href="#common-pitfalls-2" id="toc-common-pitfalls-2" class="nav-link" data-scroll-target="#common-pitfalls-2">Common Pitfalls</a></li>
+  </ul></li>
+  <li><a href="#triangulation-interpretation" id="toc-triangulation-interpretation" class="nav-link" data-scroll-target="#triangulation-interpretation">Triangulation &amp; Interpretation</a></li>
+  <li><a href="#scripts-templates" id="toc-scripts-templates" class="nav-link" data-scroll-target="#scripts-templates">Scripts &amp; Templates</a>
+  <ul class="collapse">
+  <li><a href="#a.-10-minute-intercept-script-in-person-or-phone" id="toc-a.-10-minute-intercept-script-in-person-or-phone" class="nav-link" data-scroll-target="#a.-10-minute-intercept-script-in-person-or-phone">A. 10-Minute Intercept Script (in-person or phone)</a></li>
+  <li><a href="#b.-5-question-micro-survey-one-persona-at-a-time" id="toc-b.-5-question-micro-survey-one-persona-at-a-time" class="nav-link" data-scroll-target="#b.-5-question-micro-survey-one-persona-at-a-time">B. 5-Question Micro-Survey (one persona at a time)</a></li>
+  <li><a href="#c.-logging-table-copypaste-to-sheets" id="toc-c.-logging-table-copypaste-to-sheets" class="nav-link" data-scroll-target="#c.-logging-table-copypaste-to-sheets">C. Logging Table (copy/paste to Sheets)</a></li>
+  </ul></li>
+  <li><a href="#sample-sizes-segments-pragmatic-guidance" id="toc-sample-sizes-segments-pragmatic-guidance" class="nav-link" data-scroll-target="#sample-sizes-segments-pragmatic-guidance">Sample Sizes &amp; Segments (Pragmatic Guidance)</a></li>
+  <li><a href="#ethics-good-practice" id="toc-ethics-good-practice" class="nav-link" data-scroll-target="#ethics-good-practice">Ethics &amp; Good Practice</a></li>
+  <li><a href="#decision-checklist-end-of-test-cycle" id="toc-decision-checklist-end-of-test-cycle" class="nav-link" data-scroll-target="#decision-checklist-end-of-test-cycle">Decision Checklist (End of Test Cycle)</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../toolkit/Experimentation_Toolkit.html">Experimentation Toolkit</a></li><li class="breadcrumb-item"><a href="../toolkit/Secondary_Research_Guide.html">Secondary Research Guide</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../toolkit/Experimentation_Toolkit.html">Experimentation Toolkit</a></li><li class="breadcrumb-item"><a href="../toolkit/Test_Pain_Guide.html">Pain Testing Guide</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span id="sec-secondary-research-guide" class="quarto-section-identifier">Secondary Research Guide</span></h1>
+<h1 class="title"><span id="sec-pain-test-guide" class="quarto-section-identifier">Pain Testing Guide</span></h1>
 </div>
 
 
@@ -582,57 +609,447 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>This guide should be used with the methods outlined in the <a href="../Explore_Community.html#sec-secondary-research-section" class="quarto-xref"><span>Archival and Secondary Research Experiments</span></a> section of <a href="../Explore_Community.html" class="quarto-xref">Chapter&nbsp;<span>4&nbsp; Explore the Community</span></a>.</p>
-<hr>
-<p>Secondary research helps you explore what is <em>already known</em> about your community, market, and competitors. Use it to avoid rediscovering basics, sharpen your primary exploration, and ground your insights in broader context.</p>
-<section id="what-to-search-for" class="level2">
-<h2 class="anchored" data-anchor-id="what-to-search-for">What to Search For</h2>
+<section id="design-quick-high-signal-tests-to-confirm-pains-are-real-frequent-and-urgent" class="level4 subtitle">
+<h4 class="subtitle anchored" data-anchor-id="design-quick-high-signal-tests-to-confirm-pains-are-real-frequent-and-urgent">Design quick, high-signal tests to confirm pains are real, frequent, and urgent</h4>
+<!-- This guide should be used with the methods outlined in [Chapter @sec-test-pain-chapter].-->
+<div class="callout callout-style-default callout-note callout-titled" title="How to Use This Guide">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+How to Use This Guide
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>This toolkit gives you <em>how-to</em> steps and question templates for three complementary tests:</p>
+<ol type="1">
+<li><strong>Pain Validation</strong>,</li>
+<li><strong>Ouch Factor</strong>, and</li>
+<li><strong>Willingness to Pay for Relief (WTP)</strong>.</li>
+</ol>
+<p>Use at least <strong>two</strong> tests to triangulate. Pair with the <a href="../Validate_Pain.html" class="quarto-xref">Chapter&nbsp;<span>6&nbsp; Validate Customer Pain</span></a> and the <a href="../demo/exp-10.a-pain-test-summary-2025-03-20.html">Halo Alert – Pain Test Demo</a>.</p>
+</div>
+</div>
+</section>
+<section id="quick-start" class="level2">
+<h2 class="anchored" data-anchor-id="quick-start">Quick Start</h2>
+<ol type="1">
+<li><strong>Pick your audience segment</strong> (one persona or subgroup at a time).<br>
+</li>
+<li><strong>Choose two tests</strong> from the menu below (e.g., Validation + Ouch; Validation + WTP with substitutes).<br>
+</li>
+<li><strong>Draft your questions</strong> using the templates.<br>
+</li>
+<li><strong>Run a small pilot</strong> (n = 8–15) to de-risk wording, then scale.<br>
+</li>
+<li><strong>Log specifics</strong>: <em>last time, frequency, effort/time/money spent, rank vs.&nbsp;alternatives</em>.<br>
+</li>
+<li><strong>Score with traffic lights</strong> (see Interpretation) and decide what to keep, refine, or drop.</li>
+</ol>
+</section>
+<section id="what-to-capture-for-every-respondent" class="level2">
+<h2 class="anchored" data-anchor-id="what-to-capture-for-every-respondent">What to Capture (for every respondent)</h2>
 <ul>
-<li><strong>Customer insights</strong>: demographics, psychographics, behaviors, usage patterns.<br>
+<li><strong>Who (segment/role):</strong> <em>[Persona or segment name]</em><br>
 </li>
-<li><strong>Market analysis</strong>: market size, growth rates, adoption trends.<br>
+<li><strong>Which pain (label):</strong> <em>[Concise pain statement]</em><br>
 </li>
-<li><strong>Competitor analysis</strong>: existing players, their models, strengths, and gaps.<br>
+<li><strong>Recency:</strong> <em>Last occurred: [date]</em><br>
 </li>
-<li><strong>Industry &amp; environment trends</strong>: technology, regulation, cultural shifts, economics.</li>
+<li><strong>Frequency:</strong> <em>[X] times in past 30 days</em><br>
+</li>
+<li><strong>Effort/Workarounds:</strong> <em>[What they did in the moment]</em><br>
+</li>
+<li><strong>Cost/time:</strong> <em>≈$[amount]/month; [hours]/week</em><br>
+</li>
+<li><strong>Ranking:</strong> <em>#[rank] of [N] pains in the journey</em><br>
+</li>
+<li><strong>Ouch score:</strong> <em>[1–10]</em> (analyzed <strong>within this segment only</strong>)<br>
+</li>
+<li><strong>WTP signals:</strong> <em>[Current substitute spending and priorities]</em></li>
+</ul>
+<div class="callout callout-style-default callout-tip callout-titled" title="Minimum Evidence for a 'Passed' Pain Test">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Minimum Evidence for a ‘Passed’ Pain Test
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>Respondent recalls a <strong>specific, recent instance</strong><br>
+</li>
+<li>Pain occurs with <strong>some frequency</strong> (not once-in-a-lifetime)<br>
+</li>
+<li>Pain <strong>ranks near the top</strong> vs.&nbsp;adjacent pains<br>
+</li>
+<li>There is <strong>observable effort or spend</strong> today (time, money, workaround)</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="test-1-pain-validation" class="level2">
+<h2 class="anchored" data-anchor-id="test-1-pain-validation">Test 1 — Pain Validation</h2>
+<p><strong>Purpose:</strong> Confirm that your hypothesized pains are experienced in real life, not just plausible in theory.</p>
+<p><strong>Best when:</strong> You have a short list of pains from clustering/personas/journey maps and need to prioritize which are <em>real and salient</em>.</p>
+<section id="how-to-ask-core-prompts" class="level3">
+<h3 class="anchored" data-anchor-id="how-to-ask-core-prompts">How to Ask (core prompts)</h3>
+<ul>
+<li><strong>Recognition:</strong>
+<ul>
+<li>“Do you personally deal with <strong>[pain]</strong>?” ☐ Yes ☐ No<br>
+</li>
+<li>“When was the <strong>last time</strong> this happened?”<br>
+</li>
+<li>“How <strong>often</strong> has it come up in the past 30 days?”</li>
+</ul></li>
+<li><strong>Specifics:</strong>
+<ul>
+<li>“Walk me through the <strong>last instance</strong>—what happened first?”<br>
+</li>
+<li>“What did you <strong>do</strong> in the moment?” (workarounds/contacts/tools)</li>
+</ul></li>
+<li><strong>Relative Importance (ranking/forced choice):</strong>
+<ul>
+<li>“From this list, which <strong>one or two</strong> are <strong>most frustrating</strong> right now?”<br>
+</li>
+<li>“Rank these from <strong>most to least disruptive</strong> to your week.”</li>
+</ul></li>
+</ul>
+<div class="callout callout-style-default callout-important callout-titled" title="Design Notes">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Design Notes
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>Always include <strong>ranking or forced choice</strong> to avoid polite agreement.<br>
+</li>
+<li>Anchor recall with <strong>recency + frequency</strong>; avoid abstract “Do you ever…?”<br>
+</li>
+<li>Use <strong>journey step prompts</strong> (“During pickup window… what breaks?”) to surface pains that are easy to overlook.</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="evidence-to-log" class="level3">
+<h3 class="anchored" data-anchor-id="evidence-to-log">Evidence to Log</h3>
+<ul>
+<li>Yes/No recognition, <strong>last time</strong>, <strong>frequency</strong>, <strong>top-3 rank</strong>, short <strong>incident narrative</strong>, <strong>workarounds</strong> used.</li>
 </ul>
 </section>
-<section id="where-to-look" class="level2">
-<h2 class="anchored" data-anchor-id="where-to-look">Where to Look</h2>
+<section id="common-pitfalls" class="level3">
+<h3 class="anchored" data-anchor-id="common-pitfalls">Common Pitfalls</h3>
 <ul>
-<li><strong>Free and open sources</strong>:
-<ul>
-<li>Government portals (e.g., census, labor data, trade stats)<br>
+<li>Overweighting a single vivid story → <strong>require ranking + frequency</strong>.<br>
 </li>
-<li>Google Trends, social media trend tools<br>
-</li>
-<li>World Bank, OECD, NGO/think tank reports<br>
-</li>
-<li>Business press and consulting firm white papers</li>
-</ul></li>
-<li><strong>Paid / institutional sources</strong>:
-<ul>
-<li>Mintel, Euromonitor, IBISWorld, Factiva<br>
-</li>
-<li>Industry associations<br>
-</li>
-<li>University library databases (e.g., BYU innovation database index)</li>
-</ul></li>
+<li>Generic prompts → <strong>tie questions to a concrete step</strong> in the experience map.</li>
 </ul>
 </section>
-<section id="how-to-use-it" class="level2">
-<h2 class="anchored" data-anchor-id="how-to-use-it">How to Use It</h2>
+</section>
+<section id="test-2-ouch-factor-severity" class="level2">
+<h2 class="anchored" data-anchor-id="test-2-ouch-factor-severity">Test 2 — Ouch Factor (Severity)</h2>
+<p><strong>Purpose:</strong> Rapidly sort pains by perceived severity <strong>within a homogeneous group</strong>.</p>
+<p><strong>Best when:</strong> You need quick prioritization across multiple pains in the same context/persona.</p>
+<section id="how-to-ask-paired-with-behavior" class="level3">
+<h3 class="anchored" data-anchor-id="how-to-ask-paired-with-behavior">How to Ask (paired with behavior)</h3>
 <ul>
-<li><strong>Start here</strong>: scan secondary sources before entering the field.<br>
+<li><strong>Severity scale (1–10):</strong>
+<ul>
+<li>“On a scale of <strong>1–10</strong>, how severe is <strong>[pain]</strong> in your week?”<br>
 </li>
-<li><strong>Triangulate</strong>: compare published findings with conversations and observations.<br>
+</ul></li>
+<li><strong>Behavioral anchor:</strong>
+<ul>
+<li>“What do you <strong>currently do</strong> to manage it?”<br>
 </li>
-<li><strong>Treat as experiments</strong>: ask <em>“If I search here, what will I learn?”</em><br>
+<li>“How much <strong>time</strong> did you spend on it last week?”<br>
 </li>
-<li><strong>Track surprises and absences</strong>: sometimes missing data is as telling as what you find.</li>
+<li>“What did it <strong>cost</strong> you last month (fees, tools, lost shifts)?”</li>
+</ul></li>
 </ul>
-<hr>
-<p><em>Success measure</em>: When your secondary research confirms or challenges your field discoveries and prevents wasted interviews on what is already known.</p>
+<div class="callout callout-style-default callout-warning callout-titled" title="Limits of Ouch Factor">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Limits of Ouch Factor
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>Not comparable <strong>across different groups</strong> (a “7” isn’t universal).<br>
+</li>
+<li>High severity ≠ high urgency if there’s <strong>no action or spend</strong>.<br>
+</li>
+<li>Treat as <strong>directional</strong>, not proof.</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="evidence-to-log-1" class="level3">
+<h3 class="anchored" data-anchor-id="evidence-to-log-1">Evidence to Log</h3>
+<ul>
+<li><strong>Ouch score</strong> per pain, plus <strong>time/money/workaround</strong> specifics.</li>
+</ul>
+</section>
+<section id="common-pitfalls-1" class="level3">
+<h3 class="anchored" data-anchor-id="common-pitfalls-1">Common Pitfalls</h3>
+<ul>
+<li>Using scores alone → <strong>require behavior context</strong> (time/money).<br>
+</li>
+<li>Mixed samples → <strong>analyze per segment</strong>; don’t average across groups.</li>
+</ul>
+</section>
+</section>
+<section id="test-3-willingness-to-pay-for-relief-wtp" class="level2">
+<h2 class="anchored" data-anchor-id="test-3-willingness-to-pay-for-relief-wtp">Test 3 — Willingness to Pay for Relief (WTP)</h2>
+<p><strong>Purpose:</strong> Gauge economic salience. Early-stage focus on <strong>behavioral substitutes</strong>, not speculative dollar guesses.</p>
+<p><strong>Best when:</strong> You suspect under-reporting in WTP for abstract relief; you want <strong>current spend</strong> and <strong>relative</strong> priorities.</p>
+<section id="how-to-ask-behavior-first" class="level3">
+<h3 class="anchored" data-anchor-id="how-to-ask-behavior-first">How to Ask (behavior-first)</h3>
+<ul>
+<li><strong>Substitutes/Current Spend:</strong>
+<ul>
+<li>“What do you <strong>already spend</strong> because of this pain?” (late fees, extra childcare hours, paid apps, parking, overtime)<br>
+</li>
+<li>“Any <strong>unpaid costs</strong> (lost time, stress, favors) you lean on?”</li>
+</ul></li>
+<li><strong>Relative WTP (not absolute):</strong>
+<ul>
+<li>“Which of these pains would you be most willing to <strong>pay to remove</strong>?” (rank)<br>
+</li>
+</ul></li>
+<li><strong>Only when concrete:</strong>
+<ul>
+<li>“Given <strong>this specific solution concept</strong> [1–2 sentence], what feels like a <strong>fair monthly price</strong>?” (Later stage only.)</li>
+</ul></li>
+</ul>
+<div class="callout callout-style-default callout-tip callout-titled" title="Better Ways to Probe WTP">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Better Ways to Probe WTP
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>Log <strong>actual substitutes</strong> and <strong>hidden costs</strong> (fees, buffers, hacks).<br>
+</li>
+<li>Use <strong>relative</strong> WTP questions (which pain first?) vs.&nbsp;raw amounts.<br>
+</li>
+<li>Save <strong>dollar WTP</strong> for <strong>concrete, credible</strong> solution concepts.</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="evidence-to-log-2" class="level3">
+<h3 class="anchored" data-anchor-id="evidence-to-log-2">Evidence to Log</h3>
+<ul>
+<li><strong>Substitute spend/time</strong>, <strong>relative WTP ranking</strong>, any <strong>price anchors</strong> only if concept is concrete.</li>
+</ul>
+</section>
+<section id="common-pitfalls-2" class="level3">
+<h3 class="anchored" data-anchor-id="common-pitfalls-2">Common Pitfalls</h3>
+<ul>
+<li>Early “How much would you pay?” → <strong>underestimates</strong> value of relief.<br>
+</li>
+<li>Ignoring hidden costs → <strong>ask for late fees, buffers, churn, waste</strong>.</li>
+</ul>
+</section>
+</section>
+<section id="triangulation-interpretation" class="level2">
+<h2 class="anchored" data-anchor-id="triangulation-interpretation">Triangulation &amp; Interpretation</h2>
+<p>Use at least two tests. Look for <strong>converging signals</strong>:</p>
+<ul>
+<li><strong>Green (Go):</strong>
+<ul>
+<li>Recent, repeated instances <strong>and</strong> top rank;<br>
+</li>
+<li>Ouch high <strong>with</strong> time/money spent;<br>
+</li>
+<li>Clear substitute spend <strong>or</strong> strong relative WTP → <strong>Advance to solution exploration</strong>.</li>
+</ul></li>
+<li><strong>Yellow (Refine):</strong>
+<ul>
+<li>Mixed ranking or sporadic frequency;<br>
+</li>
+<li>Ouch high <strong>without</strong> behavior;<br>
+</li>
+<li>Substitutes unclear → <strong>Tighten prompts, segment better, probe journey steps</strong>.</li>
+</ul></li>
+<li><strong>Red (Drop/Park):</strong>
+<ul>
+<li>Rare/one-off; consistently low rank;<br>
+</li>
+<li>No workarounds, no substitute spend;<br>
+</li>
+<li>Weak relative WTP → <strong>Archive for later</strong>.</li>
+</ul></li>
+</ul>
+<div class="callout callout-style-default callout-warning callout-titled" title="Avoid False Conclusions">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Avoid False Conclusions
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>False positives:</strong> Require <strong>specific incident</strong> + <strong>ranking</strong> + <strong>behavior</strong>.<br>
+</li>
+<li><strong>False negatives:</strong> Offer <strong>lists with ‘Other’</strong>, prompt by <strong>journey step</strong>, and allow <strong>story-first recall</strong> before scales.</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="scripts-templates" class="level2">
+<h2 class="anchored" data-anchor-id="scripts-templates">Scripts &amp; Templates</h2>
+<section id="a.-10-minute-intercept-script-in-person-or-phone" class="level3">
+<h3 class="anchored" data-anchor-id="a.-10-minute-intercept-script-in-person-or-phone">A. 10-Minute Intercept Script (in-person or phone)</h3>
+<ol type="1">
+<li>“We’re studying <strong>[context]</strong>. Do you ever run into <strong>[Pain A], [Pain B], or [Pain C]</strong>?”<br>
+</li>
+<li>“When was the <strong>last time</strong> [Pain X] happened? What did you do?”<br>
+</li>
+<li>“How often in the <strong>past 30 days</strong>?”<br>
+</li>
+<li>“Rank these <strong>1–3</strong> (most to least disruptive) for you: [A/B/C].”<br>
+</li>
+<li>“What did you <strong>do</strong> about it? Any <strong>time or money</strong> spent?”<br>
+</li>
+<li>“If you could fix <strong>one</strong> of these first, which would it be? Why?”</li>
+</ol>
+</section>
+<section id="b.-5-question-micro-survey-one-persona-at-a-time" class="level3">
+<h3 class="anchored" data-anchor-id="b.-5-question-micro-survey-one-persona-at-a-time">B. 5-Question Micro-Survey (one persona at a time)</h3>
+<ol type="1">
+<li>Select all that apply: In the past <strong>30 days</strong>, I experienced <strong>[Pain A], [Pain B], [Pain C]</strong>.<br>
+</li>
+<li>For your <strong>selected top pain</strong>: last occurrence date.<br>
+</li>
+<li>For your <strong>selected top pain</strong>: <strong>frequency</strong> in the past 30 days.<br>
+</li>
+<li><strong>Rank</strong> your selected pains from most to least disruptive.<br>
+</li>
+<li>What did you <strong>spend or do</strong> last month because of your <strong>#1 pain</strong>? (fees, tools, extra time)</li>
+</ol>
+</section>
+<section id="c.-logging-table-copypaste-to-sheets" class="level3">
+<h3 class="anchored" data-anchor-id="c.-logging-table-copypaste-to-sheets">C. Logging Table (copy/paste to Sheets)</h3>
+<table style="width:100%;">
+<colgroup>
+<col style="width: 10%">
+<col style="width: 10%">
+<col style="width: 10%">
+<col style="width: 10%">
+<col style="width: 10%">
+<col style="width: 10%">
+<col style="width: 10%">
+<col style="width: 10%">
+<col style="width: 10%">
+<col style="width: 10%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Respondent</th>
+<th>[Segment]</th>
+<th>[Pain]</th>
+<th>[Last Time]</th>
+<th>[Frequency (30d)]</th>
+<th>[Ouch (1–10)]</th>
+<th>[Time/wk]</th>
+<th>[$ per month]</th>
+<th>[Workarounds]</th>
+<th>[Rank]</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+</section>
+</section>
+<section id="sample-sizes-segments-pragmatic-guidance" class="level2">
+<h2 class="anchored" data-anchor-id="sample-sizes-segments-pragmatic-guidance">Sample Sizes &amp; Segments (Pragmatic Guidance)</h2>
+<ul>
+<li>Pilot <strong>n = 8–15</strong> per segment to tune wording; then grow to <strong>n = 25–50</strong> for clearer prioritization.<br>
+</li>
+<li>Analyze <strong>within-segment</strong>; avoid mixing groups when comparing ouch or WTP.<br>
+</li>
+<li>If ranking is unstable, your pains may be <strong>too broad</strong>; make them <strong>step-specific</strong> (e.g., “late pick-up fees” vs.&nbsp;“childcare stress”).</li>
+</ul>
+</section>
+<section id="ethics-good-practice" class="level2">
+<h2 class="anchored" data-anchor-id="ethics-good-practice">Ethics &amp; Good Practice</h2>
+<ul>
+<li>Obtain <strong>consent</strong> for recordings/notes.<br>
+</li>
+<li>Avoid <strong>leading questions</strong>; keep wording neutral.<br>
+</li>
+<li>Offer a small <strong>thank-you</strong> (non-coercive).<br>
+</li>
+<li>If discussing sensitive contexts, prepare <strong>opt-out</strong> language and protect privacy.</li>
+</ul>
+</section>
+<section id="decision-checklist-end-of-test-cycle" class="level2">
+<h2 class="anchored" data-anchor-id="decision-checklist-end-of-test-cycle">Decision Checklist (End of Test Cycle)</h2>
+<ul class="task-list">
+<li><label><input type="checkbox">We have <strong>incident-level</strong> evidence (last time + specifics)<br>
+</label></li>
+<li><label><input type="checkbox">We have <strong>frequency</strong> and <strong>rank vs.&nbsp;alternatives</strong><br>
+</label></li>
+<li><label><input type="checkbox">We captured <strong>time/money/workarounds</strong> (behavior)<br>
+</label></li>
+<li><label><input type="checkbox">Signals from <strong>two tests</strong> point to the same pains<br>
+</label></li>
+<li><label><input type="checkbox">We’ve tagged <strong>segments</strong> and avoided cross-group averaging<br>
+</label></li>
+<li><label><input type="checkbox">We’ve marked <strong>Green/Yellow/Red</strong> and chosen next steps</label></li>
+</ul>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Next Step</strong><br>
+If one or two pains hit <strong>Green</strong>, you’re ready to enter <strong>Diamond 3: Solution</strong>. Bring your top pains—and their behavioral evidence—into concept sketches and early solution probes.</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Important
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Reminder</strong><br>
+This guide uses <strong>[square brackets]</strong> as placeholders.<br>
+Replace them with your own segment names, pains, and details before running tests.<br>
+Example:<br>
+- <code>[Persona or segment name]</code> → “Evening subway commuters”<br>
+- <code>[Pain A]</code> → “Dark, unpredictable blocks on the walk home”</p>
+</div>
+</div>
 
 
 </section>
@@ -1039,13 +1456,13 @@ ul.task-list li input[type="checkbox"] {
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../toolkit/Survey_Guide.html" class="pagination-link" aria-label="Survey Guide">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Survey Guide</span>
+      <a href="../toolkit/Prioritize_Pain_Guide.html" class="pagination-link" aria-label="Prioritization and Refrigeration Guide">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Prioritization and Refrigeration Guide</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../toolkit/Clustering_Guide.html" class="pagination-link" aria-label="Clustering → Themes Guide">
-        <span class="nav-page-text">Clustering → Themes Guide</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../toolkit/_solution_guides_separator.html" class="pagination-link" aria-label="── Solution Guides ──">
+        <span class="nav-page-text">── Solution Guides ──</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

@@ -129,6 +129,7 @@ ggplot(data, aes(x = stage, y = Emotion, group = Commute, color = Commute)) +
 # #| fig-cap: "Maya's Emotional State during Her Commute"
 #| fig-width: 8
 #| fig-height: 5
+#| message: false
 #| warning: false
 
 library(ggplot2)
@@ -139,7 +140,7 @@ library(tidyr)
 data_evening <- data.frame(
   stage = factor(c("Leave work", "Walk to train", "On train", "Exit station", "Walk home", "Arrive home"),
                  levels = c("Leave work", "Walk to train", "On train", "Exit station", "Walk home", "Arrive home")),
-  Emotion = c(2, 2.5, 3, 2.5, 4, 1) # 1 = Very Calm … 5 = Anxious
+  Emotion = c(2, 3.5, 3, 3.8, 5, 1.2) # 1 = Very Calm … 5 = Anxious
 )
 
 # Plot: Evening commute only
@@ -152,7 +153,7 @@ ggplot(data_evening, aes(x = stage, y = Emotion, group = 1)) +
              stroke = 2) +    # Thickness of the border
 #  geom_point(color = "tomato", size = 5) +
 #  geom_text(aes(label = Emotion), vjust = -1, color = "tomato") +
-  geom_hline(yintercept = 0, linetype = "dashed", color = "gray60") +
+#   geom_hline(yintercept = 0, linetype = "dashed", color = "gray60") +
   scale_y_continuous(
     breaks = 1:5, limits = c(1, 5),
     labels = c("Very Calm", "Calm", "Neutral", "Stressed", "Anxious")

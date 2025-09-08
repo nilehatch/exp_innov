@@ -37,8 +37,7 @@ This is often the first “aha” moment in convergence. The repetition that fel
 
 Clustering doesn’t solve the puzzle by itself, but it clears the fog. It turns a mountain of disconnected pieces into a landscape where hills and valleys start to appear. From here, you can move on to personas and experience maps with a clearer sense of direction.  
 
-::: callout-note  
-**See the Demo**  
+::: {.callout-note  title="See the Demo"}
 In the [Halo Alert demo of clustering into themes](demo/exp-06-cluster-themes-2025-03-12.qmd), you’ll see how dozens of raw quotes and notes from interviews were clustered into themes about safety during evening commutes. Watch how the noise of scattered observations turns into patterns you can actually work with.  
 :::  
 
@@ -53,8 +52,7 @@ A persona doesn’t have to be perfect or permanent. It’s a working tool, a wa
 
 As you continue, your personas will evolve. Early on, they may feel rough or even a little clichéd. That’s okay. The act of building them forces you to stay grounded in the lived experiences of your people instead of drifting back into generic assumptions.  
 
-::: callout-note  
-**See the Demo**  
+::: {.callout-note  title="See the Demo"}
 The [Halo Alert demo of developing personas](demo/exp-07.a-persona-2025-03-12.qmd) shows how themes can be personified in a vivid persona — Maya Patel. Maya is an archetypal composite built from more than a hundred conversations with professional women who walk as part of their commute— a living character who makes the patterns concrete.  
 :::  
 
@@ -68,15 +66,13 @@ Experience mapping isn’t about designing solutions yet. It’s about slowing d
 
 The value of experience mapping is perspective. It takes the fragments from your clusters and the personality of your persona and strings them into a story you can analyze. When you see a journey laid out stage by stage, you’re better able to spot where intervention might matter most.  
 
-::: callout-tip  
-**Converge Without Collapsing**  
+::: {.callout-tip  title="Converge Without Collapsing"}
 Convergence reduces chaos, but it doesn’t mean collapsing into one neat artifact. You may still need several personas — and multiple experience maps. And each map can surface **multiple candidate pains.**  
 
 Choose the most urgent pain to test, but don’t discard the rest. Keep them in the *refrigerator* so you can revisit them if surprises arise during testing or solution design.  
 :::  
 
-::: callout-note  
-**See the Demo**  
+::: {.callout-note  title="See the Demo"}
 In the [Halo Alert demo of experience mapping](demo/exp-08.a-experience-map-2025-03-14.qmd), Maya’s journey commuting from work to home is mapped stage by stage. The map shows where her anxiety spikes and how her family becomes involved in the stress — surfacing multiple candidate pains to explore further.  
 :::  
 
@@ -99,8 +95,7 @@ Here’s how to do it:
 
 Good abduction is active, not passive. It’s not waiting for the right pain to reveal itself — it’s drafting, comparing, and revising until you land on the most plausible hypothesis.  
 
-::: callout-note  
-**See the Demo**  
+::: {.callout-note  title="See the Demo"}  
 The [Halo Alert demo of hypothesizing pain](demo/exp-09-hypothesize-pain-2025-03-16.qmd) takes those candidate pains and runs them through abductive reasoning: drafting, comparing, and refining until one pain hypothesis stands out as most urgent and testable.  
 :::  
 
@@ -137,8 +132,7 @@ A good pain hypothesis is:
 - **Grounded.** It comes from your empathy work — clusters, personas, maps.  
 - **Testable.** You can take it back to people and see if they nod vigorously or shrug.  
 
-::: callout-warning  
-**The Danger of “Problem Mapping”**  
+::: {.callout-warning  title = "The Danger of 'Problem Mapping'"}
 It’s easy to start with a big, vague problem and then design a clever solution that tackles one corner of it. The catch? If that corner doesn’t touch a *real pain* your people actually feel, customers won’t care.  
 
 This is why so many “problem-driven” startups fizzle. The solution maps neatly back to the problem statement, but not to the lived costs of the people it’s meant to serve. Always check: does this hypothesis connect to a personal pain — physical, functional, financial, emotional, or social — that someone will *thank you* for relieving?  
@@ -146,13 +140,10 @@ This is why so many “problem-driven” startups fizzle. The solution maps neat
 
 ### Industrial Abduction
 
-<!-- ::: {.callout .callout-example} -->
-
-::: {.callout-note icon = false title = "Gillette in India"}
 When Gillette entered the Indian market, they didn’t just ship razors designed for American bathrooms. They sat on floors with men who shaved with bowls of water, often without electricity. Through empathy they saw pains others had missed: longer hair from infrequent shaving, no running water, awkward grips. Their abductive leap was the **Gillette Guard** — a lightweight, single-blade razor with a special handle designed for that posture.  
 
 The Guard became a market success. Gillette succeeded not by inventing new technology, but by spotting pains others ignored.  
-:::  
+
 
 ## Conclusion: Ready to Test  
 

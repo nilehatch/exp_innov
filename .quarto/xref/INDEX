@@ -217,5 +217,23 @@
   },
   "demo/exp-09-hypothesize-pain-2025-03-16.qmd": {
     "exp-09-hypothesize-pain-2025-03-16.html": "f8d16355"
+  },
+  "toolkit/Test_Pain_Guide.qmd": {
+    "Test_Pain_Guide.html": "ef84f3f9"
+  },
+  "demo/exp-10-test-pain-2025-03-20.qmd": {
+    "exp-10-test-pain-2025-03-20.html": "c4ead596"
+  },
+  "demo/exp-10.a-pain-test-summary-2025-03-20.qmd": {
+    "exp-10.a-pain-test-summary-2025-03-20.html": "c0299df3"
+  },
+  "demo/exp-10.b-pain-validation-detail-2025-03-20.qmd": {
+    "exp-10.b-pain-validation-detail-2025-03-20.html": "d4865638"
+  },
+  "demo/exp-10.c-ouch-factor-detail-2025-03-20.qmd": {
+    "exp-10.c-ouch-factor-detail-2025-03-20.html": "b9dd9c3d"
+  },
+  "demo/exp-10.d-wtp-detail-2025-03-20.qmd": {
+    "exp-10.d-wtp-detail-2025-03-20.html": "c2411ee1"
   }
 }

@@ -50,3 +50,6 @@
 - Explore whether food, music, or shared pauses meaningfully reduce commuter stress.  
 - Test whether fatigue and multitasking open opportunities for commuter support services (carry aids, mobile tools, safety apps).  
 
+---
+
+*For a practical checklist to use in the field, see the [Observation Guide](../toolkit/Observation_Guide.qmd) in the [Experimentation Toolkit](../toolkit/Experimentation_Toolkit.qmd).*

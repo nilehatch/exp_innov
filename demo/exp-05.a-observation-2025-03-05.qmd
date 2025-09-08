@@ -15,7 +15,6 @@
 Observation was chosen to complement commuter interviews. By watching morning flows, we sought to see patterns in body language, pace, group dynamics, and friction points that commuters might not mention in conversation.  
 :::
 
----
 
 ## 1. Clarify the Unknown
 - **Most Urgent Unknown**: What frictions, workarounds, and needs are visible in the commuting experience?  
@@ -67,3 +66,6 @@ Observation was chosen to complement commuter interviews. By watching morning fl
 ---
 
 **Attribution:** Observation conducted by Nile as part of the Halo Alert exploratory research series (Diamond 2).
+
+
+*For a practical checklist to use in the field, see the [Observation Guide](../toolkit/Observation_Guide.qmd) in the [Experimentation Toolkit](../toolkit/Experimentation_Toolkit.qmd).*

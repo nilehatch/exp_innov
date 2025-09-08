@@ -36,6 +36,7 @@ This document demonstrates how the Halo Alert team moved from *divergent explora
 ## 2. Empathize: Notice the Emotional Pull {#sec-ha-people-converge-empathize}
 
 Groups that lingered after work sessions:  
+
 - **Professional women commuters** — stories of texting roommates, rerouting streets, balancing career pressure with constant background vigilance.  
 - **College students** — raw vulnerability late at night, but often constrained by campus access rules (harder to study without IRB).  
 
@@ -50,11 +51,13 @@ The team couldn’t shake the quiet burden of professional women who “looked f
 ## 3. Assess Access: Can You Actually Reach Them? {#sec-ha-people-converge-access}
 
 **Quick tests conducted:**  
+
 - Draft LinkedIn messages to small networks of women in New York and Boston.  
 - Pilot outreach in coworking Slack group: short invite for 15–20 min conversations.  
 - Intercept attempts outside subway exits near campus.  
 
 **Results:**  
+
 - LinkedIn: 3 out of 5 messages received thoughtful replies within 48 hours.  
 - Slack group: 8 women volunteered stories or referrals.  
 - Subway intercept: 2 agreed to short chats, though one declined recording.  
@@ -72,6 +75,7 @@ The team couldn’t shake the quiet burden of professional women who “looked f
 Halo Alert chose to focus on **professional women commuting on foot in mid-sized cities**.  
 
 **Rationale:**  
+
 - Clear patterns of persistent, subtle safety burdens.  
 - Emotional resonance: the team felt drawn to their lived experience.  
 - Proven access: multiple channels worked quickly and respectfully.  

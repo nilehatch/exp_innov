@@ -6,6 +6,14 @@ This guide should be used with the methods outlined in the @sec-conversation-sec
 
 Exploratory conversations are not sales pitches. They are guided storytelling experiments that uncover what people actually do, feel, and struggle with in their daily lives. The goal is not to validate your idea but to learn from the lived experiences of your community.
 
+::: {.callout-important title="Important"}
+Exploratory conversations are **for learning, not for selling**.  
+- Do **not** pitch your idea.  
+- Do **not** ask, “Would you buy this?”  
+- Stay in **story-first mode**: real events, feelings, and behaviors.  
+Your job is to listen deeply, not to persuade.  
+:::
+
 ## Before the Conversation
 - **Prepare a protocol**: Know whom you’ll visit, what you hope to ask, and how you’ll record the response.  
 - **Gather resources**: notebook, sketchbook, and—if permission is granted—a recorder.  
@@ -55,3 +63,7 @@ Two powerful tools:
 ::: callout-note
 **Common Confusion**: Entrepreneurs often slip into pitching or hypothetical “would you buy” questions. Avoid this. Stay anchored in *past and present stories*—that is where the most reliable data lives.  
 :::
+
+## See the Demo  
+
+In the Halo Alert demo, you’ll see summaries of conversations with [Sarah Thompson](../demo/exp-04.a-conversation-sarah-thompson-2025-02-24.qmd) and [Emily Rivera](../demo/exp-04.b-conversation-emily-rivera-2025-02-25.qmd).  You can also see transcriptions of the full conversations with [Sarah](../demo/exp-04.a-results-full-transcript-2025-02-24.qmd) and [Emily](../demo/exp-04.b-results-full-transcript-2025-02-25.qmd).

@@ -1,0 +1,144 @@
+# Test Hypothesized Pain - Maya Patel {#sec-test-pain-ha .unnumbered}
+
+#### Testing commuter pain hypotheses using validation, ouch factor, and willingness-to-pay {.subtitle}  
+
+> Following the toolkit naming conventions, this file is named `exp-10.a-pain-test-summary-2025-03-20.qmd`.
+
+## Demo Overview
+
+This demo continues the Halo Alert case.\
+We’ve already developed Maya Patel’s [persona](exp-07.a-persona-2025-03-12.qmd), traced her [experience map](exp-08.a-experience-map-2025-03-14.qmd), and abductively generated a set of [pain hypotheses](exp-09-hypothesize-pain-2025-03-16.qmd).\
+Now we test the most plausible hypothesis:
+
+> **Hypothesis:** Maya experiences significant anxiety when commuting at night because she feels unsafe walking alone, especially in unpredictable or poorly lit environments.
+
+Our goal is to gather evidence using three complementary tests:  
+1. **Pain Validation**  
+2. **Ouch Factor**  
+3. **Willingness to Pay for Relief (WTP)**  
+
+
+## 1. Pain Validation {.unnumbered}
+
+**Purpose:** Confirm the pain occurs in real life, not just in theory.
+
+**Method:** Short intercept survey of 20 late-evening subway commuters in Queens.
+
+### Sample Questions
+- “In the past **30 days**, have you felt unsafe walking alone at night after exiting the subway?”  
+- “When was the **last time** this happened?”  
+- “How often has this come up in the past month?”  
+- “Rank these pains from most to least disruptive: [dark streets], [crowded train exits], [unexpected detours].”
+
+### Results 
+| Pain               | % Reporting | Avg Frequency (30d) | Avg Rank (1 = most disruptive) |
+|--------------------|-------------|----------------------|--------------------------------|
+| Dark/unlit blocks  | 85%         | 3.2 times            | 1.4                            |
+| Crowded exits      | 70%         | 4.5 times            | 2.2                            |
+| Unexpected detours | 60%         | 2.1 times            | 2.8                            |
+A small **contrast group** is shown for context but not used in decision-making.\
+Contrast (n=2): Lower recognition; avg ouch 5.5/10; minimal substitute spend.
+
+> “I’ll walk an extra 10 minutes just to stay under the lights.” — R1, grad student  
+> “The worst is when the train is delayed and then I miss the busy sidewalks — it feels sketchy walking alone.” — R2, office manager
+
+::: {.callout-tip title="Interpretation"}
+- **In-segment:** High recognition (88%), strong recency, pain ranks consistently #1.^[Headline estimates reflect the **in-segment sample** (professional women with ≥10-minute night walks).\
+Contrast group responses provide context only.  ]
+- **Contrast:** Recognition and severity lower, but still present.  
+- Pain ranks consistently near the top, above other commute issues.  
+:::
+
+
+## 2. Ouch Factor {.unnumbered}
+
+**Purpose:** Gauge the relative severity of pains within the same group.
+
+**Method:** Same intercept survey, asking for 1–10 severity ratings + follow-up on behaviors.
+
+### Sample Questions
+- “On a scale of **1–10**, how severe is the stress of walking home in dark/unpredictable blocks?”  
+- “What do you do about it? (time, money, routines, substitutes)”  
+
+### Results
+| Pain               | Avg Ouch (1–10) | Common Workarounds                       |
+|--------------------|------------------|------------------------------------------|
+| Dark/unlit blocks  | 8.1              | Longer route, keys in hand, check-in text |
+| Crowded exits      | 6.4              | Plans exit early, avoids rush-hour trains |
+| Unexpected detours | 5.9              | Adds buffer time, downloads transit app   |
+*In-segment (n=8):* 88% reported dark/unlit blocks in past 30 days; avg ouch 8.3/10; 45% substitute spend.\
+*Contrast (n=2):* Lower recognition; avg ouch 5.5/10; minimal substitute spend.
+
+
+> “It feels dangerous, even if nothing actually happens.” — R1, grad student  
+> “It’s not every night, but when I do take rideshare, it’s worth the money.” — R3, office assistant
+
+::: {.callout-tip title= "Interpretation"}
+- **In-segment:** Ouch scores high (8.3/10) and anchored by clear behaviors (time lost, money spent).  
+- **Contrast:** Severity scores lower (avg ≈ 5.5/10), with fewer behaviors.  
+- Reminder: Severity without behavior ≠ urgency.  
+:::
+
+## 3. Willingness to Pay for Relief {.unnumbered}
+
+**Purpose:** Understand what commuters already spend to mitigate the pain.
+
+**Method:** Prompt about current substitute spending, not hypothetical “what would you pay.”
+
+### Sample Questions
+- “What do you currently **spend** to reduce this pain? (rideshare, late-night bus, other fees)”  
+- “If you had to choose, which pain would you be most willing to **pay to solve first**?”  
+
+### Results
+| Pain               | % Paying for Substitutes | Avg Monthly Spend | Substitute Types          |
+|--------------------|--------------------------|-------------------|---------------------------|
+| Dark/unlit blocks  | 40%                      | $28               | Rideshare, longer routes  |
+| Crowded exits      | 10%                      | $8                | Off-peak rides            |
+| Unexpected detours | 15%                      | $12               | Transit apps, buffers     |
+*In-segment (n=8):* 88% reported dark/unlit blocks in past 30 days; avg ouch 8.3/10; 45% substitute spend.\
+*Contrast (n=2):* Lower recognition; avg ouch 5.5/10; minimal substitute spend.
+
+> “I already pay for peace of mind — but I’d pay more if something really worked.” — R3, office assistant  
+> “Not worth money — I just deal with it.” — R4, delivery driver
+
+::: {.callout-tip title= "Interpretation"}
+- **In-segment:** Nearly half already spend (avg ~$32/mo), mainly on rideshares or longer routes.  
+- **Contrast:** Minimal substitute spending; some explicitly reject paying.  
+- Reminder: Look at **actual behaviors and spending** rather than hypothetical WTP numbers.  
+:::
+
+# 4. Triangulation & Conclusion {.unnumbered}
+
+We combine results across the three tests.\
+Headline estimates reflect the **in-segment sample** (professional women with ≥10-minute night walks).  A small **contrast group** is noted separately for context.\
+For transparency, each column links back to the **transcript/data files** where raw responses are stored.
+
+| Pain               | Validation[^2] | Ouch Factor[^3] | WTP[^4] | Confidence |
+|--------------------|-------------|--------------|------|------------|
+| Dark/unlit blocks  | High (8/10 reported in past 30d) | High (avg 7.2/10, strong workarounds) | Medium–High (40% already paying, time costs common) | **Green** |
+| Crowded exits      | Medium (6/10 reported, lower rank) | Medium (avg 6.0/10, mild behaviors) | Low (10% paying, limited costs) | Yellow |
+| Unexpected detours | Medium (6/10 reported, secondary pain) | Medium (avg 5.9/10, buffer time) | Low (15% paying for apps/buffers) | Yellow |
+
+[^2]: See [Pain Validation transcript](exp-10.b-pain-validation-detail-2025-03-20.qmd)
+[^3]: See [Ouch Factor transcript](exp-10.c-ouch-factor-detail-2025-03-20.qmd)  
+[^4]: See [WTP transcript](exp-10.d-wtp-detail-2025-03-20.qmd)  
+
+::: {.callout-note title="Scope of Claims"}
+Headline estimates reflect the **in-segment** sample (professional women with ≥10-minute night walks).\
+We include a small **contrast** group for context but don’t base decisions on it.
+:::
+
+### Takeaway
+- **Dark/unlit blocks** emerge as a validated, urgent, and economically salient pain.  
+- This pain is both *frequent* (validation), *severe with behaviors* (ouch factor), and *already costly* (WTP).  
+- Confidence: **Green light to carry this pain into Diamond 3 (solution exploration)**.  
+
+
+## Traceability  
+
+- **From clusters:** [Commuting themes](exp-06-cluster-themes-2025-03-12.qmd) 
+  <!--Reassurance routines, Route choice & environment, Crowding & vigilance.  -->
+- **From persona:** [Maya Patel](exp-07.a-persona-2025-03-12.qmd)
+- **From experience map:** [Maya Patel commute](exp-08.a-experience-map-2025-03-14.qmd) 
+- **From abduction:** [Maya Patel commuting pain hypothesis](exp-09-hypothesize-pain-2025-03-16.qmd)
+- **Toolkit link:** [Pain Testing Guide](../toolkit/Test_Pain_Guide.qmd)

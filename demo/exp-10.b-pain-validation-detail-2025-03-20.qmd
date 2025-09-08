@@ -1,0 +1,99 @@
+# Pain Validation Transcript {#sec-test-pain-validate-b-ha .unnumbered}
+
+#### Raw commuter responses on late-evening pain hypotheses {.subtitle}  
+
+> Following the toolkit naming conventions, this file is named `exp-10.b-pain-validation-detail-2025-03-20.qmd`.
+
+## Overview {.unnumbered}
+
+This file contains the raw responses from a small intercept survey of **late-evening subway commuters in Queens**.  
+It supports the demo: [Pain Validation with Maya Patel](exp-09-hypothesize-pain-2025-03-16.qmd).
+
+- **Date:** March 20, 2025  
+- **Location:** Queens subway stations, after 9:00pm  
+- **Sample size:** 10 respondents (n=10)  
+- **Format:** Short intercept questions (5–7 minutes each)  
+
+## Protocol {.unnumbered}
+
+Questions asked (from the [Pain Testing Guide](../toolkit/Test_Pain_Guide.qmd)):
+
+1. In the past **30 days**, have you felt unsafe walking alone at night after exiting the subway?  
+2. When was the **last time** this happened?  
+3. How **often** has this come up in the past month?  
+4. Rank these pains from most to least disruptive:  
+   - Dark/unlit blocks  
+   - Crowded train exits  
+   - Unexpected detours  
+
+
+## Respondent Summaries {.unnumbered}
+
+### R1 — 26, grad student
+- **Recognition:** Yes  
+- **Last time:** “Two nights ago, walking back from class.”  
+- **Frequency:** “At least 3 times this month.”  
+- **Ranking:** 1. Dark/unlit blocks  2. Crowded exits  3. Detours  
+- **Quote:**  “*I’ll walk an extra 10 minutes just to stay under the lights.*”  
+
+---
+
+### R2 — 46, offic manager
+- **Recognition:** Yes  
+- **Last time:** “Last week, after closing shift.”  
+- **Frequency:** “Once or twice a week.”  
+- **Ranking:** 1. Detours  2. Dark/unlit blocks  3. Crowded exits  
+- **Quote:** “*The worst is when the train is delayed and then I miss the busy sidewalks — it feels sketchy walking alone.*”  
+
+---
+
+### R3 — 29, office assistant
+- **Recognition:** Yes  
+- **Last time:** “Last Friday night.”  
+- **Frequency:** “Maybe 4 times this month.”  
+- **Ranking:** 1. Dark/unlit blocks  2. Detours  3. Crowded exits  
+- **Quote:** “*I text my roommate every time I leave the station. It helps me feel calmer.*”
+
+---
+
+### R4 —  41, delivery driver
+- **Recognition:** No  
+- **Last time:** —  
+- **Frequency:** —  
+- **Ranking:** 1. Crowded exits  2. Detours  3. —  
+- **Quote:**  “*I don’t mind the walk, but subway crowds stress me more than the streets.*”  
+
+---
+
+*(Continue through R5–R10 with similar format.)*  
+
+
+## Data Table (Compiled) {.unnumbered}
+
+| Respondent | Segment | Recognition | Last Time | Frequency (30d) | Rank 1 | Rank 2 | Rank 3 | Quote (short) |
+|------------|---------|-------------|-----------|-----------------|--------|--------|--------|---------------|
+| R1 | Grad student | Yes | 2 days ago | 3× | Dark | Crowded | Detours | “I’ll walk extra for lights.” |
+| R2 | Restaurant worker | Yes | 7 days ago | 4× | Detours | Dark | Crowded | “Missing busy sidewalks feels sketchy.” |
+| R3 | Office assistant | Yes | 5 days ago | 4× | Dark | Detours | Crowded | “I text my roommate every time.” |
+| R4 | Delivery driver | No | — | — | Crowded | Detours | — | “Crowds stress me more.” |
+| … | … | … | … | … | … | … | … | … |
+
+
+## Notes & Reflections {.unnumbered}
+
+- **Recognition rate:** 8 of 10 respondents reported dark/unlit block anxiety in the past 30 days.  
+- **Recency:** Most could recall an incident within the past 1–2 weeks.  
+- **Frequency:** Average ≈ 3×/month.  
+- **Ranking:** Dark/unlit blocks most frequently ranked #1.  
+- **Unexpected theme:** Some commuters said delays (detours) *trigger* the dark-block issue by making them walk later.  
+
+
+## Traceability  
+
+- **From clusters:** [Commuting themes](exp-06-cluster-themes-2025-03-12.qmd) 
+  <!--Reassurance routines, Route choice & environment, Crowding & vigilance.  -->
+- **From persona:** [Maya Patel](exp-07.a-persona-2025-03-12.qmd)
+- **From experience map:** [Maya Patel commute](exp-08.a-experience-map-2025-03-14.qmd) 
+- **From pain hypothesis:** [Maya Patel commuting pain hypothesis](exp-09-hypothesize-pain-2025-03-16.qmd)
+- **Next step:**  Summarize these results for the [pain hypothesis test summary](exp-10.a-pain-test-summary-2025-03-20.qmd)
+- **Toolkit link:** [Pain Testing Guide](../toolkit/Test_Pain_Guide.qmd)

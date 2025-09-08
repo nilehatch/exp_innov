@@ -53,9 +53,9 @@ The key is not the medium but the clarity. A persona should feel like a real per
 
 ## Why It Matters  
 
-Personas anchor empathy. It’s easier to reason about “Brooke, a 19-year-old college student who feels anxious on dark streets” than about “young women, ages 18–24.” Personas stop you from drifting into abstractions and keep you grounded in lived experiences.  
+Personas anchor empathy. It’s easier to reason about Maya, a 27-year-old accountant who feels anxious on dark streets than about professional women, ages 23-43. Personas stop you from drifting into abstractions and keep you grounded in lived experiences.  
 
 
 ## See the Demo  
 
-In the **Halo Alert demo**, you’ll see how clustered themes became a persona that represents over a hundred college women. Brooke puts a human face on the patterns and makes their pains easier to imagine.  
+In the Halo Alert demo, you’ll see how clustered themes became a persona for each of three themes that emerged.  The personas for [Maya](../demo/exp-07.a-persona-2025-03-12.qmd), [Elena](../demo/exp-07.b-persona-2025-03-12.qmd), and [Anika](../demo/exp-07.c-persona-2025-03-12.qmd) put a human face on the patterns and make their pains easier to imagine.  

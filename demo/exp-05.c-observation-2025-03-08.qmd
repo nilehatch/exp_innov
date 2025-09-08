@@ -1,4 +1,4 @@
-# Observation: Evening University Campus (8 PM, Manhattan) {#sec-observation-c-ha .unnumbered}
+# Observation: Evening University Campus (11 PM, Manhattan) {#sec-observation-c-ha .unnumbered}
 
 #### Following the toolkit naming conventions, this file is named `exp-05c-observation-2025-03-06.qmd`. {.subtitle} 
 
@@ -9,7 +9,6 @@
 - **Observer:** Nile + Seth
 - **Consent:** Public-space observation (no identifying details recorded).  
 
----
 
 ## 1. Clarify the Unknown
 - **Most Urgent Unknown**: How do students and young women navigate safety, sociality, and mobility late at night on campus?  
@@ -53,3 +52,7 @@
 - Explore how late-night students perceive campus safety and what tools they use to cope.  
 - Test whether group-walking apps, buddy systems, or lighting interventions reduce anxiety.  
 - Interview students about trade-offs between independence, convenience, and safety measures.  
+
+--- 
+
+*For a practical checklist to use in the field, see the [Observation Guide](../toolkit/Observation_Guide.qmd) in the [Experimentation Toolkit](../toolkit/Experimentation_Toolkit.qmd).*

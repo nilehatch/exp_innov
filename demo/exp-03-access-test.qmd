@@ -18,7 +18,7 @@
 - [x] We can **engage them** (via LinkedIn messages, coworking newsletters, Slack forums).  
 - [x] They **respond and open up** (first tests yielded thoughtful, detailed replies).  
 
-**Result:** ✅ Passed.  
+**Result:**  Passed.  
 
 ---
 

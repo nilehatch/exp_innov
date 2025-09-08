@@ -1,7 +1,7 @@
----
-title: "Succeed with Expeditionary Innovation"
-subtitle: "Maximize the probability of a successful innovation through iterative use of exploratory experiments, hypothesizing, and confirmatory tests"
----
+# Succeed with Expeditionary Innovation {#sec-conclusion-chapter .unnumbered}
+
+#### Maximize the probability of a successful innovation through iterative use of exploratory experiments, hypothesizing, and confirmatory tests {.subtitle}
+
 
 ```{=html}
 <style>

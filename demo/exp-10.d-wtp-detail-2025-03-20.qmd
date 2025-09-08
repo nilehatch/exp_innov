@@ -1,0 +1,92 @@
+# Willingness to Pay for Relief Transcript {#sec-test-pain-wtp-d-ha .unnumbered}
+
+#### Raw commuter responses on current substitute spending and relative priorities {.subtitle}  
+
+> Following the toolkit naming conventions, this file is named `exp-10.d-wtp-detail-2025-03-20.qmd`.
+
+## Overview {.unnumbered}
+
+This file contains the raw responses from a small intercept survey of **late-evening subway commuters in Queens**.  
+It supports the demo: [Pain Validation with Maya Patel](exp-09-hypothesize-pain-2025-03-16.qmd).
+
+- **Date:** March 20, 2025  
+- **Location:** Queens subway stations, after 9:00pm  
+- **Sample size:** 10 respondents (n=10)  
+- **Format:** Short intercept questions (5–7 minutes each)  
+
+## Protocol {.unnumbered}
+
+Questions asked (from the [Pain Testing Guide](../toolkit/Test_Pain_Guide.qmd)):
+
+1. What do you currently **spend** to reduce or avoid this pain? (fees, rideshare, apps, buffers)  
+2. What **unpaid costs** do you incur? (extra time, stress, favors, inconvenience)  
+3. If you had to choose, which pain would you be most willing to **pay to remove first**?  
+
+
+## Respondent Summaries {.unnumbered}
+
+### R1 — 26, grad student
+- **Substitute spending:** $40/month on rideshares (2–3 late trips).  
+- **Unpaid costs:** Extra 40 minutes/week walking longer routes.  
+- **Relative WTP:** Dark/unlit blocks ranked first.  
+- **Quote:**  *“I’d happily keep paying for rideshare if it meant not worrying.”*
+
+---
+
+### R2 — 46, office manager
+- **Substitute spending:** None in money.  
+- **Unpaid costs:** 15 min buffer time most nights.  
+- **Relative WTP:** Detours ranked first (makes her late for family).  
+- **Quote:**  *“The money doesn’t matter as much as the lost time with my kids.”*
+
+---
+
+### R3 — 29, office assistant
+- **Substitute spending:** $25/month on transit apps and occasional rideshare.  
+- **Unpaid costs:** Text check-ins, stress.  
+- **Relative WTP:** Dark/unlit blocks ranked first.  
+- **Quote:**  *“I already pay for peace of mind — but I’d pay more if something really worked.”*
+
+---
+
+### R4 — 41, delivery driver
+- **Substitute spending:** None.  
+- **Unpaid costs:** Mild stress only.  
+- **Relative WTP:** Crowded exits ranked first.  
+- **Quote:**  *“Not worth money — I just deal with it.”*
+
+---
+
+*(Continue through R5–R10 with similar format.)*  
+
+---
+
+# Data Table (Compiled) {.unnumbered}
+
+| Respondent | Segment | $/mo Spent | Unpaid Costs | Top WTP Pain | Quote (short) |
+|------------|---------|------------|--------------|--------------|---------------|
+| R1 | Grad student | $40 | 40 min/wk walking | Dark/unlit blocks | “I’d happily keep paying for rideshare.” |
+| R2 | Restaurant worker | $0 | 15 min buffer | Detours | “Lost time with kids matters most.” |
+| R3 | Office assistant | $25 | Stress, check-ins | Dark/unlit blocks | “I already pay for peace of mind.” |
+| R4 | Delivery driver | $0 | Mild stress | Crowded exits | “Not worth money — I just deal.” |
+| … | … | … | … | … | … |
+
+---
+
+# Notes & Reflections {.unnumbered}
+
+- **Substitute spending:** 4 of 10 respondents already pay for substitutes (rideshare, apps).  
+- **Unpaid costs:** Almost all incur hidden costs — time buffers, stress, reliance on others.  
+- **Relative WTP:** Dark/unlit blocks most frequently chosen as the pain worth paying to remove first.  
+- **Variation:** Some commuters resist the framing of WTP (e.g., “I just deal with it”), reinforcing the need to look at **actual behavior** rather than hypotheticals.  
+
+
+## Traceability  
+
+- **From clusters:** [Commuting themes](exp-06-cluster-themes-2025-03-12.qmd) 
+  <!--Reassurance routines, Route choice & environment, Crowding & vigilance.  -->
+- **From persona:** [Maya Patel](exp-07.a-persona-2025-03-12.qmd)
+- **From experience map:** [Maya Patel commute](exp-08.a-experience-map-2025-03-14.qmd) 
+- **From pain hypothesis:** [Maya Patel commuting pain hypothesis](exp-09-hypothesize-pain-2025-03-16.qmd)
+- **Next step:** Summarize these results for the [pain hypothesis test summary](exp-10.a-pain-test-summary-2025-03-20.qmd)
+- **Toolkit link:** [Pain Testing Guide](../toolkit/Test_Pain_Guide.qmd)

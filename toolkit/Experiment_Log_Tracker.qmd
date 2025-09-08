@@ -18,8 +18,7 @@ This is a spreadsheet to track all primary and secondary experiments.  Columns i
     - secondary research
     - A/B testing
     - feature verification
-    - many others
-    - 
+    - many others 
     
 - Urgent Unknown	
 - Link to Google doc	

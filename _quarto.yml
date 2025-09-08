@@ -10,7 +10,7 @@ book:
 
   page-footer:
     left: |
-      _Expeditionary Innovation_ was written by Nile Hatch.
+      _Expeditionary Innovation_ was written by Nile Hatch as part of a portfolio of content on using evidence to succeed in entrepreneurship.
     right: |
       This book was built with <a href="https://quarto.org/">Quarto</a>.
 
@@ -70,6 +70,7 @@ book:
         - toolkit/Experience_Map_Guide.qmd
         - toolkit/Abduction_Guide.qmd
         - toolkit/Prioritize_Pain_Guide.qmd
+        - toolkit/Test_Pain_Guide.qmd
 
         - toolkit/_solution_guides_separator.qmd
 
@@ -98,6 +99,10 @@ book:
         - demo/exp-08.a-experience-map-2025-03-14.qmd
         - demo/exp-08.b-experience-map-2025-03-14.qmd
         - demo/exp-09-hypothesize-pain-2025-03-16.qmd
+        - demo/exp-10.a-pain-test-summary-2025-03-20.qmd
+        - demo/exp-10.b-pain-validation-detail-2025-03-20.qmd
+        - demo/exp-10.c-ouch-factor-detail-2025-03-20.qmd
+        - demo/exp-10.d-wtp-detail-2025-03-20.qmd
 
         - demo/_diamond3-separator.qmd
 

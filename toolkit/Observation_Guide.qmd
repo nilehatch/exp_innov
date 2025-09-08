@@ -30,6 +30,6 @@ Raw notes aren’t enough. You need to translate observations into possible expl
 Observation is not passive. It is an experiment in context, shaped by where you look and what you choose to notice. The goal is not to be invisible, but to surface insights that guide the next round of exploration.  
 :::
 
----
+## See the Demo  
 
-*For a practical checklist to use in the field, see the “Observation Guide” in the Experimentation Toolkit.*
+In the Halo Alert demo, you'll see a summary of three observation outings:  once at a [subway stop at 8 am](../demo/exp-05.a-observation-2025-03-05.qmd), once at a [subway stop at 8 pm](../demo/exp-05.b-observation-2025-03-06.qmd), and once on a [Friday night at an urban university](../demo/exp-05.c-observation-2025-03-08.qmd).

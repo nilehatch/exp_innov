@@ -1,0 +1,222 @@
+# Pain Testing Guide {#sec-pain-test-guide .unnumbered} 
+
+#### Design quick, high-signal tests to confirm pains are real, frequent, and urgent {.subtitle}
+
+
+<!-- This guide should be used with the methods outlined in [Chapter @sec-test-pain-chapter].-->
+
+
+
+::: {.callout-note title = "How to Use This Guide"}
+This toolkit gives you *how-to* steps and question templates for three complementary tests:
+
+1. **Pain Validation**, 
+2. **Ouch Factor**, and 
+3. **Willingness to Pay for Relief (WTP)**.  
+
+Use at least **two** tests to triangulate. Pair with the [Chapter @sec-test-pain-chapter] and the [Halo Alert – Pain Test Demo](../demo/exp-10.a-pain-test-summary-2025-03-20.qmd).
+:::
+
+## Quick Start
+
+1. **Pick your audience segment** (one persona or subgroup at a time).  
+2. **Choose two tests** from the menu below (e.g., Validation + Ouch; Validation + WTP with substitutes).  
+3. **Draft your questions** using the templates.  
+4. **Run a small pilot** (n = 8–15) to de-risk wording, then scale.  
+5. **Log specifics**: *last time, frequency, effort/time/money spent, rank vs. alternatives*.  
+6. **Score with traffic lights** (see Interpretation) and decide what to keep, refine, or drop.
+
+
+## What to Capture (for every respondent)
+
+- **Who (segment/role):** _[Persona or segment name]_  
+- **Which pain (label):** _[Concise pain statement]_  
+- **Recency:** _Last occurred: [date]_  
+- **Frequency:** _[X] times in past 30 days_  
+- **Effort/Workarounds:** _[What they did in the moment]_  
+- **Cost/time:** _≈$[amount]/month; [hours]/week_  
+- **Ranking:** _#[rank] of [N] pains in the journey_  
+- **Ouch score:** _[1–10]_ (analyzed **within this segment only**)  
+- **WTP signals:** _[Current substitute spending and priorities]_
+
+
+::: {.callout-tip title="Minimum Evidence for a 'Passed' Pain Test"}
+- Respondent recalls a **specific, recent instance**  
+- Pain occurs with **some frequency** (not once-in-a-lifetime)  
+- Pain **ranks near the top** vs. adjacent pains  
+- There is **observable effort or spend** today (time, money, workaround)
+:::
+
+
+## Test 1 — Pain Validation
+
+**Purpose:** Confirm that your hypothesized pains are experienced in real life, not just plausible in theory.
+
+**Best when:** You have a short list of pains from clustering/personas/journey maps and need to prioritize which are *real and salient*.
+
+### How to Ask (core prompts)
+- **Recognition:**  
+  - “Do you personally deal with **[pain]**?” ☐ Yes ☐ No  
+  - “When was the **last time** this happened?”  
+  - “How **often** has it come up in the past 30 days?”
+- **Specifics:**  
+  - “Walk me through the **last instance**—what happened first?”  
+  - “What did you **do** in the moment?” (workarounds/contacts/tools)
+- **Relative Importance (ranking/forced choice):**  
+  - “From this list, which **one or two** are **most frustrating** right now?”  
+  - “Rank these from **most to least disruptive** to your week.”
+
+::: {.callout-important title="Design Notes"}
+- Always include **ranking or forced choice** to avoid polite agreement.  
+- Anchor recall with **recency + frequency**; avoid abstract “Do you ever…?”  
+- Use **journey step prompts** (“During pickup window… what breaks?”) to surface pains that are easy to overlook.
+:::
+
+### Evidence to Log
+- Yes/No recognition, **last time**, **frequency**, **top-3 rank**, short **incident narrative**, **workarounds** used.
+
+### Common Pitfalls
+- Overweighting a single vivid story → **require ranking + frequency**.  
+- Generic prompts → **tie questions to a concrete step** in the experience map.
+
+
+## Test 2 — Ouch Factor (Severity)
+
+**Purpose:** Rapidly sort pains by perceived severity **within a homogeneous group**.
+
+**Best when:** You need quick prioritization across multiple pains in the same context/persona.
+
+### How to Ask (paired with behavior)
+- **Severity scale (1–10):**  
+  - “On a scale of **1–10**, how severe is **[pain]** in your week?”  
+- **Behavioral anchor:**  
+  - “What do you **currently do** to manage it?”  
+  - “How much **time** did you spend on it last week?”  
+  - “What did it **cost** you last month (fees, tools, lost shifts)?”
+
+::: {.callout-warning title="Limits of Ouch Factor"}
+- Not comparable **across different groups** (a “7” isn’t universal).  
+- High severity ≠ high urgency if there’s **no action or spend**.  
+- Treat as **directional**, not proof.
+:::
+
+### Evidence to Log
+- **Ouch score** per pain, plus **time/money/workaround** specifics.
+
+### Common Pitfalls
+- Using scores alone → **require behavior context** (time/money).  
+- Mixed samples → **analyze per segment**; don’t average across groups.
+
+
+## Test 3 — Willingness to Pay for Relief (WTP)
+
+**Purpose:** Gauge economic salience. Early-stage focus on **behavioral substitutes**, not speculative dollar guesses.
+
+**Best when:** You suspect under-reporting in WTP for abstract relief; you want **current spend** and **relative** priorities.
+
+### How to Ask (behavior-first)
+- **Substitutes/Current Spend:**  
+  - “What do you **already spend** because of this pain?” (late fees, extra childcare hours, paid apps, parking, overtime)  
+  - “Any **unpaid costs** (lost time, stress, favors) you lean on?”
+- **Relative WTP (not absolute):**  
+  - “Which of these pains would you be most willing to **pay to remove**?” (rank)  
+- **Only when concrete:**  
+  - “Given **this specific solution concept** [1–2 sentence], what feels like a **fair monthly price**?” (Later stage only.)
+
+::: {.callout-tip title="Better Ways to Probe WTP"}
+- Log **actual substitutes** and **hidden costs** (fees, buffers, hacks).  
+- Use **relative** WTP questions (which pain first?) vs. raw amounts.  
+- Save **dollar WTP** for **concrete, credible** solution concepts.
+:::
+
+### Evidence to Log
+- **Substitute spend/time**, **relative WTP ranking**, any **price anchors** only if concept is concrete.
+
+### Common Pitfalls
+- Early “How much would you pay?” → **underestimates** value of relief.  
+- Ignoring hidden costs → **ask for late fees, buffers, churn, waste**.
+
+
+## Triangulation & Interpretation
+
+Use at least two tests. Look for **converging signals**:
+
+- **Green (Go):**  
+  - Recent, repeated instances **and** top rank;  
+  - Ouch high **with** time/money spent;  
+  - Clear substitute spend **or** strong relative WTP → **Advance to solution exploration**.
+- **Yellow (Refine):**  
+  - Mixed ranking or sporadic frequency;  
+  - Ouch high **without** behavior;  
+  - Substitutes unclear → **Tighten prompts, segment better, probe journey steps**.
+- **Red (Drop/Park):**  
+  - Rare/one-off; consistently low rank;  
+  - No workarounds, no substitute spend;  
+  - Weak relative WTP → **Archive for later**.
+
+::: {.callout-warning title="Avoid False Conclusions"}
+- **False positives:** Require **specific incident** + **ranking** + **behavior**.  
+- **False negatives:** Offer **lists with ‘Other’**, prompt by **journey step**, and allow **story-first recall** before scales.
+:::
+
+
+## Scripts & Templates
+
+### A. 10-Minute Intercept Script (in-person or phone)
+1. “We’re studying **[context]**. Do you ever run into **[Pain A], [Pain B], or [Pain C]**?”  
+2. “When was the **last time** [Pain X] happened? What did you do?”  
+3. “How often in the **past 30 days**?”  
+4. “Rank these **1–3** (most to least disruptive) for you: [A/B/C].”  
+5. “What did you **do** about it? Any **time or money** spent?”  
+6. “If you could fix **one** of these first, which would it be? Why?”
+
+### B. 5-Question Micro-Survey (one persona at a time)
+1. Select all that apply: In the past **30 days**, I experienced **[Pain A], [Pain B], [Pain C]**.  
+2. For your **selected top pain**: last occurrence date.  
+3. For your **selected top pain**: **frequency** in the past 30 days.  
+4. **Rank** your selected pains from most to least disruptive.  
+5. What did you **spend or do** last month because of your **#1 pain**? (fees, tools, extra time)
+
+### C. Logging Table (copy/paste to Sheets)
+
+| Respondent | [Segment] | [Pain] | [Last Time] | [Frequency (30d)] | [Ouch (1–10)] | [Time/wk] | [$ per month] | [Workarounds] | [Rank] |
+|---|---|---|---|---|---|---|---|---|---|
+
+
+## Sample Sizes & Segments (Pragmatic Guidance)
+
+- Pilot **n = 8–15** per segment to tune wording; then grow to **n = 25–50** for clearer prioritization.  
+- Analyze **within-segment**; avoid mixing groups when comparing ouch or WTP.  
+- If ranking is unstable, your pains may be **too broad**; make them **step-specific** (e.g., “late pick-up fees” vs. “childcare stress”).
+
+
+## Ethics & Good Practice
+
+- Obtain **consent** for recordings/notes.  
+- Avoid **leading questions**; keep wording neutral.  
+- Offer a small **thank-you** (non-coercive).  
+- If discussing sensitive contexts, prepare **opt-out** language and protect privacy.
+
+
+## Decision Checklist (End of Test Cycle)
+
+- [ ] We have **incident-level** evidence (last time + specifics)  
+- [ ] We have **frequency** and **rank vs. alternatives**  
+- [ ] We captured **time/money/workarounds** (behavior)  
+- [ ] Signals from **two tests** point to the same pains  
+- [ ] We’ve tagged **segments** and avoided cross-group averaging  
+- [ ] We’ve marked **Green/Yellow/Red** and chosen next steps
+
+::: callout-note
+**Next Step**  
+If one or two pains hit **Green**, you’re ready to enter **Diamond 3: Solution**. Bring your top pains—and their behavioral evidence—into concept sketches and early solution probes.
+:::
+
+::: callout-important
+**Reminder**  
+This guide uses **[square brackets]** as placeholders.  
+Replace them with your own segment names, pains, and details before running tests.  
+Example:  
+- `[Persona or segment name]` → “Evening subway commuters”  
+- `[Pain A]` → “Dark, unpredictable blocks on the walk home”  
+:::
