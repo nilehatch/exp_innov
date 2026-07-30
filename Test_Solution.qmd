@@ -22,6 +22,12 @@ In the innovation process, prototyping is often viewed as an end in itself, a st
 
 Innovation requires a variety of tests to converge towards a successful solution. Each test type targets different aspects of the product and its market fit. It's essential to select the right test based on the current stage of development and the specific unknowns you need to address.
 
+Two different distinctions are at work here, and it is worth separating them, because they are easy to confuse. The first is about *how you are reasoning*. An **exploratory** experiment generates possibilities when you do not yet know enough to state a hypothesis; a **confirmatory** experiment tests a hypothesis you already hold. You lived in the exploratory mode through the first half of the second diamond. By this point, almost everything you run is confirmatory — you formed your hypotheses about the people, the pain, and the solution in the diamonds behind you, and now you are putting them under pressure.
+
+The second distinction is about *what the test asks*. **Validation** asks whether you are solving the right problem for the right people. **Verification** asks whether the thing can be built and works as intended. Validation faces the customer; verification faces the workbench. One prototype often serves both — the same rough model can reveal whether a customer's face lights up and whether the mechanism jams.
+
+Keep them straight, because they fail differently. A solution can verify perfectly and never validate: it works exactly as designed and no one wants it. That failure is the one this book exists to prevent, and it is why validation comes first here.
+
 ### Validation Testing
 
 Validation testing, which we have previously seen in the context of customer pain, is essential to confirm that the solution effectively addresses the customer's needs. This form of testing delves into understanding and confirming aspects like customer identity, pain points, and the effectiveness of the proposed solution. Validation testing seeks to answer questions such as:
@@ -215,7 +221,7 @@ In conclusion, prototyping is a dynamic and essential component of the innovatio
 
 ## Conclusion
 
-In concluding this chapter on validating solutions with prototypes, it's crucial to reemphasize the iterative nature of this process. As highlighted by the double diamond design process, innovation is a journey of building, testing, and iterating. Each stage of prototyping and testing helps in progressively reducing uncertainty and crystallizing the solution.
+In concluding this chapter on validating solutions with prototypes, it's crucial to reemphasize the iterative nature of this process. As every diamond in this process has shown, innovation is a journey of building, testing, and iterating. Each stage of prototyping and testing helps in progressively reducing uncertainty and crystallizing the solution.
 
 ### Matching Tests with Prototypes
 

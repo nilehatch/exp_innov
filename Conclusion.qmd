@@ -18,9 +18,11 @@ Expeditionary innovation represents a paradigm shift in the approach to creating
 
 A common pitfall in innovation is the 'solution-first' approach, where innovators jump to create solutions before thoroughly understanding the problem. This intuition-driven method often leads to the creation of products or services that fail to address real customer needs, resulting in high failure rates. Expeditionary innovation, by contrast, emphasizes a problem-first approach, ensuring that innovations are grounded in genuine customer needs, thereby significantly reducing the risk of failure.
 
-## The Double Diamond Framework
+## The Triple Diamond Framework
 
-The double diamond experimentation structure serves as the structural backbone of Expeditionary innovation, guiding innovators through two critical phases: discovering and defining the customer problem, and developing and delivering the solution. This framework fosters both divergent and convergent thinking, ensuring a comprehensive exploration of possibilities before honing in on the most viable options.
+The triple diamond is the structural backbone of expeditionary innovation. It carries you through three phases, each ending in a decision you can defend: choosing the people you will serve, discovering and validating the pain they live with, and designing and validating a solution that relieves it. Every diamond has the same shape — diverge to explore widely, converge to make sense of what you gathered, then test the result before you move on — so the discipline you learn in the first diamond is the discipline you use in the third.
+
+The second and third diamonds cover ground that design practice already maps: define the problem, then develop the solution. The first diamond is the one most frameworks assume you have already settled.
 
 ## The Role of Exploratory Experiments
 
@@ -39,4 +41,4 @@ Expeditionary innovation transforms the journey of innovation from a gamble in t
 
 ## Final Thoughts
 
-Expeditionary innovation offers a robust, systematic approach to innovation. By steering clear of the solution-first trap and focusing on discovering and solving real customer problems, innovators can significantly enhance their chances of success. The Double Diamond framework, coupled with exploratory experiments, abduction, and confirmatory experiments, provides a comprehensive roadmap for navigating the complexities of innovation in uncertain environments. This process leads to solutions that not only solve real problems but also resonate deeply with customers, ensuring both satisfaction and market success.
+Expeditionary innovation offers a robust, systematic approach to innovation. By steering clear of the solution-first trap and focusing on discovering and solving real customer problems, innovators can significantly enhance their chances of success. The triple diamond, coupled with exploratory experiments, abduction, and confirmatory experiments, provides a comprehensive roadmap for navigating the complexities of innovation in uncertain environments. This process leads to solutions that not only solve real problems but also resonate deeply with customers, ensuring both satisfaction and market success.

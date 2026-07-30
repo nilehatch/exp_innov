@@ -115,9 +115,9 @@ The temptation will always be to round your idea back toward the middle. Resist 
 
 ## From Edge to Innovation: The Triple Diamond Framework {.unnumbered}
 
-The Expeditionary Innovation process is built around a **three-diamond innovation framework** — an extended version of the well-known “double diamond” model[^2] — that guides innovators from initial uncertainty to validated opportunity. Each diamond represents a distinct phase of structured work, alternating between **divergent exploration** and **convergent decision-making**.
+The Expeditionary Innovation process is built around the **triple diamond framework** — an extended version of the well-known “double diamond” model[^2] — that guides innovators from initial uncertainty to validated opportunity. Each diamond represents a distinct phase of structured work, alternating between **divergent exploration** and **convergent decision-making**.
 
-[^2]: The triple diamond extends the well-known double diamond model popularized by the UK Design Council, which organizes innovation into two cycles of divergence and convergence: defining the problem and developing the solution. Expeditionary innovation adds a first diamond—choosing the right people—because starting with the wrong group undermines the entire process.
+[^2]: The triple diamond extends the double diamond model popularized by the UK Design Council [@designcouncilDesignProcessWhat2015], which organizes innovation into two cycles of divergence and convergence: defining the problem and developing the solution. Expeditionary innovation adds a first diamond—choosing the right people—because starting with the wrong group undermines the entire process. The double diamond assumes you already know whom you are designing for; that assumption is the one this book refuses to make.
 
 ![The triple diamond framework for expeditionary innovation. Explore to gain insight, generate informed hypotheses, and test the hypotheses about your people, their needs, and your solution.](images/10_triple_diamond.svg){#fig-triple-diamond fig-align="center" fig-cap-location="margin"}
 
@@ -166,7 +166,10 @@ In Diamond 2, exploratory experiments help you systematically navigate ambiguity
 - **Converge**: Use thematic analysis, persona building, and journey mapping to make sense of what you’ve learned. 
 - **Test Early**: Form a *pain hypothesis* — a testable claim about an unmet need — and run a **pain validation test** to see if the problem is both real and significant.
 
-By the end of this diamond, you should have a **validated solution concept** and **prototype evidence** that customers will buy.
+<!-- Claude 2026-07-30: this read "a validated solution concept and prototype evidence that
+customers will buy" — Diamond 3's outcome pasted into Diamond 2. Diamond 2 ends at a
+validated pain; nothing has been designed yet. -->
+By the end of this diamond, you should have a **validated pain** — an unmet need you have confirmed is real, frequent, and urgent enough that your people are already spending time or money to relieve it.
 
 ![Discover an unknown, unmet need and validate that your people have the need](images/22_pain_diamond_test.svg){#fig-pain-diamond fig-align="center" style="max-height: 340px;" fig-cap-location="margin"}
 
