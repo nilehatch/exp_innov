@@ -1,0 +1,287 @@
+/* ===============================
+   Expeditionary Innovation — custom_EI.css
+   Brand layer only (base.css handles spacing/tables/footnotes/wrapfig)
+   =============================== */
+
+/* ---------- Brand Colors ---------- */
+:root {
+  --ei-primary: #3774B7;
+  --ei-primary-dark: #24548A;
+  --ei-primary-tint: #E8F0FA;
+
+  --ei-secondary: #007BA7;
+
+  --ei-accent: #E3A008;
+
+  --ei-text: #1F2937;
+  --ei-muted: #6B7280;
+
+  --ei-success: #16A34A;
+  --ei-warning: #EA580C;
+  --ei-danger:  #DC2626;
+}
+
+/* ---------- Base text tone (brand-neutral but consistent) ---------- */
+body { color: var(--ei-text); }
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--ei-text);
+  scroll-margin-top: 90px;
+}
+
+/* Paragraph rhythm */
+p + p { margin-top: 0.6em; }
+
+/* ---------- Links ---------- */
+a, .link-secondary {
+  color: var(--ei-primary);
+  text-decoration-thickness: 0.06em;
+}
+a:hover, a:focus {
+  color: var(--ei-primary-dark);
+  text-decoration-color: var(--ei-primary-dark);
+  text-decoration-thickness: 0.09em;
+}
+
+/* ---------- Chapter Title Banner (canonical) ---------- */
+.quarto-title-block {
+  background: linear-gradient(90deg, var(--ei-primary) 0%, var(--ei-secondary) 100%);
+  /* background: linear-gradient(90deg, var(--ei-primary) 0%, var(--ei-primary-dark) 70%); */
+  color: white;
+  padding: 1.2rem 1.2rem 1rem;
+  border-radius: 10px;
+  margin-bottom: 1.25rem;
+}
+
+.quarto-title-block h1.title,
+.quarto-title-block .subtitle {
+  color: white;
+  border-bottom: none !important;
+  margin: 0 !important;
+}
+
+/* Subtitle tuned for banner */
+.quarto-title-block .subtitle {
+  display: block;
+  font-size: 1.1rem;
+  font-weight: 400;
+  color: rgba(255,255,255,0.85);
+  border-bottom: none !important;
+  margin: 0 !important;
+  margin-top: -0.25em;
+  margin-bottom: 1em;
+  font-style: italic;
+}
+
+/* ---------- Breadcrumbs inside banner (single canonical block) ---------- */
+.quarto-title-block .quarto-title-breadcrumbs {
+  position: static;
+  margin-bottom: 0.35rem;
+  color: rgba(255,255,255,0.92);
+  font-size: 0.9rem;
+  text-shadow: 0 1px 1px rgba(0,0,0,0.20);
+}
+
+.quarto-title-block .quarto-title-breadcrumbs a {
+  color: rgba(255,255,255,0.92);
+  text-decoration: none;
+}
+
+.quarto-title-block .quarto-title-breadcrumbs a:hover,
+.quarto-title-block .quarto-title-breadcrumbs a:focus {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.quarto-title-block .quarto-title-breadcrumbs .breadcrumb-item + .breadcrumb-item::before {
+  color: rgba(255,255,255,0.65);
+  padding: 0 0.35rem;
+}
+
+/* Hide the last breadcrumb (the chapter title) */
+.quarto-title-block .quarto-title-breadcrumbs .breadcrumb-item:last-child {
+  display: none;
+}
+.quarto-title-block .quarto-title-breadcrumbs .breadcrumb-item:last-child::before {
+  content: none;
+}
+
+/* Subtle separator line below breadcrumbs (optional) */
+.quarto-title-block .quarto-title-breadcrumbs::after {
+  content: "";
+  display: block;
+  height: 1px;
+  margin-top: 0.35rem;
+  background: linear-gradient(to right, rgba(255,255,255,0.25), rgba(255,255,255,0));
+}
+
+/* ---------- Blockquotes ---------- */
+blockquote {
+  border-left: 4px solid var(--ei-primary);
+  padding-left: 1rem;
+  color: var(--ei-muted);
+  background: linear-gradient(to right, var(--ei-primary-tint), transparent);
+  margin: 1.5rem 0;
+  font-style: italic;
+}
+
+/* ---------- Code polish ---------- */
+pre, code, kbd, samp { font-variant-ligatures: none; }
+
+pre code {
+  background: #f8fafc;
+  border: 1px solid #eef2f7;
+  border-radius: 6px;
+  display: block;
+  padding: 0.75rem 1rem;
+}
+
+p code, li code, table code {
+  background: #f3f6fb;
+  border: 1px solid #e9eef7;
+  padding: 0.05rem 0.35rem;
+  border-radius: 4px;
+}
+
+/* ---------- Branded Callouts (canonical) ---------- */
+.callout {
+  border-left-width: 5px;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.callout-note      { border-left-color: var(--ei-primary);  background: var(--ei-primary-tint); }
+.callout-tip       { border-left-color: var(--ei-success);  background: #EAF7EF; }
+.callout-important { border-left-color: var(--ei-warning);  background: #FFF1E9; }
+.callout-caution   { border-left-color: var(--ei-danger);   background: #FDECEC; }
+.callout-warning   { border-left-color: #ED8936;            background: #FFF5F0; }
+
+.callout .callout-title-container {
+  font-weight: 600;
+  color: var(--ei-text);
+}
+
+/* Optional: “depth” callout variant (academic/technical aside) */
+.callout.callout-depth {
+  border-left-color: var(--ei-accent);
+  background: linear-gradient(to right, var(--ei-primary-tint), transparent);
+}
+
+/* ---------- Asterism divider ---------- */
+.asterism {
+  display: block;
+  height: 1px;
+  background: linear-gradient(to right, transparent, var(--ei-primary), transparent);
+  margin: 1.75rem 0;
+  border: 0;
+}
+
+/* ---------- Pull Quote (use sparingly) ---------- */
+.pull-quote {
+  margin: 1.25rem 0;
+  padding: 0.75rem 1rem;
+  border-left: 4px solid var(--ei-primary);
+  background: linear-gradient(to right, var(--ei-primary-tint), transparent 60%);
+  font-size: 1.05rem;
+  font-style: italic;
+  color: var(--ei-text);
+}
+
+/* ---------- Caption accent bar ---------- */
+.quarto-figure .caption,
+figure figcaption,
+.table .caption,
+caption {
+  position: relative;
+  padding-left: 0.75rem;
+}
+
+.quarto-figure .caption::before,
+figure figcaption::before,
+.table .caption::before,
+caption::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.35em;
+  width: 4px;
+  height: 0.9em;
+  background: var(--ei-primary);
+  border-radius: 2px;
+}
+
+/* ---------- Method boundary cues ---------- */
+hr.method-divider {
+  border: 0;
+  height: 6px;
+  margin: 2rem 0 1.25rem;
+  border-radius: 4px;
+  background: linear-gradient(90deg, var(--ei-primary), var(--ei-primary-dark));
+}
+
+@media (max-width: 640px), print {
+  hr.method-divider { height: 4px; }
+}
+
+/* Works for H2 or H3 with {.method-header} */
+h2.method-header, h3.method-header {
+  position: relative;
+  padding-left: 0.85rem;
+}
+
+h2.method-header::before, h3.method-header::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.3em;
+  width: 6px;
+  height: 1.2em;
+  background: var(--ei-primary);
+  border-radius: 3px;
+}
+
+@media (max-width: 640px), print {
+  h2.method-header::before, h3.method-header::before { width: 5px; }
+}
+
+/* ---------- Utility: soft highlight ---------- */
+.ei-highlight {
+  background: var(--ei-primary-tint);
+  padding: 0.15rem 0.35rem;
+  border-radius: 4px;
+}
+
+/* ---------- “Blank line” fields (worksheets) ---------- */
+.blank {
+  display: inline-block;
+  border-bottom: 1.5px solid #444;
+  min-width: 8ch;
+  line-height: 1.2;
+  padding-bottom: 0.15em;
+  background-color: transparent;
+  vertical-align: baseline;
+}
+
+.blank-short  { min-width: 6ch;  }
+.blank-medium { min-width: 12ch; }
+.blank-long   { min-width: 20ch; }
+
+.blank-fill   { background-color: #f5f5f5; }
+
+/* ---------- Print: keep it clean ---------- */
+@media print {
+  .callout { background: #fff !important; }
+  .pull-quote { background: #fff !important; }
+}
+
+
+/* ---- for manually defined subtitles ---- */
+
+.chapter-subtitle {
+  margin-top: -0.25rem;
+  margin-bottom: 1.0rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  color: var(--ei-muted);
+  font-style: italic;
+}

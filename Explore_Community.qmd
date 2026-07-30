@@ -1,18 +1,21 @@
-# Explore the Community {#sec-explore-community-chapter}
+---
+title: Explore the Community 
+subtitle: Ethnographic exploratory experiments to gain experience and insights into the lives of your people
+id: sec-explore-community-chapter
+---
 
-#### Ethnographic exploratory experiments to gain experience and insights into the lives of your people {.subtitle}
 
 ## Unearthing Unmet Needs
 
-![Divergent exploration of the community of people to gain insight for better hypotheses of customer pain.](images/221_pain_diverge.svg){.wrapfig_left_25}
+![Divergent exploration of the community of people to gain insight for better hypotheses of customer pain.](images/221_pain_diverge.svg){.print-w-25 .wrapfig_left_25}
 After choosing and confirming access to a community of people, the journey of entrepreneurial innovation continues with an in-depth exploration of their lives. This chapter focuses on *ethnographic exploratory experiments*—our deliberate move into divergent thinking—aimed at amassing a “mountain of data” about your chosen community. At this stage, the emphasis is on extensive evidence gathering through both *primary* and *secondary* research. You are not merely collecting anecdotes; you are running exploratory experiments—structured forays into lived experience—to surface pains that are real but often unarticulated.
 
 <!-- As you work, the goal is to collect enough raw evidence to ground abductive sense-making, theme finding, persona building, and experience mapping. -->
 Secondary research will help you triangulate what you learn in the field so you don’t waste time re-learning what is already known.
 
-```{=html}
-<div style="clear: both;"></div> 
-```
+This is the essence of ethnographic exploration. We may go in expecting one kind of problem, but if we stay curious and follow emotion, we uncover pains hidden in plain sight. The methods that follow—conversation as guided storytelling, observation and shadowing in context, role play as embodied empathy, and carefully targeted surveys—are the tools for creating these moments of discovery. Alongside them, secondary research broadens and triangulates what you learn in the field so you avoid spending time re-learning what is already known.  
+
+As you work, watch the “information entropy” of your findings. When new stories keep surprising you, keep exploring. When new data starts repeating what you already know, you’ve reached the edge of your current map. That’s the moment to shift from divergence into abductive synthesis and begin the converge work of themes, personas, and experience maps.
 
 <!-- **Find Opportunity in Frustration**:--> 
 ::: {.callout-note title="Find Opportunity in Frustration"}
@@ -22,10 +25,6 @@ Then they spent time inside a repair shop. While waiting in the office, a burst 
 
 In that moment, the team realized the real bottleneck wasn’t customers waiting for news—it was employees drowning in broken data flows. By listening for emotion and tracing frustration to its source, they uncovered a more valuable, systemic pain: the brittle exchange of information between insurers and shops.
 :::
-
-This is the essence of ethnographic exploration. We may go in expecting one kind of problem, but if we stay curious and follow emotion, we uncover pains hidden in plain sight. The methods that follow—conversation as guided storytelling, observation and shadowing in context, role play as embodied empathy, and carefully targeted surveys—are the tools for creating these moments of discovery. Alongside them, secondary research broadens and triangulates what you learn in the field so you avoid spending time re-learning what is already known.  
-
-As you work, watch the “information entropy” of your findings. When new stories keep surprising you, keep exploring. When new data starts repeating what you already know, you’ve reached the edge of your current map. That’s the moment to shift from divergence into abductive synthesis and begin the converge work of themes, personas, and experience maps.
 
 
 
@@ -287,6 +286,7 @@ Stopping does not mean you know everything. It means you have reached the point 
 
 ::: callout-note
 **Rule of thumb**  
+
 - If most new conversations yield no fresh themes, stop.  
 - If additional observations only confirm existing patterns, stop.  
 - If reports and databases repeat the same facts, stop.  

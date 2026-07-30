@@ -1,12 +1,14 @@
-# Cast a Wide Net {#sec-diverge-people-chapter}
-
-#### Diverge by exploring many possible communities before you choose your people {.subtitle}
+---
+title: "Cast a Wide Net" 
+subtitle: "Diverge by exploring many possible communities before you choose your people"
+id: sec-diverge-people-chapter
+---
 
 > “If you only fish where it’s easy to cast, you may miss the part of the lake teeming with fish.”
 
 ## Diverge Identifying Communities of People
 
-![The People Diamond begins with divergent exploration: opening wide before narrowing to one community.](images/211_people_diverge.svg){.wrapfig_left_25}
+![The People Diamond begins with divergent exploration: opening wide before narrowing to one community.](images/211_people_diverge.svg){.print-w-25 .wrapfig_left_25}
 Most entrepreneurs start with a hunch about *what* to build. Expeditionary innovation starts with *who*. The first diamond of the process begins not with a decision, but with divergence: a deliberate effort to explore widely before you commit.  
 
 Your goal here is not to choose the perfect group right away. It is to map the human landscape around a meaningful problem space. That means resisting the pull of convenience — the temptation to pick people who are familiar, nearby, or easy to reach. True discovery requires looking past the obvious.

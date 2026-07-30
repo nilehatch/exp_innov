@@ -4,7 +4,8 @@
 
 ## Validating Pain Hypotheses
 
-<img src="images/223_pain_test.svg" alt="Confirmatory testing to validate the [well-informed] hypothesis of customer pain." class="wrapfig_left_25"/> 
+<!-- <img src="images/223_pain_test.svg" alt="Confirmatory testing to validate the [well-informed] hypothesis of customer pain." class="wrapfig_left_25"/> -->
+![Confirmatory testing to validate the (well-informed) hypothesis of customer pain.](images/223_pain_test.svg){.print-w-25 .wrapfig_right_25}
 You’ve felt the spark of empathy. You’ve clustered stories, built personas, even mapped out experiences. At this point, it’s tempting to believe you already *know* the pain. You can picture Maya stuck in traffic, her kids waiting at daycare, the anxious clock-watching that defines her commute. It feels so real you might be ready to jump ahead to brainstorming solutions.  
 
 But here’s the catch: empathy and plausible reasoning aren’t enough. They give us insight, not evidence. As entrepreneurs, we’re not just storytellers — we’re investigators. We need to know whether the pains we’ve identified are truly **real, frequent, and urgent** in the lives of the people we hope to serve. Without that proof, we risk building around shadows — problems that people nod along to in conversation but don’t actually feel deeply enough to change their behavior.  

@@ -1,6 +1,6 @@
 # Expeditionary Innovation {#sec-expeditionary-innovation-chapter .unnumbered}
 
-#### A proven path to find, validate, and win with solutions only you can deliver {.subtitle}
+#### A proven path to find, validate, and win with solutions only you can deliver {.chapter-subtitle}
 
 ## Why So Many Good Ideas Still Fail {.unnumbered}
 
@@ -99,7 +99,7 @@ How do you spot these hidden opportunities? By paying attention to signals most 
 
 Look for people who don’t fit the mold.
 
--  cobbling together multiple products just to make things work,
+- cobbling together multiple products just to make things work,
 - inventing hacks or awkward routines to get by,
 - buying “close enough” but never “just right.”
 

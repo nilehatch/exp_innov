@@ -1,11 +1,14 @@
 ---
 title: "Test Solutions with Prototypes"
 subtitle: "Use confirmatory experiments to determine when the solution is aligned with customers and profitable to launch"
+id: sec-test-solution-chapter
 ---
 
 ## Testing Solutions
 
-<img src="images/233_solution_test.svg" alt="Confirmatory testing to validate the solution with the customer." class="wrapfig_left_25"/> Developing a solution is just one milestone in the innovation journey. The real challenge lies in validating this solution - a process that unfolds through a sequence of prototype testing. Unlike a one-off test, this entails a series of progressively complex and costly experiments. Each stage of this validation journey is designed to incrementally align your solution more closely with your customer's pain points and expectations.
+<!-- <img src="images/233_solution_test.svg" alt="Confirmatory testing to validate the solution with the customer." class="wrapfig_left_25"/> -->
+![Confirmatory testing to validate the solution with the customer.](images/233_solution_test.svg){.print-w-25 .wrapfig_right_25}
+Developing a solution is just one milestone in the innovation journey. The real challenge lies in validating this solution - a process that unfolds through a sequence of prototype testing. Unlike a one-off test, this entails a series of progressively complex and costly experiments. Each stage of this validation journey is designed to incrementally align your solution more closely with your customer's pain points and expectations.
 
 Validating a solution is a nuanced balancing act. It requires ensuring that your solution not only addresses the identified customer pains but is also technically feasible and economically viable. Each prototype test acts as a pivotal moment, providing crucial feedback and insights. This feedback is instrumental in making necessary adjustments and enhancements to your solution.
 

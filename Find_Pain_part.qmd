@@ -1,6 +1,10 @@
-# Find and Validate Customer Pain {#part-find-pain}
+---
+title: Find and Validate Customer Pain 
+subtitle: From lived experience to clear, testable statements of unmet need
+id: part-find-pain
+---
 
-#### From lived experience → to clear, testable statements of unmet need {.subtitle}
+
 
 ## Why Pain Comes Second {.unnumbered}
 

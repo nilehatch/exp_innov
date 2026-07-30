@@ -2,17 +2,6 @@
 
 #### Private ordering for effective innovation in (interdisciplinary) teams {.subtitle}
 
-
-```{=html}
-<style>
-.wrapfig {
-    float: right; 
-    margin: 0 20px 10px 0; /* adjust space around the image */
-    width: 45%; /* adjust image width */
-}
-</style>
-```
-
 ## Team Governance for Innovation Success
 
 Interdisciplinary teams often play a crucial role in entrepreneurial innovation, especially when tackling complex problems that require a diverse set of skills. These teams can be powerhouses of creativity and productivity, but their diversity can also lead to challenges. Misunderstandings and mistrust among team members with different backgrounds and skill sets can hinder progress and even lead to the failure of the innovation process.

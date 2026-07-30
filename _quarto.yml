@@ -27,13 +27,13 @@ book:
     - Expeditionary_Innovation.qmd
     - Organize_Team.qmd
 
-    - part: Choose_People_part.qmd #"Choose People"
+    - part: Choose_People_part.qmd  # "Choose People"
       chapters:
         - Cast_Wide_Net.qmd
         - Choose_People.qmd
         - Test_Access.qmd
 
-    - part: Find_Pain_part.qmd #"Find and Validate Pains"
+    - part: Find_Pain_part.qmd  # "Find and Validate Pains"
       chapters:
         - Explore_Community.qmd
         - Hypothesize_Pain.qmd
@@ -47,18 +47,16 @@ book:
 
     - Conclusion.qmd
 
-    - part: toolkit/Experimentation_Toolkit.qmd #"Experimentation Toolkit"
+    - part: toolkit/Experimentation_Toolkit.qmd  # "Experimentation Toolkit"
       chapters:
         - toolkit/_experiment_templates_separator.qmd
         - toolkit/Primary_Experiment_Template.qmd
         - toolkit/Supporting_Experiment_Template.qmd
         - toolkit/Experiment_Log_Tracker.qmd
-
         - toolkit/_people_guides_separator.qmd
         - toolkit/People_Diverge_Guide.qmd
         - toolkit/People_Converge_Guide.qmd
         - toolkit/People_Test_Guide.qmd
-
         - toolkit/_pain_guides_separator.qmd
         - toolkit/Conversation_Guide.qmd
         - toolkit/Observation_Guide.qmd
@@ -71,10 +69,9 @@ book:
         - toolkit/Abduction_Guide.qmd
         - toolkit/Prioritize_Pain_Guide.qmd
         - toolkit/Test_Pain_Guide.qmd
-
         - toolkit/_solution_guides_separator.qmd
 
-    - part: demo/demo-halo-alert.qmd # "Demonstration: Halo Alert"
+    - part: demo/demo-halo-alert.qmd  # "Demonstration: Halo Alert"
       chapters:
         - demo/_diamond1-separator.qmd
         - demo/exp-01-diverge-people-2025-02-19.qmd
@@ -82,7 +79,6 @@ book:
         - demo/exp-01.c-draft-access-notes.qmd
         - demo/exp-02-converge-worksheet.qmd
         - demo/exp-03-access-test.qmd
-
         - demo/_diamond2-separator.qmd
         - demo/Conversation_Guide_ha.qmd
         - demo/exp-04.a-conversation-sarah-thompson-2025-02-24.qmd
@@ -103,7 +99,6 @@ book:
         - demo/exp-10.b-pain-validation-detail-2025-03-20.qmd
         - demo/exp-10.c-ouch-factor-detail-2025-03-20.qmd
         - demo/exp-10.d-wtp-detail-2025-03-20.qmd
-
         - demo/_diamond3-separator.qmd
 
     - references.qmd
@@ -116,7 +111,7 @@ format:
 #    include-after-body: collapse-parts.html
     css:
       - base.css
-      - custom.css
+      - custom_ei.css
     number-sections: true
     number-depth: 1
     fig-cap-location: margin
