@@ -13,3 +13,7 @@
 
 # macOS
 .DS_Store
+
+# Python bytecode (scripts/sync-refs.py)
+__pycache__/
+*.pyc

@@ -16,7 +16,7 @@ Solution ideation is deliberately generative, leveraging imagination and creativ
 
 > If you want to have good ideas, you must have many ideas. Most of them will be wrong, and what you have to learn is which of them to throw away. [— Linus Pauling]{style="float: right;"}[^1]
 
-[^1]: Linus Pauling won two Nobel prizes, one in chemistry (1954) for his work on the nature of the chemical bond and a second one in peace (1962) for his efforts to raise awareness about the dangers of nuclear weapons and his advocacy for nuclear disarmament. In this case we leverage his advice on how to get good ideas [@pauling79].
+[^1]: Linus Pauling won two Nobel prizes, one in chemistry (1954) for his work on the nature of the chemical bond and a second one in peace (1962) for his efforts to raise awareness about the dangers of nuclear weapons and his advocacy for nuclear disarmament. In this case we leverage his advice on how to get good ideas [@paulingImpactLinusPauling1995].
 
 The first step in this process is to get many ideas; in the following chapter we will focus on evaluating them to know which ones to throw away.
 
@@ -34,13 +34,15 @@ These principles echo principles of psychological safety in teams. By adhering t
 
 This notion of creativity as recombination suggests that every new experience, every piece of knowledge acquired, becomes a potential building block for future creative ideas. It's the sum of these percepts that delineate the boundaries of one's 'adjacent possible,'[^2]. The adjacent possible represents an ever-expanding frontier of creative possibilities, limited only by the scope of one's experiences and knowledge. As society collectively expands its card catalog of percepts, the societal adjacent possible grows even more rapidly, suggesting an accelerating pace of discovery and innovation. This principle implies that the frontier of what can be discovered and created is not static but continually advancing, pushed forward by the recombination of our expanding collective knowledge.
 
-[^2]: The adjacent possible comes from the pioneering work of Stuart @kauffman1995home which was extended to the logic of creativity and ideation by Steven @johnson10
+[^2]: The adjacent possible comes from the pioneering work of Stuart @kauffmanHomeUniverseSearch1995 which was extended to the logic of creativity and ideation by Steven @johnsonWhereGoodIdeas2010
 
 These principles of creativity as the recombination of existing ideas suggest two methods to foster creativity: add more cards to your catalog and actively recombine them.
 
 ### Fill Your Card Catalog  {.unnumbered}
 
-Fostering creativity begins with enriching your mental card catalog. Imagine your mind as a vast library, storing experiences, observations, and ideas like cards in a catalog. The more diverse and numerous these 'cards' are, the greater your potential for creative thought. Engaging in new experiences, traveling, and embracing different cultures can significantly boost your creative abilities. Research underscores the benefits of multicultural experiences in enhancing creativity, with even greater gains for those who immerse themselves deeply in other cultures.
+Fostering creativity begins with enriching your mental card catalog. Imagine your mind as a vast library, storing experiences, observations, and ideas like cards in a catalog. The more diverse and numerous these 'cards' are, the greater your potential for creative thought. Engaging in new experiences, traveling, and embracing different cultures can significantly boost your creative abilities. Research underscores the benefits of multicultural experiences in enhancing creativity, with even greater gains for those who immerse themselves deeply in other cultures.[^mc]
+
+[^mc]: Multicultural experience predicts creativity across several measures [@leungMulticulturalExperienceEnhances2008], and the effect tracks time spent *living* abroad rather than merely travelling there [@madduxCulturalBordersMental2009]. Depth is what matters: the gains come through adapting to a second culture, not through exposure alone [@tadmorGettingMostOut2012].
 
 Observation is a crucial skill in expanding your card catalog. Adopt the mindset of a traveler, even in familiar surroundings, to notice overlooked details and gain new perspectives. This constant state of awareness helps accumulate a wealth of experiences, ready for creative recombination.
 
@@ -52,11 +54,15 @@ Remember, most of us can't retain every detail of our experiences. To compensate
 
 Creative insights often emerge from associative thinking - making connections between seemingly unrelated concepts. This process involves deliberately combining different 'cards' from your mental catalog to generate new ideas.
 
-One approach is to select two random objects or concepts and explore potential connections. This method can lead to innovative solutions, as demonstrated by the development of Apple's iPod wheel controller, inspired by the combination of a padlock's wheel and a digital music player.
+<!-- Claude 2026-07-30: the previous sentence claimed the iPod click wheel WAS developed by
+combining a padlock dial with a music player. That origin story is widely repeated but I
+could not source it, so the causal claim is removed and the pairing is now offered as an
+illustration rather than a history. Restore the original if you have a source you trust. -->
+One approach is to select two random objects or concepts and explore potential connections. Pair a padlock's dial with a digital music player and you are not far from Apple's iPod click wheel. Forced pairings work because they push you out of the categories you already think in.
 
 However, many creative breakthroughs arise from serendipity - accidental discoveries made while seeking something else.[^3] Serendipitous creativity happens when a well-stocked mental catalog meets an inquisitive mind pondering a problem. In such moments, chance encounters with new ideas can spark creative solutions. The key to harnessing serendipity is a prepared mind, ready to connect disparate concepts in novel ways.
 
-[^3]: The concept originates from tales of the princes of Serendip, who frequently made unexpected discoveries.
+[^3]: Horace Walpole coined *serendipity* in a letter of 1754, taking it from a Persian tale whose three princes of Serendip kept finding things they were not looking for [@silverPrehistorySerendipityBacon2015].
 
 ### Measuring Creativity  {.unnumbered}
 
@@ -102,7 +108,7 @@ By adhering to these principles, brainstorming can be a powerful tool in the cre
 
 6-3-5 Brainwriting is an effective method for evolving and expanding upon ideas generated through brainstorming or other means.[^4] It leverages the collective creativity of a team by structuring the process of idea recombination. The method's name reflects its format: 6 participants, each generating 3 new ideas based on prompts from others, within 5 minutes per round.
 
-[^4]: Brainwriting was pioneered by Bernd @rohrbach1969creative for marketing settings. It excels in all creative settings.
+[^4]: Brainwriting was pioneered by Bernd @rohrbachCreativeRulesMethod1969 for marketing settings. It excels in all creative settings.
 
 ### Conducting a 6-3-5 Brainwriting Session {.unnumbered}
 
@@ -182,7 +188,7 @@ SCAMPER encourages a structured yet flexible approach to creative exploration, m
 
 ## Conclusion
 
-In the journey of innovation, the adage that "the best way to have a good idea is to have many ideas" rings particularly true. This mirrors the earlier stage of accumulating a mountain of data to discover a viable pain hypothesis. Similarly, creating a mountain of solution ideas enhances the probability of uncovering a truly effective solution.
+In the journey of innovation, Pauling's rule — that good ideas come from having many of them — rings particularly true. This mirrors the earlier stage of accumulating a mountain of data to discover a viable pain hypothesis. Similarly, creating a mountain of solution ideas enhances the probability of uncovering a truly effective solution.
 
 ### Embracing Quantity, Variety, and Novelty {.unnumbered}
 

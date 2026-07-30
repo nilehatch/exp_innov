@@ -86,7 +86,7 @@ Markets naturally push companies toward the center. Over time, competitors conve
 
 These edge customers suffer under what we call the *tyranny of the market*: they’re visible enough to buy, but not valuable enough for incumbents to design for. Their needs remain invisible in analyst reports, investor decks, and strategy slides. And yet, those unmet needs are where new opportunities live.[^1] 
 
-[^1]: With expeditionary innovation, your solutions naturally fit the pattern of *disruptive innovation* as defined and popularized by Clayton Christensen and Michael Raynor, with you starting in a niche that incumbents dismiss, then growing into something that reshapes the market.You can read more about these influential concepts in *The Innovator's Dilemma* [@christensen1997innovator] and *The Innovator's Solution* [@christensen2003innovator].
+[^1]: With expeditionary innovation, your solutions naturally fit the pattern of *disruptive innovation* as defined and popularized by Clayton Christensen and Michael Raynor, with you starting in a niche that incumbents dismiss, then growing into something that reshapes the market.You can read more about these influential concepts in *The Innovator's Dilemma* [@christensenInnovatorsDilemmaWhen1997] and *The Innovator's Solution* [@christensenInnovatorsSolutionCreating2003].
 
 
 When you learn to see and serve these overlooked edges, you often enter a space with no direct competition. Because your solution fits “exactly right,” the people you help become your most loyal advocates from the start.
@@ -149,7 +149,14 @@ They are designed to:
 - Identify patterns and anomalies in customer behavior or context. 
 - Generate new questions and possibilities, rather than simply confirming assumptions.
 
-[^3]: The philosopher of science Ian Hacking [-@hacking2006emergence] calls this mode of inquiry “adventure” — experiments that precede theory, inviting a guess at what might happen before seeing what will happen. While most experiments in science have historically been confirmatory, exploratory experiments are now recognized as a distinct and essential category [@steinle1997entering; @steinle2002experiments; @burian2007microrna].
+<!-- Claude 2026-07-30: this footnote cited Hacking's *The Emergence of Probability* (2006),
+which is a history of the probability concept and says nothing about experimentation. The
+claim being made — experiment running ahead of theory — is *Representing and Intervening*
+(1983), which is also what Steinle and Burian cite. Repointed. I could NOT verify the
+quoted word "adventure" in either book, so I've paraphrased rather than quote something
+unverified; restore the quotation if you can source it. NB: the same "experiment-as-
+adventure" phrasing appears in Make the Call — worth checking there too. -->
+[^3]: The philosopher of science Ian Hacking [-@hackingRepresentingInterveningIntroductory1983] argued that experimentation has a life of its own: observation and intervention often run ahead of theory rather than following from it, inviting a guess at what might happen before seeing what will happen. While most experiments in science have historically been confirmatory, exploratory experiments are now recognized as a distinct and essential category [@steinleEnteringNewFields1997; @steinleExperimentsHistoryPhilosophy2002; @burianMicroRNANeedExploratory2007].
 
 #### How They Fit the Process
 

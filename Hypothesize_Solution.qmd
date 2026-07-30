@@ -51,7 +51,7 @@ The tools outlined here are designed to help you move from a broad array of poss
 
 A screening matrix is a form of *controlled convergence* to evaluate and separate good ideas from better ideas.[^1] The first step is to construct a decision matrix to rank the solution concepts. The decision matrix comprises market requirements, a reference solution, and the list of remaining solutions.
 
-[^1]: Controlled convergence is a two-stage method to evaluate and separate ideas. The first stage is concept screening and the second stage is concept scoring. In both cases, you will construct a decision matrix to rate and rank your remaining concepts (solution ideas). In this chapter, we will only consider concept screening because, in entrepreneurship, we almost never have enough information about customers and their requirements to determine the weights for scoring. To see concept scoring in detail, see @pugh1991total, @ulrich-eppinger95, and @mattson-sorensen18.
+[^1]: Controlled convergence is a two-stage method to evaluate and separate ideas. The first stage is concept screening and the second stage is concept scoring. In both cases, you will construct a decision matrix to rate and rank your remaining concepts (solution ideas). In this chapter, we will only consider concept screening because, in entrepreneurship, we almost never have enough information about customers and their requirements to determine the weights for scoring. To see concept scoring in detail, see @pughTotalDesignIntegrated1991, @ulrichProductDesignDevelopment1995, and @mattsonFundamentalsProductDevelopment2018.
 
 ### Construct he Screening Matrix
 
@@ -127,7 +127,7 @@ The decision for low-scoring solutions is "combine" while the decision for high-
 
 You could return to 6-3-5 brainwriting to recombine high-performing features to ideate new ideas. Systematic Inventive Thinking (SIT) is a formal creative problem-solving process that emphasizes recombining features to create better innovations.[^2] In the context of refining high-scoring solution ideas from the screening matrix, SIT can be a powerful tool. It encourages looking at these ideas from fresh perspectives and discovering new ways to enhance their value.
 
-[^2]: For more detailed information and instructions on SIT, see @goldenberg2003finding and @boyd2013inside.
+[^2]: For more detailed information and instructions on SIT, see @goldenbergFindingYourInnovation2003 and @boydBox2013.
 
 #### Applying SIT to High-Scoring Market Requirements {.unnumbered}
 
@@ -164,4 +164,4 @@ The process of evaluating ideas is not just about elimination; it's a journey to
 
 As you proceed with the few chosen ideas, remember that this is not the end of the creative process. The solutions you have now are ripe for further development, testing, and iteration. The journey of transforming a great idea into a remarkable solution continues, and the steps outlined in this chapter have set a strong foundation for success.
 
-In the world of entrepreneurship and innovation, being armed with a few well-evaluated ideas is far more powerful than juggling numerous unfiltered thoughts. As Linus Pauling famously said, "The best way to have a good idea is to have a lot of ideas." But equally important is knowing which of those ideas to pursue.
+In the world of entrepreneurship and innovation, being armed with a few well-evaluated ideas is far more powerful than juggling numerous unfiltered thoughts. Pauling's rule was that you must have many ideas to have good ones — but he finished the thought by saying that what you have to learn is which of them to throw away [@paulingImpactLinusPauling1995]. That second half is this chapter's work.

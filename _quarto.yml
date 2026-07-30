@@ -1,6 +1,10 @@
 project:
   type: book
   output-dir: _book
+  # Mirrors cited entries from the Zotero Better BibTeX export into references.bib.
+  # See scripts/sync-refs.py and the Quarto publishing playbook.
+  pre-render:
+    - scripts/sync-refs.py
 
 book:
   title: "Expeditionary Innovation"

@@ -181,7 +181,7 @@ Use role playing to reveal what people cannot easily articulate. It often expose
 *Success measure*: When role play reveals responses, workarounds, or tensions that people themselves did not realize they carried, the experiment has done its job.  
 
 ### Worked Example
-Designer Patty Moore once simulated aging by wearing a body brace, earplugs, blurred glasses, and a wig over months of immersion. She discovered not only the physical challenges of opening pill bottles and climbing buses but also the social reality of how others treated her differently.^[Patnaik [-@patnaik09] tells this story in *Wired to Care* to illustrate how designers can create deep empathy through embodied simulation.]  
+Designer Patty Moore once simulated aging by wearing a body brace, earplugs, blurred glasses, and a wig over months of immersion. She discovered not only the physical challenges of opening pill bottles and climbing buses but also the social reality of how others treated her differently.^[Patnaik [-@patnaikWiredCareHow2009] tells this story in *Wired to Care* to illustrate how designers can create deep empathy through embodied simulation.]  
 
 **Toolkit Resource**  
 See the [Role Play Guide](toolkit/Role_Play_Guide.qmd#sec-role-play-guide) for a ready-to-use guide on how to setup, run, and interpret a role playing experiment.
@@ -238,7 +238,7 @@ The key principle: **if it is already known, don’t rediscover it through inter
 - **Competitor analysis**: who else is addressing your space, and how.  
 - **Industry trends**: technological shifts, regulatory moves, cultural currents.  
 
-Secondary research rarely reveals unmet needs directly. But combined with ethnographic exploration, it frames the opportunity landscape and sharpens your hypotheses.^[Ethington (2018) notes that while no single source can answer the entrepreneur’s core questions, triangulating across multiple studies helps reveal where unmet needs are most likely to emerge.]
+Secondary research rarely reveals unmet needs directly. But combined with ethnographic exploration, it frames the opportunity landscape and sharpens your hypotheses.^[@ethingtonPrimaryVsSecondary2018 notes that while no single source can answer the entrepreneur’s core questions, triangulating across multiple studies helps reveal where unmet needs are most likely to emerge.]
 
 ### Open and Free Sources
 
@@ -278,7 +278,7 @@ At some point, though, both fieldwork and desk research begin to repeat themselv
 
 ## When Enough Is Enough
 
-Exploration can feel endless. There is always another person you could interview, another setting to observe, or another report to read. But at some point, the return on effort drops. The signal to stop is not exhaustion or impatience.  It is the decline of **information entropy**  — the rate of newness in what you learn — that is your signal to stop gathering and move into abductive hypothesizing (sense-making).^[The concept of information entropy comes from Claude Shannon’s work in communication theory (1948). In this context, it refers to how much “surprise” each new piece of data brings.].  
+Exploration can feel endless. There is always another person you could interview, another setting to observe, or another report to read. But at some point, the return on effort drops. The signal to stop is not exhaustion or impatience.  It is the decline of **information entropy**  — the rate of newness in what you learn — that is your signal to stop gathering and move into abductive hypothesizing (sense-making).^[The concept of information entropy comes from Claude Shannon’s work in communication theory [@shannonMathematicalTheoryCommunication1948]. In this context, it refers to how much “surprise” each new piece of data brings.]  
 
 At the beginning, every conversation, observation, or article adds something novel. Over time, surprises become rarer, and new inputs mostly echo what you have already heard or read. This flattening of novelty is your cue: the mountain of data is high enough. You are no longer climbing higher, just circling the same slope.  
 

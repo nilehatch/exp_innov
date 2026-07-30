@@ -14,13 +14,13 @@ This chapter is designed to guide both interdisciplinary teams and more homogeno
 
 Just like individuals, teams evolve through distinct stages, progressing from formation to high performance.[^1] Understanding these stages is crucial for steering your team toward success. Let's explore these stages and how they can inform your approach to team management.
 
-[^1]: For more detail on the stages of team development, see the work of Bruce @tuckman1965developmental.
+[^1]: For more detail on the stages of team development, see the work of Bruce @tuckmanDevelopmentalSequenceSmall1965.
 
 ### Forming
 
 The journey begins with the forming stage. It's a time of high hopes and some self-doubt. Team members are generally enthusiastic but may also question their fit within the group. It's crucial to encourage open communication, assess each other's skills, and clarify the team's goals and individual roles. Remember, even the most qualified members might battle the imposter syndrome, so fostering a supportive environment is key.[^2]
 
-[^2]: Even qualified team members can sometimes suffer from the imposter syndrome that can make them cautious about sharing their skills and insights for fear of being exposed as a fraud. (@gardner2019must).
+[^2]: Even qualified team members can sometimes suffer from the imposter syndrome that can make them cautious about sharing their skills and insights for fear of being exposed as a fraud. (@gardnerMustHaveSlipped2019).
 
 ### Storming
 
@@ -42,7 +42,7 @@ The path to this performing stage goes through storming and some teams get stuck
 
 The key to continued progress is to engage in *inquiry* rather than *advocacy.*[^3] Consider the distinctions between these two approaches for a variety of team activities.
 
-[^3]: For more detail on making decisions with inquiry rather than advocacy, see @garvin-roberto01.
+[^3]: For more detail on making decisions with inquiry rather than advocacy, see @garvinWhatYouDont2001.
 
 
 <style>
@@ -176,15 +176,20 @@ The tendency towards advocacy can be a major pitfall for teams, leading to subop
 
 While interdisciplinary teams have the potential to harness diverse skills for innovative solutions, this diversity can also be a source of conflict if not managed correctly. One of the most critical aspects of managing this diversity effectively is by ensuring psychological safety within the team.[^4]
 
-[^4]: There is a stream of research on psychological safety that began with the pioneering work of Amy @edmondson99.
+[^4]: There is a stream of research on psychological safety that began with the pioneering work of Amy @edmondsonPsychologicalSafetyLearning1999.
 
 Protecting the psychological safety of team members is not just about ensuring comfort; it's about creating an environment where every member can contribute their best ideas without fear. This section delves into the practices and measures that can build and maintain psychological safety within a team.
 
 ### The Concept of Psychological Safety
 
-Google studied the keys to success in over 200 teams and published the startling result that the key to effective teams lies not in the individual capabilities of team members but in how they interact, structure their work, and view their contributions.[^5] Central to this is the concept of *psychological safety*, defined as a shared belief among team members that the team is safe for interpersonal risk-taking. This environment allows team members to present ideas and questions without fear of negative consequences, fostering a culture of open collaboration and collective problem-solving.
+Google studied the keys to success in 180 teams and published the startling result that the key to effective teams lies not in the individual capabilities of team members but in how they interact, structure their work, and view their contributions.[^5] Central to this is the concept of *psychological safety*, defined as a shared belief among team members that the team is safe for interpersonal risk-taking. This environment allows team members to present ideas and questions without fear of negative consequences, fostering a culture of open collaboration and collective problem-solving.
 
-[^5]: For more detail on this insightful study by Julia Rozovsky, see the articles by Charles @duhigg15 and Natasha @tamiru23.
+<!-- Claude 2026-07-30: was "over 200 teams", sourced only to two press pieces. Google's
+Project Aristotle studied 180 teams (115 engineering, 65 sales) across 250 attributes;
+corrected and repointed to Rozovsky's own re:Work write-up as the primary account.
+Caution: Google retired re:Work and that URL now 404s — the entry needs an archived
+link, or drop to Duhigg as the citable source of record. -->
+[^5]: Julia Rozovsky, who led the study, reported the findings in Google's own write-up [-@rozovskyFiveKeysSuccessful2015]; for popular accounts see @duhiggWhatGoogleLearned2016 and @tamiruTeamDynamicsFive2023.
 
 ### Building Psychological Safety: Practical Steps
 
@@ -250,7 +255,7 @@ A clear and concise statement of the team's project and goals, providing directi
 
 Here is an example of a project objective statement for a project developing a human-powered drill for digging water wells:[^6]
 
-[^6]: This example is drawn from @mattson-sorensen18.
+[^6]: This example is drawn from @mattsonFundamentalsProductDevelopment2018.
 
 > Design, build, and test a human-powered drill that reaches underground potable water at depths of 250 ft in all soil types by March 25, 2011 with a prototyping budget of \$2,800 USD for less than 1,700 hours of development.
 
