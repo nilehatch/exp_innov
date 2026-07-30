@@ -1,1 +1,15 @@
+# Quarto build output and local cache — regenerated on every render.
+# NOTE: when CI is stood up, the render freeze must be COMMITTED (see the
+# publishing playbook's freeze-commit gotcha). Freeze lives in /_freeze/, which
+# is deliberately NOT ignored here; /.quarto/ below is only the local cache.
+/_book/
 /.quarto/
+
+# R and RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# macOS
+.DS_Store
