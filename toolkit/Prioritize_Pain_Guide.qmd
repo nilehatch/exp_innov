@@ -1,7 +1,7 @@
 # Prioritization and Refrigeration Guide {#sec-priortize-guide .unnumbered} 
 
 <!-- 
-This guide should be used with the methods outlined in the @sec-pain-hypothesis-section section of [Chapter @sec-hypothesize-pain-chapter].
+This guide should be used with the methods outlined in the [What Makes a Good Pain Hypothesis](../Hypothesize_Pain.qmd#sec-hypothesize-pain-section) section of *Hypothesize Customer Pain*.
 -->
 
 

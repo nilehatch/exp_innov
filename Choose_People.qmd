@@ -33,7 +33,7 @@ Ask yourself: which groups show clearer signs of struggling? Which ones seem to 
 
 This isn’t about choosing favorites. It’s about identifying where the signals are strongest. Innovation follows patterns — and the strongest patterns often hide in plain sight.
 
-*For an example of how this looks in practice, see @sec-ha-people-converge-compare (the “Compare” section) of the [Halo Alert demo](demo/exp-02-converge-worksheet.qmd).*
+*For an example of how this looks in practice, see the [Compare section](demo/exp-02-converge-worksheet.qmd#sec-ha-people-converge-compare) of the Halo Alert demo.*
 
 ## 2. Empathize: Follow the Emotional Pull
 
@@ -47,7 +47,7 @@ This is empathy, not sentimentality. It’s a felt response to pain that matters
 
 Take note. Innovation grounded in empathy is more likely to endure.
 
-*For an example of how this looks in practice, see @sec-ha-people-converge-empathize (the “Empathize” section) of the [Halo Alert demo](demo/exp-02-converge-worksheet.qmd).*
+*For an example of how this looks in practice, see the [Empathize section](demo/exp-02-converge-worksheet.qmd#sec-ha-people-converge-empathize) of the Halo Alert demo.*
 
 ## 3. Assess Access: Can You Actually Reach Them?
 
@@ -65,7 +65,7 @@ Ask three simple questions:
 
 If the answer is no to any of these, consider revisiting your shortlist. Sometimes a great opportunity becomes feasible only after slight redefinition. Precision matters, but pragmatism keeps you moving.
 
-*For an example of how this looks in practice, see @sec-ha-people-converge-access (the “Assess Access” section) of the [Halo Alert demo](demo/exp-02-converge-worksheet.qmd).*
+*For an example of how this looks in practice, see the [Assess Access section](demo/exp-02-converge-worksheet.qmd#sec-ha-people-converge-access) of the Halo Alert demo.*
 
 
 ## 4. Select Your People

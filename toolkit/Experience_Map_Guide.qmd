@@ -1,6 +1,6 @@
 # Experience Map Guide {#sec-experience-map-guide .unnumbered} 
 
-This guide should be used with the methods outlined in the @sec-experience-map-section section of [Chapter @sec-hypothesize-pain-chapter].
+This guide should be used with the methods outlined in the [Experience Mapping](../Hypothesize_Pain.qmd#sec-experience-map-section) section of *Hypothesize Customer Pain*.
 
 ---
 

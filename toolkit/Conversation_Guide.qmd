@@ -1,6 +1,6 @@
 # Conversation Guide {#sec-conversation-guide .unnumbered} 
 
-This guide should be used with the methods outlined in the @sec-conversation-section section of [Chapter @sec-explore-community-chapter].
+This guide should be used with the methods outlined in the [Conversation](../Explore_Community.qmd#sec-conversation-section) section of *Explore the Community*.
 
 ---
 

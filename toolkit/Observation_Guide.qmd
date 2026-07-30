@@ -1,6 +1,6 @@
 # Observation Guide {#sec-observation-guide .unnumbered} 
 
-This guide should be used with the methods outlined in the @sec-observation-section section of [Chapter @sec-explore-community-chapter].
+This guide should be used with the methods outlined in the [Observation](../Explore_Community.qmd#sec-observation-section) section of *Explore the Community*.
 
 ---
 

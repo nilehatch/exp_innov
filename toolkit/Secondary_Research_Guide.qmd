@@ -1,6 +1,6 @@
 # Secondary Research Guide {#sec-secondary-research-guide .unnumbered} 
 
-This guide should be used with the methods outlined in the @sec-secondary-research-section section of [Chapter @sec-explore-community-chapter].
+This guide should be used with the methods outlined in the [Archival and Secondary Research Experiments](../Explore_Community.qmd#sec-secondary-research-section) section of *Explore the Community*.
 
 ---
 

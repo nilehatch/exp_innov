@@ -1,6 +1,6 @@
 # People Convergence Guide {#sec-people-converge-guide .unnumbered} 
 
-This guide should be used with the methods outlined in [Chapter @sec-converge-people-chapter].
+This guide should be used with the methods outlined in [Commit to a Community](../Choose_People.qmd).
 
 ---
 

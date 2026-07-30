@@ -1,6 +1,6 @@
 # Survey Guide {#sec-survey-guide .unnumbered} 
 
-This guide should be used with the methods outlined in the @sec-surveys-section section of [Chapter @sec-explore-community-chapter].
+This guide should be used with the methods outlined in the [Surveys](../Explore_Community.qmd#sec-surveys-section) section of *Explore the Community*.
 
 ---
 

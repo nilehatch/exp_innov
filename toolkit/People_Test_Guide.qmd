@@ -2,7 +2,7 @@
 
 #### Confirming whether your chosen people are observable, reachable, and willing to engage {.subtitle}
 
-This guide should be used with the methods outlined in [Chapter @sec-test-people-chapter].
+This guide should be used with the methods outlined in [Test Your Access](../Test_Access.qmd).
 
 ---
 

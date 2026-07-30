@@ -110,8 +110,7 @@ There’s no fixed number. Early on, every conversation reveals new stories (hig
 
 
 **Toolkit Resource**  
-See the [Conversation Guide](toolkit/Conversation_Guide.qmd#sec-conversation-guide)  for a ready-to-use protocol, sample prompts, and a notes template.  
-<!-- @sec-conversation-guide -->
+See the [Conversation Guide](toolkit/Conversation_Guide.qmd) for a ready-to-use protocol, sample prompts, and a notes template.
 
 ---
 
@@ -150,7 +149,7 @@ Enter through a **natural artifact or activity**. For example, a Shakespeare rea
 :::
 
 **Toolkit Resource**  
-See the [Observation Guide](toolkit/Observation_Guide.qmd#sec-observation-guide) for a ready-to-use guide on how to observe and how to record your observations.
+See the [Observation Guide](toolkit/Observation_Guide.qmd) for a ready-to-use guide on how to observe and how to record your observations.
 
 <!-- <hr class="method-divider"> -->
 
@@ -184,7 +183,7 @@ Use role playing to reveal what people cannot easily articulate. It often expose
 Designer Patty Moore once simulated aging by wearing a body brace, earplugs, blurred glasses, and a wig over months of immersion. She discovered not only the physical challenges of opening pill bottles and climbing buses but also the social reality of how others treated her differently.^[Patnaik [-@patnaikWiredCareHow2009] tells this story in *Wired to Care* to illustrate how designers can create deep empathy through embodied simulation.]  
 
 **Toolkit Resource**  
-See the [Role Play Guide](toolkit/Role_Play_Guide.qmd#sec-role-play-guide) for a ready-to-use guide on how to setup, run, and interpret a role playing experiment.
+See the [Role Play Guide](toolkit/Role_Play_Guide.qmd) for a ready-to-use guide on how to setup, run, and interpret a role playing experiment.
 
 ---
 
@@ -214,7 +213,7 @@ Use surveys to validate, not to explore. They are powerful once hypotheses exist
 *Success measure*: When your survey sharpens which pains matter most and how widespread they are, the experiment has done its job.  
 
 **Toolkit Resource**  
-See the [Survey Guide](toolkit/Survey_Guide.qmd#sec-survey-guide) for a ready-to-use guide on survey design principles and traps to avoid.
+See the [Survey Guide](toolkit/Survey_Guide.qmd) for a ready-to-use guide on survey design principles and traps to avoid.
 
 ---
 
@@ -265,7 +264,7 @@ For a more comprehensive collection of open and free sources of secondary data, 
 
 
 **Toolkit Resource**  
-See the [Secondary Research Guide](toolkit/Secondary_Research_Guide.qmd#sec-secondary-research-guide) for a ready-to-use guide on what information to seek and where to look.
+See the [Secondary Research Guide](toolkit/Secondary_Research_Guide.qmd) for a ready-to-use guide on what information to seek and where to look.
 
 
 ---

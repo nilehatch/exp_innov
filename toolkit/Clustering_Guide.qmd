@@ -1,6 +1,6 @@
 # Clustering → Themes Guide {#sec-observation-guide .unnumbered} 
 
-This guide should be used with the methods outlined in the @sec-cluster-themes-section section of [Chapter @sec-hypothesize-pain-chapter].
+This guide should be used with the methods outlined in the [Clustering into Themes](../Hypothesize_Pain.qmd#sec-cluster-themes-section) section of *Hypothesize Customer Pain*.
 
 ---
 

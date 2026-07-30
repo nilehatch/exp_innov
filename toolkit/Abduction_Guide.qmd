@@ -1,6 +1,6 @@
 # Abduction Guide {#sec-abduction-guide .unnumbered} 
 
-This guide should be used with the methods outlined in the @sec-abduction-section section of [Chapter @sec-hypothesize-pain-chapter].
+This guide should be used with the methods outlined in the [Abduction](../Hypothesize_Pain.qmd#sec-abduction-section) section of *Hypothesize Customer Pain*.
 
 ---
 

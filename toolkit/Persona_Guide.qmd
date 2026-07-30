@@ -1,6 +1,6 @@
 # Persona Guide {#sec-persona-guide .unnumbered} 
 
-This guide should be used with the methods outlined in the @sec-persona-section section of [Chapter @sec-hypothesize-pain-chapter].
+This guide should be used with the methods outlined in the [Developing Personas](../Hypothesize_Pain.qmd#sec-persona-section) section of *Hypothesize Customer Pain*.
 
 ---
 

@@ -1,6 +1,6 @@
 # Role Play Guide {#sec-role-play-guide .unnumbered} 
 
-This guide should be used with the methods outlined in the @sec-role-play-section section of [Chapter @sec-explore-community-chapter].
+This guide should be used with the methods outlined in the [Role Playing](../Explore_Community.qmd#sec-role-play-section) section of *Explore the Community*.
 
 ---
 

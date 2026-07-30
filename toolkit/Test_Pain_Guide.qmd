@@ -3,7 +3,6 @@
 #### Design quick, high-signal tests to confirm pains are real, frequent, and urgent {.subtitle}
 
 
-<!-- This guide should be used with the methods outlined in [Chapter @sec-test-pain-chapter].-->
 
 
 
@@ -14,7 +13,7 @@ This toolkit gives you *how-to* steps and question templates for three complemen
 2. **Ouch Factor**, and 
 3. **Willingness to Pay for Relief (WTP)**.  
 
-Use at least **two** tests to triangulate. Pair with the [Chapter @sec-test-pain-chapter] and the [Halo Alert – Pain Test Demo](../demo/exp-10.a-pain-test-summary-2025-03-20.qmd).
+Use at least **two** tests to triangulate. Pair with [Validate Customer Pain](../Validate_Pain.qmd) and the [Halo Alert – Pain Test Demo](../demo/exp-10.a-pain-test-summary-2025-03-20.qmd).
 :::
 
 ## Quick Start
