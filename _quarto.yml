@@ -121,8 +121,22 @@ format:
     fig-cap-location: margin
     tbl-cap-location: margin
 #    embed-resources: true
+    # Cloudflare Web Analytics — ONE beacon for the whole family (nilehatch.com
+    # plus every book subdomain); Cloudflare breaks the data out per hostname.
+    # The token is a public pageview beacon, safe in a public repo. Do not mint
+    # a separate code per book: the unified dashboard is what shows cross-site
+    # flow between the books.
+    include-in-header:
+      - text: |
+          <!-- Cloudflare Web Analytics -->
+          <script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "8ed41b52f5d44b378f0a7cfa59f8224d"}'></script>
+          <!-- End Cloudflare Web Analytics -->
 
 editor: source
 
 execute:
   echo: false
+  # Freeze R chunk results so CI never needs R installed. To refresh a figure,
+  # render that single .qmd locally (a single-file render always executes),
+  # then commit the updated _freeze/.
+  freeze: true

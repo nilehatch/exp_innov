@@ -1,8 +1,0 @@
-[build]
-  publish = "_book"
-  command = """
-    wget -qO- https://github.com/quarto-dev/quarto-cli/releases/download/v1.4.549/quarto-1.4.549-linux-amd64.tar.gz | tar xz && \
-    ls -la quarto-1.4.549 && \  # List contents of the quarto-1.4.549 directory
-    ./quarto-1.4.549/bin/quarto render .
-  """
-

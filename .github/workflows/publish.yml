@@ -1,0 +1,54 @@
+name: Publish to Netlify
+
+# Deploy the book to Netlify on every push to main.
+#
+# The book contains R figure chunks (the tyranny-of-the-market chart in
+# Choose_People_part.qmd and two Halo Alert demo figures), but this workflow
+# never installs R: execute.freeze is `true` in _quarto.yml, so `quarto render`
+# uses the committed _freeze/ results instead of re-executing. To refresh a
+# figure, render that single .qmd locally (a single-file render always
+# executes), then commit the updated _freeze/.
+#
+# scripts/sync-refs.py runs as a pre-render hook. The Zotero master export does
+# not exist on the runner; the script detects that, prints a notice, and exits 0
+# so the build proceeds on the committed references.bib.
+#
+# We render, then deploy _book/ with Netlify's own CLI rather than
+# quarto-actions/publish. That composite action silently dropped
+# NETLIFY_AUTH_TOKEN inside its internal step (it resolved empty there and the
+# deploy was skipped while the job still passed). Setting the token on our own
+# run step below is deterministic.
+#
+# Requires repo secret: NETLIFY_AUTH_TOKEN. Site id is public (also in
+# _publish.yml), so it is inlined below.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Render book
+        run: quarto render
+
+      - name: Deploy _book to Netlify
+        run: |
+          npm install --no-save netlify-cli
+          npx netlify deploy --prod --dir=_book --site="$NETLIFY_SITE_ID" --message "CI: ${GITHUB_SHA::7}"
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: 096b301f-b209-4e18-9862-1c6b653bcbfe

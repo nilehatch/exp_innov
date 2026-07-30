@@ -1,174 +1,149 @@
 #!/usr/bin/env python3
-"""Sync references.bib from the Zotero master export (MIRROR mode).
+"""Mirror references.bib to the master Zotero export for every cited key.
 
-Pipeline (see ~/notes/10-Books/quarto-book-publishing-playbook.md):
+Scans the project's .qmd files for citation keys and makes references.bib
+match the master Better BibTeX export for each one: appends cited entries
+that are missing, and refreshes cited entries whose master version has
+changed (e.g. after a metadata cleanup in Zotero). Keeps the book's
+bibliography self-contained and always current without a manual step.
 
-    Zotero + Better BibTeX auto-export
-      -> ~/Documents/bibs/zotero.bib          (master, 'home of record')
-      -> this script, run as a Quarto pre-render hook
-      -> references.bib                       (only what this book cites)
+Runs as a Quarto pre-render hook. Design choices:
+  - Mirror, not append-only: a cited entry edited in Zotero (cleaned Extra
+    field, fixed metadata) propagates on the next render.
+  - Minimal diff: only changed/added entry blocks are rewritten; everything
+    else in references.bib is left byte-for-byte, including uncited entries
+    and cited entries that exist only locally (not in the master).
+  - Graceful: if the master export is absent (a fresh clone, CI), it prints
+    a notice and exits 0 so the build proceeds on the committed bib.
+  - Never fails the build: unresolved keys are warned about, not fatal.
 
-MIRROR mode: every key cited in the manuscript is refreshed from the master.
-Keys that are cited but absent from the master are *preserved* from the existing
-references.bib rather than dropped, so hand-made entries survive a sync. Entries
-no longer cited anywhere are removed. Output is sorted by key so diffs stay small.
-
-Cite keys are Better BibTeX keys. Copy them from Zotero (right-click -> Copy
-Citation Key); do not invent them.
-
-Usage:
-    python3 scripts/sync-refs.py                 # sync, report, exit 0
-    python3 scripts/sync-refs.py --check         # report only, write nothing
-    python3 scripts/sync-refs.py --strict        # exit 1 if any key is unresolved
-    python3 scripts/sync-refs.py --master PATH   # override the master bib
+Override paths with env vars MASTER_BIB and REFERENCES_BIB if needed.
 """
-
-from __future__ import annotations
-
-import argparse
 import os
 import re
 import sys
-from pathlib import Path
+import glob
 
-DEFAULT_MASTER = Path.home() / "Documents" / "bibs" / "zotero.bib"
-PROJECT = Path(__file__).resolve().parent.parent
-OUTPUT = PROJECT / "references.bib"
-
-# Directories that never contain manuscript source.
-SKIP_DIRS = {"_book", ".quarto", ".git", "_freeze", "scripts", "node_modules"}
-
-# Quarto cross-reference prefixes. `@fig-triple-diamond` is a cross-ref, not a
-# citation, and must never be looked up in the bibliography.
-XREF_PREFIXES = (
-    "fig", "tbl", "eq", "sec", "lst", "thm", "lem", "cor", "prp", "cnj",
-    "def", "exm", "exr", "sol", "rem", "nte", "tip", "wrn", "imp", "cau",
+ROOT = os.environ.get("QUARTO_PROJECT_DIR") or os.path.dirname(
+    os.path.dirname(os.path.abspath(__file__))
 )
+MASTER = os.environ.get(
+    "MASTER_BIB", os.path.expanduser("~/Documents/bibs/zotero.bib")
+)
+REFS = os.environ.get("REFERENCES_BIB", os.path.join(ROOT, "references.bib"))
 
-# Pandoc citation key: starts with a letter/digit/underscore, may contain
-# internal punctuation. Deliberately conservative.
-CITE_RE = re.compile(r"@([A-Za-z0-9_][A-Za-z0-9_:.#$%&+?<>~/-]*[A-Za-z0-9_])")
-
-FENCED_RE = re.compile(r"^```.*?^```", re.M | re.S)
-INLINE_CODE_RE = re.compile(r"`[^`\n]*`")
-HTML_COMMENT_RE = re.compile(r"<!--.*?-->", re.S)
-# Real addresses only. A bare `[-@key]` (suppress-author citation) must NOT look
-# like an email, so require a dotted TLD.
-EMAIL_RE = re.compile(r"\b[A-Za-z0-9._%+]+@[A-Za-z0-9-]+(?:\.[A-Za-z0-9-]+)*\.[A-Za-z]{2,}\b")
-
-
-def is_xref(key: str) -> bool:
-    return any(key.startswith(p + "-") for p in XREF_PREFIXES)
+# Quarto crossref prefixes — these @refs are not citations.
+CROSSREF = re.compile(
+    r"^(fig|tbl|sec|eq|lst|thm|lem|cor|prp|cnj|def|exm|exr|sol|rem|fnref)-"
+)
+CITE = re.compile(r"@([A-Za-z][A-Za-z0-9_-]*)")
 
 
-def parse_bib(path: Path) -> dict[str, str]:
-    """Return {key: raw entry text}, preserving the master's own formatting."""
-    if not path.exists():
-        return {}
-    text = path.read_text(encoding="utf-8", errors="replace")
-    entries: dict[str, str] = {}
-    starts = [(m.start(), m.group(1)) for m in
-              re.finditer(r"^@\w+\s*\{\s*([^,\s]+)\s*,", text, re.M)]
-    for i, (pos, key) in enumerate(starts):
-        end = starts[i + 1][0] if i + 1 < len(starts) else len(text)
-        entries[key] = text[pos:end].rstrip() + "\n"
+def cited_keys():
+    keys = set()
+    for path in glob.glob(os.path.join(ROOT, "**", "*.qmd"), recursive=True):
+        with open(path, encoding="utf-8") as fh:
+            for m in CITE.finditer(fh.read()):
+                k = m.group(1)
+                if not CROSSREF.match(k):
+                    keys.add(k)
+    return keys
+
+
+def parse_entries(text):
+    """Return {key: raw entry text}, brace-balanced."""
+    entries, i, n = {}, 0, len(text)
+    while i < n:
+        if text[i] == "@":
+            brace = text.find("{", i)
+            if brace == -1:
+                break
+            key = text[brace + 1:text.find(",", brace)].strip()
+            depth, j = 0, brace
+            while j < n:
+                if text[j] == "{":
+                    depth += 1
+                elif text[j] == "}":
+                    depth -= 1
+                    if depth == 0:
+                        break
+                j += 1
+            entries[key] = text[i:j + 1]
+            i = j + 1
+        else:
+            i += 1
     return entries
 
 
-def source_files() -> list[Path]:
-    files = []
-    for root, dirs, names in os.walk(PROJECT):
-        dirs[:] = [d for d in dirs if d not in SKIP_DIRS and not d.startswith(".")]
-        for n in names:
-            if n.endswith((".qmd", ".md")) and not n.startswith("."):
-                files.append(Path(root) / n)
-    return sorted(files)
+def normws(s):
+    return " ".join(s.split())
 
 
-def cited_keys() -> dict[str, set[Path]]:
-    """Map each cited key to the set of files citing it."""
-    found: dict[str, set[Path]] = {}
-    for f in source_files():
-        text = f.read_text(encoding="utf-8", errors="replace")
-        text = FENCED_RE.sub("", text)
-        text = HTML_COMMENT_RE.sub("", text)
-        text = INLINE_CODE_RE.sub("", text)
-        text = EMAIL_RE.sub("", text)
-        for m in CITE_RE.finditer(text):
-            key = m.group(1)
-            if is_xref(key):
-                continue
-            found.setdefault(key, set()).add(f.relative_to(PROJECT))
-    return found
+def main():
+    ref_text = open(REFS, encoding="utf-8").read() if os.path.exists(REFS) else ""
+    local = parse_entries(ref_text)
+    cited = cited_keys()
+    missing = sorted(cited - set(local))
 
-
-def main() -> int:
-    ap = argparse.ArgumentParser(description=__doc__,
-                                 formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("--master", type=Path, default=DEFAULT_MASTER)
-    ap.add_argument("--check", action="store_true", help="report only; write nothing")
-    ap.add_argument("--strict", action="store_true", help="exit 1 on unresolved keys")
-    args = ap.parse_args()
-
-    if not args.master.exists():
-        print(f"sync-refs: master bib not found: {args.master}", file=sys.stderr)
-        print("sync-refs: check the Better BibTeX auto-export target in Zotero.",
-              file=sys.stderr)
-        return 1
-
-    master = parse_bib(args.master)
-    existing = parse_bib(OUTPUT)
-    cites = cited_keys()
-
-    resolved, preserved, missing = {}, {}, {}
-    for key in sorted(cites):
-        if key in master:
-            resolved[key] = master[key]
-        elif key in existing:
-            preserved[key] = existing[key]
+    if not os.path.exists(MASTER):
+        if missing:
+            print(
+                f"[sync-refs] NOTE: master bib not found at {MASTER}; "
+                f"building on the committed references.bib.\n"
+                f"           Not in bib: {', '.join(missing)}"
+            )
         else:
-            missing[key] = cites[key]
+            print("[sync-refs] references.bib is up to date (master not present).")
+        return 0
 
-    dropped = sorted(set(existing) - set(cites))
+    master = parse_entries(open(MASTER, encoding="utf-8").read())
+    new_text = ref_text
+    refreshed, added, local_only, unresolved = [], [], [], []
 
-    out = {**resolved, **preserved}
-    header = (
-        "% references.bib -- GENERATED by scripts/sync-refs.py. Do not edit by hand.\n"
-        "% Cited keys are mirrored from the Zotero Better BibTeX export:\n"
-        f"%   {args.master}\n"
-        "% Add or correct a source in Zotero, then re-render (or run the script).\n"
-        "% Entries cited here but absent from the master are preserved verbatim.\n\n"
-    )
-    body = "\n".join(out[k] for k in sorted(out, key=str.lower))
+    # Refresh cited entries already present whose master version differs.
+    for k in sorted(cited):
+        if k in local:
+            if k in master:
+                if normws(local[k]) != normws(master[k]):
+                    new_text = new_text.replace(local[k], master[k], 1)
+                    refreshed.append(k)
+            else:
+                local_only.append(k)
 
-    print(f"sync-refs: {len(cites)} keys cited across {len(source_files())} source files")
-    print(f"sync-refs: {len(resolved)} refreshed from master, "
-          f"{len(preserved)} preserved locally, {len(missing)} unresolved")
-    if preserved:
-        print("sync-refs: preserved (not in Zotero -- add them there when convenient):")
-        for k in sorted(preserved):
-            print(f"    {k}")
-    if missing:
-        print("sync-refs: UNRESOLVED -- no entry in master or references.bib:")
-        for k in sorted(missing):
-            where = ", ".join(sorted(str(p) for p in missing[k]))
-            print(f"    {k}  (cited in {where})")
-    if dropped:
-        print(f"sync-refs: {len(dropped)} entry/entries no longer cited, removed:")
-        for k in dropped:
-            print(f"    {k}")
+    # Append cited entries missing from references.bib.
+    to_append = []
+    for k in missing:
+        if k in master:
+            to_append.append(master[k])
+            added.append(k)
+        else:
+            unresolved.append(k)
+    if to_append:
+        new_text = new_text.rstrip() + "\n\n" + "\n\n".join(to_append) + "\n"
 
-    if args.check:
-        print("sync-refs: --check, no file written")
+    if new_text != ref_text:
+        with open(REFS, "w", encoding="utf-8") as fh:
+            fh.write(new_text)
+
+    if not refreshed and not added:
+        print("[sync-refs] references.bib is up to date.")
     else:
-        new = header + body
-        if OUTPUT.exists() and OUTPUT.read_text(encoding="utf-8") == new:
-            print("sync-refs: references.bib already current")
-        else:
-            OUTPUT.write_text(new, encoding="utf-8")
-            print(f"sync-refs: wrote {OUTPUT.relative_to(PROJECT)} ({len(out)} entries)")
+        if added:
+            print(f"[sync-refs] added {len(added)}: {', '.join(added)}")
+        if refreshed:
+            print(f"[sync-refs] refreshed {len(refreshed)}: {', '.join(refreshed)}")
 
-    return 1 if (missing and args.strict) else 0
+    if local_only:
+        print(
+            "[sync-refs] NOTE: cited entries kept as-is (in references.bib but "
+            f"not in the master): {', '.join(local_only)}"
+        )
+    if unresolved:
+        print(
+            "[sync-refs] WARNING: cited but not in master export "
+            f"(check for typos or add to Zotero): {', '.join(unresolved)}"
+        )
+    return 0
 
 
 if __name__ == "__main__":

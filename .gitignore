@@ -17,3 +17,5 @@
 # Python bytecode (scripts/sync-refs.py)
 __pycache__/
 *.pyc
+
+**/*.quarto_ipynb
