@@ -27,6 +27,37 @@ They work best after you’ve uncovered pains through conversations and observat
 
 ---
 
+## The Targeted Poll — Narrowing Inside a Known Domain
+
+A short poll dropped into a community where your people already gather — a
+Facebook group, a subreddit, a professional forum — is the one survey format
+that earns its place early. Not to discover a need, but to find the **sharpest**
+one inside a domain you have already entered.
+
+> *What is the worst part of managing the chemicals in your hot tub?*
+
+Give four or five concrete options and put **"other"** at the bottom with a
+text box. Most respondents will rank what you listed. The chatty, generous few
+will type something you did not list, and that is where the value hides.
+
+**Use it to:**
+
+- rank tasks or frictions inside a domain you have already been in the field on;
+- find the deepest of the pains people can already name;
+- feed an [experience map](../Hypothesize_Pain.qmd#sec-experience-map-section)
+  when you cannot observe enough journeys first-hand.
+
+::: callout-warning
+**Know what this biases toward.** A poll surfaces the *well-known* pains and
+ranks them. That is useful, and it is not what this book is finally after — an
+unknown unmet need will almost never appear in a list you wrote. Treat a poll as
+a way to sharpen and prioritise, never as a substitute for time in the field.
+The "other" box is the only part that can surprise you, so always include it and
+always read it first.
+:::
+
+---
+
 ## Common Mistakes
 
 - Too long (fatigue → bad data).  
