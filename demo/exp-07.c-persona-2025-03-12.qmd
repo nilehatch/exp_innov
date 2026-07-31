@@ -22,7 +22,7 @@
 Anika is in her late 20s, early in her legal career, and fiercely committed to punctuality and professionalism. Her commute is tightly integrated into her daily rhythm — the train she catches, the block she walks, even the coffee vendor she greets. When that rhythm breaks, stress spikes. A missed train, a detour down an unfamiliar street, or a rescheduled evening meeting creates not just inconvenience but anxiety about being late, looking unprepared, or losing control of her day.
 
 
-![Persona image - Elena Rodriguez](../images/Anika_Shah.png)  
+![Persona image - Anika Shah](../images/Anika_Shah.jpg)  
 
 ## Themes & Routines
 - **Timing matters:** Leaves home at 7:45 AM sharp to catch the same train car; later trains feel riskier and less reliable.  

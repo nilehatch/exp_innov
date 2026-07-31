@@ -23,7 +23,7 @@ The purpose of this persona is to **anchor empathy**: it’s easier to reason ab
 
 
 ## Snapshot
-![Persona image - Maya Patel](../images/Maya_Patel.png)  
+![Persona image - Maya Patel](../images/Maya_Patel.jpg)  
 
 **At a glance:**  
 Maya is an ambitious young professional who values efficiency and independence, but commuting forces her into daily trade-offs. Her pains come not from one dramatic event, but from constant low-grade stressors: detours that wreck predictability, vigilance in crowded trains, and the subtle anxiety of poorly lit streets at night. To manage this, she leans on routines like timed texts to her roommate.  
