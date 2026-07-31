@@ -1,6 +1,8 @@
-# Organize for Innovation {#sec-organize-chapter .unnumbered}
+---
+subtitle: "Private ordering for effective innovation in (interdisciplinary) teams"
+---
 
-#### Private ordering for effective innovation in (interdisciplinary) teams {.subtitle}
+# Organize for Innovation {#sec-organize-chapter .unnumbered}
 
 ## Team Governance for Innovation Success
 

@@ -1,6 +1,8 @@
-# Expeditionary Innovation {#sec-expeditionary-innovation-chapter .unnumbered}
+---
+subtitle: "A proven path to find, validate, and win with solutions only you can deliver"
+---
 
-#### A proven path to find, validate, and win with solutions only you can deliver {.subtitle}
+# Expeditionary Innovation {#sec-expeditionary-innovation-chapter .unnumbered}
 
 ## Why So Many Good Ideas Still Fail {.unnumbered}
 

@@ -1,13 +1,9 @@
-<!-- ---
-title: Succeed with Expeditionary Innovation 
-subtitle: Maximize the probability of a successful innovation through iterative use of exploratory experiments, hypothesizing, and confirmatory test
-id: sec-conclusion-chapter 
-#numbered: false
---- -->
+---
+subtitle: "Maximize the probability of a successful innovation through iterative use of exploratory experiments, hypothesizing, and confirmatory test"
+---
 
 # Succeed with Expeditionary Innovation {.unnumbered #sec-conclusion-chapter}
 
-#### Maximize the probability of a successful innovation through iterative use of exploratory experiments, hypothesizing, and confirmatory test {.subtitle}
 
 
 ## Embracing Expeditionary Innovation

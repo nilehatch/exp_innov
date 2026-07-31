@@ -1,6 +1,8 @@
-# Preface {.unnumbered}
+---
+subtitle: "An invitation to entrepreneurs and innovators to stop guessing, stop failing, and confidently, reliably succeed through innovation"
+---
 
-#### An invitation to entrepreneurs and innovators to stop guessing, stop failing, and confidently, reliably succeed through innovation
+# Preface {.unnumbered}
 
 ---
 

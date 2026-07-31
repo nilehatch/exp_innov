@@ -1,6 +1,7 @@
-# Validate Customer Pain {#sec-test-pain-chapter}
-
-#### Use confirmatory testing to determine whether the pain hypothesis is supported {.subtitle}
+---
+title: "Validate Customer Pain"
+subtitle: "Use confirmatory testing to determine whether the pain hypothesis is supported"
+---
 
 ## Validating Pain Hypotheses
 

@@ -1,6 +1,7 @@
-# Hypothesize Customer Pain {#sec-hypothesize-pain-chapter}
-
-#### Convergence through empathy tools to hypothesize an unknown, unmet need (pain) in the lives of your people {.subtitle}
+---
+title: "Hypothesize Customer Pain"
+subtitle: "Convergence through empathy tools to hypothesize an unknown, unmet need (pain) in the lives of your people"
+---
 
 ## Converging from Exploration to Unmet Needs
 <!-- ## Integrating Empathy and Abduction to Define Unmet Needs -->
