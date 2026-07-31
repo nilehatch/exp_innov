@@ -25,7 +25,8 @@ Your job is to listen deeply, not to persuade.
 - Ask permission to record if relevant.  
 
 ## Story-First Questions
-Anchor the conversation in **specific past experiences**, not hypotheticals.  
+Anchor the conversation in **specific past experiences**, not hypotheticals.
+
 - “Tell me about the last time you ____.”  
 - “What was hardest about that experience?”  
 - “Why was it hard?”  

@@ -18,7 +18,8 @@ But here’s the good news: **you cannot choose “wrong.”**
 
 Markets are not fair. They reward the mainstream and neglect the edges. Over time, incumbents cluster around the average customer, optimizing for the largest segment. That leaves others — smaller, harder to reach, or less visible — perpetually underserved.  
 
-These people live under the *tyranny of the market*:  
+These people live under the *tyranny of the market*:
+
 - Their options are abundant but never quite right.  
 - They adapt with workarounds, hacks, and compromises.  
 - They quietly accept friction, delays, and risks as “normal life.”  

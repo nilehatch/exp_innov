@@ -456,8 +456,9 @@ th { background-color: #f8f8f8; text-align: left; }
 }
 
 /* ====== Utilities: print widths ====== */
-/* Used by EI's figure syntax, e.g. ![](x.svg){.print-w-25 .wrapfig_right_25}.
-   Generic print utilities; belongs in the canonical file, not a book theme. */
+/* Constrain an image in print, e.g. ![](x.svg){.print-w-25 .wrapfig_right_25}.
+   Screen width is handled by the wrapfig utilities above; these apply only to
+   the printed page. */
 @media print {
   img.print-w-25  { width: 25% !important; }
   img.print-w-33  { width: 33% !important; }

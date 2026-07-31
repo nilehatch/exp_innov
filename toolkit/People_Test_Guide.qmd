@@ -76,7 +76,8 @@ Check each box only if evidence supports it (not just assumptions):
 - If red: Loop back to convergence; reconsider your chosen people.  
 
 ___
-**Attachments (Data Room pointers):**  
+**Attachments (Data Room pointers):**
+
 - Screenshot of messages/posts sent  
 - Short intercept script (if used)  
 - Record of replies or field notes  

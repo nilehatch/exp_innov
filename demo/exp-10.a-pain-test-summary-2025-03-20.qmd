@@ -12,7 +12,8 @@ Now we test the most plausible hypothesis:
 
 > **Hypothesis:** Maya experiences significant anxiety when commuting at night because she feels unsafe walking alone, especially in unpredictable or poorly lit environments.
 
-Our goal is to gather evidence using three complementary tests:  
+Our goal is to gather evidence using three complementary tests:
+
 1. **Pain Validation**  
 2. **Ouch Factor**  
 3. **Willingness to Pay for Relief (WTP)**  
