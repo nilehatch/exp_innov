@@ -19,7 +19,7 @@ This matters because most needs aren’t obvious. People adapt. They normalize f
 
 As with every diamond, the rhythm is diverge → converge → test.
 
-- **Diverge**: *Build a mountain of data.* Through *conversations*, *observations*, *role play*, *surveys*, and *secondary research*, you gather raw material. The aim isn’t validation — it’s abundance. You want messy, overlapping stories and signals you can later sort.
+- **Diverge**: *Build a mountain of data.* Through *conversations*, *observations*, and *role play* — with *secondary research* to gather what is already known — you build up raw material. The aim isn’t validation — it’s abundance. You want messy, overlapping stories and signals you can later sort.
 - **Converge**: *Turn signals into hypotheses*. Using *empathy analysis tools* — clustering notes, developing personas, mapping experiences — you begin to see patterns. From these, you form *hypotheses of pain*: testable statements about unmet needs that feel urgent and consequential.
 - **Test**: *Validate the pain*. Through pain validation experiments — the pain validation protocol, the ouch factor test, and willingness-to-pay probes — you check whether these hypothesized needs are real, frequent, and strong enough that people lean in when you bring them up.
 

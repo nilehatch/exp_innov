@@ -13,7 +13,7 @@ After choosing and confirming access to a community of people, the journey of en
 <!-- As you work, the goal is to collect enough raw evidence to ground abductive sense-making, theme finding, persona building, and experience mapping. -->
 Secondary research will help you triangulate what you learn in the field so you don’t waste time re-learning what is already known.
 
-This is the essence of ethnographic exploration. We may go in expecting one kind of problem, but if we stay curious and follow emotion, we uncover pains hidden in plain sight. The methods that follow—conversation as guided storytelling, observation and shadowing in context, role play as embodied empathy, and carefully targeted surveys—are the tools for creating these moments of discovery. Alongside them, secondary research broadens and triangulates what you learn in the field so you avoid spending time re-learning what is already known.  
+This is the essence of ethnographic exploration. We may go in expecting one kind of problem, but if we stay curious and follow emotion, we uncover pains hidden in plain sight. The methods that follow—conversation as guided storytelling, observation and shadowing in context, and role play as embodied empathy—are the tools for creating these moments of discovery. Alongside them, secondary research broadens and triangulates what you learn in the field so you avoid spending time re-learning what is already known.  
 
 As you work, watch the “information entropy” of your findings. When new stories keep surprising you, keep exploring. When new data starts repeating what you already know, you’ve reached the edge of your current map. That’s the moment to shift from divergence into abductive synthesis and begin the converge work of themes, personas, and experience maps.
 
@@ -74,7 +74,9 @@ Avoiding these traps clears the path for authentic engagement. But clarity about
 
 ## Ethnographic Exploration
 
-Once you have found and engaged your people, the next step is to immerse yourself in their lived experience. Ethnographers use many tools, but four stand out as especially powerful for entrepreneurs: **conversations, observation, role playing, and surveys**. Each is not just a technique but an exploratory experiment — a structured way to surface evidence of unmet needs.
+Once you have found and engaged your people, the next step is to immerse yourself in their lived experience. Ethnographers use many tools, but three stand out as especially powerful for entrepreneurs: **conversations, observation, and role playing**. Each is not just a technique but an exploratory experiment — a structured way to surface evidence of unmet needs.
+
+What these three share is that they let you find what you did not know to ask about. That is the whole point of this diamond, and it is why the survey — the tool most founders reach for first — comes later in this chapter rather than here.
 
 
 ### Conversation {.method-header #sec-conversation-section}
@@ -187,13 +189,18 @@ See the [Role Play Guide](toolkit/Role_Play_Guide.qmd) for a ready-to-use guide 
 
 ---
 
-### Surveys  {.method-header #sec-surveys-section}
+### A Note on Surveys — Not an Exploratory Tool {#sec-surveys-section}
 
-Surveys are not just questionnaires — they are **structured experiments in convergence**.  
-Once you’ve uncovered pains and themes through conversations and observation, surveys let you measure prevalence, compare subgroups, and begin quantifying what matters most.  
+Surveys are the tool most founders reach for first, and this diamond is the wrong place for them.
 
-::: callout-note
-Use surveys to validate, not to explore. They are powerful once hypotheses exist, but too blunt to discover fresh insights on their own.  
+A respondent can only answer the question you thought to ask. That is fine when you already know what you are looking for — and fatal when you don't. The needs worth building on are the ones your people have stopped noticing: the workaround so old it feels like the weather, the anxiety they would never call a problem. No one writes a survey item for a need nobody has named yet, least of all the person living with it.
+
+Occasionally a survey does explore, when respondents happen to be unusually willing to type at length and you have left them room to. It happens. It cannot be relied on, and you should not design your exploration around the hope of it.
+
+So surveys are held for later, where they are genuinely strong: **once a hypothesis is clear**, a survey measures how widespread a pain is, compares subgroups, and ranks what matters most. That work belongs to [Validate Customer Pain](Validate_Pain.qmd), and the guidance below is here so it is at hand when you get there.
+
+::: callout-warning
+The survey-first reflex is one of the most common ways an exploration fails: it produces a great deal of data about the questions you already had, and none about the ones you didn't.
 :::
 
 #### When to use surveys
@@ -219,7 +226,7 @@ See the [Survey Guide](toolkit/Survey_Guide.qmd) for a ready-to-use guide on sur
 
 <!-- <hr class="method-divider"> -->
 
-Together, these four exploratory experiments — **conversations**, **observation**, **role playing**, and **surveys** — build the mountain of data you need. Each generates different kinds of evidence, but all share a common purpose: uncovering unmet needs that remain invisible until you engage, watch, feel, and measure. Together, they create the mountain of data you need — but how do you know when that mountain is high enough?
+Together, these three exploratory experiments — **conversations**, **observation**, and **role playing** — build the mountain of data you need. Each generates a different kind of evidence, but all share a common purpose: uncovering unmet needs that remain invisible until you engage, watch, and feel your way into them. Alongside them sits secondary research, which gathers what is already known so you don't spend field time rediscovering it. Between them they create the mountain of data — but how do you know when that mountain is high enough?
 
 
 
@@ -299,9 +306,9 @@ In short, the goal of exploratory experiments — whether in the field or in the
 
 ## The Essence of Exploratory Research
 
-Exploratory research is not about confirming what you already know — it is about **broadening your field of vision**. Its essence is curiosity: stepping into conversations, watching behavior in context, simulating lived experience, and mining what is already known in archives and reports. Each method — whether an interview, an observation, a role play, a survey, or a scan of existing data — is an exploratory experiment designed to surface unmet needs that would otherwise remain invisible.
+Exploratory research is not about confirming what you already know — it is about **broadening your field of vision**. Its essence is curiosity: stepping into conversations, watching behavior in context, simulating lived experience, and mining what is already known in archives and reports. Each method — whether an interview, an observation, a role play, or a scan of existing data — is an exploratory experiment designed to surface unmet needs that would otherwise remain invisible.
 
-What matters most is not mastering every method, but **assembling a diverse stream of evidence**. Stories, observed workarounds, simulated frustrations, survey rankings, and statistical trends each illuminate the problem space from a different angle. Taken together, they create a textured picture of people’s lives and the opportunities within them.
+What matters most is not mastering every method, but **assembling a diverse stream of evidence**. Stories, observed workarounds, simulated frustrations, and statistical trends each illuminate the problem space from a different angle. Taken together, they create a textured picture of people’s lives and the opportunities within them.
 
 But exploration cannot be endless. The true art lies in **knowing when the mountain of data is high enough** — when novelty begins to fade, and it is time to shift from gathering to sense-making. Exploratory research gives you raw material; abductive reasoning and analysis turn that material into insight.
 

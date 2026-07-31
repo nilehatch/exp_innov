@@ -1,6 +1,6 @@
 # Survey Guide {#sec-survey-guide .unnumbered} 
 
-This guide should be used with the methods outlined in the [Surveys](../Explore_Community.qmd#sec-surveys-section) section of *Explore the Community*.
+Surveys are a **convergent** tool, not an exploratory one — see [A Note on Surveys](../Explore_Community.qmd#sec-surveys-section) in *Explore the Community* for why. Use this guide when you have a pain hypothesis to measure, in [Validate Customer Pain](../Validate_Pain.qmd).
 
 ---
 
