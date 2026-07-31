@@ -64,8 +64,8 @@ inc_label <- "Incumbents cluster around\n mainstream customers"
 ggplot(df, aes(x, y)) +
   # Areas
   geom_area(data = df_all,    fill = "grey85") +
-  geom_area(data = df_left,   fill = "#3774B7", alpha = 1) +
-  geom_area(data = df_right,  fill = "#3774B7", alpha = 1) +
+  geom_area(data = df_left,   fill = "#0A659E", alpha = 1) +
+  geom_area(data = df_right,  fill = "#0A659E", alpha = 1) +
   geom_area(data = df_center, fill = "grey75") +
   # Curve + baseline
   # geom_line(color = "royalblue3", linewidth = 1.6) +
@@ -88,7 +88,7 @@ geom_label(
   label.padding = unit(0.15, "lines"),
   label.r = unit(0.08, "lines"),
   color = "white",
-  fill = "#3774B7",
+  fill = "#0A659E",
   alpha = 1
   ) +
 
