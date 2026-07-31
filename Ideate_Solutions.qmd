@@ -6,8 +6,8 @@ id: sec-ideate-solutions-chapter
 
 ## Solution Ideation
 
-<!-- <img src="images/231_solution_diverge.svg" alt="Divergent ideation to obtain many solution ideas." class="wrapfig_left_25"/> -->
-![Divergent ideation to obtain many solution ideas.](images/231_solution_diverge.svg){.print-w-25 .wrapfig_right_25}
+<!-- <img src="images/d3-diverge.svg" alt="Divergent ideation to obtain many solution ideas." class="wrapfig_left_25"/> -->
+![Divergent ideation to obtain many solution ideas.](images/d3-diverge.svg){fig-align="center"}
 Having defined and validated an unmet need of our people, we turn to innovating to fill that need.  Innovating encompasses three stages: the divergent phase of ideating solutions, the convergent process of hypothesis formation, and the conclusive phase of testing the solution. Our focus now shifts to designing the right solution for the validated customer pain, blending creativity with structured exploration to discover innovative solutions.
 
 The first two diamonds were about designing *the right thing*: choosing the people worth serving, then finding and validating a pain they actually live with. This third diamond is about designing *the thing right* — generating many candidate solutions, screening them down to the most promising, and testing whether the one you chose genuinely relieves that pain. The work changes; the rhythm does not. Diverge, converge, test.

@@ -13,7 +13,7 @@ Don’t just read — practice. Pair this chapter with the [Access Test Guide](t
 
 ## Run an Access Test {.unnumbered}
 
-![Test whether you have sufficient access to your people.](images/213_people_test.svg){.print-w-25 .wrapfig_right_25}
+![Test whether you have sufficient access to your people.](images/d1-test.svg){fig-align="center"}
 By now, you’ve chosen a group of people to focus on — not just as an audience, but as the starting point of your innovation journey. You’ve explored widely, converged thoughtfully, and selected with care. But before you dive into deep research, there’s one more step that can save you enormous time and frustration: **access testing**.
 
 This is where you ask a simple but essential question: *Can we actually reach the people we want to learn from?*

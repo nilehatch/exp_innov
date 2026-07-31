@@ -9,7 +9,7 @@ id: sec-commit-community-chapter
 
 ## Converge from Possibilities to Commitment {.unnumbered}
 
-![Convergent narrowing from many candidate groups to one chosen community of people.](images/212_people_converge.svg){.print-w-25 .wrapfig_right_25}
+![Convergent narrowing from many candidate groups to one chosen community of people.](images/d1-converge.svg){fig-align="center"}
 <!-- After opening wide in your search for possible communities, it’s time to narrow in — to converge. This is not a decision to rush. You’re choosing the people whose lives you’ll explore, whose unmet needs you’ll try to surface, and whose problems you may ultimately help solve.
 
 This moment marks a quiet shift in mindset. You’re not picking the most interesting or convenient group. You’re identifying the community where your work has the greatest chance of making a difference — where friction is felt, where needs are unmet, and where empathy draws you in.

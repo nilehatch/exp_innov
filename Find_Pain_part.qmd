@@ -13,7 +13,7 @@ Most startup methods begin with an *idea* and then test whether anyone cares. Ex
 This matters because most needs aren’t obvious. People adapt. They normalize friction, create workarounds, and stop noticing how much effort or anxiety a “normal” day demands. If you ask directly, you’ll often hear *“it’s fine”* — even when it isn’t. The work of this diamond is to uncover those hidden frictions, name them clearly, and turn them into hypotheses you can test.
 
 
-![Diverge and converge to find a pain (unknown, unmet need) and test whether your customers feel it.](images/22_pain_diamond_test.svg){#fig-pain-diamond-3 style="max-height: 340px;" fig-align="center" fig-cap-location="margin"}
+![Diverge and converge to find a pain (unknown, unmet need) and test whether your customers feel it.](images/diamond-2.svg){#fig-pain-diamond-3 fig-align="center"}
 
 ## The Pattern: Diverge, Converge, Test {.unnumbered}
 

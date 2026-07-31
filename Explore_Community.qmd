@@ -7,7 +7,7 @@ id: sec-explore-community-chapter
 
 ## Unearthing Unmet Needs
 
-![Divergent exploration of the community of people to gain insight for better hypotheses of customer pain.](images/221_pain_diverge.svg){.print-w-25 .wrapfig_left_25}
+![Divergent exploration of the community of people to gain insight for better hypotheses of customer pain.](images/d2-diverge.svg){fig-align="center"}
 After choosing and confirming access to a community of people, the journey of entrepreneurial innovation continues with an in-depth exploration of their lives. This chapter focuses on *ethnographic exploratory experiments*—our deliberate move into divergent thinking—aimed at amassing a “mountain of data” about your chosen community. At this stage, the emphasis is on extensive evidence gathering through both *primary* and *secondary* research. You are not merely collecting anecdotes; you are running exploratory experiments—structured forays into lived experience—to surface pains that are real but often unarticulated.
 
 <!-- As you work, the goal is to collect enough raw evidence to ground abductive sense-making, theme finding, persona building, and experience mapping. -->

@@ -5,8 +5,8 @@
 ## Converging from Exploration to Unmet Needs
 <!-- ## Integrating Empathy and Abduction to Define Unmet Needs -->
 
-<!-- <img src="images/222_pain_converge.svg" alt="Convergent synthesis of data to reach informed hypotheses of customer pain." class="wrapfig_right_25"/> --> 
-![Convergent synthesis of data to reach informed hypotheses of customer pain.](images/222_pain_converge.svg){.print-w-25 .wrapfig_right_25}
+<!-- <img src="images/d2-converge.svg" alt="Convergent synthesis of data to reach informed hypotheses of customer pain." class="wrapfig_right_25"/> --> 
+![Convergent synthesis of data to reach informed hypotheses of customer pain.](images/d2-converge.svg){fig-align="center"}
 When the exploration surprises slow down, it’s time to change gears. You’ve built a mountain of raw notes, quotes, and observations. Now comes the meaningful part: making sense of it. Exploration gives you raw material; convergence turns that material into insight.  
 
 This is where **empathy and abduction work together.** Empathy helps you see the world through your people’s eyes. Abduction helps you turn that empathy into *plausible hypotheses of hidden pain*. Together, they stop you from settling for the obvious needs that everyone else already sees. They help you discover the deeper, less visible pains that others miss — the ones that unlock opportunity.  

@@ -7,7 +7,7 @@ Every expedition begins with a choice of direction. In innovation, that choice i
 
 The first diamond of expeditionary innovation is about people: diverging to explore many possible communities, converging to select one, and testing whether you can truly access them. 
 
-![Diverge and converge to choose a community of people and then test your access to them.](images/21_people_diamond_test.svg){#fig-people-diamond-3 style="max-height: 340px;" fig-align="center" fig-cap-location="margin"}
+![Diverge and converge to choose a community of people and then test your access to them.](images/diamond-1.svg){#fig-people-diamond-3 fig-align="center"}
 
 This choice matters more than it seems, because everything downstream — the needs you uncover, the solutions you design, even the shape of your venture — flows from it.  
 

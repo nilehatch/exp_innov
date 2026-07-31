@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='691.20pt' height='566.91pt' viewBox='0 0 691.20 566.91'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw2OTEuMjB8MC4wMHw1NjYuOTE='>
+    <rect x='0.00' y='0.00' width='691.20' height='566.91' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw2OTEuMjB8MC4wMHw1NjYuOTE=)'>
+</g>
+<defs>
+  <clipPath id='cpMC40NHw2OTAuNzZ8MC4wMHw1NjYuOTE='>
+    <rect x='0.44' y='0.00' width='690.33' height='566.91' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC40NHw2OTAuNzZ8MC4wMHw1NjYuOTE=)'>
+<rect x='0.44' y='0.00' width='690.33' height='566.91' style='stroke-width: 0.00; stroke: none;' />
+</g>
+<g clip-path='url(#cpMC4wMHw2OTEuMjB8MC4wMHw1NjYuOTE=)'>
+</g>
+<defs>
+  <clipPath id='cpMi40M3w2ODguNzd8MS45OXw1NjQuOTI='>
+    <rect x='2.43' y='1.99' width='686.34' height='562.92' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMi40M3w2ODguNzd8MS45OXw1NjQuOTI=)'>
+<polygon points='275.23,518.70 334.28,475.05 334.28,138.71 275.23,95.06 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #2878A8;' />
+<polygon points='334.28,475.05 393.33,431.41 393.33,182.36 334.28,138.71 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #1E6C9A;' />
+<polygon points='393.33,431.41 452.38,387.76 452.38,226.01 393.33,182.36 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #14608D;' />
+<polygon points='452.38,387.76 561.80,306.88 452.38,226.01 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #0A5480;' />
+<polygon points='58.37,306.88 155.20,402.31 155.20,211.46 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #E9EDF0;' />
+<polygon points='155.20,402.31 214.25,460.50 214.25,153.26 155.20,211.46 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #E9EDF0;' />
+<polygon points='214.25,460.50 273.30,518.70 273.30,95.06 214.25,153.26 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #E9EDF0;' />
+<polygon points='452.38,387.76 561.80,306.88 452.38,226.01 ' style='stroke-width: 1.92; stroke: #E3A008; stroke-linecap: butt;' />
+<text transform='translate(367.14,306.88) rotate(-90)' text-anchor='middle' style='font-size: 9.67px;fill: #FFFFFF; font-family: "Fira Sans";' textLength='45.16px' lengthAdjust='spacingAndGlyphs'>Dot voting</text>
+<text transform='translate(308.09,306.88) rotate(-90)' text-anchor='middle' style='font-size: 9.67px;fill: #FFFFFF; font-family: "Fira Sans";' textLength='68.08px' lengthAdjust='spacingAndGlyphs'>Feasibility filter</text>
+<text transform='translate(123.90,306.88) rotate(-90)' text-anchor='middle' style='font-size: 9.67px;fill: #AEB6BD; font-family: "Fira Sans";' textLength='30.47px' lengthAdjust='spacingAndGlyphs'>Fill the</text>
+<text transform='translate(134.11,306.88) rotate(-90)' text-anchor='middle' style='font-size: 9.67px;fill: #AEB6BD; font-family: "Fira Sans";' textLength='32.05px' lengthAdjust='spacingAndGlyphs'>catalog</text>
+<text transform='translate(188.06,306.88) rotate(-90)' text-anchor='middle' style='font-size: 9.67px;fill: #AEB6BD; font-family: "Fira Sans";' textLength='39.92px' lengthAdjust='spacingAndGlyphs'>Generate</text>
+<text transform='translate(247.11,306.88) rotate(-90)' text-anchor='middle' style='font-size: 9.67px;fill: #AEB6BD; font-family: "Fira Sans";' textLength='48.98px' lengthAdjust='spacingAndGlyphs'>Recombine</text>
+<text transform='translate(426.19,306.88) rotate(-90)' text-anchor='middle' style='font-size: 9.67px;fill: #FFFFFF; font-family: "Fira Sans";' textLength='74.02px' lengthAdjust='spacingAndGlyphs'>Screening matrix</text>
+<text transform='translate(485.26,306.88) rotate(-90)' text-anchor='middle' style='font-size: 9.67px; font-weight: bold;fill: #FFFFFF; font-family: "Fira Sans";' textLength='37.27px' lengthAdjust='spacingAndGlyphs'>Solution</text>
+<text x='259.34' y='32.65' text-anchor='end' style='font-size: 8.82px; font-weight: bold;fill: #9CA3AF; font-family: "Fira Sans";' textLength='33.64px' lengthAdjust='spacingAndGlyphs'>DIVERGE</text>
+<text x='274.26' y='32.65' text-anchor='middle' style='font-size: 8.82px; font-weight: bold;fill: #9CA3AF; font-family: "Fira Sans";' textLength='2.11px' lengthAdjust='spacingAndGlyphs'>·</text>
+<text x='289.19' y='32.65' style='font-size: 8.82px; font-weight: bold;fill: #9CA3AF; font-family: "Fira Sans";' textLength='42.16px' lengthAdjust='spacingAndGlyphs'>CONVERGE</text>
+<line x1='422.86' y1='200.33' x2='422.86' y2='69.39' style='stroke-width: 1.28; stroke: #E3A008; stroke-linecap: butt;' />
+<polyline points='422.86,69.39 422.64,69.33 421.47,69.02 419.39,68.47 417.11,67.86 415.03,67.31 413.14,66.83 411.33,66.37 411.16,66.33 409.37,65.90 407.66,65.49 406.08,65.13 404.60,64.80 403.05,64.45 401.34,64.08 399.54,63.70 399.36,63.66 397.56,63.30 395.83,62.96 394.25,62.65 392.76,62.37 391.19,62.08 389.47,61.78 387.66,61.46 387.48,61.43 385.66,61.13 383.93,60.86 382.33,60.61 380.83,60.39 379.25,60.16 377.52,59.91 375.70,59.67 375.52,59.64 373.69,59.41 371.95,59.20 370.35,59.02 368.84,58.85 367.25,58.68 365.51,58.50 363.68,58.32 363.50,58.30 361.67,58.14 359.92,57.99 358.31,57.87 356.80,57.76 355.20,57.64 353.46,57.53 351.63,57.42 351.45,57.41 349.61,57.31 347.85,57.23 346.24,57.17 344.72,57.11 343.13,57.05 341.38,57.00 339.54,56.96 339.36,56.96 337.52,56.93 335.76,56.91 334.15,56.91 332.63,56.91 331.03,56.91 329.29,56.93 327.45,56.95 327.27,56.96 325.43,57.00 323.67,57.05 322.06,57.10 320.54,57.16 318.95,57.22 317.20,57.30 315.37,57.40 315.19,57.41 313.35,57.51 311.59,57.63 309.99,57.74 308.47,57.86 306.88,57.98 305.14,58.12 303.31,58.29 303.13,58.30 301.30,58.48 299.55,58.66 297.94,58.83 296.43,59.00 294.85,59.18 293.11,59.39 291.29,59.62 291.11,59.64 289.29,59.89 287.54,60.13 285.95,60.37 284.45,60.59 282.87,60.83 281.14,61.10 279.33,61.40 279.15,61.43 277.34,61.74 275.61,62.05 274.02,62.35 272.53,62.63 270.96,62.92 269.25,63.26 267.45,63.63 267.27,63.66 265.47,64.04 263.75,64.41 262.17,64.77 260.69,65.10 259.14,65.46 257.44,65.86 255.65,66.29 255.47,66.33 253.67,66.78 251.80,67.26 249.74,67.81 247.47,68.41 245.34,68.97 244.06,69.31 243.77,69.39 243.77,69.39 ' style='stroke-width: 1.28; stroke: #E3A008; stroke-linecap: butt;' />
+<line x1='243.77' y1='69.39' x2='243.77' y2='117.74' style='stroke-width: 1.28; stroke: #E3A008; stroke-linecap: butt;' />
+<polygon points='242.07,114.80 243.77,117.74 245.47,114.80 ' style='stroke-width: 1.28; stroke: #E3A008; stroke-linecap: butt; fill: #E3A008;' />
+<text x='440.57' y='193.12' style='font-size: 7.97px; font-style: italic;fill: #8A6100; font-family: "Fira Sans";' textLength='124.03px' lengthAdjust='spacingAndGlyphs'>work the concepts into better ones</text>
+<text x='96.14' y='550.09' style='font-size: 9.10px; font-weight: bold;fill: #0A659E; font-family: "Fira Sans";' textLength='94.67px' lengthAdjust='spacingAndGlyphs'>DIAMOND 3 · SOLUTION</text>
+<polygon points='512.13,345.97 614.57,345.97 614.57,368.89 649.62,306.88 614.57,244.88 614.57,267.79 512.13,267.79 565.01,306.88 ' style='stroke-width: 1.49; stroke: #FFFFFF; stroke-linecap: butt; fill: #DCDFE3;' />
+<text x='589.79' y='305.28' text-anchor='middle' style='font-size: 8.82px; font-weight: bold;fill: #AEB6BD; font-family: "Fira Sans";' textLength='33.97px' lengthAdjust='spacingAndGlyphs'>Solution</text>
+<text x='589.79' y='314.59' text-anchor='middle' style='font-size: 8.82px; font-weight: bold;fill: #AEB6BD; font-family: "Fira Sans";' textLength='40.67px' lengthAdjust='spacingAndGlyphs'>validation</text>
+</g>
+<g clip-path='url(#cpMC4wMHw2OTEuMjB8MC4wMHw1NjYuOTE=)'>
+</g>
+</g>
+</svg>

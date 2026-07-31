@@ -119,7 +119,7 @@ The Expeditionary Innovation process is built around the **triple diamond framew
 
 [^2]: The triple diamond extends the double diamond model popularized by the UK Design Council [@designcouncilDesignProcessWhat2015], which organizes innovation into two cycles of divergence and convergence: defining the problem and developing the solution. Expeditionary innovation adds a first diamond—choosing the right people—because starting with the wrong group undermines the entire process. The double diamond assumes you already know whom you are designing for; that assumption is the one this book refuses to make.
 
-![The triple diamond framework for expeditionary innovation. Explore to gain insight, generate informed hypotheses, and test the hypotheses about your people, their needs, and your solution.](images/10_triple_diamond.svg){#fig-triple-diamond fig-align="center" fig-cap-location="margin"}
+![The triple diamond framework for expeditionary innovation. Explore to gain insight, generate informed hypotheses, and test the hypotheses about your people, their needs, and your solution.](images/spine.svg){#fig-triple-diamond fig-align="center"}
 
 ------------------------------------------------------------------------
 
@@ -132,7 +132,7 @@ This decision is foundational: everything that follows will be shaped by *who* y
 
 By the end of this diamond, you should have **evidence of access** to a specific group you can reliably reach and engage.
 
-![Choose a target population and validate that you have access](images/21_people_diamond_test.svg){#fig-people-diamond style="max-height: 340px;" fig-align="center" fig-cap-location="margin"}
+![Choose a target population and validate that you have access](images/diamond-1.svg){#fig-people-diamond fig-align="center"}
 
 ------------------------------------------------------------------------
 
@@ -171,7 +171,7 @@ customers will buy" — Diamond 3's outcome pasted into Diamond 2. Diamond 2 end
 validated pain; nothing has been designed yet. -->
 By the end of this diamond, you should have a **validated pain** — an unmet need you have confirmed is real, frequent, and urgent enough that your people are already spending time or money to relieve it.
 
-![Discover an unknown, unmet need and validate that your people have the need](images/22_pain_diamond_test.svg){#fig-pain-diamond fig-align="center" style="max-height: 340px;" fig-cap-location="margin"}
+![Discover an unknown, unmet need and validate that your people have the need](images/diamond-2.svg){#fig-pain-diamond fig-align="center"}
 
 ------------------------------------------------------------------------
 
@@ -187,7 +187,7 @@ Here, confirmatory experiments dominate. Their role is to validate that your cho
 
 By the end of this diamond, you should have a **validated solution concept** and prototypes that confirm that you can solve customer needs and they will buy it.
 
-![Discover an elegant solution to the customer need, verify that you can build it, and validate that customers want it](images/23_solution_diamond_test.svg){#fig-solution-diamond style="max-height: 340px;" fig-align="center" fig-cap-location="margin"}
+![Discover an elegant solution to the customer need, verify that you can build it, and validate that customers want it](images/diamond-3.svg){#fig-solution-diamond fig-align="center"}
 
 ------------------------------------------------------------------------
 
