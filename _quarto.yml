@@ -136,7 +136,15 @@ editor: source
 
 execute:
   echo: false
-  # Freeze R chunk results so CI never needs R installed. To refresh a figure,
-  # render that single .qmd locally (a single-file render always executes),
-  # then commit the updated _freeze/.
-  freeze: true
+  # Freeze R chunk results so CI never needs R installed.
+  #
+  # `auto`, NOT `true`. With `true`, Quarto NEVER re-executes during a project
+  # render, so edits to the prose around a code chunk are silently ignored and
+  # the stale frozen markdown ships instead — that is how an old image path
+  # survived a rename and reached the live site. `auto` re-executes only when
+  # the source actually changes, which is what we want locally.
+  #
+  # Commit _freeze/ after any render that touches a document with code. CI has
+  # no R: if the freeze is out of date the build FAILS LOUDLY rather than
+  # quietly publishing stale content.
+  freeze: auto
