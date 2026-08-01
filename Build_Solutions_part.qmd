@@ -1,0 +1,46 @@
+---
+title: Build and Test Solutions
+subtitle: From a validated pain to a solution concept the right people want
+---
+
+## Why Solutions Come Last {.unnumbered}
+
+Most people start here. It is the part of innovation that feels like innovation — the sketching, the arguing, the building. Starting here is also the most reliable way to fail, because a solution is only ever an answer, and an answer is worth nothing until you know the question.
+
+You now know the question. Two diamonds of work have told you *who* you are serving and *what* hurts, and both claims have been tested rather than assumed. That is what earns you the right to build.
+
+![Diverge and converge to design a solution, then test whether it relieves the pain.](images/diamond-3.svg){#fig-solution-diamond-3 fig-align="center"}
+
+## The Pattern: Diverge, Converge, Test {.unnumbered}
+
+The rhythm is the one you already know, applied to a new unknown.
+
+- **Diverge**: *Build a mountain of ideas.* Fill your catalog, generate candidates in volume, then recombine them into better ones. The aim is not the right answer — it is enough answers that a right one is likely to be among them.
+- **Converge**: *Screen the many down to the few.* A feasibility filter, dot voting, and a screening matrix carry you from a hundred candidates to one or two worth building. Screening also feeds recombination: the losing concepts usually contain winning features.
+- **Test**: *Put the concept in front of real people.* Validation asks whether you are solving the right problem for the right people; verification asks whether the thing can be built and works. A solution can verify perfectly and never validate.
+
+## What Changes in This Diamond {.unnumbered}
+
+Two things are different here, and both are worth naming before you start.
+
+**The mode shifts from exploratory to confirmatory.** In the second diamond you were finding out what you did not know to ask. Here you mostly hold hypotheses and put them under pressure. You are still learning, but you are learning by testing claims rather than by wandering.
+
+**The cost of being wrong starts to rise.** Exploration was cheap — conversations and observation cost time. Prototypes cost money, and each round of testing costs more than the last. That is why the sequence runs from cheap and rough toward expensive and faithful: spend the least that will answer the question in front of you.
+
+## Where This Part Ends {.unnumbered}
+
+You will finish this part with a solution concept and evidence that the right people want it — a validated pain, a chosen concept, and prototype results that say so.
+
+You will not finish it with a decision to launch. That question — *is this worth doing?* — is a different kind of work with its own methods, and it deserves better than a paragraph at the end of a chapter on prototypes. The last chapter of this part will point you toward it.
+
+---
+
+::: {.callout-note title="How to Use This Part"}
+As in the earlier parts, pair each chapter with its tools:
+
+- **Chapters** explain the *why* and the judgment calls.
+- **Guides** in the Toolkit give you the step-by-step.
+- **Demos** show the Halo Alert team doing it with real artifacts.
+
+The Solution Guides and the Halo Alert solution demos are still being written. Until they land, the chapters here stand on their own.
+:::

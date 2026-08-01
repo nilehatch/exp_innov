@@ -6,201 +6,151 @@ id: sec-ideate-solutions-chapter
 
 ## Solution Ideation
 
-<!-- <img src="images/d3-diverge.svg" alt="Divergent ideation to obtain many solution ideas." class="wrapfig_left_25"/> -->
 ![Divergent ideation to obtain many solution ideas.](images/d3-diverge.svg){fig-align="center"}
-Having defined and validated an unmet need of our people, we turn to innovating to fill that need.  Innovating encompasses three stages: the divergent phase of ideating solutions, the convergent process of hypothesis formation, and the conclusive phase of testing the solution. Our focus now shifts to designing the right solution for the validated customer pain, blending creativity with structured exploration to discover innovative solutions.
 
 The first two diamonds were about designing *the right thing*: choosing the people worth serving, then finding and validating a pain they actually live with. This third diamond is about designing *the thing right* — generating many candidate solutions, screening them down to the most promising, and testing whether the one you chose genuinely relieves that pain. The work changes; the rhythm does not. Diverge, converge, test.
 
-Solution ideation is deliberately generative, leveraging imagination and creativity to generate as many ideas for solutions as possible toward our goal of getting good ideas to solve the pains of our people.
+You are at the start of the divergence. You have a validated pain and no solution, and the temptation is to reach for the first idea that presents itself. Resist it. The first idea is rarely the best one, and taking it forward costs you every idea you never had.
 
 > If you want to have good ideas, you must have many ideas. Most of them will be wrong, and what you have to learn is which of them to throw away. [— Linus Pauling]{style="float: right;"}[^1]
 
 [^1]: Linus Pauling won two Nobel prizes, one in chemistry (1954) for his work on the nature of the chemical bond and a second one in peace (1962) for his efforts to raise awareness about the dangers of nuclear weapons and his advocacy for nuclear disarmament. In this case we leverage his advice on how to get good ideas [@paulingImpactLinusPauling1995].
 
-The first step in this process is to get many ideas; in the following chapter we will focus on evaluating them to know which ones to throw away.
+This chapter is the first half of Pauling's rule — getting many ideas. The next chapter is the second half, learning which to throw away.
 
-## Principles of Creativity
+Divergence here has three moves, and the diamond above names them:
 
-Ideation is not just about brainstorming; it's an exploratory experiment where each idea, no matter how unconventional, adds value to the creative pool. Creating a safe and open environment is crucial for the proliferation of ideas. It is essential to avoid prematurely judging or discarding ideas which may stifle the flow of creativity and potentially prevent the emergence of the best solutions. To nurture an environment conducive to divergent thinking, set clear ground rules with your team:
+1. **Fill the catalog** — stock the raw material creativity draws on.
+2. **Generate** — produce candidates from that material, fast and without judgment.
+3. **Recombine** — work the candidates you have into better ones.
 
--   **Suspend all forms of judgment:** Critique and evaluation have their place, but they come later in the process. During ideation, every idea is given space to breathe and evolve.
--   **Welcome the unconventional:** Encourage and embrace unusual or out-of-the-box ideas. What might initially seem impractical or bizarre could pave the way to innovative solutions.
--   **Foster collaborative improvement:** Instead of dismissing ideas, focus on how they can be combined, enhanced, and refined collaboratively. Remember, some of the most impactful ideas may initially evoke surprise or skepticism.
+Each move has tools. The moves matter more than the tools, because a tool you have not met can be learned in ten minutes, while skipping a move costs you the ideas it would have produced.
 
-These principles echo principles of psychological safety in teams. By adhering to these principles, you create a supportive atmosphere where creative thinking can flourish. This approach not only generates a wider range of ideas but also builds a team culture that values openness and collaborative innovation.
+## Why This Works: Creativity as Recombination
 
-<img src="images/card_catalog_HBLL_5.jpg" alt="Card catalog as a metaphor for recombinative creativity." class="wrapfig_right_30"/> Creativity in ideation stems from the ability to recombine existing ideas in novel ways. This process is akin to exploring an extensive card catalog in an old-fashioned library, where each card represents a distinct *percept* - a bit of knowledge, observation, memory, or impression. These percepts, when combined, can unexpectedly spark new ideas. Like a librarian sifting through a card catalog, the innovator combines different percepts, sometimes finding unrelated cards, while at other times discovering connections that form innovative ideas.
+<img src="images/card_catalog_HBLL_5.jpg" alt="Card catalog as a metaphor for recombinative creativity." class="wrapfig_right_30"/> Creativity is not a spark that arrives from nowhere. It is recombination — putting together things you already carry, in an order nobody has tried. Picture the old card catalog in a library. Each card is a *percept*: a scrap of knowledge, an observation, a memory, an impression. Creative thought is the librarian's work of pulling cards and setting them side by side. Most pairings are nothing. Some are an idea.
 
-This notion of creativity as recombination suggests that every new experience, every piece of knowledge acquired, becomes a potential building block for future creative ideas. It's the sum of these percepts that delineate the boundaries of one's 'adjacent possible,'[^2]. The adjacent possible represents an ever-expanding frontier of creative possibilities, limited only by the scope of one's experiences and knowledge. As society collectively expands its card catalog of percepts, the societal adjacent possible grows even more rapidly, suggesting an accelerating pace of discovery and innovation. This principle implies that the frontier of what can be discovered and created is not static but continually advancing, pushed forward by the recombination of our expanding collective knowledge.
+That is a more useful theory than genius, because it tells you what to do. If ideas are recombinations, then the number of ideas available to you is governed by two things: how many cards you hold, and how deliberately you combine them. Both are trainable.
 
-[^2]: The adjacent possible comes from the pioneering work of Stuart @kauffmanHomeUniverseSearch1995 which was extended to the logic of creativity and ideation by Steven @johnsonWhereGoodIdeas2010
+It also explains the frontier. The set of ideas reachable from your current cards is your *adjacent possible*[^2] — everything one recombination away. You cannot leap outside it, but you can enlarge it, and every new experience enlarges it a little. As a society accumulates cards, its collective adjacent possible grows faster still, which is why discovery accelerates rather than exhausting itself.
 
-These principles of creativity as the recombination of existing ideas suggest two methods to foster creativity: add more cards to your catalog and actively recombine them.
+[^2]: The adjacent possible comes from the pioneering work of Stuart @kauffmanHomeUniverseSearch1995 which was extended to the logic of creativity and ideation by Steven @johnsonWhereGoodIdeas2010.
 
-### Fill Your Card Catalog  {.unnumbered}
+::: {.callout-note title="Ground Rules for the Whole Diamond"}
+Divergence dies under evaluation. Before you begin any of the three moves, agree on three rules and hold to them:
 
-Fostering creativity begins with enriching your mental card catalog. Imagine your mind as a vast library, storing experiences, observations, and ideas like cards in a catalog. The more diverse and numerous these 'cards' are, the greater your potential for creative thought. Engaging in new experiences, traveling, and embracing different cultures can significantly boost your creative abilities. Research underscores the benefits of multicultural experiences in enhancing creativity, with even greater gains for those who immerse themselves deeply in other cultures.[^mc]
+- **Suspend judgment.** Critique has its place and its place is the next chapter. During divergence every idea gets room to breathe.
+- **Welcome the unconventional.** The impractical idea is often the one that makes a practical idea possible three steps later.
+- **Build, don't dismiss.** When an idea lands badly, ask what it could become rather than what is wrong with it.
+
+These are the psychological-safety principles from *Organize for Innovation*, applied to a specific hour of work. A team that cannot suspend judgment cannot diverge, whatever tools you hand it.
+:::
+
+## Move One: Fill the Catalog
+
+You cannot recombine cards you do not have. Everything in this diamond is limited by what you carry into it, which makes stocking the catalog the quiet prerequisite for the rest.
+
+**Live widely, and pay attention while you do.** New experiences add cards. Research bears this out: multicultural experience predicts creativity across several measures, and the gains come from depth rather than exposure.[^mc] The entrepreneur's version is less exotic — go where you have not been, work alongside people whose jobs you do not understand, and stay long enough to stop being a tourist.
 
 [^mc]: Multicultural experience predicts creativity across several measures [@leungMulticulturalExperienceEnhances2008], and the effect tracks time spent *living* abroad rather than merely travelling there [@madduxCulturalBordersMental2009]. Depth is what matters: the gains come through adapting to a second culture, not through exposure alone [@tadmorGettingMostOut2012].
 
-Observation is a crucial skill in expanding your card catalog. Adopt the mindset of a traveler, even in familiar surroundings, to notice overlooked details and gain new perspectives. This constant state of awareness helps accumulate a wealth of experiences, ready for creative recombination.
+**Observe as a traveler, even at home.** A traveler notices what residents have stopped seeing. That is the same attention you practiced in the second diamond, turned now toward mechanisms, materials, and workarounds rather than pains.
 
-Collaboration also plays a vital role in creativity. Networking with diverse individuals brings unique ideas and perspectives into your creative process. The goal is to interact with people who differ from you, thereby merging various 'card catalogs' and exponentially expanding your creative possibilities.
+**Borrow other people's catalogs.** The fastest way to add cards is to sit with someone whose cards differ from yours. This is why interdisciplinary teams out-ideate homogeneous ones: they are not smarter, they are holding more kinds of card.
 
-Remember, most of us can't retain every detail of our experiences. To compensate, maintain an idea log to capture thoughts, sketches, and feelings. This habit, common among creative individuals, ensures that your insights are recorded and available for future associative thinking.
+**Write it down.** Nobody retains it all. Keep an idea log — sketches, fragments, half-thoughts, photographs of odd solutions you pass in the street. The habit is common among creative people for a reason: a card you cannot recall is a card you do not have.
 
-### Recombine Cards and Think Associatively  {.unnumbered}
+## Move Two: Generate
 
-Creative insights often emerge from associative thinking - making connections between seemingly unrelated concepts. This process involves deliberately combining different 'cards' from your mental catalog to generate new ideas.
+Now produce candidates, quickly and in volume. Two tools do most of the work.
 
-<!-- Claude 2026-07-30: the previous sentence claimed the iPod click wheel WAS developed by
-combining a padlock dial with a music player. That origin story is widely repeated but I
-could not source it, so the causal claim is removed and the pairing is now offered as an
-illustration rather than a history. Restore the original if you have a source you trust. -->
-One approach is to select two random objects or concepts and explore potential connections. Pair a padlock's dial with a digital music player and you are not far from Apple's iPod click wheel. Forced pairings work because they push you out of the categories you already think in.
+### Brainstorming
 
-However, many creative breakthroughs arise from serendipity - accidental discoveries made while seeking something else.[^3] Serendipitous creativity happens when a well-stocked mental catalog meets an inquisitive mind pondering a problem. In such moments, chance encounters with new ideas can spark creative solutions. The key to harnessing serendipity is a prepared mind, ready to connect disparate concepts in novel ways.
+Everyone knows brainstorming, and most groups do it badly — because they evaluate while they generate, and because the loudest voice sets the direction. Done properly it is fast and productive.
 
-[^3]: Horace Walpole coined *serendipity* in a letter of 1754, taking it from a Persian tale whose three princes of Serendip kept finding things they were not looking for [@silverPrehistorySerendipityBacon2015].
+- **Record everything visibly.** Post-its or a shared board, one idea per note, so ideas can be moved and paired later. The physical rearranging is itself a recombination tool.
+- **Withhold evaluation absolutely.** Not "later" — absolutely, for the duration.
+- **Chase variety, not just volume.** Twenty variations on one theme is one idea with twenty coats of paint.
+- **Facilitate.** Someone keeps the session moving, protects the quiet participants, and stops the drift into debate.
 
-### Measuring Creativity  {.unnumbered}
+### 6-3-5 Brainwriting
 
-The effectiveness of the ideation process can be assessed using three key criteria: *quantity*, *variety*, and *novelty*.
-
-1.  **Quantity of Ideas (Fluency)**: The total number of ideas generated is a primary indicator of divergent thinking, often referred to as fluency. While a high count is desirable, it's crucial that these ideas are not just variations on a theme but truly distinct concepts.
-
-2.  **Variety in Ideas**: Beyond sheer numbers, assess the diversity of your ideas. This involves categorizing ideas into distinct groups or themes and ensuring a broad range of concepts. Variety ensures that you explore multiple angles and possibilities, rather than iterating on a single theme.
-
-3.  **Novelty of Ideas**: Novelty examines how innovative or unconventional the ideas are. High novelty is characterized by ideas that push beyond the usual boundaries of feasibility. Don't shy away from seemingly infeasible ideas, as they often lead to unique solutions that can be adapted into practical applications.
-
-Together, these criteria help in ensuring that your ideation process is not just prolific, but also rich in diverse and innovative ideas. This approach maximizes the chances of uncovering truly groundbreaking solutions.
-
-![Measures of creativity](images/Novelty_Graphic_web.jpg){width="60%"}
-
-## Brainstorming for Creativity
-
-Brainstorming is a widely recognized and frequently used method for generating creative ideas. Its effectiveness lies in its ability to facilitate the recombination of ideas, essential for associative thinking. To maximize the benefits of brainstorming, consider the following guidelines:
-
-### Effective Brainstorming Techniques  {.unnumbered}
-
-1.  **Recording Ideas**: Capturing ideas as they emerge is crucial. Using post-it-notes or a similar method allows for easy recording and later reorganization of ideas. This visual and physical manipulation of ideas can aid in further associative thinking and recombination.
-
-2.  **Withholding Evaluation**: One of the biggest challenges in brainstorming is the tendency to prematurely judge ideas. Remember, the goal is to explore a wide range of possibilities, not to filter them at this stage. Encourage an open-minded approach where no idea is too outlandish or dismissed too quickly. Even seemingly 'bad' ideas can spark innovative thoughts when combined with others.
-
-3.  **Fostering Creativity**: Encourage brainstorming sessions to focus not just on the quantity of ideas but also on their diversity and originality. Encourage participants to think outside their usual patterns and to consider unconventional approaches.
-
-4.  **Recombining Ideas**: Actively encourage the combination of brainstormed ideas in new ways. This recombination is where the magic of brainstorming really happens. By linking different concepts, you can uncover unique solutions that wouldn't have been evident from a single idea.
-
-### Maximizing Brainstorming Outcomes  {.unnumbered}
-
--   **Create a Conducive Environment**: Ensure the brainstorming environment is conducive to free thinking. This might mean a physical space that is comfortable and stimulating or a virtual space that encourages collaboration.
-
--   **Diverse Participation**: Include people with varied backgrounds and perspectives. Diversity in brainstorming sessions can lead to a richer array of ideas and a broader range of associative connections.
-
--   **Use Facilitation Techniques**: Sometimes, the use of a facilitator can help keep the brainstorming session focused and productive. They can guide the discussion, encourage quieter participants, and ensure the session stays on track.
-
--   **Follow-up Sessions**: Brainstorming shouldn't be a one-off exercise. Schedule follow-up sessions to revisit, refine, and expand upon ideas. This iterative process can lead to more refined and innovative solutions.
-
-By adhering to these principles, brainstorming can be a powerful tool in the creative process, leading to a plethora of innovative ideas and potential solutions to explore further.
-
-## 6-3-5 Brainwriting
-
-6-3-5 Brainwriting is an effective method for evolving and expanding upon ideas generated through brainstorming or other means.[^4] It leverages the collective creativity of a team by structuring the process of idea recombination. The method's name reflects its format: 6 participants, each generating 3 new ideas based on prompts from others, within 5 minutes per round.
+Brainwriting is our primary generation tool, and the numbers explain why: **six** participants, **three** ideas each, **five** minutes a round. Each round, you pass your sheet to your right and use what you received as the prompt for three new ideas.[^4]
 
 [^4]: Brainwriting was pioneered by Bernd @rohrbachCreativeRulesMethod1969 for marketing settings. It excels in all creative settings.
 
-### Conducting a 6-3-5 Brainwriting Session {.unnumbered}
+Run six rounds and the arithmetic is startling: **a team of six produces around a hundred ideas in about half an hour.** Teams do not believe this until they have done it. Most people are frightened of idea generation and expect it to take days of staring; brainwriting turns it into a timed, structured, almost mechanical half hour. That reframing is worth more than the technique itself.
 
-1.  **Team Formation**: Organize participants into groups of six. If the exact number isn't feasible, adjust the group size while maintaining the spirit of collaborative idea generation.
+It also fixes brainstorming's two failure modes. Nobody can dominate, because everyone writes simultaneously. And nobody can evaluate, because everyone is busy producing. What you get instead is *building*: each sheet arrives carrying someone else's thinking, and you extend it rather than judge it.
 
-2.  **Idea Exchange**: Each participant starts with three ideas, either generated beforehand or during a brief brainstorming session. These ideas serve as the initial prompts for the brainwriting process.
+::: {.callout-tip title="Running It Well"}
+- Adjust the numbers to your team; keep the structure. Four participants and four rounds still works.
+- Keep every sheet. They are the raw material for the next chapter and for recombination.
+- Debrief afterward, but not during. The session ends, then you look at what you have.
+:::
 
-3.  **Idea Generation Rounds**: Participants pass their ideas to the person on their right and use the received ideas to inspire three new concepts. This step is repeated for six rounds, with each round lasting five minutes, ensuring a rapid and dynamic exchange of thoughts.
+## Move Three: Recombine
 
-4.  **Creative Recombination**: Encourage participants to creatively recombine elements from the received ideas to generate novel concepts. This process not only multiplies the number of ideas but also enhances their diversity and originality.
+Generation gives you a pile of candidates. Recombination works that pile into better candidates — and this is the move teams skip, because it looks like effort and arrives dressed in overalls.
 
-5.  **No Judgment Zone**: Similar to brainstorming, the brainwriting process is judgment-free. Ideas are not critiqued during the session, allowing for uninhibited creativity and exploration.
+Skipping it is expensive. The ideas that come out of an hour of generation are mostly first thoughts. The elegant ones — the solutions that do more with less — usually appear on the second pass, when you take a concept you already have and deform it under a constraint.
 
-### Adapting the Method 
+Two tools do this deliberately.
 
--   **Flexible Configuration**: If the team size or time constraints differ, modify the method accordingly. The key is to maintain a fast-paced, collaborative environment where ideas continuously evolve.
+### SCAMPER
 
--   **Documentation**: Ensure that all ideas are documented for later review and further development. This record will be valuable during the convergent phase of idea evaluation.
+SCAMPER is a checklist of transformations. Take an existing concept and apply each in turn:
 
--   **Diverse Perspectives**: Include participants from different backgrounds or with varied expertise to enrich the session with a wide range of perspectives.
+| | Prompt | Example |
+|---|---|---|
+| **S**ubstitute | swap a component, material, or step | change the material and you may change the category |
+| **C**ombine | merge two concepts or features | a camera and a phone |
+| **A**dapt | move it to another context or user | the same mechanism, a different market |
+| **M**odify | exaggerate or shrink an attribute | what if this were ten times larger? |
+| **P**ut to another use | solve a different problem with it | a technology borrowed from another industry |
+| **E**liminate | remove something essential | what remains, and is it enough? |
+| **R**everse | invert the order or direction | run the process backwards |
 
--   **Follow-up Discussions**: After the session, organize discussions to reflect on the generated ideas, identifying those with the most potential for further development.
+The value is not any single prompt. It is that the checklist forces you past the pairings you would have found on your own — it manufactures the collisions that serendipity would otherwise have to supply.
 
-Brainwriting is our primary ideation tool because it has important advantages built in.
+### Systematic Inventive Thinking
 
--   **Prevents Premature Judgment:** In brainwriting, since everyone is focused on generating ideas, there's no room for immediate critique or dismissal of ideas. This preserves the flow of creativity and ensures that even unconventional or initially absurd-sounding ideas get a chance to be developed and possibly lead to innovative solutions.
--   **Utilizes Collective Intelligence:** The method taps into the diverse 'card catalogs' of all team members, ensuring a rich amalgamation of experiences, perspectives, and knowledge. This collective intelligence is crucial in generating more varied and potentially groundbreaking ideas.
--   **Encourages Novelty and Feasibility Balance:** By encouraging participants to think freely and even consider infeasible options, brainwriting stimulates out-of-the-box thinking. This approach can lead to the discovery of novel solutions that might not emerge in a more constrained setting. At the same time, the iterative nature of the process allows these ideas to be refined into feasible solutions.
--   **Maintains a Safe Collaborative Environment:** Brainwriting fosters a psychologically safe space where team members feel comfortable sharing their ideas without fear of criticism. This environment is crucial for creativity, as it encourages more open and honest idea sharing.
--   **Structured Yet Flexible:** The structured format of brainwriting ensures that the session is focused and productive, while also being adaptable to different group sizes and constraints. This balance between structure and flexibility helps maintain the momentum and energy necessary for effective ideation.
--   **Encourages Serendipitous Connections:** The process of passing ideas around and building upon them can lead to serendipitous connections between seemingly unrelated concepts. These unexpected associations are often at the heart of creative breakthroughs.
--   **Facilitates Idea Evolution:** As ideas are passed and reinterpreted through different lenses, they evolve and mature. This evolution can lead to more refined and viable solutions, as each iteration adds depth and perspective to the original concepts.
--   **Equal Participation:** Unlike traditional brainstorming, where dominant personalities might overshadow quieter team members, brainwriting ensures that everyone has an equal opportunity to contribute. This democratic approach can unearth valuable ideas that might otherwise remain unspoken.
+SIT is the more disciplined cousin, and it is aimed squarely at *elegance*. Where SCAMPER opens options, SIT works inside the constraints of the thing in front of you — subtraction removes an essential component and asks what the remainder is good for; task unification makes one element do a second job.[^sit] The results tend to be leaner solutions rather than more elaborate ones, which matters because the elegant solution is usually the buildable one.
 
-6-3-5 Brainwriting excels in fostering associative thinking and collaborative creativity. By systematically exchanging and evolving ideas, it generates a richer and more varied set of potential solutions, making it an invaluable tool in the divergent phase of ideation.
+[^sit]: For detail on Systematic Inventive Thinking, see @goldenbergFindingYourInnovation2003 and @boydBox2013.
 
-## SCAMPER for Enhanced Ideation
+You will meet SIT again in the next chapter. Screening does not only eliminate concepts — it reveals which *features* of the losing concepts outperformed, and those features are exactly what recombination is for. That is the loop back into this move, and it is one of the most productive rounds you will run.
 
-SCAMPER is a powerful creativity tool that prompts the recombination of existing ideas, enhancing fluency, variety, and novelty in ideation. Each element of SCAMPER represents a different approach to thinking about and modifying existing solutions or ideas:
+### Serendipity Favors a Full Catalog
 
-### Substitute {.unnumbered}
+Some recombinations arrive unbidden — the accidental discovery made while looking for something else.[^3] Serendipity is not the opposite of method; it is what method makes likely. A full catalog and a question you are actively holding produce more accidents than an empty catalog and no question.
 
--   Substituting elements in an existing idea can lead to novel outcomes, increasing the variety of ideas generated.
--   Example: Replacing a material in a product design to create an entirely new category.
+[^3]: Horace Walpole coined *serendipity* in a letter of 1754, taking it from a Persian tale whose three princes of Serendip kept finding things they were not looking for [@silverPrehistorySerendipityBacon2015].
 
-### Combine {.unnumbered}
+<!-- Claude 2026-07-30: an earlier version claimed the iPod click wheel WAS developed by
+combining a padlock dial with a music player. That origin story is widely repeated but I
+could not source it, so the causal claim is removed and the pairing is offered as an
+illustration rather than a history. Restore the original if you have a source you trust. -->
+The deliberate version is a forced pairing: take two unrelated things and insist on a connection. Pair a padlock's dial with a digital music player and you are not far from Apple's iPod click wheel. Forced pairings work because they push you out of the categories you already think in.
 
--   Combining features from various solutions can lead to innovative outcomes with unexpected synergies.
--   Example: Merging smartphone features with a traditional camera for a new type of portable photography device.
+## When Have You Diverged Enough?
 
-### Adapt {.unnumbered}
+Judge the pool on three measures, not one.
 
--   Adapting solutions to new contexts or needs broadens the range of possibilities and introduces a diversity of ideas.
--   Example: Adjusting an existing product to fit a different market or user need.
+**Quantity (fluency).** The raw count. It matters because good ideas are a proportion of all ideas, but count only distinct concepts — twenty variants of one idea is one idea.
 
-### Modify {.unnumbered}
+**Variety.** Sort the pool into groups. If everything lands in two or three clusters, you have explored a narrow slice of the possible and should return to recombination with a different constraint.
 
--   Modifying or exaggerating aspects of a solution encourages radical thinking and novel idea generation.
--   Example: Exaggerating a feature to see how it changes the functionality or appeal of a product.
+**Novelty.** How far the pool reaches beyond the obvious. Keep the seemingly infeasible ideas. They are frequently unusable as stated and frequently the parent of something usable.
 
-### Put to Another Use {.unnumbered}
+![Measures of creativity](images/Novelty_Graphic_web.jpg){width="60%"}
 
--   Encourages thinking about how a solution could solve different problems or fit new contexts.
--   Example: Finding a new application for a technology in a different industry.
+A pool that is large, varied, and reaching is ready for screening. A pool that is large but narrow is not — it is one idea wearing many hats, and screening it will simply hand that idea back to you.
 
-### Eliminate {.unnumbered}
+## What You Carry Forward
 
--   Simplifying a solution by removing elements can reveal its core value and lead to streamlined, efficient innovations.
--   Example: Removing a complex feature to simplify user interaction.
+You entered this chapter with a validated pain and no solution. You leave it with a pool of candidates, deliberately built rather than stumbled into: cards stocked, candidates generated in volume, and the best of them worked into better ones.
 
-### Reverse {.unnumbered}
+That pool is the whole point. An innovator who fixates on a single idea is making a low-probability bet and usually does not know it — the idea feels compelling precisely because there is nothing beside it for comparison. Breadth is what makes the next chapter's screening meaningful, and screening is what turns a pool into a choice.
 
--   Reversing the order or direction of a solution can lead to innovative breakthroughs and change perspectives.
--   Example: Reversing a process in a product to explore new ways of operation or use.
-
-SCAMPER encourages a structured yet flexible approach to creative exploration, making it highly effective for expanding the adjacent possible in problem-solving. By examining problems and solutions from various perspectives, it fosters a rich set of potential innovations.
-
-## Conclusion
-
-In the journey of innovation, Pauling's rule — that good ideas come from having many of them — rings particularly true. This mirrors the earlier stage of accumulating a mountain of data to discover a viable pain hypothesis. Similarly, creating a mountain of solution ideas enhances the probability of uncovering a truly effective solution.
-
-### Embracing Quantity, Variety, and Novelty {.unnumbered}
-
--   Generating a large quantity of ideas increases the odds of including valuable ones.
--   Encouraging variety in ideation ensures exploration of different perspectives and contexts, further enriching the pool of ideas.
--   Fostering novelty pushes boundaries and can lead to groundbreaking innovations that might otherwise be overlooked.
-
-Innovators who fixate on a single idea risk the pitfall of low probability success. This singular focus often lacks the necessary breadth (quantity), diversity (variety), and innovation (novelty) crucial for generating impactful ideas. Such an approach contributes to the high failure rate commonly seen in innovation and entrepreneurship endeavors.
-
-### Beyond the First Idea {.unnumbered}
-
--   It's crucial to resist the urge to immediately test the first idea with customers. While this might seem efficient, it often leads to missed opportunities and potential failure.
--   A careful and deliberate process of ideation, as outlined in this chapter, significantly enhances the quality of the idea pool.
-
-As we transition from ideation to the next phase of innovation, remember Linus Pauling's wisdom on the importance of discarding bad ideas. Our next challenge lies in effectively sifting through our collection of ideas, identifying and retaining those with the most promise while letting go of the rest. This selective process is critical in steering our innovation journey towards success.
+Which is Pauling's second half, and the next chapter's work: learning which of them to throw away.

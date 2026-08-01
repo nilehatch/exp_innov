@@ -43,7 +43,7 @@ book:
         - Hypothesize_Pain.qmd
         - Validate_Pain.qmd
 
-    - part: "Build and Test Solutions"
+    - part: Build_Solutions_part.qmd  # "Build and Test Solutions"
       chapters:
         - Ideate_Solutions.qmd
         - Hypothesize_Solution.qmd
