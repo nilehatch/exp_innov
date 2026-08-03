@@ -73,6 +73,7 @@ book:
         - toolkit/Abduction_Guide.qmd
         - toolkit/Prioritize_Pain_Guide.qmd
         - toolkit/Test_Pain_Guide.qmd
+        - toolkit/Pain_Statement_Gallery.qmd
         - toolkit/_solution_guides_separator.qmd
 
     - part: demo/demo-halo-alert.qmd  # "Demonstration: Halo Alert"

@@ -133,6 +133,10 @@ A good pain hypothesis is:
 - **Grounded.** It comes from your empathy work — clusters, personas, maps.  
 - **Testable.** You can take it back to people and see if they nod vigorously or shrug.  
 
+::: {.callout-tip title="See the Near-Misses"}
+Reading good pain statements is not enough — you will recognise your own concept in one and carry on writing what you were already writing. The [Pain Statement Gallery](toolkit/Pain_Statement_Gallery.qmd) sets weak statements beside stronger ones and names what changed. Most people need the contrast before the distinction becomes usable.
+:::
+
 ::: {.callout-warning  title = "The Danger of 'Problem Mapping'"}
 It’s easy to start with a big, vague problem and then design a clever solution that tackles one corner of it. The catch? If that corner doesn’t touch a *real pain* your people actually feel, customers won’t care.  
 
