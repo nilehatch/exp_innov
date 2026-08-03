@@ -4,10 +4,11 @@ name: Publish to Netlify
 #
 # The book contains R figure chunks (the tyranny-of-the-market chart in
 # Choose_People_part.qmd and two Halo Alert demo figures), but this workflow
-# never installs R: execute.freeze is `true` in _quarto.yml, so `quarto render`
-# uses the committed _freeze/ results instead of re-executing. To refresh a
-# figure, render that single .qmd locally (a single-file render always
-# executes), then commit the updated _freeze/.
+# never installs R: execute.freeze is `auto` in _quarto.yml, so `quarto render`
+# uses the committed _freeze/ results as long as the source is unchanged. If a
+# chunk's source HAS changed and the freeze was not committed, the runner has
+# no R and the build fails loudly here rather than publishing stale output.
+# Always commit _freeze/ alongside any edit to a document containing a chunk.
 #
 # scripts/sync-refs.py runs as a pre-render hook. The Zotero master export does
 # not exist on the runner; the script detects that, prints a notice, and exits 0

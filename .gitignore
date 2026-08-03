@@ -19,3 +19,7 @@ __pycache__/
 *.pyc
 
 **/*.quarto_ipynb
+
+# Claude Code local settings (permission rules, machine-specific)
+/.claude/settings.local.json
+/.claude/settings.local.json.bak-doctor
