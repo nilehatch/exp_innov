@@ -107,16 +107,15 @@ node geometry are all derived, and editing one breaks the family's consistency.
 - Show `git diff --stat` after changes.
 - Small commits, one logical unit each, message explaining *why*.
 
-## Known cruft — do not be confused by it
+## Two things that look like bugs and are not
 
-- `toolkit/Pain_Hypothesis_Guide.qmd` is an orphan: on disk, not in `_quarto.yml`,
-  not linked from anywhere. Superseded, not yet deleted.
-- `base_old.css` and `custom_EI_old.css` are pre-canonical leftovers.
-- Two project files exist, `Exp_Innov.Rproj` and `Ent_Innov.Rproj`. Neither is
-  used; the editor is VS Code or Cursor, not RStudio.
 - `_solution_guides_separator.qmd` and `demo/_diamond3-separator.qmd` are the last
   entries in their parts because the content after them is unwritten. That is the
   book's largest gap, not a config error.
+- `collapse-parts.html` exists but is commented out of `_quarto.yml`. Parked
+  deliberately; leave it unless asked.
+
+The editor is VS Code or Cursor. Do not assume RStudio or add `.Rproj` files.
 
 ## Notes and audits go to the vault, not here
 
