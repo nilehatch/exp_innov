@@ -1,76 +1,102 @@
 ---
-title: "Cast a Wide Net" 
+title: "Cast a Wide Net"
 subtitle: "Diverge by exploring many possible communities before you choose your people"
 id: sec-diverge-people-chapter
 ---
 
-> “If you only fish where it’s easy to cast, you may miss the part of the lake teeming with fish.”
+> "If you only fish where it's easy to cast, you may miss the part of the lake teeming with fish."
 
-## Diverge Identifying Communities of People
+## Diverge: Identifying Communities of People
 
 ![The People Diamond begins with divergent exploration: opening wide before narrowing to one community.](images/d1-diverge.svg){fig-align="center"}
-Most entrepreneurs start with a hunch about *what* to build. Expeditionary innovation starts with *who*. The first diamond of the process begins not with a decision, but with divergence: a deliberate effort to explore widely before you commit.  
 
-Your goal here is not to choose the perfect group right away. It is to map the human landscape around a meaningful problem space. That means resisting the pull of convenience — the temptation to pick people who are familiar, nearby, or easy to reach. True discovery requires looking past the obvious.
+Most entrepreneurs start with a hunch about *what* to build. Expeditionary innovation starts with *who*. This diamond begins not with a decision but with divergence: a deliberate effort to look widely before you commit to anything.
 
+Your goal here is not to find the perfect group. It is to map the human landscape around a problem space, so that when you do choose, you are choosing from a real field of options rather than from the first thing that came to mind.
 
+That is harder than it sounds, because there is a strong pull toward whoever is easy to reach. Roommates. Classmates. Whoever answered the group chat. Choosing them is not a small shortcut; it is the most common way this phase fails, and it fails quietly. You will get interviews. You will get data. It will simply be data about the wrong people, and you will not find out until much later, when the pain you validated turns out to belong to nobody in particular.
 
 ## 1. Anchor in a Problem Space
 
-Every expedition needs a point of departure. For innovators, that means choosing a domain of friction, tension, or unresolved struggle in the world. It could be broad (“stress in education”) or narrow (“safety during the walk between subway and home”). What matters is that it *matters* — to real people, in tangible ways.  
+Every expedition needs a point of departure. For innovators, that means choosing a domain of friction, tension, or unresolved struggle in the world. It could be broad ("stress in education") or narrow ("safety during the walk between subway and home"). What matters is that it *matters*, to real people, in tangible ways.
 
-Start with a space, not a solution. Don’t ask “what can we build?” Ask: *where is life harder than it needs to be?* Anchors like these frame your exploration without narrowing it too soon.
+Start with a space, not a solution. Do not ask "what can we build?" Ask: *where is life harder than it needs to be?* An anchor like that frames your exploration without closing it down.
 
 ::: {.callout-tip title="Examples of Problem Spaces"}
-- Food insecurity in mid-sized cities  
-- The burden of caregiving for aging parents  
-- Housing instability for gig workers  
-- Safety concerns for women commuting alone  
-- Quiet pressures faced by first-generation college students  
+- Food insecurity in mid-sized cities
+- The burden of caregiving for aging parents
+- Housing instability for gig workers
+- Safety concerns for women commuting alone
+- Quiet pressures faced by first-generation college students
 :::
 
----
+Notice what those have in common. Each names a *situation people live in*, not a product category and not a problem someone has already solved. "Better project management software" is a solution wearing a problem's clothes. "The chaos of coordinating volunteers across three congregations" is a place you could go and look.
 
 ## 2. Generate Communities
 
-With a problem space in view, identify groups who live inside it. These may be formal (veterans, refugee families) or loosely defined (single parents, gig workers, late-night commuters). Your task here is range, not refinement.  
+With a problem space in view, identify groups who live inside it. These may be formal (veterans, refugee families) or loosely defined (single parents, gig workers, late-night commuters). Your task here is range, not refinement.
 
-Push beyond the obvious. If your anchor is school stress, don’t stop at “students.” Think about anxious high achievers, burned-out teachers, parents navigating special education, teens facing cultural stigma. Each new group adds dimension — and increases the chance you’ll spot those left out by the mainstream.
+Push beyond the obvious. If your anchor is school stress, do not stop at "students." Think about anxious high achievers, burned-out teachers, parents navigating special education, teens facing cultural stigma. Each new group adds a dimension, and each raises the chance you will spot someone the mainstream has left out.
 
 ::: {.callout-tip title="Prompts for Community Generation"}
-- Who experiences this problem most intensely?  
-- Who is largely ignored by existing solutions?  
-- Who has adapted in ways no one is paying attention to?  
-- Who is talking about this — but not being heard?  
+- Who experiences this problem most intensely?
+- Who is largely ignored by existing solutions?
+- Who has adapted in ways no one is paying attention to?
+- Who is talking about this, but not being heard?
 :::
 
+### A group is not a demographic
+
+Here is the trap that catches the most ambitious teams, and it catches them *because* they are ambitious.
+
+You pick a group that sounds impressively large. *Small business owners.* *College students.* *Working parents.* Then you interview twenty of them and the results come back incoherent: every conversation surfaces a different concern, nothing repeats, and you conclude these people have no shared pain.
+
+They may well have one. But you would not have seen it. What happened is that you interviewed one or two people from each of a dozen genuinely different communities and then averaged them together. A dog groomer, a freelance illustrator, and a franchise restaurant owner are all small business owners, and they share almost nothing about how their days go wrong.
+
+::: {.column-margin .def-margin}
+**Community** — a set of people shaped by the same constraints, not merely sharing a category. Same pressures, same workarounds, same things that make a Tuesday hard.
+:::
+
+A community, here, is a set of people **shaped by the same constraints**. Not the same census box: the same pressures, the same workarounds, the same things that make a Tuesday hard. When you can say *these people all have to deal with X*, you have a group. When all you can say is *these people are all between 25 and 34*, you have a demographic, and demographics do not have pains.
+
+The test is quick: could you write one sentence describing a bad day that most of this group would recognise? If not, the group is too broad, and no amount of interviewing will repair it.
 
 ## 3. Profile the People
 
-Once you have a list, sketch out what daily life might look like for each group. These are not full personas yet — just rough portraits of lived experience.  
+Once you have a list, sketch what daily life might look like for each group. These are not full personas yet, just rough portraits of lived experience.
 
-Ask: What pressures do they face? What workarounds have they normalized? What invisible effort goes into making things “work”?  
+Ask: What pressures do they face? What workarounds have they normalised? What invisible effort goes into making things work?
 
-You might see patterns like: juggling conflicting roles, adapting systems not designed for them, or quietly tolerating delays and confusion. Profiling helps you imagine context, not just categories. It’s empathy in its earliest form.
+You might see patterns like juggling conflicting roles, adapting systems not designed for them, or quietly tolerating delays and confusion. Profiling helps you imagine context, not just categories. It is empathy in its earliest form.
 
----
+These profiles are guesses, and it is worth saying so plainly: everything you write at this stage is a hypothesis about people you have not met. The purpose is not to be right. It is to be specific enough to be *wrong* in a way you will notice, so that when you get into the field the gap between what you imagined and what you find is visible instead of invisible.
 
 ## 4. Map the Orbit
 
-No one navigates life alone. For each group you profile, ask who else shapes their experience — family members, supervisors, landlords, caseworkers, or online influencers. These “orbit roles” often hold keys to problems and solutions alike.  
+No one navigates life alone. For each group you profile, ask who else shapes their experience: family members, supervisors, landlords, caseworkers, online influencers. These orbit roles often hold keys to the problem and to the solution.
 
 Mapping the orbit prevents you from thinking too narrowly. It reminds you that innovation rarely emerges from isolated individuals; it emerges from patterns of interaction and constraint.
 
----
-
-Use the [People Divergence Sprint](toolkit/People_Diverge_Guide.qmd) from the toolkit to widen the net you cast in in search of neglected or disenfranchised communities.  Also, review the [Halo Alert Demo](demo/exp-01-diverge-people-2025-02-19.qmd) to see how a team kept expanding their focus on commuters.
+It has a practical use too. Orbit roles are frequently your way *in*. If your people are hard to reach directly (nurses mid-shift, teenagers, people in crisis), the person beside them often is not, and a charge nurse or a school counsellor or a support-group moderator can open a door that a cold message never will. Some of the orbit you map here will become your access strategy two chapters from now.
 
 ---
+
+Use the [People Divergence Sprint](toolkit/People_Diverge_Guide.qmd) from the toolkit to widen the net you cast in search of neglected or disenfranchised communities. Also review the [Halo Alert Demo](demo/exp-01-diverge-people-2025-02-19.qmd) to see how a team kept expanding their focus on commuters.
+
+---
+
+## How Wide Is Wide Enough?
+
+There is no magic count, but there is a useful signal: keep generating until the groups stop being variations on the one you started with.
+
+Most first lists are a single idea wearing five outfits: students, college students, undergraduates, freshmen, first-years. That looks like divergence and is not. You have actually diverged when the list contains groups that would require genuinely different research: different places to go, different people to ask, different assumptions to check.
+
+A second signal. At least one group on your list should make you slightly uncomfortable, because you know nothing about them. If you could describe every group confidently from your own experience, you have mapped your own life rather than the problem space.
 
 ## A Pause Before Convergence
 
-At the end of divergence, you are not ready to choose. You are ready to reflect.  
+At the end of divergence, you are not ready to choose. You are ready to reflect.
 
-Which groups seem most underserved? Which ones live with friction that incumbents ignore? Which ones are observable and reachable in practice?  
+Which groups seem most underserved? Which live with friction that incumbents ignore? Which are observable and reachable in practice?
 
-These questions belong to the next stage: **convergence**. But the strength of your choice later depends on the breadth of your exploration now. By diverging widely, you escape the trap of convenience, resist premature guessing, and lay the foundation for genuine discovery.
+Those questions belong to the next stage. But the strength of your choice later depends on the breadth of your exploration now. Diverge widely and you escape the trap of convenience, resist premature guessing, and give yourself a real decision to make.

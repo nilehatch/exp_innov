@@ -3,20 +3,20 @@
 
 ## Why We Start With People {.unnumbered}
 
-Every expedition begins with a choice of direction. In innovation, that choice is not about *what to build* but *who to learn from*.  
+Every expedition begins with a choice of direction. In innovation, that choice is not about *what to build* but *who to learn from*.
 
-The first diamond of expeditionary innovation is about people: diverging to explore many possible communities, converging to select one, and testing whether you can truly access them. 
+This diamond diverges to explore many possible communities, converges on one, and then tests whether you can actually get to them. That last step is the point of the whole phase.
 
 ![Diverge and converge to choose a community of people and then test your access to them.](images/diamond-1.svg){#fig-people-diamond-3 fig-align="center"}
 
-This choice matters more than it seems, because everything downstream — the needs you uncover, the solutions you design, even the shape of your venture — flows from it.  
+> *The question this diamond answers: can you actually reach these people?*
 
-But here’s the good news: **you cannot choose “wrong.”**  
+Everything downstream flows from this choice: the needs you uncover, the solutions you design, the shape of the venture. But the reason it comes first is more practical than that. A need you cannot get near is not an opportunity. You cannot learn from people you cannot find, and you will not be able to sell to them later either. Most frameworks assume this question is already settled. It usually is not.
 
 
 ## The Tyranny of the Market {.unnumbered}
 
-Markets are not fair. They reward the mainstream and neglect the edges. Over time, incumbents cluster around the average customer, optimizing for the largest segment. That leaves others — smaller, harder to reach, or less visible — perpetually underserved.  
+Markets are not fair. They reward the mainstream and neglect the edges. Over time, incumbents cluster around the average customer, optimizing for the largest segment. That leaves others (smaller, harder to reach, or less visible) perpetually underserved.  
 
 These people live under the *tyranny of the market*:
 
@@ -122,13 +122,14 @@ geom_label(
 #ggsave("tyranny_market.svg", plot = my_plot, width = 8, height = 6, dpi = 300)
 ```
 
-This tyranny guarantees that unmet needs exist in **every community you might choose**. Some will be obvious, others subtle. But if you do the work of ethnographic discovery — listening, observing, probing — you will find them. That is why expeditionary innovation works so reliably. The edges are always there.  
+The tyranny of the market is not a lapse that someone is about to correct. It is what a working market produces, which is why you can start almost anywhere and expect to find people whose needs go unmet. Do the work of ethnographic discovery, listening and observing and probing, and you will find them.
 
+What that does not promise is that the needs you find will be reachable, or that any one of them is worth a business. Those are different questions, and this diamond and the next exist to answer them. The abundance of unmet need is what makes the search worth starting. It says nothing about where the search ends.
 
 
 ## Righting a Wrong {.unnumbered}
 
-When you choose a group to study, you’re not just looking for opportunity. You’re stepping into an injustice — a place where people have been forced to make do because no one has designed with them in mind.  
+When you choose a group to study, you’re not just looking for opportunity. You’re stepping into an injustice: a place where people have been forced to make do because no one has designed with them in mind.  
 
 Choosing people at the edges is an act of service. You are saying:  
 - *We see you.*  
@@ -141,12 +142,11 @@ That commitment doesn’t just build better ventures; it builds loyalty. People 
 
 ## Why Any Group Can Work {.unnumbered}
 
-Entrepreneurs often get stuck here, worrying that if they pick the “wrong” group, they’ll waste their effort. Expeditionary innovation flips that fear:  
+Entrepreneurs get stuck here, afraid that picking the wrong group will waste months. That fear is worth defusing, but not by pretending the choice does not matter.
 
-- If you choose **carelessly** (say, out of convenience), you may waste time chasing shallow signals.  
-- But if you choose **deliberately**, and commit to access, *any group will reveal unmet needs*.  
+You are much less likely to choose wrong than you fear. Almost any coherent community contains unmet needs, so the odds that you have picked a barren one are low. What you *can* do is choose **badly**: out of convenience, or so broadly that the group shares nothing but a label. Those choices cost real time, and they are common.
 
-The constraint is not the market; it is you. Can you observe them in context? Can you engage them in real conversations? Will they open up enough for you to see what they’ve normalized? If the answer is yes, then the tyranny of the market ensures that needs will surface.  
+The constraint is rarely the market. It is usually access. Can you observe these people in context? Can you get real conversations rather than polite ones? Will they open up enough to show you what they have stopped noticing? This diamond ends with a test of exactly that, and the test exists because the answer is sometimes no. Finding that out in week two is cheap. Finding it out in month four is not.
 
 ---
 
@@ -160,7 +160,7 @@ In this part of the book, you’ll learn how to:
 
 Alongside the narrative chapters, you’ll find practical guides and demonstrations from the Halo Alert project, showing how these methods play out in practice.  
 
-By the end of this part, you will not just have “chosen a target audience.” You’ll have committed to a community — one whose unmet needs are waiting to be uncovered, and whose lives can be changed when you find them.  
+By the end of this part, you will not just have “chosen a target audience.” You’ll have committed to a community, one whose unmet needs are waiting to be uncovered, and whose lives can be changed when you find them.  
 
 
 --- 

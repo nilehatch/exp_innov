@@ -1,113 +1,111 @@
 ---
-title: Test Your Access 
+title: Test Your Access
 subtitle: Can you really reach them?
 id: sec-test-people-chapter
 ---
 
-<!--
-::: callout-note
-**How to Use This Chapter**  
-Don’t just read — practice. Pair this chapter with the [Access Test Guide](toolkit/People_Test_Guide.qmd) and review the [Halo Alert - Access Test Demo](demo/exp-03-access-test.qmd). The chapter explains *why* access testing matters; the worksheet and demo show you *how to run one yourself*.  
-:::
--->
-
 ## Run an Access Test {.unnumbered}
 
 ![Test whether you have sufficient access to your people.](images/d1-test.svg){fig-align="center"}
-By now, you’ve chosen a group of people to focus on — not just as an audience, but as the starting point of your innovation journey. You’ve explored widely, converged thoughtfully, and selected with care. But before you dive into deep research, there’s one more step that can save you enormous time and frustration: **access testing**.
 
-This is where you ask a simple but essential question: *Can we actually reach the people we want to learn from?*
+You have chosen a group of people to focus on. You explored widely, converged thoughtfully, and selected with care. Before you spend months learning from them, there is one step that can save you all of it: **access testing**.
 
-It’s easy to assume that because you can imagine your people, you can also find and talk to them. But innovation fails when teams build for people they cannot observe, engage, or understand. Access testing protects you from designing in a vacuum.
+The question is simple. *Can we actually reach the people we want to learn from?*
 
----
+It is easy to assume that because you can imagine your people, you can find and talk to them. But ventures fail when teams build for people they cannot observe or engage. This is the gate that closes the first diamond, and it is the cheapest gate in the book. A few days here can prevent a wasted quarter.
 
-### What Counts as Access?
+## What Counts as Access
 
-Access isn’t just about sending a survey or getting a few people to answer DMs. It’s about confirming that you can build a reliable, ethical, and ongoing channel of interaction. For your access test to pass, you need to satisfy **all three conditions**:
+Access is not sending a survey or getting a few replies to a direct message. It is confirming that you can build a reliable, ethical, ongoing channel of interaction. Three conditions, all of them:
 
-1. **You can find them.**  
-   You know where they gather — online or offline — and can reliably locate them. This might mean a subreddit, a neighborhood, a school, a profession, or a specific setting like a hospital waiting room.
+1. **You can find them.** You know where they gather, online or offline, and can reliably locate them: a subreddit, a neighbourhood, a school, a profession, a hospital waiting room.
 
-2. **You can engage them.**  
-   There’s a viable way to initiate interaction: surveys, interviews, conversations, observations, social media engagement. The format should fit their lifestyle and comfort zone.
+2. **You can engage them.** There is a viable way to start an interaction, whether that is conversation, observation, or something in between. The format has to fit their lives, not yours.
 
-3. **They respond — and open up.**  
-   Access isn’t just reach. It’s **reciprocity**. Your people reply, share, reflect, and reveal. They’re willing to talk, and they’re willing to go deeper.
+3. **They respond, and they open up.** Access is not reach; it is reciprocity. Your people reply, reflect, and reveal. They are willing to talk, and willing to go past the first answer.
 
 ::: {.callout-tip title="Minimum Conditions for a Passed Access Test"}
-- You know **where** your people are  
-- You can **interact** with them directly  
-- They are **responsive and willing to engage**  
+- You know **where** your people are
+- You can **interact** with them directly
+- They are **responsive and willing to engage**
 :::
 
-If any of these are missing, your access isn’t yet strong enough. And that’s not a failure — it’s a signal. Better to learn this now, while there’s still time to adjust.
+Miss any one of them and your access is not yet strong enough. That is not failure. It is a signal, arriving while it is still cheap to act on.
 
----
+## What You Actually Do
 
-### What You Actually Do
+A good access test is low effort and high signal. You are not gathering findings yet; you are testing your ability to gather them later. It might look like:
 
-A good access test is low-effort but high-signal. You’re not gathering formal data yet — you’re testing your ability to gather it later. That might look like:
+- posting an open question in a relevant group or subreddit
+- sending cold messages to five or ten potential participants
+- visiting a physical location to watch the flow and see who is available
+- asking for brief conversations and tracking how many say yes
 
-- Posting an open-ended question in a relevant group or subreddit  
-- Sending cold messages or emails to 5–10 potential participants  
-- Visiting a physical location to observe flow and availability  
-- Asking for brief conversations and tracking how many say yes
+Keep score while you do it. Not elaborately, but write down how many you approached, how many answered, and how long the answers were. A test you cannot summarise in numbers is an impression, and impressions are generous to whatever you already believed.
 
-You’re looking for early traction — signs that your group is not just real, but **reachable** in ways that matter.
+Two or three rich conversations from ten honest attempts is a pass. Twenty polite one-line replies is not, and it is the result most likely to be mistaken for one.
 
----
+## The Trap of the Easy Yes
 
-### What Happens If You Struggle?
+The most dangerous outcome of an access test is not silence. It is agreeable people who are not your people.
 
-If your messages go unanswered, if you can’t find where your people spend time, or if conversations fizzle after two sentences, pay attention. The issue might not be your concept — it might be your choice of people.
+Friends, classmates, and family will answer. They will be generous with their time and tell you what you hoped to hear, because they want you to succeed. Their responses feel like validated access and are nothing of the sort. If your respondents are mostly people who would return your call for reasons unrelated to the problem, you have tested your social network rather than your access.
 
-You may need to **loop back** to your short list from convergence and try again. This isn’t wasted time — it’s forward progress. It means you’re protecting yourself from building for an invisible audience.
+The check is direct: *if I did not know this person, would they still have talked to me?* If the answer is no for most of your sample, run the test again through a channel where nobody owes you anything.
 
-::: {.callout-warning title="When Access Isn’t Working"}
-- You can’t find where your people spend time — physically or online  
-- You rely entirely on personal connections (friends, classmates, roommates)  
-- People are willing to talk but only give surface-level responses  
-- Your target group is too broad to locate or segment effectively  
-- You’re targeting vulnerable or stigmatized groups without a path through gatekeepers or clear ethical strategy  
-- You assume access is working because one person responded — but can’t replicate that across the group  
+## When It Is Not Working
+
+If your messages go unanswered, if you cannot find where your people spend time, or if conversations die after two sentences, pay attention. The problem might not be your concept. It might be your choice of people.
+
+::: {.callout-warning title="When Access Isn't Working"}
+- You can't find where your people spend time, physically or online
+- You rely entirely on personal connections (friends, classmates, roommates)
+- People are willing to talk but only give surface-level responses
+- Your target group is too broad to locate or segment effectively
+- You're targeting vulnerable or stigmatised groups without a path through gatekeepers or a clear ethical strategy
+- You assume access is working because one person responded, but can't repeat it
 :::
 
+You have three moves, and they are not equally good.
+
+**Change the channel.** Often the group is reachable and your route to them is not. A cold message fails where a gatekeeper introduction succeeds. Go back to the orbit you mapped during divergence: the charge nurse, the group moderator, the school counsellor. This is the first thing to try, and it works more often than teams expect.
+
+**Redefine the group.** Sometimes a slight shift makes an unreachable population reachable, and the shift is often *toward* the orbit rather than away from it. Not "people in crisis" but "the volunteers who staff the line."
+
+**Go back to your shortlist.** If neither works, return to convergence and choose again. This is not lost time. It is the first diamond doing precisely what it exists to do, at the only point where the correction is still cheap.
+
+## A Word About Sampling
+
+We return to sampling in the next chapter, but it is worth saying now: **access problems almost always become sampling problems.** If you only talk to people who are close to you, unusually responsive, or especially available, your findings will lean the way those people lean. A passed access test tells you that you can reach a broad slice of your chosen group, not just the easy few.
+
+The bias is quiet and it compounds. Every later stage inherits the sample this one produced.
+
+## You Are Still Defining Your People
+
+Even though you have chosen a group, you have not fully defined it. That definition will sharpen as you learn what pain unites them. You started with socio-demographic clues (age, role, setting) and will end up defining your people by **shared unmet needs**.
+
+When those needs start to surface, your early conversations may sound chaotic. Different themes from different people often means you are talking to several pain subgroups at once. That is not failure; it is how discovery works. You will converge again later, using personas and experience maps to find the boundary that pain draws rather than the one demographics drew.
+
+Keep listening. The real community is only beginning to take shape.
+
 ---
 
-### A Word About Sampling
-
-We’ll return to the topic of sampling in the next chapter. But it’s worth saying now: **access problems almost always lead to sampling bias**. If you only talk to people who are close to you, highly responsive, or especially available, your insights will skew. A successful access test tells you that you can reach a broad and representative slice of the group you’ve chosen — not just the easy-to-find few.
+Before moving on, run one yourself. Use the [Access Test Guide](toolkit/People_Test_Guide.qmd) to design and run a quick access check with your chosen group, and see how the Halo Alert team confirmed access in their [Access Test Demo](demo/exp-03-access-test.qmd).
 
 ---
 
-### Note: You’re Still Defining Your People
+## What You Need to Move Forward
 
-Even though you’ve “chosen” your group, you haven’t fully defined them. Not yet. That definition will evolve as you learn what pain unites them. You started with socio-demographic clues — age, role, setting — but you’ll eventually define your people by **shared unmet needs**.
+You are ready to begin ethnographic discovery when:
 
-When those needs start to surface in the next stage, your early conversations may sound chaotic. If you’re hearing different themes, it may be because you’re talking to **multiple pain subgroups**. That’s not a failure — it’s how discovery works. You’ll converge again later, using personas and journey maps to isolate pain-defined boundaries.
+- you can locate your people in specific places or digital communities
+- you can interact with them in a format that matches their lives
+- they respond, not once, but with depth and openness
+- you are not relying on convenience or personal connection
+- you are prepared to redefine "your people" as patterns emerge
 
-If this happens, don’t worry — it’s part of the process. Keep listening. The real community is just beginning to take shape.
+Access is not a checkbox. It is a gate, and the first diamond is not finished until you have passed through it on evidence rather than assumption.
 
----
+What comes next is discovery. You will step into their world not to confirm what you expect but to learn what they cannot yet articulate: the quiet signals of persistent pain, the workarounds they stopped noticing, the needs they do not know they have.
 
-Before moving forward, try it yourself. Use the [Access Test Guide](toolkit/People_Test_Guide.qmd) to design and run a quick access check with your chosen group. For inspiration, see how the **Halo Alert team** confirmed access in their [Access Test Demo](demo/exp-03-access-test.qmd).
-
----
-
-### What You Need to Move Forward
-
-You’re ready to begin ethnographic discovery when:
-
-- You can locate your people in specific places or digital communities  
-- You can interact with them in a format that matches their lives  
-- They respond — not just once, but with depth and openness  
-- You know you’re not relying solely on personal convenience samples  
-- You’re prepared to adapt your definition of “your people” as patterns emerge  
-
-Access isn’t a checkbox. It’s a gate. Pass through it, and your expedition can begin in earnest.
-
-You’ve now chosen a group, confirmed you can reach them, and begun to feel the pull of their experience. What comes next is discovery — the core of ethnographic exploration. You’ll step into their world not to validate assumptions, but to learn what they cannot yet articulate: the quiet signals of persistent pain, workarounds they’ve normalized, and needs they may not yet know they have.
-
-This is where real innovation begins — with curiosity, humility, and proximity. You’re no longer circling from a distance. You’re entering the field.
-
+You are no longer circling from a distance. You are entering the field.
