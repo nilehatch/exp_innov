@@ -52,18 +52,18 @@
 <polygon points='197.68,345.47 251.98,385.60 251.98,76.35 197.68,116.48 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #AACDE3;' />
 <polygon points='251.98,385.60 306.27,425.73 306.27,36.22 251.98,76.35 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #93BFDB;' />
 <polygon points='470.93,305.34 571.53,230.98 470.93,156.62 ' style='stroke-width: 1.92; stroke: #DCDFE3; stroke-linecap: butt;' />
-<text transform='translate(338.52,230.98) rotate(-90)' text-anchor='middle' style='font-size: 9.67px;fill: #AEB6BD; font-family: "Fira Sans";' textLength='100.16px' lengthAdjust='spacingAndGlyphs'>Cluster around themes</text>
-<text transform='translate(392.82,230.98) rotate(-90)' text-anchor='middle' style='font-size: 9.67px;fill: #AEB6BD; font-family: "Fira Sans";' textLength='78.44px' lengthAdjust='spacingAndGlyphs'>Develop personas</text>
-<text transform='translate(173.87,230.98) rotate(-90)' text-anchor='middle' style='font-size: 9.67px;fill: #1F2937; font-family: "Fira Sans";' textLength='26.44px' lengthAdjust='spacingAndGlyphs'>Listen</text>
-<text transform='translate(447.11,230.98) rotate(-90)' text-anchor='middle' style='font-size: 9.67px;fill: #AEB6BD; font-family: "Fira Sans";' textLength='74.06px' lengthAdjust='spacingAndGlyphs'>Map experiences</text>
-<text transform='translate(119.57,230.98) rotate(-90)' text-anchor='middle' style='font-size: 9.67px;fill: #1F2937; font-family: "Fira Sans";' textLength='36.08px' lengthAdjust='spacingAndGlyphs'>Observe</text>
-<text transform='translate(501.43,230.98) rotate(-90)' text-anchor='middle' style='font-size: 9.67px; font-weight: bold;fill: #AEB6BD; font-family: "Fira Sans";' textLength='19.11px' lengthAdjust='spacingAndGlyphs'>Pain</text>
-<text transform='translate(228.16,230.98) rotate(-90)' text-anchor='middle' style='font-size: 9.67px;fill: #1F2937; font-family: "Fira Sans";' textLength='40.52px' lengthAdjust='spacingAndGlyphs'>Role play</text>
-<text transform='translate(282.46,230.98) rotate(-90)' text-anchor='middle' style='font-size: 9.67px;fill: #1F2937; font-family: "Fira Sans";' textLength='86.61px' lengthAdjust='spacingAndGlyphs'>Secondary research</text>
+<text transform='translate(339.01,230.98) rotate(-90)' text-anchor='middle' style='font-size: 11.10px;fill: #AEB6BD; font-family: "Fira Sans";' textLength='114.95px' lengthAdjust='spacingAndGlyphs'>Cluster around themes</text>
+<text transform='translate(393.31,230.98) rotate(-90)' text-anchor='middle' style='font-size: 11.10px;fill: #AEB6BD; font-family: "Fira Sans";' textLength='90.02px' lengthAdjust='spacingAndGlyphs'>Develop personas</text>
+<text transform='translate(174.36,230.98) rotate(-90)' text-anchor='middle' style='font-size: 11.10px;fill: #1F2937; font-family: "Fira Sans";' textLength='30.34px' lengthAdjust='spacingAndGlyphs'>Listen</text>
+<text transform='translate(447.60,230.98) rotate(-90)' text-anchor='middle' style='font-size: 11.10px;fill: #AEB6BD; font-family: "Fira Sans";' textLength='84.97px' lengthAdjust='spacingAndGlyphs'>Map experiences</text>
+<text transform='translate(120.06,230.98) rotate(-90)' text-anchor='middle' style='font-size: 11.10px;fill: #1F2937; font-family: "Fira Sans";' textLength='41.41px' lengthAdjust='spacingAndGlyphs'>Observe</text>
+<text transform='translate(501.92,230.98) rotate(-90)' text-anchor='middle' style='font-size: 11.10px; font-weight: bold;fill: #AEB6BD; font-family: "Fira Sans";' textLength='21.94px' lengthAdjust='spacingAndGlyphs'>Pain</text>
+<text transform='translate(228.65,230.98) rotate(-90)' text-anchor='middle' style='font-size: 11.10px;fill: #1F2937; font-family: "Fira Sans";' textLength='46.50px' lengthAdjust='spacingAndGlyphs'>Role play</text>
+<text transform='translate(282.95,230.98) rotate(-90)' text-anchor='middle' style='font-size: 11.10px;fill: #1F2937; font-family: "Fira Sans";' textLength='99.36px' lengthAdjust='spacingAndGlyphs'>Secondary research</text>
 <text x='293.44' y='23.93' text-anchor='end' style='font-size: 8.82px; font-weight: bold;fill: #9CA3AF; font-family: "Fira Sans";' textLength='33.64px' lengthAdjust='spacingAndGlyphs'>DIVERGE</text>
 <text x='307.16' y='23.93' text-anchor='middle' style='font-size: 8.82px; font-weight: bold;fill: #9CA3AF; font-family: "Fira Sans";' textLength='2.11px' lengthAdjust='spacingAndGlyphs'>·</text>
 <text x='320.88' y='23.93' style='font-size: 8.82px; font-weight: bold;fill: #9CA3AF; font-family: "Fira Sans";' textLength='42.16px' lengthAdjust='spacingAndGlyphs'>CONVERGE</text>
-<text x='89.09' y='454.85' style='font-size: 9.10px; font-weight: bold;fill: #0A659E; font-family: "Fira Sans";' textLength='71.55px' lengthAdjust='spacingAndGlyphs'>DIAMOND 2 · PAIN</text>
+<text x='89.09' y='455.94' style='font-size: 12.23px; font-weight: bold;fill: #0A659E; font-family: "Fira Sans";' textLength='96.25px' lengthAdjust='spacingAndGlyphs'>DIAMOND 2 · PAIN</text>
 <polygon points='525.86,266.92 620.05,266.92 620.05,287.99 652.27,230.98 620.05,173.97 620.05,195.03 525.86,195.03 574.48,230.98 ' style='stroke-width: 1.49; stroke: #FFFFFF; stroke-linecap: butt; fill: #DCDFE3;' />
 <text x='597.27' y='229.37' text-anchor='middle' style='font-size: 8.82px; font-weight: bold;fill: #AEB6BD; font-family: "Fira Sans";' textLength='17.41px' lengthAdjust='spacingAndGlyphs'>Pain</text>
 <text x='597.27' y='238.69' text-anchor='middle' style='font-size: 8.82px; font-weight: bold;fill: #AEB6BD; font-family: "Fira Sans";' textLength='40.67px' lengthAdjust='spacingAndGlyphs'>validation</text>

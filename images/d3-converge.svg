@@ -51,14 +51,14 @@
 <polygon points='155.20,402.31 214.25,460.50 214.25,153.26 155.20,211.46 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #E9EDF0;' />
 <polygon points='214.25,460.50 273.30,518.70 273.30,95.06 214.25,153.26 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #E9EDF0;' />
 <polygon points='452.38,387.76 561.80,306.88 452.38,226.01 ' style='stroke-width: 1.92; stroke: #E3A008; stroke-linecap: butt;' />
-<text transform='translate(367.14,306.88) rotate(-90)' text-anchor='middle' style='font-size: 9.67px;fill: #FFFFFF; font-family: "Fira Sans";' textLength='45.16px' lengthAdjust='spacingAndGlyphs'>Dot voting</text>
-<text transform='translate(308.09,306.88) rotate(-90)' text-anchor='middle' style='font-size: 9.67px;fill: #FFFFFF; font-family: "Fira Sans";' textLength='68.08px' lengthAdjust='spacingAndGlyphs'>Feasibility filter</text>
-<text transform='translate(123.90,306.88) rotate(-90)' text-anchor='middle' style='font-size: 9.67px;fill: #AEB6BD; font-family: "Fira Sans";' textLength='30.47px' lengthAdjust='spacingAndGlyphs'>Fill the</text>
-<text transform='translate(134.11,306.88) rotate(-90)' text-anchor='middle' style='font-size: 9.67px;fill: #AEB6BD; font-family: "Fira Sans";' textLength='32.05px' lengthAdjust='spacingAndGlyphs'>catalog</text>
-<text transform='translate(188.06,306.88) rotate(-90)' text-anchor='middle' style='font-size: 9.67px;fill: #AEB6BD; font-family: "Fira Sans";' textLength='39.92px' lengthAdjust='spacingAndGlyphs'>Generate</text>
-<text transform='translate(247.11,306.88) rotate(-90)' text-anchor='middle' style='font-size: 9.67px;fill: #AEB6BD; font-family: "Fira Sans";' textLength='48.98px' lengthAdjust='spacingAndGlyphs'>Recombine</text>
-<text transform='translate(426.19,306.88) rotate(-90)' text-anchor='middle' style='font-size: 9.67px;fill: #FFFFFF; font-family: "Fira Sans";' textLength='74.02px' lengthAdjust='spacingAndGlyphs'>Screening matrix</text>
-<text transform='translate(485.26,306.88) rotate(-90)' text-anchor='middle' style='font-size: 9.67px; font-weight: bold;fill: #FFFFFF; font-family: "Fira Sans";' textLength='37.27px' lengthAdjust='spacingAndGlyphs'>Solution</text>
+<text transform='translate(367.63,306.88) rotate(-90)' text-anchor='middle' style='font-size: 11.10px;fill: #FFFFFF; font-family: "Fira Sans";' textLength='51.78px' lengthAdjust='spacingAndGlyphs'>Dot voting</text>
+<text transform='translate(308.58,306.88) rotate(-90)' text-anchor='middle' style='font-size: 11.10px;fill: #FFFFFF; font-family: "Fira Sans";' textLength='78.08px' lengthAdjust='spacingAndGlyphs'>Feasibility filter</text>
+<text transform='translate(123.63,306.88) rotate(-90)' text-anchor='middle' style='font-size: 11.10px;fill: #AEB6BD; font-family: "Fira Sans";' textLength='36.75px' lengthAdjust='spacingAndGlyphs'>catalog</text>
+<text transform='translate(135.35,306.88) rotate(-90)' text-anchor='middle' style='font-size: 11.10px;fill: #AEB6BD; font-family: "Fira Sans";' textLength='34.95px' lengthAdjust='spacingAndGlyphs'>Fill the</text>
+<text transform='translate(188.54,306.88) rotate(-90)' text-anchor='middle' style='font-size: 11.10px;fill: #AEB6BD; font-family: "Fira Sans";' textLength='45.81px' lengthAdjust='spacingAndGlyphs'>Generate</text>
+<text transform='translate(247.60,306.88) rotate(-90)' text-anchor='middle' style='font-size: 11.10px;fill: #AEB6BD; font-family: "Fira Sans";' textLength='56.22px' lengthAdjust='spacingAndGlyphs'>Recombine</text>
+<text transform='translate(426.68,306.88) rotate(-90)' text-anchor='middle' style='font-size: 11.10px;fill: #FFFFFF; font-family: "Fira Sans";' textLength='84.88px' lengthAdjust='spacingAndGlyphs'>Screening matrix</text>
+<text transform='translate(485.75,306.88) rotate(-90)' text-anchor='middle' style='font-size: 11.10px; font-weight: bold;fill: #FFFFFF; font-family: "Fira Sans";' textLength='42.77px' lengthAdjust='spacingAndGlyphs'>Solution</text>
 <text x='259.34' y='32.65' text-anchor='end' style='font-size: 8.82px; font-weight: bold;fill: #9CA3AF; font-family: "Fira Sans";' textLength='33.64px' lengthAdjust='spacingAndGlyphs'>DIVERGE</text>
 <text x='274.26' y='32.65' text-anchor='middle' style='font-size: 8.82px; font-weight: bold;fill: #9CA3AF; font-family: "Fira Sans";' textLength='2.11px' lengthAdjust='spacingAndGlyphs'>·</text>
 <text x='289.19' y='32.65' style='font-size: 8.82px; font-weight: bold;fill: #9CA3AF; font-family: "Fira Sans";' textLength='42.16px' lengthAdjust='spacingAndGlyphs'>CONVERGE</text>
@@ -67,7 +67,7 @@
 <line x1='243.77' y1='69.39' x2='243.77' y2='117.74' style='stroke-width: 1.28; stroke: #E3A008; stroke-linecap: butt;' />
 <polygon points='242.07,114.80 243.77,117.74 245.47,114.80 ' style='stroke-width: 1.28; stroke: #E3A008; stroke-linecap: butt; fill: #E3A008;' />
 <text x='440.57' y='193.12' style='font-size: 7.97px; font-style: italic;fill: #8A6100; font-family: "Fira Sans";' textLength='124.03px' lengthAdjust='spacingAndGlyphs'>work the concepts into better ones</text>
-<text x='96.14' y='550.09' style='font-size: 9.10px; font-weight: bold;fill: #0A659E; font-family: "Fira Sans";' textLength='94.67px' lengthAdjust='spacingAndGlyphs'>DIAMOND 3 · SOLUTION</text>
+<text x='96.14' y='551.18' style='font-size: 12.23px; font-weight: bold;fill: #0A659E; font-family: "Fira Sans";' textLength='127.34px' lengthAdjust='spacingAndGlyphs'>DIAMOND 3 · SOLUTION</text>
 <polygon points='512.13,345.97 614.57,345.97 614.57,368.89 649.62,306.88 614.57,244.88 614.57,267.79 512.13,267.79 565.01,306.88 ' style='stroke-width: 1.49; stroke: #FFFFFF; stroke-linecap: butt; fill: #DCDFE3;' />
 <text x='589.79' y='305.28' text-anchor='middle' style='font-size: 8.82px; font-weight: bold;fill: #AEB6BD; font-family: "Fira Sans";' textLength='33.97px' lengthAdjust='spacingAndGlyphs'>Solution</text>
 <text x='589.79' y='314.59' text-anchor='middle' style='font-size: 8.82px; font-weight: bold;fill: #AEB6BD; font-family: "Fira Sans";' textLength='40.67px' lengthAdjust='spacingAndGlyphs'>validation</text>

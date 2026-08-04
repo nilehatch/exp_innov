@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='691.20pt' height='476.11pt' viewBox='0 0 691.20 476.11'>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='691.20pt' height='408.23pt' viewBox='0 0 691.20 408.23'>
 <g class='svglite'>
 <defs>
   <style type='text/css'><![CDATA[
@@ -21,61 +21,61 @@
 </defs>
 <rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
 <defs>
-  <clipPath id='cpMC4wMHw2OTEuMjB8MC4wMHw0NzYuMTE='>
-    <rect x='0.00' y='0.00' width='691.20' height='476.11' />
+  <clipPath id='cpMC4wMHw2OTEuMjB8MC4wMHw0MDguMjM='>
+    <rect x='0.00' y='0.00' width='691.20' height='408.23' />
   </clipPath>
 </defs>
-<g clip-path='url(#cpMC4wMHw2OTEuMjB8MC4wMHw0NzYuMTE=)'>
+<g clip-path='url(#cpMC4wMHw2OTEuMjB8MC4wMHw0MDguMjM=)'>
 </g>
 <defs>
-  <clipPath id='cpMC45MHw2OTAuMzB8MC4wMHw0NzYuMTE='>
-    <rect x='0.90' y='0.00' width='689.40' height='476.11' />
+  <clipPath id='cpMS4zOHw2ODkuODJ8MC4wMHw0MDguMjM='>
+    <rect x='1.38' y='0.00' width='688.44' height='408.23' />
   </clipPath>
 </defs>
-<g clip-path='url(#cpMC45MHw2OTAuMzB8MC4wMHw0NzYuMTE=)'>
-<rect x='0.90' y='0.00' width='689.40' height='476.11' style='stroke-width: 0.00; stroke: none;' />
+<g clip-path='url(#cpMS4zOHw2ODkuODJ8MC4wMHw0MDguMjM=)'>
+<rect x='1.38' y='0.00' width='688.44' height='408.23' style='stroke-width: 0.00; stroke: none;' />
 </g>
-<g clip-path='url(#cpMC4wMHw2OTEuMjB8MC4wMHw0NzYuMTE=)'>
+<g clip-path='url(#cpMC4wMHw2OTEuMjB8MC4wMHw0MDguMjM=)'>
 </g>
 <defs>
-  <clipPath id='cpMi44OXw2ODguMzF8MS45OXw0NzQuMTI='>
-    <rect x='2.89' y='1.99' width='685.41' height='472.13' />
+  <clipPath id='cpMy4zN3w2ODcuODN8MS45OXw0MDYuMjQ='>
+    <rect x='3.37' y='1.99' width='684.45' height='404.25' />
   </clipPath>
 </defs>
-<g clip-path='url(#cpMi44OXw2ODguMzF8MS45OXw0NzQuMTI=)'>
-<polygon points='244.57,392.32 287.57,360.53 287.57,115.58 244.57,83.80 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #E9EDF0;' />
-<polygon points='287.57,360.53 330.58,328.74 330.58,147.37 287.57,115.58 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #E9EDF0;' />
-<polygon points='330.58,328.74 373.58,296.96 373.58,179.16 330.58,147.37 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #E9EDF0;' />
-<polygon points='373.58,296.96 453.27,238.06 373.58,179.16 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #E9EDF0;' />
-<polygon points='34.46,238.06 114.15,296.96 114.15,179.16 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #E9EDF0;' />
-<polygon points='114.15,296.96 157.15,328.74 157.15,147.37 114.15,179.16 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #E9EDF0;' />
-<polygon points='157.15,328.74 200.16,360.53 200.16,115.58 157.15,147.37 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #E9EDF0;' />
-<polygon points='200.16,360.53 243.16,392.32 243.16,83.80 200.16,115.58 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #E9EDF0;' />
-<polygon points='373.58,296.96 453.27,238.06 373.58,179.16 ' style='stroke-width: 1.92; stroke: #E3A008; stroke-linecap: butt;' />
-<text transform='translate(269.40,238.06) rotate(-90)' text-anchor='middle' style='font-size: 9.67px;fill: #AEB6BD; font-family: "Fira Sans";' textLength='100.16px' lengthAdjust='spacingAndGlyphs'>Cluster around themes</text>
-<text transform='translate(312.41,238.06) rotate(-90)' text-anchor='middle' style='font-size: 9.67px;fill: #AEB6BD; font-family: "Fira Sans";' textLength='78.44px' lengthAdjust='spacingAndGlyphs'>Develop personas</text>
-<text transform='translate(138.98,238.06) rotate(-90)' text-anchor='middle' style='font-size: 9.67px;fill: #AEB6BD; font-family: "Fira Sans";' textLength='26.44px' lengthAdjust='spacingAndGlyphs'>Listen</text>
-<text transform='translate(355.41,238.06) rotate(-90)' text-anchor='middle' style='font-size: 9.67px;fill: #AEB6BD; font-family: "Fira Sans";' textLength='74.06px' lengthAdjust='spacingAndGlyphs'>Map experiences</text>
-<text transform='translate(95.98,238.06) rotate(-90)' text-anchor='middle' style='font-size: 9.67px;fill: #AEB6BD; font-family: "Fira Sans";' textLength='36.08px' lengthAdjust='spacingAndGlyphs'>Observe</text>
-<text transform='translate(398.44,238.06) rotate(-90)' text-anchor='middle' style='font-size: 9.67px; font-weight: bold;fill: #AEB6BD; font-family: "Fira Sans";' textLength='19.11px' lengthAdjust='spacingAndGlyphs'>Pain</text>
-<text transform='translate(181.99,238.06) rotate(-90)' text-anchor='middle' style='font-size: 9.67px;fill: #AEB6BD; font-family: "Fira Sans";' textLength='40.52px' lengthAdjust='spacingAndGlyphs'>Role play</text>
-<text transform='translate(224.99,238.06) rotate(-90)' text-anchor='middle' style='font-size: 9.67px;fill: #AEB6BD; font-family: "Fira Sans";' textLength='86.61px' lengthAdjust='spacingAndGlyphs'>Secondary research</text>
-<text x='233.00' y='74.70' text-anchor='end' style='font-size: 8.82px; font-weight: bold;fill: #9CA3AF; font-family: "Fira Sans";' textLength='33.64px' lengthAdjust='spacingAndGlyphs'>DIVERGE</text>
-<text x='243.86' y='74.70' text-anchor='middle' style='font-size: 8.82px; font-weight: bold;fill: #9CA3AF; font-family: "Fira Sans";' textLength='2.11px' lengthAdjust='spacingAndGlyphs'>·</text>
-<text x='254.73' y='74.70' style='font-size: 8.82px; font-weight: bold;fill: #9CA3AF; font-family: "Fira Sans";' textLength='42.16px' lengthAdjust='spacingAndGlyphs'>CONVERGE</text>
-<polyline points='467.16,269.33 467.11,269.53 466.88,270.67 466.43,272.82 465.90,275.37 465.39,277.78 464.90,279.96 464.40,281.98 463.99,283.52 463.42,285.45 462.83,287.31 462.25,289.02 461.69,290.61 461.11,292.21 460.46,293.94 459.72,295.78 459.08,297.29 458.25,299.14 457.41,300.91 456.60,302.55 455.83,304.06 455.04,305.57 454.16,307.21 453.18,308.94 452.28,310.47 451.21,312.21 450.13,313.87 449.10,315.41 448.13,316.82 447.14,318.23 446.06,319.75 444.86,321.36 443.66,322.91 442.36,324.51 441.07,326.05 439.84,327.46 438.68,328.76 437.52,330.05 436.25,331.43 434.85,332.90 433.37,334.40 433.31,334.46 431.81,335.92 430.33,337.31 428.92,338.58 427.60,339.76 426.27,340.92 424.84,342.15 423.27,343.46 421.61,344.80 421.36,345.00 419.68,346.29 418.02,347.52 416.46,348.66 414.99,349.69 413.53,350.71 411.96,351.79 410.24,352.93 408.42,354.09 407.93,354.40 406.10,355.52 404.30,356.59 402.59,357.57 400.99,358.46 399.42,359.33 397.73,360.24 395.89,361.21 393.94,362.20 393.19,362.57 391.22,363.51 389.29,364.40 387.47,365.22 385.76,365.96 384.09,366.67 382.31,367.42 380.37,368.21 378.32,369.01 377.29,369.41 375.21,370.17 373.18,370.88 371.25,371.52 369.46,372.11 367.71,372.67 365.85,373.25 363.84,373.86 361.70,374.48 360.41,374.84 358.24,375.41 356.13,375.94 354.13,376.41 352.26,376.84 350.45,377.24 348.54,377.66 346.47,378.09 344.28,378.52 342.74,378.80 340.51,379.18 338.33,379.53 336.28,379.83 334.37,380.09 332.51,380.34 330.56,380.59 328.45,380.84 326.22,381.08 324.48,381.25 322.21,381.44 319.99,381.60 317.90,381.73 315.96,381.83 314.08,381.93 312.11,382.01 309.98,382.09 307.73,382.14 305.84,382.16 303.55,382.17 301.31,382.14 299.21,382.10 297.25,382.04 295.36,381.97 293.38,381.90 291.25,381.79 289.00,381.66 287.02,381.53 284.72,381.34 282.36,381.11 279.85,380.85 277.11,380.54 274.17,380.20 271.35,379.87 269.28,379.63 268.35,379.52 268.22,379.51 ' style='stroke-width: 1.28; stroke: #E3A008; stroke-linecap: butt;' />
-<polygon points='271.60,378.05 268.22,379.51 271.18,381.71 ' style='stroke-width: 1.28; stroke: #E3A008; stroke-linecap: butt; fill: #E3A008;' />
-<text x='383.60' y='406.51' text-anchor='middle' style='font-size: 7.82px; font-style: italic;fill: #8A6100; font-family: "Fira Sans";' textLength='193.88px' lengthAdjust='spacingAndGlyphs'>not yet — abduce another pain from the same evidence</text>
-<text x='71.14' y='461.84' style='font-size: 9.10px; font-weight: bold;fill: #0A659E; font-family: "Fira Sans";' textLength='71.55px' lengthAdjust='spacingAndGlyphs'>DIAMOND 2 · PAIN</text>
-<polygon points='417.09,266.52 491.70,266.52 491.70,283.21 517.22,238.06 491.70,192.90 491.70,209.59 417.09,209.59 455.61,238.06 ' style='stroke-width: 1.49; stroke: #FFFFFF; stroke-linecap: butt; fill: #E3A008;' />
-<text x='473.65' y='236.45' text-anchor='middle' style='font-size: 8.82px; font-weight: bold;fill: #4A3000; font-family: "Fira Sans";' textLength='17.41px' lengthAdjust='spacingAndGlyphs'>Pain</text>
-<text x='473.65' y='245.77' text-anchor='middle' style='font-size: 8.82px; font-weight: bold;fill: #4A3000; font-family: "Fira Sans";' textLength='40.67px' lengthAdjust='spacingAndGlyphs'>validation</text>
-<text x='543.96' y='224.18' style='font-size: 8.11px;fill: #1F2937; font-family: "Fira Sans";' textLength='55.38px' lengthAdjust='spacingAndGlyphs'>pain validation</text>
-<text x='543.96' y='240.85' style='font-size: 8.11px;fill: #1F2937; font-family: "Fira Sans";' textLength='41.91px' lengthAdjust='spacingAndGlyphs'>ouch factor</text>
-<text x='543.96' y='257.51' style='font-size: 8.11px;fill: #1F2937; font-family: "Fira Sans";' textLength='65.81px' lengthAdjust='spacingAndGlyphs'>willingness to pay</text>
-<text x='543.96' y='200.75' style='font-size: 7.40px; font-style: italic;fill: #9CA3AF; font-family: "Fira Sans";' textLength='48.19px' lengthAdjust='spacingAndGlyphs'>tests available</text>
+<g clip-path='url(#cpMy4zN3w2ODcuODN8MS45OXw0MDYuMjQ=)'>
+<polygon points='244.71,337.15 287.65,305.41 287.65,60.81 244.71,29.07 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #E9EDF0;' />
+<polygon points='287.65,305.41 330.60,273.67 330.60,92.55 287.65,60.81 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #E9EDF0;' />
+<polygon points='330.60,273.67 373.54,241.93 373.54,124.29 330.60,92.55 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #E9EDF0;' />
+<polygon points='373.54,241.93 453.12,183.11 373.54,124.29 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #E9EDF0;' />
+<polygon points='34.90,183.11 114.47,241.93 114.47,124.29 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #E9EDF0;' />
+<polygon points='114.47,241.93 157.42,273.67 157.42,92.55 114.47,124.29 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #E9EDF0;' />
+<polygon points='157.42,273.67 200.36,305.41 200.36,60.81 157.42,92.55 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #E9EDF0;' />
+<polygon points='200.36,305.41 243.31,337.15 243.31,29.07 200.36,60.81 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #E9EDF0;' />
+<polygon points='373.54,241.93 453.12,183.11 373.54,124.29 ' style='stroke-width: 1.92; stroke: #E3A008; stroke-linecap: butt;' />
+<text transform='translate(270.00,183.11) rotate(-90)' text-anchor='middle' style='font-size: 11.10px;fill: #AEB6BD; font-family: "Fira Sans";' textLength='114.95px' lengthAdjust='spacingAndGlyphs'>Cluster around themes</text>
+<text transform='translate(312.95,183.11) rotate(-90)' text-anchor='middle' style='font-size: 11.10px;fill: #AEB6BD; font-family: "Fira Sans";' textLength='90.02px' lengthAdjust='spacingAndGlyphs'>Develop personas</text>
+<text transform='translate(139.77,183.11) rotate(-90)' text-anchor='middle' style='font-size: 11.10px;fill: #AEB6BD; font-family: "Fira Sans";' textLength='30.34px' lengthAdjust='spacingAndGlyphs'>Listen</text>
+<text transform='translate(355.89,183.11) rotate(-90)' text-anchor='middle' style='font-size: 11.10px;fill: #AEB6BD; font-family: "Fira Sans";' textLength='84.97px' lengthAdjust='spacingAndGlyphs'>Map experiences</text>
+<text transform='translate(96.82,183.11) rotate(-90)' text-anchor='middle' style='font-size: 11.10px;fill: #AEB6BD; font-family: "Fira Sans";' textLength='41.41px' lengthAdjust='spacingAndGlyphs'>Observe</text>
+<text transform='translate(398.86,183.11) rotate(-90)' text-anchor='middle' style='font-size: 11.10px; font-weight: bold;fill: #AEB6BD; font-family: "Fira Sans";' textLength='21.94px' lengthAdjust='spacingAndGlyphs'>Pain</text>
+<text transform='translate(182.71,183.11) rotate(-90)' text-anchor='middle' style='font-size: 11.10px;fill: #AEB6BD; font-family: "Fira Sans";' textLength='46.50px' lengthAdjust='spacingAndGlyphs'>Role play</text>
+<text transform='translate(225.66,183.11) rotate(-90)' text-anchor='middle' style='font-size: 11.10px;fill: #AEB6BD; font-family: "Fira Sans";' textLength='99.36px' lengthAdjust='spacingAndGlyphs'>Secondary research</text>
+<text x='233.15' y='19.98' text-anchor='end' style='font-size: 8.82px; font-weight: bold;fill: #9CA3AF; font-family: "Fira Sans";' textLength='33.64px' lengthAdjust='spacingAndGlyphs'>DIVERGE</text>
+<text x='244.01' y='19.98' text-anchor='middle' style='font-size: 8.82px; font-weight: bold;fill: #9CA3AF; font-family: "Fira Sans";' textLength='2.11px' lengthAdjust='spacingAndGlyphs'>·</text>
+<text x='254.86' y='19.98' style='font-size: 8.82px; font-weight: bold;fill: #9CA3AF; font-family: "Fira Sans";' textLength='42.16px' lengthAdjust='spacingAndGlyphs'>CONVERGE</text>
+<polyline points='466.98,214.34 466.94,214.54 466.71,215.68 466.26,217.83 465.73,220.38 465.22,222.79 464.73,224.97 464.23,226.98 463.82,228.51 463.25,230.44 462.66,232.30 462.08,234.01 461.52,235.60 460.95,237.20 460.29,238.92 459.56,240.76 458.92,242.26 458.09,244.11 457.26,245.88 456.44,247.51 455.67,249.02 454.88,250.54 454.00,252.17 453.02,253.91 452.13,255.42 451.06,257.16 449.98,258.82 448.96,260.35 447.98,261.77 447.00,263.18 445.91,264.69 444.71,266.30 443.52,267.84 442.22,269.45 440.93,270.98 439.71,272.39 438.55,273.69 437.39,274.98 436.12,276.36 434.72,277.83 433.24,279.33 433.19,279.38 431.69,280.83 430.21,282.22 428.80,283.50 427.48,284.67 426.16,285.83 424.72,287.06 423.16,288.37 421.49,289.71 421.25,289.90 419.57,291.19 417.92,292.43 416.35,293.56 414.88,294.59 413.43,295.61 411.86,296.69 410.14,297.83 408.32,298.99 407.85,299.29 406.01,300.41 404.21,301.48 402.50,302.45 400.91,303.34 399.33,304.21 397.65,305.13 395.81,306.09 393.86,307.08 393.12,307.45 391.15,308.39 389.23,309.28 387.40,310.09 385.70,310.83 384.03,311.55 382.25,312.30 380.31,313.09 378.26,313.89 377.24,314.27 375.17,315.03 373.13,315.75 371.21,316.39 369.42,316.97 367.67,317.54 365.81,318.12 363.80,318.73 361.67,319.34 360.39,319.70 358.22,320.27 356.11,320.80 354.11,321.27 352.25,321.70 350.44,322.10 348.53,322.52 346.46,322.95 344.27,323.38 342.74,323.66 340.52,324.04 338.34,324.38 336.29,324.69 334.38,324.95 332.52,325.20 330.57,325.45 328.47,325.70 326.23,325.94 324.51,326.10 322.24,326.30 320.03,326.46 317.94,326.58 316.00,326.69 314.12,326.78 312.14,326.86 310.02,326.94 307.77,326.99 305.90,327.01 303.60,327.02 301.37,326.99 299.27,326.95 297.31,326.89 295.42,326.82 293.45,326.75 291.32,326.65 289.07,326.51 287.11,326.38 284.80,326.19 282.44,325.97 279.93,325.70 277.20,325.39 274.26,325.05 271.44,324.72 269.38,324.48 268.45,324.38 268.33,324.36 ' style='stroke-width: 1.28; stroke: #E3A008; stroke-linecap: butt;' />
+<polygon points='271.71,322.90 268.33,324.36 271.28,326.56 ' style='stroke-width: 1.28; stroke: #E3A008; stroke-linecap: butt; fill: #E3A008;' />
+<text x='383.55' y='351.33' text-anchor='middle' style='font-size: 7.82px; font-style: italic;fill: #8A6100; font-family: "Fira Sans";' textLength='193.88px' lengthAdjust='spacingAndGlyphs'>not yet — abduce another pain from the same evidence</text>
+<text x='71.53' y='395.07' style='font-size: 12.23px; font-weight: bold;fill: #0A659E; font-family: "Fira Sans";' textLength='96.25px' lengthAdjust='spacingAndGlyphs'>DIAMOND 2 · PAIN</text>
+<polygon points='416.99,211.54 491.49,211.54 491.49,228.20 516.98,183.11 491.49,138.02 491.49,154.68 416.99,154.68 455.45,183.11 ' style='stroke-width: 1.49; stroke: #FFFFFF; stroke-linecap: butt; fill: #E3A008;' />
+<text x='473.47' y='181.51' text-anchor='middle' style='font-size: 8.82px; font-weight: bold;fill: #4A3000; font-family: "Fira Sans";' textLength='17.41px' lengthAdjust='spacingAndGlyphs'>Pain</text>
+<text x='473.47' y='190.82' text-anchor='middle' style='font-size: 8.82px; font-weight: bold;fill: #4A3000; font-family: "Fira Sans";' textLength='40.67px' lengthAdjust='spacingAndGlyphs'>validation</text>
+<text x='543.68' y='169.26' style='font-size: 8.11px;fill: #1F2937; font-family: "Fira Sans";' textLength='55.38px' lengthAdjust='spacingAndGlyphs'>pain validation</text>
+<text x='543.68' y='185.90' style='font-size: 8.11px;fill: #1F2937; font-family: "Fira Sans";' textLength='41.91px' lengthAdjust='spacingAndGlyphs'>ouch factor</text>
+<text x='543.68' y='202.54' style='font-size: 8.11px;fill: #1F2937; font-family: "Fira Sans";' textLength='65.81px' lengthAdjust='spacingAndGlyphs'>willingness to pay</text>
+<text x='543.68' y='145.86' style='font-size: 7.40px; font-style: italic;fill: #9CA3AF; font-family: "Fira Sans";' textLength='48.19px' lengthAdjust='spacingAndGlyphs'>tests available</text>
 </g>
-<g clip-path='url(#cpMC4wMHw2OTEuMjB8MC4wMHw0NzYuMTE=)'>
+<g clip-path='url(#cpMC4wMHw2OTEuMjB8MC4wMHw0MDguMjM=)'>
 </g>
 </g>
 </svg>

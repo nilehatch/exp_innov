@@ -85,6 +85,10 @@ bands <- function(div, con, x0, SW, H, TIP) {
 ## it). A double-headed arrow was rejected: <-> conventionally reads as a
 ## bidirectional RELATIONSHIP, not a branch, and would claim a symmetry the
 ## process does not have.
+rev_lines <- function(s)
+  vapply(strsplit(s, "\n", fixed=TRUE),
+         function(v) paste(rev(v), collapse="\n"), character(1))
+
 build <- function(spec, SW=.62, H=3.1, TIP=.52, PAD=.22, RH=.92,
                   lab=2.5, node=2.3, tag=2.4, title=0, loop=TRUE, sub=FALSE,
                   handoff=FALSE, node_style=c("arrow","rhombus"),
@@ -155,7 +159,13 @@ build <- function(spec, SW=.62, H=3.1, TIP=.52, PAD=.22, RH=.92,
     # outcome slice: gold keyline, rhyming with the gold node it feeds
     geom_polygon(data=P %>% filter(outcome), aes(x,y,group=id),
                  fill=NA, colour=gold_now, linewidth=.9) +
-    geom_text(data=L, aes(mid, 0, label=lab), angle=90, size=lab,
+    ## Slice labels are rotated 90 degrees. ggplot lays a multi-line string out
+    ## in reading order and THEN rotates the whole block, which lands line 1 on
+    ## the far side - so "Fill the\ncatalog" rendered as "catalog / Fill the".
+    ## Reverse the lines here so a rotated label reads correctly. Single-line
+    ## labels are untouched, and node labels (not rotated) must NOT go through
+    ## this. Write specs in normal reading order; this keeps them honest.
+    geom_text(data=L, aes(mid, 0, label=rev_lines(lab)), angle=90, size=lab,
               lineheight=.88, colour=L$col, fontface=ifelse(L$outcome,2,1))
   PHL <- if (rec_up || rec_div) 1.02 else .26   # phase label clears either arc
   for (i in seq_len(nrow(A))) {
@@ -232,7 +242,7 @@ build <- function(spec, SW=.62, H=3.1, TIP=.52, PAD=.22, RH=.92,
     ## so it must not land near the phase gutter — a near-miss reads as a failed
     ## alignment and invites a meaning that isn't there. Off the axis entirely.
     if (title>0) g <- g +
-      annotate("text", x=a$xl, y=if (loop) -H-1.42 else -H-.44, hjust=0,
+      annotate("text", x=a$xl, y=if (loop) -H-1.15 else -H-.44, hjust=0,
                label=a$title, size=title, fontface=2, colour=brand$primary)
   }
   ## headroom must account for the recombine arc too, not just the loop below:
@@ -240,8 +250,12 @@ build <- function(spec, SW=.62, H=3.1, TIP=.52, PAD=.22, RH=.92,
   ## it was silently clipped by the panel.
   rec_up <- focus=="converge" && any(vapply(spec, function(s) isTRUE(s$recomb), logical(1)))
   xr <- c(-.3-TIP*2, x + if (handoff) 1.9 else if (focus=="test") 3.4 else .35)
-  yr <- c(if (loop) -H-1.75 else -H-.72,
-          H + if (loop) 1.75 else if (rec_up || rec_div) 1.45 else .58)
+  ## The loop hangs BELOW the diamond, so `loop` buys headroom at the bottom
+  ## only. It used to pad the TOP by the same 1.75, reserving a band nothing is
+  ## ever drawn in - that was the dead space above every per-diamond figure.
+  ## The top only needs room when a recombine arc rises into it.
+  yr <- c(if (loop) -H-1.48 else -H-.72,
+          H + if (rec_up || rec_div) 1.45 else .58)
   g <- g + geom_polygon(data=N, aes(x,y,group=dia), fill=node_now, colour="white", linewidth=.7) +
     geom_text(data=A, aes(ntx, 0, label=lab), size=node,
               fontface=2, colour=node_ink, lineheight=.88) +
@@ -316,7 +330,7 @@ if (!dir.exists(O)) dir.create(O, recursive = TRUE)
 ## =====================================================================
 DS <- list(D1, D2, D3)
 DETAIL <- function(...) build(..., SW=.92, H=3.3, TIP=.58, PAD=.26, RH=1.05,
-                              lab=3.4, node=3.1, tag=3.1, title=3.2)
+                              lab=3.9, node=3.1, tag=3.1, title=4.3)
 
 ## A · the spine: all three, low detail, no loops, ends in the handoff
 ## The node is a forward ARROW, not a rhombus. A rhombus shows the failure

@@ -1,70 +1,80 @@
 ---
-subtitle: "An invitation to entrepreneurs and innovators to stop guessing, stop failing, and confidently, reliably succeed through innovation"
+subtitle: "An invitation to entrepreneurs and innovators to stop guessing, stop failing, and raise the odds of succeeding through innovation"
 ---
 
 # Preface {.unnumbered}
 
 ---
 
-## How to Reduce Uncertainty and Raise Your Odds of Success through Innovation {.unnumbered}
+## Why So Many Good Ideas Fail {.unnumbered}
 
-Entrepreneurship is thrilling—but it’s also uncertain. When you’re building something new, you’re often missing the very knowledge needed to make good decisions. Most innovation advice tells you to embrace this uncertainty or fail your way through it. But guessing isn’t a strategy, and failure is a costly teacher.
+You have heard the advice: *fail fast*. It isn't wrong. Failing early and cheaply beats failing late and expensively. But failure is an expensive teacher, and most of what it teaches you could have been learned another way.
 
-This book offers another way.
+The real problem isn't failure. It's uncertainty. Who is the right customer? What do they actually need? What solution will make them say *yes*? When those questions go unanswered, entrepreneurs guess. They launch on a hunch, pivot when the results disappoint, and keep iterating in the hope of bumping into an answer. A few of them do. Most don't.
 
-**Expeditionary innovation** is a structured method for reducing uncertainty, discovering unmet needs, and increasing your chances of success—deliberately. It replaces intuition with insight, guessing with grounded learning, and paralysis with practical next steps.
+Guessing isn't a strategy. It's what's left when you have no process.
 
+## The Uncertainty You Can Remove {.unnumbered}
 
-## Why Do So Many Innovations Fail? {.unnumbered}
+Some uncertainty is permanent. You can't know what a competitor will launch next year, how the economy will turn, or which of a hundred small accidents will fall in your favor. No method removes that, and you should distrust anyone who tells you otherwise.
 
-You’ve probably heard the advice: *fail fast*. It’s not wrong — failing early and cheaply is far better than failing late and expensively. But failure shouldn’t be your primary learning strategy.
+But most of what makes innovation feel like a gamble isn't permanent at all. It is simply unknown *to you*, and it is knowable. Who your people are. What it costs them to live the way they live now. Whether they would pay to make that stop. Every one of those can be found out before you build anything.
 
-The real problem in most startups is uncertainty. Who is the right customer? What do they actually need? What solution will really work? When those questions go unanswered, entrepreneurs default to guessing — and that’s why most fail. They gamble when they could have learned. They chase markets they don’t understand. And worst of all, they often start with a solution rather than a need.
+That is what this book is for. It won't make you certain. It will let you stop guessing about the things you could have known, so that the risk you end up carrying is the risk that was genuinely unavoidable.
 
-Some try to escape uncertainty through rapid iteration: launch, test, pivot, repeat.  But the odds of stumbling into a good answer this way are painfully low. If you’re doing something this difficult, you deserve a better process — one that helps you learn before you launch.
+Be ready for this part to be uncomfortable. Most of what hurts about uncertainty isn't the odds — it's not knowing where you are headed, and we seem to be built to need a destination before we can tell whether we are on the right path.[^fog] This method won't hand you one until the third diamond. What it gives you in the meantime is the next step, every time, and a reason to believe the destination is out there and worth reaching. Trade knowing where you will end up for knowing what to do this week, and the not-knowing stops biting.
 
+[^fog]: On why uncertainty hurts the way it does, and what to do with the discomfort, see [Why the Fog Hurts](https://mc.nilehatch.com/why-the-fog-hurts.html) in *Make the Call*.
 
-## The Emotional Weight of Uncertainty {.unnumbered}
+## Why There Is Always Something to Find {.unnumbered}
 
-Uncertainty isn't just a technical problem. It's a human one.
+Most innovation advice quietly assumes that good opportunities are rare, and that finding one takes a flash of genius. That assumption is wrong, and understanding why may be the most useful thing in this book.
 
-We crave closure. We want answers. And when we don’t have them, we tend to fall back on gut instinct, bias, or premature conclusions. That’s why entrepreneurs often cling to their first idea—because uncertainty hurts.
+Start here: different people want different things. It sounds too obvious to be worth saying. It turns out to explain almost everything.
 
-Expeditionary innovation offers relief. It won’t give you instant answers, but it will give you a path. You don’t have to know the destination. You just need to trust a method that lets you discover what others overlook. You’ll know what to do next—and why it matters.
+Think of the best thing you ever bought. Something that fit you so well you would gladly have paid more than it cost. Someone else bought that same product and found it a disappointing compromise, the closest available thing to what they actually wanted. Every product serves some people well and others poorly. Even in a market as thoroughly commoditized as dollar bills, some people prefer crisp new ones to soft, worn ones.
 
+Now think about where a company aims. Building something new is expensive, and that cost has to come back from the people who buy it. So companies aim at the middle, where customers are densest and the numbers work. Competitors follow, because that is where the volume is. Prices come down. Features pile up. And none of that competition does a thing for the people out at the edges, because a lower price on a product you don't want is not a better deal.
 
-## The Expeditionary Method and the Triple Diamond Framework {.unnumbered}
+Those people are stuck. They buy the closest thing and adapt around it. They invent workarounds. They pay for something that almost fits and assume that is simply how it is. They are visible enough to sell to and not valuable enough to design for. That is the **tyranny of the market** [@waldfogelTyrannyMarketWhy2009], and as long as markets work the way they normally work, it does not go away.
 
-At the heart of this book is the **expeditionary method**: a repeatable process of forming hypotheses, running exploratory experiments, gathering real-world evidence, and refining what you know. This isn’t lean iteration or agile reaction. It’s **disciplined discovery**.
+Here is what that means for you. Those unmet needs are not scarce, and they are not hidden because nobody has been clever enough to see them. They persist because serving them has never been worth it *to a company built for the middle*. You are not built for the middle. What fails a large company's numbers can be an excellent business at your scale.
 
-You’ll apply this method inside the **triple diamond framework**, which maps out where your efforts go:
+It also means the people you serve will know it. When a solution finally fits, customers don't shrug. They tell you that you understood them when nobody else did, and they smile for the privilege of paying you a premium to have their need met at last. Your success and their relief turn out to be the same event. You don't have to choose between doing well and doing good here, because in this corner of the economy the same act produces both.
 
-1. **Diamond 1: Choose the Right People**  
-   Innovation doesn’t begin with an idea—it begins with someone whose life could be better. You’ll identify and access a group with unmet needs.
+One honest caution before you get excited. You can be confident that unmet needs exist in almost any community you choose. You cannot assume that any particular one is worth a business. There may be too few people who share it, or no way to serve them at a price they will pay. That is not a flaw in the idea. It is the question this process exists to answer, and it is why you test before you build.
 
-2. **Diamond 2: Understand an Unmet Need**  
-   Through observation, conversation, and analysis, you’ll uncover a meaningful pain worth solving. You’ll validate it before you try to fix it.
+## The Expeditionary Method and the Triple Diamond {.unnumbered}
 
-3. **Diamond 3: Build the Right Solution**  
-   You’ll generate a wide range of ideas, filter them intelligently, and test the best one for desirability, usability, and viability—culminating in a validated solution ready to launch or scale.
+At the heart of this book is the **expeditionary method**. Plenty of people will tell you to test your assumptions, and they are right as far as it goes. But testing only pays if the thing you are testing is worth testing. Run an experiment on a guess and it will almost certainly come back *no*, and all you will have learned is *not that one*. Do that often enough and you have spent a year discovering what you are not.
 
-Each diamond is a cycle of divergence, convergence, and validation. Each test gives you knowledge instead of assumptions. And each step is one you can take with confidence.
+The difference here is what happens *before* the test. You begin with **exploratory experiments** — going out to look without knowing what you are looking for, deliberately courting surprise [@hackingRepresentingInterveningIntroductory1983; @steinleEnteringNewFields1997]. Surprises are the raw material. When enough of them start pointing the same direction, you reason your way to the explanation that best accounts for them, and *that* becomes your hypothesis. It is grounded before anyone tests it, so the test is worth running.
 
+Then you test it the way anyone would recognize. The scientific method, aimed at people rather than atoms.
+
+You will apply it inside the **triple diamond framework** — three phases, each ending in a decision you can defend.
+
+1. **Choose the right people.** Innovation doesn't begin with an idea. It begins with someone whose life could be better. You'll find a group with unmet needs and prove you can reach them, because a need you cannot get to is not an opportunity.
+
+2. **Understand an unmet need.** Through observation and conversation, you'll uncover a pain worth solving and confirm that it costs enough that people will act to relieve it.
+
+3. **Build the right solution.** You'll generate a wide range of ideas, narrow them deliberately, and test the best one until you know it works, that people want it, and that you can deliver it profitably.
+
+Each diamond widens to explore, narrows to decide, then tests before you move on. And each one asks a question that has to be answered *yes* before the next one matters.
 
 ## What This Book Offers {.unnumbered}
 
-If you’ve ever felt like innovation is just a game of high-stakes guessing, this book will change how you work. It gives you a proven way to move from uncertainty to clarity—and to do it with confidence.
+If innovation has felt like high-stakes guessing, this book will change how you work. It gives you:
 
-- A rigorous, repeatable process for reducing uncertainty
-- A framework for uncovering and validating unmet needs
-- Practical tools for testing ideas without gambling resources
-- A mindset shift—from guessing to discovering
+- a repeatable process for reducing the uncertainty that can be reduced
+- a way to find and validate unmet needs that others have overlooked
+- tools for testing ideas before you gamble resources on them
+- a shift from guessing to discovering
 
-You’ll finish with the skills to lead innovation with clarity, evidence, and integrity—even in situations that once felt impossible to navigate.
-
+You won't finish with certainty. You will finish knowing what you know, how you know it, and what to do next.
 
 ---
 
 This book is written by Nile Hatch and is adapted from an earlier version, *Entrepreneurial Innovation* (2018).
 
-This site is free to access, licensed under [CC BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/us/), and made possible through [Quarto](https://quarto.org/docs/books) and [Netlify](https://www.netlify.com)’s support of open innovation.
+This site is free to access, licensed under [CC BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/us/), and made possible through [Quarto](https://quarto.org/docs/books) and [Netlify](https://www.netlify.com)'s support of open innovation.

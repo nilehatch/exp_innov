@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='691.20pt' height='601.16pt' viewBox='0 0 691.20 601.16'>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='691.20pt' height='515.45pt' viewBox='0 0 691.20 515.45'>
 <g class='svglite'>
 <defs>
   <style type='text/css'><![CDATA[
@@ -21,57 +21,57 @@
 </defs>
 <rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
 <defs>
-  <clipPath id='cpMC4wMHw2OTEuMjB8MC4wMHw2MDEuMTY='>
-    <rect x='0.00' y='0.00' width='691.20' height='601.16' />
+  <clipPath id='cpMC4wMHw2OTEuMjB8MC4wMHw1MTUuNDU='>
+    <rect x='0.00' y='0.00' width='691.20' height='515.45' />
   </clipPath>
 </defs>
-<g clip-path='url(#cpMC4wMHw2OTEuMjB8MC4wMHw2MDEuMTY=)'>
+<g clip-path='url(#cpMC4wMHw2OTEuMjB8MC4wMHw1MTUuNDU=)'>
 </g>
 <defs>
-  <clipPath id='cpMC4zMHw2OTAuOTB8MC4wMHw2MDEuMTY='>
-    <rect x='0.30' y='0.00' width='690.60' height='601.16' />
+  <clipPath id='cpMC42OHw2OTAuNTJ8MC4wMHw1MTUuNDU='>
+    <rect x='0.68' y='0.00' width='689.84' height='515.45' />
   </clipPath>
 </defs>
-<g clip-path='url(#cpMC4zMHw2OTAuOTB8MC4wMHw2MDEuMTY=)'>
-<rect x='0.30' y='0.00' width='690.60' height='601.16' style='stroke-width: 0.00; stroke: none;' />
+<g clip-path='url(#cpMC42OHw2OTAuNTJ8MC4wMHw1MTUuNDU=)'>
+<rect x='0.68' y='0.00' width='689.84' height='515.45' style='stroke-width: 0.00; stroke: none;' />
 </g>
-<g clip-path='url(#cpMC4wMHw2OTEuMjB8MC4wMHw2MDEuMTY=)'>
+<g clip-path='url(#cpMC4wMHw2OTEuMjB8MC4wMHw1MTUuNDU=)'>
 </g>
 <defs>
-  <clipPath id='cpMi4yOXw2ODguOTF8MS45OXw1OTkuMTc='>
-    <rect x='2.29' y='1.99' width='686.62' height='597.17' />
+  <clipPath id='cpMi42N3w2ODguNTN8MS45OXw1MTMuNDY='>
+    <rect x='2.67' y='1.99' width='685.86' height='511.46' />
   </clipPath>
 </defs>
-<g clip-path='url(#cpMi4yOXw2ODguOTF8MS45OXw1OTkuMTc=)'>
-<polygon points='307.97,495.70 362.37,455.49 362.37,145.67 307.97,105.46 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #2878A8;' />
-<polygon points='362.37,455.49 416.77,415.28 416.77,185.87 362.37,145.67 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #1E6C9A;' />
-<polygon points='416.77,415.28 471.16,375.08 471.16,226.08 416.77,185.87 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #14608D;' />
-<polygon points='471.16,375.08 571.95,300.58 471.16,226.08 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #0A5480;' />
-<polygon points='42.22,300.58 143.01,375.08 143.01,226.08 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #D8E9F4;' />
-<polygon points='143.01,375.08 197.41,415.28 197.41,185.87 143.01,226.08 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #C1DBEB;' />
-<polygon points='197.41,415.28 251.80,455.49 251.80,145.67 197.41,185.87 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #AACDE3;' />
-<polygon points='251.80,455.49 306.20,495.70 306.20,105.46 251.80,145.67 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #93BFDB;' />
-<polygon points='471.16,375.08 571.95,300.58 471.16,226.08 ' style='stroke-width: 1.92; stroke: #E3A008; stroke-linecap: butt;' />
-<text transform='translate(447.30,300.58) rotate(-90)' text-anchor='middle' style='font-size: 9.67px;fill: #FFFFFF; font-family: "Fira Sans";' textLength='60.16px' lengthAdjust='spacingAndGlyphs'>Assess access</text>
-<text transform='translate(119.15,300.58) rotate(-90)' text-anchor='middle' style='font-size: 9.67px;fill: #1F2937; font-family: "Fira Sans";' textLength='33.83px' lengthAdjust='spacingAndGlyphs'>Domain</text>
-<text transform='translate(173.54,300.58) rotate(-90)' text-anchor='middle' style='font-size: 9.67px;fill: #1F2937; font-family: "Fira Sans";' textLength='99.30px' lengthAdjust='spacingAndGlyphs'>Generate communities</text>
-<text transform='translate(392.90,300.58) rotate(-90)' text-anchor='middle' style='font-size: 9.67px;fill: #FFFFFF; font-family: "Fira Sans";' textLength='76.67px' lengthAdjust='spacingAndGlyphs'>Growing empathy</text>
-<text transform='translate(338.50,300.58) rotate(-90)' text-anchor='middle' style='font-size: 9.67px;fill: #FFFFFF; font-family: "Fira Sans";' textLength='73.53px' lengthAdjust='spacingAndGlyphs'>Identify patterns</text>
-<text transform='translate(282.33,300.58) rotate(-90)' text-anchor='middle' style='font-size: 9.67px;fill: #1F2937; font-family: "Fira Sans";' textLength='66.12px' lengthAdjust='spacingAndGlyphs'>Map their orbit</text>
-<text transform='translate(501.71,300.58) rotate(-90)' text-anchor='middle' style='font-size: 9.67px; font-weight: bold;fill: #FFFFFF; font-family: "Fira Sans";' textLength='30.53px' lengthAdjust='spacingAndGlyphs'>People</text>
-<text transform='translate(227.94,300.58) rotate(-90)' text-anchor='middle' style='font-size: 9.67px;fill: #1F2937; font-family: "Fira Sans";' textLength='78.61px' lengthAdjust='spacingAndGlyphs'>Profile the people</text>
-<text x='293.34' y='93.14' text-anchor='end' style='font-size: 8.82px; font-weight: bold;fill: #9CA3AF; font-family: "Fira Sans";' textLength='33.64px' lengthAdjust='spacingAndGlyphs'>DIVERGE</text>
-<text x='307.09' y='93.14' text-anchor='middle' style='font-size: 8.82px; font-weight: bold;fill: #9CA3AF; font-family: "Fira Sans";' textLength='2.11px' lengthAdjust='spacingAndGlyphs'>·</text>
-<text x='320.83' y='93.14' style='font-size: 8.82px; font-weight: bold;fill: #9CA3AF; font-family: "Fira Sans";' textLength='42.16px' lengthAdjust='spacingAndGlyphs'>CONVERGE</text>
-<polyline points='589.52,340.13 589.48,340.32 589.26,341.39 588.81,343.54 588.23,346.35 587.64,349.17 587.08,351.78 586.53,354.17 585.96,356.42 585.51,358.08 584.87,360.26 584.21,362.37 583.55,364.35 582.91,366.18 582.28,367.94 581.61,369.79 580.85,371.78 580.01,373.86 579.31,375.51 578.38,377.59 577.43,379.60 576.50,381.49 575.62,383.23 574.75,384.90 573.83,386.65 572.81,388.53 571.69,390.50 570.70,392.18 569.50,394.13 568.28,396.02 567.11,397.79 565.99,399.42 564.91,400.99 563.76,402.62 562.50,404.36 561.13,406.18 559.79,407.90 558.34,409.72 556.88,411.46 555.48,413.09 554.15,414.59 552.86,416.03 551.51,417.51 550.04,419.10 548.45,420.76 546.78,422.45 546.71,422.52 545.02,424.16 543.35,425.74 541.73,427.21 540.21,428.57 538.75,429.86 537.22,431.20 535.57,432.61 533.78,434.09 531.90,435.60 531.59,435.84 529.70,437.30 527.83,438.71 526.04,440.01 524.34,441.21 522.72,442.35 521.04,443.52 519.23,444.75 517.27,446.04 515.22,447.36 514.61,447.74 512.55,449.01 510.51,450.22 508.55,451.35 506.71,452.38 504.95,453.36 503.14,454.35 501.20,455.40 499.10,456.49 496.91,457.60 495.96,458.07 493.75,459.13 491.56,460.15 489.47,461.09 487.50,461.95 485.63,462.76 483.71,463.58 481.66,464.43 479.46,465.32 477.14,466.23 475.85,466.72 473.51,467.58 471.21,468.39 469.00,469.14 466.93,469.82 464.96,470.45 462.96,471.09 460.83,471.76 458.54,472.44 456.13,473.14 454.49,473.59 452.06,474.23 449.66,474.84 447.37,475.39 445.22,475.89 443.18,476.35 441.12,476.81 438.92,477.28 436.56,477.77 434.09,478.24 432.15,478.60 429.64,479.03 427.18,479.43 424.82,479.78 422.61,480.09 420.52,480.38 418.41,480.66 416.16,480.94 413.76,481.22 411.25,481.49 409.06,481.70 406.50,481.92 403.99,482.11 401.59,482.26 399.35,482.38 397.22,482.49 395.08,482.59 392.82,482.69 390.40,482.77 387.86,482.83 385.48,482.85 382.89,482.86 380.36,482.84 377.95,482.79 375.69,482.73 373.55,482.66 371.40,482.58 369.13,482.49 366.71,482.37 364.17,482.22 361.68,482.05 359.08,481.84 356.45,481.60 353.68,481.31 350.71,480.98 347.50,480.61 344.17,480.22 341.15,479.87 339.03,479.63 338.05,479.51 337.89,479.50 ' style='stroke-width: 1.28; stroke: #E3A008; stroke-linecap: butt;' />
-<polygon points='341.27,478.03 337.89,479.50 340.85,481.69 ' style='stroke-width: 1.28; stroke: #E3A008; stroke-linecap: butt; fill: #E3A008;' />
-<text x='483.83' y='512.93' text-anchor='middle' style='font-size: 7.82px; font-style: italic;fill: #8A6100; font-family: "Fira Sans";' textLength='148.66px' lengthAdjust='spacingAndGlyphs'>not yet — converge on another community</text>
-<text x='88.62' y='582.81' style='font-size: 9.10px; font-weight: bold;fill: #0A659E; font-family: "Fira Sans";' textLength='83.61px' lengthAdjust='spacingAndGlyphs'>DIAMOND 1 · PEOPLE</text>
-<polygon points='526.19,336.59 620.56,336.59 620.56,357.70 652.84,300.58 620.56,243.46 620.56,264.57 526.19,264.57 574.91,300.58 ' style='stroke-width: 1.49; stroke: #FFFFFF; stroke-linecap: butt; fill: #E3A008;' />
-<text x='597.73' y='298.98' text-anchor='middle' style='font-size: 8.82px; font-weight: bold;fill: #4A3000; font-family: "Fira Sans";' textLength='26.78px' lengthAdjust='spacingAndGlyphs'>Access</text>
-<text x='597.73' y='308.29' text-anchor='middle' style='font-size: 8.82px; font-weight: bold;fill: #4A3000; font-family: "Fira Sans";' textLength='15.84px' lengthAdjust='spacingAndGlyphs'>test</text>
+<g clip-path='url(#cpMi42N3w2ODguNTN8MS45OXw1MTMuNDY=)'>
+<polygon points='308.01,426.05 362.35,385.89 362.35,76.41 308.01,36.25 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #2878A8;' />
+<polygon points='362.35,385.89 416.69,345.72 416.69,116.57 362.35,76.41 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #1E6C9A;' />
+<polygon points='416.69,345.72 471.02,305.56 471.02,156.73 416.69,116.57 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #14608D;' />
+<polygon points='471.02,305.56 571.70,231.15 471.02,156.73 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #0A5480;' />
+<polygon points='42.56,231.15 143.24,305.56 143.24,156.73 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #D8E9F4;' />
+<polygon points='143.24,305.56 197.57,345.72 197.57,116.57 143.24,156.73 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #C1DBEB;' />
+<polygon points='197.57,345.72 251.91,385.89 251.91,76.41 197.57,116.57 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #AACDE3;' />
+<polygon points='251.91,385.89 306.24,426.05 306.24,36.25 251.91,76.41 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #93BFDB;' />
+<polygon points='471.02,305.56 571.70,231.15 471.02,156.73 ' style='stroke-width: 1.92; stroke: #E3A008; stroke-linecap: butt;' />
+<text transform='translate(447.68,231.15) rotate(-90)' text-anchor='middle' style='font-size: 11.10px;fill: #FFFFFF; font-family: "Fira Sans";' textLength='69.05px' lengthAdjust='spacingAndGlyphs'>Assess access</text>
+<text transform='translate(119.89,231.15) rotate(-90)' text-anchor='middle' style='font-size: 11.10px;fill: #1F2937; font-family: "Fira Sans";' textLength='38.78px' lengthAdjust='spacingAndGlyphs'>Domain</text>
+<text transform='translate(174.23,231.15) rotate(-90)' text-anchor='middle' style='font-size: 11.10px;fill: #1F2937; font-family: "Fira Sans";' textLength='113.92px' lengthAdjust='spacingAndGlyphs'>Generate communities</text>
+<text transform='translate(393.34,231.15) rotate(-90)' text-anchor='middle' style='font-size: 11.10px;fill: #FFFFFF; font-family: "Fira Sans";' textLength='87.91px' lengthAdjust='spacingAndGlyphs'>Growing empathy</text>
+<text transform='translate(339.01,231.15) rotate(-90)' text-anchor='middle' style='font-size: 11.10px;fill: #FFFFFF; font-family: "Fira Sans";' textLength='84.34px' lengthAdjust='spacingAndGlyphs'>Identify patterns</text>
+<text transform='translate(282.90,231.15) rotate(-90)' text-anchor='middle' style='font-size: 11.10px;fill: #1F2937; font-family: "Fira Sans";' textLength='75.83px' lengthAdjust='spacingAndGlyphs'>Map their orbit</text>
+<text transform='translate(502.03,231.15) rotate(-90)' text-anchor='middle' style='font-size: 11.10px; font-weight: bold;fill: #FFFFFF; font-family: "Fira Sans";' textLength='35.02px' lengthAdjust='spacingAndGlyphs'>People</text>
+<text transform='translate(228.56,231.15) rotate(-90)' text-anchor='middle' style='font-size: 11.10px;fill: #1F2937; font-family: "Fira Sans";' textLength='90.25px' lengthAdjust='spacingAndGlyphs'>Profile the people</text>
+<text x='293.40' y='23.94' text-anchor='end' style='font-size: 8.82px; font-weight: bold;fill: #9CA3AF; font-family: "Fira Sans";' textLength='33.64px' lengthAdjust='spacingAndGlyphs'>DIVERGE</text>
+<text x='307.13' y='23.94' text-anchor='middle' style='font-size: 8.82px; font-weight: bold;fill: #9CA3AF; font-family: "Fira Sans";' textLength='2.11px' lengthAdjust='spacingAndGlyphs'>·</text>
+<text x='320.86' y='23.94' style='font-size: 8.82px; font-weight: bold;fill: #9CA3AF; font-family: "Fira Sans";' textLength='42.16px' lengthAdjust='spacingAndGlyphs'>CONVERGE</text>
+<polyline points='589.25,270.66 589.21,270.84 588.99,271.91 588.54,274.07 587.96,276.87 587.37,279.70 586.81,282.30 586.26,284.69 585.69,286.93 585.25,288.58 584.61,290.77 583.95,292.87 583.29,294.85 582.65,296.68 582.02,298.44 581.34,300.29 580.58,302.27 579.74,304.35 579.05,305.99 578.12,308.07 577.17,310.09 576.25,311.97 575.36,313.71 574.49,315.38 573.57,317.13 572.55,319.01 571.44,320.97 570.45,322.64 569.25,324.60 568.04,326.49 566.86,328.25 565.75,329.88 564.66,331.45 563.51,333.08 562.26,334.82 560.89,336.64 559.56,338.35 558.10,340.16 556.64,341.91 555.24,343.53 553.91,345.03 552.63,346.47 551.28,347.96 549.81,349.54 548.22,351.20 546.55,352.89 546.49,352.95 544.80,354.59 543.13,356.17 541.51,357.64 539.99,359.00 538.53,360.29 537.00,361.62 535.35,363.04 533.56,364.52 531.69,366.02 531.39,366.26 529.50,367.72 527.63,369.12 525.83,370.43 524.14,371.63 522.52,372.77 520.84,373.93 519.03,375.16 517.07,376.46 515.03,377.77 514.42,378.14 512.36,379.41 510.32,380.62 508.37,381.75 506.53,382.78 504.77,383.76 502.96,384.75 501.02,385.80 498.92,386.89 496.73,388.00 495.79,388.46 493.58,389.53 491.40,390.54 489.31,391.48 487.34,392.34 485.47,393.15 483.55,393.97 481.50,394.82 479.30,395.71 476.99,396.61 475.70,397.10 473.36,397.96 471.06,398.77 468.86,399.52 466.80,400.20 464.83,400.83 462.83,401.47 460.69,402.14 458.40,402.82 456.00,403.51 454.37,403.96 451.94,404.61 449.55,405.21 447.26,405.77 445.11,406.26 443.07,406.72 441.00,407.18 438.80,407.65 436.45,408.14 433.98,408.62 432.05,408.97 429.54,409.40 427.08,409.80 424.73,410.15 422.52,410.46 420.43,410.75 418.32,411.03 416.08,411.31 413.68,411.59 411.16,411.86 408.99,412.07 406.43,412.29 403.92,412.47 401.53,412.63 399.28,412.75 397.15,412.86 395.02,412.96 392.76,413.05 390.33,413.13 387.80,413.19 385.43,413.22 382.85,413.22 380.32,413.20 377.91,413.16 375.65,413.09 373.51,413.02 371.37,412.95 369.10,412.86 366.67,412.74 364.14,412.59 361.66,412.41 359.07,412.21 356.44,411.96 353.67,411.68 350.70,411.35 347.49,410.98 344.16,410.59 341.15,410.24 339.03,410.00 338.06,409.88 337.90,409.86 ' style='stroke-width: 1.28; stroke: #E3A008; stroke-linecap: butt;' />
+<polygon points='341.28,408.40 337.90,409.86 340.86,412.06 ' style='stroke-width: 1.28; stroke: #E3A008; stroke-linecap: butt; fill: #E3A008;' />
+<text x='483.68' y='443.27' text-anchor='middle' style='font-size: 7.82px; font-style: italic;fill: #8A6100; font-family: "Fira Sans";' textLength='148.66px' lengthAdjust='spacingAndGlyphs'>not yet — converge on another community</text>
+<text x='88.90' y='498.21' style='font-size: 12.23px; font-weight: bold;fill: #0A659E; font-family: "Fira Sans";' textLength='112.50px' lengthAdjust='spacingAndGlyphs'>DIAMOND 1 · PEOPLE</text>
+<polygon points='525.99,267.12 620.25,267.12 620.25,288.20 652.50,231.15 620.25,174.09 620.25,195.18 525.99,195.18 574.66,231.15 ' style='stroke-width: 1.49; stroke: #FFFFFF; stroke-linecap: butt; fill: #E3A008;' />
+<text x='597.45' y='229.54' text-anchor='middle' style='font-size: 8.82px; font-weight: bold;fill: #4A3000; font-family: "Fira Sans";' textLength='26.78px' lengthAdjust='spacingAndGlyphs'>Access</text>
+<text x='597.45' y='238.86' text-anchor='middle' style='font-size: 8.82px; font-weight: bold;fill: #4A3000; font-family: "Fira Sans";' textLength='15.84px' lengthAdjust='spacingAndGlyphs'>test</text>
 </g>
-<g clip-path='url(#cpMC4wMHw2OTEuMjB8MC4wMHw2MDEuMTY=)'>
+<g clip-path='url(#cpMC4wMHw2OTEuMjB8MC4wMHw1MTUuNDU=)'>
 </g>
 </g>
 </svg>

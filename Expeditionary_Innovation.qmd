@@ -1,136 +1,103 @@
 ---
-subtitle: "A proven path to find, validate, and win with solutions only you can deliver"
+subtitle: "A path to find, validate, and win with solutions only you can deliver"
 ---
 
 # Expeditionary Innovation {#sec-expeditionary-innovation-chapter .unnumbered}
 
-## Why So Many Good Ideas Still Fail {.unnumbered}
+## What Expeditionary Innovation Is — and Isn't {.unnumbered}
 
-If you’ve been in the entrepreneurial world for more than five minutes, you’ve heard the mantra: *fail fast*. Failing early and cheaply is better than failing late and expensively. But failure shouldn’t be your primary learning strategy.
+The word *expedition* comes from the Latin *ex* (out) and *ped* (foot): to stride out, to clear obstacles, to move with purpose. That is what this is. A journey into unfamiliar territory with a clear aim, where each step clears the way for the next. Not wandering, which has no aim. Not a commute, which has a known route. An expedition goes out to find something, and comes back with it.
 
-The primary challenge isn’t failure. It’s **uncertainty**.  You're operating in a fog because 
+"Innovation" gets used for almost everything, so it is worth being precise about which kind this book is about. Sort innovation by two questions, and the picture clarifies quickly: *do you know what people need, and do you know how to build it?*
 
-- you don’t know who your real customer is,
-- what they truly need,
-- or what solution will make them say “*yes*.”
-
-Most entrepreneurs try to navigate that fog by guessing. They launch on hunches, pivot when results disappoint, and keep iterating, hoping to bump into the answer by accident. It’s a painful, expensive way to learn.
-
-There *is* a better way: a process that lets you move forward without pretending you know more than you do — one step at a time, always knowing the next move. You don’t have to love uncertainty to succeed as an entrepreneur; you just have to commit to a process that steadily reduces it.
-
-This book is about that process.
-
-<!--
-## Why So Many Good Ideas Still Fail {.unnumbered}
-
-You’ve heard it before: *fail fast*. Sure — failing early is better than failing late. But failure isn’t the real problem.
-
-The real problem is **uncertainty**.
-
-Most startups launch without clear answers to three questions:  
-- Who is our customer?  
-- What do they really need?  
-- What solution will make them say *yes*?  
-
-When those answers aren’t known, guessing takes over. Some guess through “build, test, pivot, repeat” cycles. Others tinker endlessly. Either way, the odds of hitting the target by accident are slim.
-
-You don’t have to gamble. You don’t have to love uncertainty, either. There’s a process that cuts through the fog — helping you learn what matters most before you launch. That’s what this book is about.
--->
-
-## What Expeditionary Innovation Is — and Isn’t {.unnumbered}
-
-The word *expedition* comes from the Latin *ex* (out) and *ped* (foot) — to stride out, to remove obstacles, to move with purpose. Expeditionary innovation is just that: a journey into the unknown with a clear aim, where each step clears the way for the next. It’s not wandering without a map; it’s advancing into unfamiliar territory with the right tools, the right questions, and the determination to come back with something of value.
-
-Because the term “innovation” gets used for almost everything, it’s worth clarifying what we mean — and what we don’t. Expeditionary innovation is not:
-
--   an **execution-driven small business** that thrives by doing something already known, better or cheaper.
--   a **high-tech arms race** aimed at beating incumbents through engineering firepower.
--   **university-led frontier research**, extending the frontiers of human knowledge through the work of scientists at the boundaries.
-
-As we see in @tbl-innovation-typology, expeditionary innovation is its own creature. It starts with an **unknown, unmet need** — one that almost always exists — often hidden at the fringes where incumbents don’t look. It’s a need that real people feel every day, but that no one has yet recognized, written down, or started working to solve. It’s about going into the field, surfacing those needs, and designing solutions that serve them so well they can’t help but say “yes.”
-
-That’s why it works for people who don’t think of themselves as especially “creative.” Follow the process and you’ll look like one of the most creative entrepreneurs in the room — not because you guessed right, but because you discovered a need that others missed.
-
-Later in the book, we’ll look at how this same process can lead to big opportunities, even unicorn-scale ones, and why it naturally produces the kind of disruptive innovations that incumbents avoid until it’s too late. But first, you need to see it for what it is: *a different category of innovation with its own rules, its own mindset, and its own extraordinary reliability*.
-
-
-<!--
-:::{#tbl-typology tbl-cap="Typology of innovation categories including **expeditionary innovation** where customer needs are initially unknown" tbl-cap-location="margin"}
-
-<table class="innovation-typology-table">
-  <tr>
-    <th scope="col"></th> 
-    <th scope="col">Known solution</th>
-    <th scope="col">Unknown solution<br>(within reach)</th>
-    <th scope="col">Unknown solution<br>(beyond reach)</th>
-  </tr>
-  <tr>
-    <th scope="row">Known<br>customer<br>need</th>
-    <td>Execution-driven small business</td>
-    <td>High-tech arms race</td>
-    <td rowspan="2">University-led frontier research</td>
-  </tr>
-  <tr>
-    <th scope="row">Unknown<br>customer<br>need</th>
-    <td colspan="2" class="expeditionary">Expeditionary innovation</td>
-  </tr>
-</table>
-:::
--->
+That second question has two versions, and the difference between them decides who can play. A solution is **within reach** when nobody has built it yet but everything needed to build it already exists: Amazon's one-click ordering had never been done, and the programming and the internet were sitting right there waiting. A solution is **beyond reach** when somebody first has to discover something new. Self-driving cars needed sensors and control systems that did not exist, and no amount of cleverness with existing parts would have produced them.
 
 ![Typology of innovation categories including **expeditionary innovation** where customer needs are initially unknown](images/innov_typology_4.svg){#tbl-innovation-typology fig-align="center" fig-cap-location="margin"}
 
-## Why This Works So Reliably {.unnumbered}
+Each box in that table is a real and worthy kind of innovation. They are not equally good places for you to stand.
 
-Most innovation advice quietly assumes that real opportunities are rare — that creativity depends on lucky sparks or sudden genius. In reality, unmet needs are everywhere.
+## Why the Other Paths Are Harder {.unnumbered}
 
-Markets naturally push companies toward the center. Over time, competitors converge on the largest concentration of mainstream customers, piling features and prices into the same crowded peak. That leaves those at the edges underserved. They adapt with workarounds, compromises, or “good enough” solutions that never truly fit.
+**When the need is known and the solution is known**, you are competing on execution. Someone already sells this thing and everyone knows how to make it. You win by being cheaper, faster, friendlier, or closer to the customer. Plenty of excellent businesses live here. What you will not find is an innovation premium: whatever margin you earn, a competitor can copy, and eventually will.
 
-These edge customers suffer under what we call the *tyranny of the market*: they’re visible enough to buy, but not valuable enough for incumbents to design for. Their needs remain invisible in analyst reports, investor decks, and strategy slides. And yet, those unmet needs are where new opportunities live.[^1] 
+**When the need is known but the solution is not**, you are in a race against companies whose entire business is already organized around that need. They have the engineers, the distribution, the brand, and a decade of improvements you would have to match. This is a fair fight only if someone on your team can outperform dedicated professionals at the thing they do all day. Sometimes that person exists. Usually they do not.
 
-[^1]: With expeditionary innovation, your solutions naturally fit the pattern of *disruptive innovation* as defined and popularized by Clayton Christensen and Michael Raynor, with you starting in a niche that incumbents dismiss, then growing into something that reshapes the market.You can read more about these influential concepts in *The Innovator's Dilemma* [@christensenInnovatorsDilemmaWhen1997] and *The Innovator's Solution* [@christensenInnovatorsSolutionCreating2003].
+**When the need is known and no one yet knows how to solve it**, somebody has to push out the boundary of what is known. That is the work of scientists and specialists working at the frontier, on timelines and budgets that look nothing like a startup's. If you have that person, this can pay extraordinarily. Most teams do not.
 
+**When both the need and the solution are unknown, and the solution is beyond anyone's current reach**, two rare things have to happen and then line up: the frontier has to move, and somebody has to notice that the movement now serves a need nobody had articulated. That does happen. Semiconductors and freeze-dried food came out of the effort to reach the moon. But two rare events coinciding is not something you can plan to do on purpose. It is a story you tell afterward, not a strategy you set out with.
 
-When you learn to see and serve these overlooked edges, you often enter a space with no direct competition. Because your solution fits “exactly right,” the people you help become your most loyal advocates from the start.
+**Which leaves the box this book is about:** the need is unknown, and the solution is within reach. Nobody has noticed that these people are struggling. Once you notice, building the answer is mostly a matter of ordinary competence rather than genius. Chobani did not invent Greek yogurt; the recipe was centuries old. What Hamdi Ulukaya knew that nobody else had acted on was that Americans would want it.
 
-We’ll return to this idea in detail — including a visual of how mainstream competitors cluster and leave the edges underserved — in [Figure @fig-tyranny-market] in the **Choosing Your People** part.
+That box has three properties the others don't.
+
+**There is no direct competitor.** Not because you outran anyone, but because nobody else has noticed the need yet. You are not taking share; you are opening ground.
+
+**Your customers will pay a premium and be glad to.** They have been making do with something that almost fits. When something finally fits, the relief is worth real money to them.
+
+**You get a head start.** Incumbents do not respond to a niche until it is large enough to show up in their numbers, and that takes time. Across the teams I have advised, the window before a serious imitator arrives has tended to run something like two to five years. Long enough to get established. Short enough that you should spend those years building the advantages that will still hold when rivals arrive.
+
+This is also why the method works for people who don't consider themselves creative. The hard part is not inventing something clever, it is noticing something true. Follow the process and you will look like the most creative person in the room, not because you guessed well, but because you looked where nobody else was looking. Diamond 3 will teach you technique for generating solutions, and technique turns out to substitute for talent surprisingly well.
+
+## Why the Edges Stay Open {.unnumbered}
+
+There is an obvious objection to everything above, and you should raise it before an investor does. *If these needs are real and profitable, why hasn't someone already served them?*
+
+The answer is the most important idea in this book.
+
+Building something new costs money, and that cost has to be recovered from the people who buy it. So companies aim where customers are densest — the middle of the market, where the volume makes the numbers work. Competitors aim there too, because that is where the volume is. They pile on features. Prices come down.
+
+And here is the part that matters: none of that helps the people at the edges, because *a lower price on a product you don't want is not a better deal*. Competition operates on price. Their problem is fit. More competition in the middle does nothing for them, ever. This is not a market failure that someone is about to correct. It is what a market functioning normally produces, and it is why those needs are still sitting there. Joel Waldfogel named it the **tyranny of the market** [@waldfogelTyrannyMarketWhy2009]: customers with less common preferences get neglected when firms build for the mainstream.
+
+So the needs are not hidden because nobody is clever enough to see them. They persist because serving them has never been worth it *to a company built for the middle*. That is a statement about the incumbent's cost structure, not about the opportunity.
+
+Which raises the real question, and the one your whole process exists to answer: *why can you serve this edge when they can't?* There are usually four honest answers, and at least one of them has to be true for you.
+
+- **You don't need their volume.** A market too small to move a large company's numbers can be an excellent business at your scale.
+- **The cost of building has fallen.** What once required a factory now requires a laptop. Needs that were genuinely unservable in 2005 became servable without anyone noticing.
+- **A way to reach them now exists.** Scattered customers who were once impossible to find can now be reached directly and cheaply.
+- **You will treat the niche as a destination.** A large company sees a small market as not worth entering. You can see it as enough.
+
+This is the same mechanism behind *disruptive innovation*. Incumbents do not miss the low end because they cannot see it. They skip it because their margins make serving it irrational, right up until the entrant who took it grows into something they cannot dislodge [@christensenInnovatorsDilemmaWhen1997; @christensenInnovatorsSolutionCreating2003].
+
+We will return to this with a picture of how competitors crowd the middle and leave the edges open, in @fig-tyranny-market in the *Choosing Your People* part.
 
 ## Finding the Edges {.unnumbered}
 
-How do you spot these hidden opportunities? By paying attention to signals most companies ignore.
+So how do you spot them? By paying attention to signals most companies ignore.
 
-Look for people who don’t fit the mold.
+Look for people who don't fit the mold:
 
 - cobbling together multiple products just to make things work,
 - inventing hacks or awkward routines to get by,
-- buying “close enough” but never “just right.”
+- buying "close enough" but never "just right."
 
 Listen for pain hiding in plain sight:
 
 - complaints that keep resurfacing in forums or reviews,
 - sharp frustrations tucked inside otherwise positive feedback,
-- stories of delay, confusion, or vulnerability brushed off as “just part of it.”
+- stories of delay, confusion, or vulnerability brushed off as "just part of it."
 
-The temptation will always be to round your idea back toward the middle. Resist it. The fit that feels “too specific” is usually the one that matters most.
+The temptation will always be to round your idea back toward the middle, where the customers seem to be. Resist it. The fit that feels too specific is usually the one that matters.
 
+## From Edge to Innovation: The Triple Diamond {.unnumbered}
 
-
-## From Edge to Innovation: The Triple Diamond Framework {.unnumbered}
-
-The Expeditionary Innovation process is built around the **triple diamond framework** — an extended version of the well-known “double diamond” model[^2] — that guides innovators from initial uncertainty to validated opportunity. Each diamond represents a distinct phase of structured work, alternating between **divergent exploration** and **convergent decision-making**.
+The process is built around the **triple diamond framework**, an extension of the well-known double diamond model.[^2] Each diamond is a phase of structured work that widens to explore, narrows to decide, and then tests before you move on.
 
 [^2]: The triple diamond extends the double diamond model popularized by the UK Design Council [@designcouncilDesignProcessWhat2015], which organizes innovation into two cycles of divergence and convergence: defining the problem and developing the solution. Expeditionary innovation adds a first diamond—choosing the right people—because starting with the wrong group undermines the entire process. The double diamond assumes you already know whom you are designing for; that assumption is the one this book refuses to make.
 
 ![The triple diamond framework for expeditionary innovation. Explore to gain insight, generate informed hypotheses, and test the hypotheses about your people, their needs, and your solution.](images/spine.svg){#fig-triple-diamond fig-align="center"}
 
+The diamonds are not three arbitrary stages. Each one settles one of the three things that must be true for any of this to be a business rather than an interesting observation.
+
 ------------------------------------------------------------------------
 
 ### Diamond 1: Choose the Right People
 
-Innovation begins not with an idea, but with *people*.\
-In this phase, you diverge by exploring a wide range of potential customers or user groups. Using structured criteria, you then converge on one group to study in depth. Finally, you run an **access test** to confirm you can reach them in meaningful numbers.
+> *The question: can you actually get to these people?*
 
-This decision is foundational: everything that follows will be shaped by *who* you choose to serve.
+Innovation begins not with an idea but with *people*. You diverge by exploring a wide range of possible groups. Using structured criteria, you converge on one to study in depth. Then you run an **access test** to confirm you can reach them in meaningful numbers.
+
+That last step is the one most frameworks skip, and it is not a formality. If you cannot reach the people, you do not have an opportunity. You have a hypothesis you can never test, and later, customers you can never sell to.
 
 By the end of this diamond, you should have **evidence of access** to a specific group you can reliably reach and engage.
 
@@ -140,16 +107,19 @@ By the end of this diamond, you should have **evidence of access** to a specific
 
 ### Diamond 2: Understand an Unmet Need
 
-This phase is where **exploratory experiments** become the engine of discovery.
+> *The question: does it cost them enough that they would pay to make it stop?*
+
+This is where **exploratory experiments** become the engine of discovery.
 
 #### What Are Exploratory Experiments?
 
-Exploratory experiments are open-ended, discovery-oriented investigations.[^3] Rather than starting with a fully formed hypothesis, you begin with curiosity and uncertainty — using field observations, conversations, and other immersion methods to *find out what you don’t yet know*.\
-They are designed to: 
+Exploratory experiments are open-ended, discovery-oriented investigations.[^3] Rather than starting from a fully formed hypothesis, you begin with curiosity and go looking — using observation, conversation, and immersion to find out what you don't yet know. They are designed to:
 
-- Surface unmet needs that customers may not articulate directly. 
-- Identify patterns and anomalies in customer behavior or context. 
-- Generate new questions and possibilities, rather than simply confirming assumptions.
+- surface unmet needs that customers may not articulate directly,
+- identify patterns and anomalies in behavior or context,
+- generate new questions rather than confirming assumptions you arrived with.
+
+Exploratory work is what makes a hypothesis worth testing, and it has a name. When surprises start to accumulate and point the same direction, you reason backward to the explanation that best accounts for all of them. That move is called **abduction**, and it is what separates a grounded hypothesis from a guess dressed up as one. You will spend most of Diamond 2 learning to do it well.
 
 <!-- Claude 2026-07-30: this footnote cited Hacking's *The Emergence of Probability* (2006),
 which is a history of the probability concept and says nothing about experimentation. The
@@ -162,16 +132,11 @@ adventure" phrasing appears in Make the Call — worth checking there too. -->
 
 #### How They Fit the Process
 
-In Diamond 2, exploratory experiments help you systematically navigate ambiguity: 
+- **Diverge:** immerse yourself in the world of your chosen people through observation, conversation, shadowing, and reflection.
+- **Converge:** use thematic analysis, personas, and experience maps to reason your way to the explanation that best accounts for what you saw.
+- **Test:** form a *pain hypothesis* — a testable claim about an unmet need — and run a **pain validation test** to see whether the problem is real and costly.
 
-- **Diverge**: Immerse yourself in the world of your chosen people through ethnographic tools — observation, conversation, shadowing, and reflection. 
-- **Converge**: Use thematic analysis, persona building, and journey mapping to make sense of what you’ve learned. 
-- **Test Early**: Form a *pain hypothesis* — a testable claim about an unmet need — and run a **pain validation test** to see if the problem is both real and significant.
-
-<!-- Claude 2026-07-30: this read "a validated solution concept and prototype evidence that
-customers will buy" — Diamond 3's outcome pasted into Diamond 2. Diamond 2 ends at a
-validated pain; nothing has been designed yet. -->
-By the end of this diamond, you should have a **validated pain** — an unmet need you have confirmed is real, frequent, and urgent enough that your people are already spending time or money to relieve it.
+By the end of this diamond, you should have a **validated pain**: an unmet need you have confirmed is real, frequent, and urgent enough that your people are already spending time or money to relieve it.
 
 ![Discover an unknown, unmet need and validate that your people have the need](images/diamond-2.svg){#fig-pain-diamond fig-align="center"}
 
@@ -179,15 +144,17 @@ By the end of this diamond, you should have a **validated pain** — an unmet ne
 
 ### Diamond 3: Build the Right Solution
 
-With a validated problem in hand, you can now move quickly through solution generation and confirmatory testing: 
+> *The question: is there a solution they will actually take up, and can you build it?*
 
-- **Diverge**: Generate a wide range of ideas (aim for 100+ possibilities using rapid ideation tools). 
-- **Converge**: Apply feasibility filters, dot voting, and scoring matrices to identify the most promising concept. 
-- **Stack Confirmatory Tests**: Run a progression of tests — desirability, usability, viability — culminating in a smoke test and profit analytics.
+With a validated pain in hand, you can move quickly through solution generation and confirmatory testing:
 
-Here, confirmatory experiments dominate. Their role is to validate that your chosen solution not only works, but works *for the right people*, *solves the right problem*, and is *worth building at scale*.
+- **Diverge:** generate a wide range of ideas, aiming for a hundred or more using rapid ideation tools.
+- **Converge:** apply feasibility filters and scoring to identify the most promising concept.
+- **Test:** run a progression of confirmatory tests — desirability, usability, viability — culminating in a smoke test and profit analytics.
 
-By the end of this diamond, you should have a **validated solution concept** and prototypes that confirm that you can solve customer needs and they will buy it.
+Here confirmatory experiments dominate. Their job is to show that your solution works, that it works *for the right people*, and that it solves *the right problem*.
+
+By the end of this diamond, you should have a **validated solution concept** and prototype evidence that you can solve the need and that customers will buy.
 
 ![Discover an elegant solution to the customer need, verify that you can build it, and validate that customers want it](images/diamond-3.svg){#fig-solution-diamond fig-align="center"}
 
@@ -195,22 +162,24 @@ By the end of this diamond, you should have a **validated solution concept** and
 
 ### Why This Sequence Matters
 
-By embedding exploratory experiments in each diamond, Expeditionary Innovation ensures that: 
+Read the three questions in order and the logic of the whole method comes into view:
 
-- **Hypotheses are well-informed** before testing begins. 
-- **Resources are spent wisely** — no building before validation. 
-- **Uncertainty becomes opportunity**, as early ambiguity drives deeper understanding rather than hasty decision-making.
+1. Can you reach these people?
+2. Does their pain cost enough that they would pay to relieve it?
+3. Is there a solution they will take up, and can you build it?
 
+Each one has to be answered *yes* before the next one is worth asking. Answer any of them *no* and you have learned something valuable for the price of a few weeks rather than a few years. That is the entire bargain.
 
+It also explains why shortcuts hurt. Skipping the access test, or gathering pain evidence from whoever is convenient, or picking a solution first and looking for support afterward — each one skips the retirement of a specific risk and leaves you carrying it without knowing you are.
 
-## Conclusion: Begin the Expedition {.unnumbered}
+There is a fourth question, and it is the one that finally decides: **is this worth doing?** Reaching people, relieving a real pain, and building something they will adopt still does not tell you whether the business earns more than it costs. That question needs its own methods — estimating profit before any revenue exists — and it has its own book: [*Is This Worth Doing?*](https://ea.nilehatch.com/). Finish the expedition first. You cannot evaluate a venture you have not yet found.
 
-The journey from edge to evidence isn’t a straight line. With the triple diamond, you can navigate it with purpose, discipline, and confidence — from choosing the right people, to discovering and validating an unmet need, to designing and testing a solution that works.
+## Begin the Expedition {.unnumbered}
 
-Follow this process and you’ll create innovations that truly delight your customers. They’ll gladly pay for a solution no one else offers, become loyal advocates, and by addressing a need no one else has spotted, you’ll have a natural window of time to establish your foothold before the rest of the market reacts.
+The journey from edge to evidence is not a straight line. The triple diamond lets you walk it with purpose: choose the right people, discover and validate an unmet need, then design and test a solution that relieves it.
 
-Most importantly, by resisting intuitive but low‑probability methods, you dramatically improve your odds of success. You can mostly eliminate product–market-fit risk — often the dominant risk in startups.
+Do this and you will build for people who have been overlooked, who will gladly pay for a solution nobody else offers, and who will tell others. You will have a window before the market reacts. And you will have replaced guessing with evidence at each of the three points where guessing usually kills a venture.
 
-Begin your expedition. Follow the process to create create for your customers and for yourself with confidence from the very first step..
+None of that guarantees success. Plenty of uncertainty remains that no method touches. What the process does is remove the uncertainty that was removable, so that what you finally risk is only what could not have been known in advance.
 
-
+Begin your expedition. You will know the next step from here on.
