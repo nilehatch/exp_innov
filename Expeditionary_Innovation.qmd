@@ -10,7 +10,13 @@ The word *expedition* comes from the Latin *ex* (out) and *ped* (foot): to strid
 
 "Innovation" gets used for almost everything, so it is worth being precise about which kind this book is about. Sort innovation by two questions, and the picture clarifies quickly: *do you know what people need, and do you know how to build it?*
 
-That second question has two versions, and the difference between them decides who can play. A solution is **within reach** when nobody has built it yet but everything needed to build it already exists: Amazon's one-click ordering had never been done, and the programming and the internet were sitting right there waiting. A solution is **beyond reach** when somebody first has to discover something new. Self-driving cars needed sensors and control systems that did not exist, and no amount of cleverness with existing parts would have produced them.
+That second question has two versions, and the difference decides who can play. Amazon's one-click ordering was **within reach**: nobody had built it, but the programming and the internet were sitting right there waiting. Self-driving cars were **beyond reach**: somebody first had to build sensors and control systems that did not exist, and no amount of cleverness with existing parts would have produced them.
+
+::: {.column-margin .def-margin}
+**Within reach** — everything needed to build the solution already exists; it has simply never been put together this way.
+
+**Beyond reach** — someone must first discover something new before the solution is possible at all.
+:::
 
 ![Typology of innovation categories including **expeditionary innovation** where customer needs are initially unknown](images/innov_typology_4.svg){#tbl-innovation-typology fig-align="center" fig-cap-location="margin"}
 
@@ -46,7 +52,11 @@ The answer is the most important idea in this book.
 
 Building something new costs money, and that cost has to be recovered from the people who buy it. So companies aim where customers are densest — the middle of the market, where the volume makes the numbers work. Competitors aim there too, because that is where the volume is. They pile on features. Prices come down.
 
-And here is the part that matters: none of that helps the people at the edges, because *a lower price on a product you don't want is not a better deal*. Competition operates on price. Their problem is fit. More competition in the middle does nothing for them, ever. This is not a market failure that someone is about to correct. It is what a market functioning normally produces, and it is why those needs are still sitting there. Joel Waldfogel named it the **tyranny of the market** [@waldfogelTyrannyMarketWhy2009]: customers with less common preferences get neglected when firms build for the mainstream.
+And here is the part that matters: none of that helps the people at the edges, because *a lower price on a product you don't want is not a better deal*. Competition operates on price. Their problem is fit. More competition in the middle does nothing for them, ever. This is not a market failure that someone is about to correct. It is what a market functioning normally produces, and it is why those needs are still sitting there. Joel Waldfogel named it the **tyranny of the market** [@waldfogelTyrannyMarketWhy2009].
+
+::: {.column-margin .def-margin}
+**Tyranny of the market** — customers whose preferences are less common go unserved, because firms build for where customers are densest. Not a failure of the market. A consequence of it working.
+:::
 
 So the needs are not hidden because nobody is clever enough to see them. They persist because serving them has never been worth it *to a company built for the middle*. That is a statement about the incumbent's cost structure, not about the opportunity.
 
@@ -120,6 +130,10 @@ Exploratory experiments are open-ended, discovery-oriented investigations.[^3] R
 - generate new questions rather than confirming assumptions you arrived with.
 
 Exploratory work is what makes a hypothesis worth testing, and it has a name. When surprises start to accumulate and point the same direction, you reason backward to the explanation that best accounts for all of them. That move is called **abduction**, and it is what separates a grounded hypothesis from a guess dressed up as one. You will spend most of Diamond 2 learning to do it well.
+
+::: {.column-margin .def-margin}
+**Abduction** — reasoning from a set of surprising observations to the explanation that would best account for all of them. Not deduction, which derives from rules, and not induction, which generalises from cases.
+:::
 
 <!-- Claude 2026-07-30: this footnote cited Hacking's *The Emergence of Probability* (2006),
 which is a history of the probability concept and says nothing about experimentation. The

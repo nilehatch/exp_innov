@@ -85,10 +85,9 @@
 <text transform='translate(546.20,152.45) rotate(-90)' text-anchor='middle' style='font-size: 7.11px; font-weight: bold;fill: #FFFFFF; font-family: "Fira Sans";' textLength='14.05px' lengthAdjust='spacingAndGlyphs'>Pain</text>
 <text transform='translate(418.22,152.45) rotate(-90)' text-anchor='middle' style='font-size: 7.11px;fill: #1F2937; font-family: "Fira Sans";' textLength='29.77px' lengthAdjust='spacingAndGlyphs'>Role play</text>
 <text transform='translate(443.57,152.45) rotate(-90)' text-anchor='middle' style='font-size: 7.11px;fill: #1F2937; font-family: "Fira Sans";' textLength='63.67px' lengthAdjust='spacingAndGlyphs'>Secondary research</text>
+<text transform='translate(658.77,152.45) rotate(-90)' text-anchor='middle' style='font-size: 7.11px;fill: #1F2937; font-family: "Fira Sans";' textLength='24.16px' lengthAdjust='spacingAndGlyphs'>Catalog</text>
 <text transform='translate(761.39,152.45) rotate(-90)' text-anchor='middle' style='font-size: 7.11px;fill: #FFFFFF; font-family: "Fira Sans";' textLength='33.20px' lengthAdjust='spacingAndGlyphs'>Dot voting</text>
 <text transform='translate(736.04,152.45) rotate(-90)' text-anchor='middle' style='font-size: 7.11px;fill: #FFFFFF; font-family: "Fira Sans";' textLength='50.00px' lengthAdjust='spacingAndGlyphs'>Feasibility filter</text>
-<text transform='translate(655.02,152.45) rotate(-90)' text-anchor='middle' style='font-size: 7.11px;fill: #1F2937; font-family: "Fira Sans";' textLength='23.56px' lengthAdjust='spacingAndGlyphs'>catalog</text>
-<text transform='translate(662.53,152.45) rotate(-90)' text-anchor='middle' style='font-size: 7.11px;fill: #1F2937; font-family: "Fira Sans";' textLength='22.39px' lengthAdjust='spacingAndGlyphs'>Fill the</text>
 <text transform='translate(684.12,152.45) rotate(-90)' text-anchor='middle' style='font-size: 7.11px;fill: #1F2937; font-family: "Fira Sans";' textLength='29.34px' lengthAdjust='spacingAndGlyphs'>Generate</text>
 <text transform='translate(709.47,152.45) rotate(-90)' text-anchor='middle' style='font-size: 7.11px;fill: #1F2937; font-family: "Fira Sans";' textLength='35.98px' lengthAdjust='spacingAndGlyphs'>Recombine</text>
 <text transform='translate(786.74,152.45) rotate(-90)' text-anchor='middle' style='font-size: 7.11px;fill: #FFFFFF; font-family: "Fira Sans";' textLength='54.42px' lengthAdjust='spacingAndGlyphs'>Screening matrix</text>
@@ -114,10 +113,10 @@
 <text x='597.00' y='158.16' text-anchor='middle' style='font-size: 6.54px; font-weight: bold;fill: #4A3000; font-family: "Fira Sans";' textLength='30.14px' lengthAdjust='spacingAndGlyphs'>validation</text>
 <text x='862.89' y='151.25' text-anchor='middle' style='font-size: 6.54px; font-weight: bold;fill: #4A3000; font-family: "Fira Sans";' textLength='25.16px' lengthAdjust='spacingAndGlyphs'>Solution</text>
 <text x='862.89' y='158.16' text-anchor='middle' style='font-size: 6.54px; font-weight: bold;fill: #4A3000; font-family: "Fira Sans";' textLength='30.14px' lengthAdjust='spacingAndGlyphs'>validation</text>
-<line x1='902.60' y1='152.45' x2='970.87' y2='152.45' style='stroke-width: 1.28; stroke: #0A659E; stroke-linecap: butt;' />
-<polygon points='967.68,154.29 970.87,152.45 967.68,150.60 ' style='stroke-width: 1.28; stroke: #0A659E; stroke-linecap: butt; fill: #0A659E;' />
-<text x='941.44' y='140.60' text-anchor='middle' style='font-size: 5.98px; font-style: italic;fill: #0A659E; font-family: "Fira Sans";' textLength='40.53px' lengthAdjust='spacingAndGlyphs'>profit analytics</text>
-<text x='941.44' y='168.26' text-anchor='middle' style='font-size: 5.55px; font-style: italic;fill: #9CA3AF; font-family: "Fira Sans";' textLength='57.28px' lengthAdjust='spacingAndGlyphs'>→ Is This Worth Doing?</text>
+<line x1='902.60' y1='152.45' x2='970.87' y2='152.45' style='stroke-width: 2.45; stroke: #0A659E; stroke-linecap: butt;' />
+<polygon points='965.47,155.56 970.87,152.45 965.47,149.33 ' style='stroke-width: 2.45; stroke: #0A659E; stroke-linecap: butt; fill: #0A659E;' />
+<text x='941.44' y='138.78' text-anchor='middle' style='font-size: 7.82px; font-style: italic;fill: #0A659E; font-family: "Fira Sans";' textLength='53.08px' lengthAdjust='spacingAndGlyphs'>profit analytics</text>
+<text x='941.44' y='171.34' text-anchor='middle' style='font-size: 7.40px; font-style: italic;fill: #9CA3AF; font-family: "Fira Sans";' textLength='76.33px' lengthAdjust='spacingAndGlyphs'>→ Is This Worth Doing?</text>
 </g>
 <g clip-path='url(#cpMC4wMHw5OTMuNjB8MC4wMHwzMTAuNjE=)'>
 </g>

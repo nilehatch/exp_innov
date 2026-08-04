@@ -85,10 +85,6 @@ bands <- function(div, con, x0, SW, H, TIP) {
 ## it). A double-headed arrow was rejected: <-> conventionally reads as a
 ## bidirectional RELATIONSHIP, not a branch, and would claim a symmetry the
 ## process does not have.
-rev_lines <- function(s)
-  vapply(strsplit(s, "\n", fixed=TRUE),
-         function(v) paste(rev(v), collapse="\n"), character(1))
-
 build <- function(spec, SW=.62, H=3.1, TIP=.52, PAD=.22, RH=.92,
                   lab=2.5, node=2.3, tag=2.4, title=0, loop=TRUE, sub=FALSE,
                   handoff=FALSE, node_style=c("arrow","rhombus"),
@@ -159,13 +155,12 @@ build <- function(spec, SW=.62, H=3.1, TIP=.52, PAD=.22, RH=.92,
     # outcome slice: gold keyline, rhyming with the gold node it feeds
     geom_polygon(data=P %>% filter(outcome), aes(x,y,group=id),
                  fill=NA, colour=gold_now, linewidth=.9) +
-    ## Slice labels are rotated 90 degrees. ggplot lays a multi-line string out
-    ## in reading order and THEN rotates the whole block, which lands line 1 on
-    ## the far side - so "Fill the\ncatalog" rendered as "catalog / Fill the".
-    ## Reverse the lines here so a rotated label reads correctly. Single-line
-    ## labels are untouched, and node labels (not rotated) must NOT go through
-    ## this. Write specs in normal reading order; this keeps them honest.
-    geom_text(data=L, aes(mid, 0, label=rev_lines(lab)), angle=90, size=lab,
+    ## Slice labels are rotated 90 degrees and multi-line labels ARE already in
+    ## reading order: with rotate(-90) successive lines advance to the right, so
+    ## line 1 is the leftmost column, which is what a reader tilting their head
+    ## left reads first. Do NOT "fix" this by reversing the lines - verify with
+    ## the emitted x coordinates in the SVG, not by rotating a raster and eyeballing it.
+    geom_text(data=L, aes(mid, 0, label=lab), angle=90, size=lab,
               lineheight=.88, colour=L$col, fontface=ifelse(L$outcome,2,1))
   PHL <- if (rec_up || rec_div) 1.02 else .26   # phase label clears either arc
   for (i in seq_len(nrow(A))) {
@@ -196,13 +191,13 @@ build <- function(spec, SW=.62, H=3.1, TIP=.52, PAD=.22, RH=.92,
     if (loop) g <- g +
       annotate("curve", x=a$tx, xend=a$c1x, y=a$nbot-.06, yend=a$c1y-.10,
                curvature=-.42, angle=105, ncp=14,
-               colour=brand$gold, linewidth=.6,
-               arrow=arrow(length=unit(.13,"cm"), type="closed")) +
+               colour=brand$gold, linewidth=1.15,
+               arrow=arrow(length=unit(.22,"cm"), type="closed")) +
       ## sit just under the arc's belly, biased toward the node end where the
       ## arc is steepest - the label belongs to the return path, not to the
       ## empty space beneath the diamond
       annotate("text", x=a$tx*.58 + a$c1x*.42, y=a$c1y-.62, label=a$back,
-               size=tag-.35, fontface=3, colour="#8A6100")
+               size=tag+.35, fontface=3, colour="#8A6100")
     ## D3's inner loop: recombine the best losers. It happens AT the screening
     ## matrix, so it appears ONLY on the convergence figure - the chapter that
     ## teaches it. On the whole-diamond figure it competed with the validation
@@ -270,10 +265,10 @@ build <- function(spec, SW=.62, H=3.1, TIP=.52, PAD=.22, RH=.92,
      } else NULL) +
     (if (handoff) list(
       annotate("segment", x=x-PAD+.05, xend=x+1.5, y=0, yend=0, colour=brand$primary,
-               linewidth=.6, arrow=arrow(length=unit(.13,"cm"), type="closed")),
-      annotate("text", x=x+.78, y=.34, size=tag-.3, fontface=3, colour=brand$primary,
+               linewidth=1.15, arrow=arrow(length=unit(.22,"cm"), type="closed")),
+      annotate("text", x=x+.78, y=.40, size=tag+.35, fontface=3, colour=brand$primary,
                label="profit analytics"),
-      annotate("text", x=x+.78, y=-.34, size=tag-.45, fontface=3, colour=brand$muted,
+      annotate("text", x=x+.78, y=-.40, size=tag+.2, fontface=3, colour=brand$muted,
                label="→ Is This Worth Doing?")) else NULL) +
     coord_fixed(xlim=xr, ylim=yr, expand=FALSE) +
     theme_void(base_family=FONT) + theme(plot.margin=margin(2,2,2,2))
@@ -303,7 +298,11 @@ D2 <- list(div=c("Observe","Listen","Role play","Secondary research"),
            test="Pain\nvalidation", title="DIAMOND 2 · PAIN",
            sub="pain validation · ouch factor · willingness to pay",
            back="not yet — abduce another pain from the same evidence")
-D3 <- list(div=c("Fill the\ncatalog","Generate","Recombine"), recomb_to=3L,
+## Single-line labels only in the rotated slices. A two-line rotated label
+## ("Fill the\ncatalog") stacks in an order that is hard to verify and rendered
+## differently than it read in source; one word per slice also makes the three
+## moves parallel, which is what the chapter calls them.
+D3 <- list(div=c("Catalog","Generate","Recombine"), recomb_to=3L,
            con=c("Feasibility filter","Dot voting","Screening matrix","Solution"),
            test="Solution\nvalidation", title="DIAMOND 3 · SOLUTION", recomb=TRUE,
            sub="customer validation · verification · wow factor · $100 · smoke test",

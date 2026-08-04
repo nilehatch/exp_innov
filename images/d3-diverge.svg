@@ -51,10 +51,9 @@
 <polygon points='155.20,402.31 214.25,460.50 214.25,153.26 155.20,211.46 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #B5D3E7;' />
 <polygon points='214.25,460.50 273.30,518.70 273.30,95.06 214.25,153.26 ' style='stroke-width: 1.17; stroke: #FFFFFF; stroke-linecap: butt; fill: #93BFDB;' />
 <polygon points='452.38,387.76 561.80,306.88 452.38,226.01 ' style='stroke-width: 1.92; stroke: #DCDFE3; stroke-linecap: butt;' />
+<text transform='translate(129.49,306.88) rotate(-90)' text-anchor='middle' style='font-size: 11.10px;fill: #1F2937; font-family: "Fira Sans";' textLength='37.67px' lengthAdjust='spacingAndGlyphs'>Catalog</text>
 <text transform='translate(367.63,306.88) rotate(-90)' text-anchor='middle' style='font-size: 11.10px;fill: #AEB6BD; font-family: "Fira Sans";' textLength='51.78px' lengthAdjust='spacingAndGlyphs'>Dot voting</text>
 <text transform='translate(308.58,306.88) rotate(-90)' text-anchor='middle' style='font-size: 11.10px;fill: #AEB6BD; font-family: "Fira Sans";' textLength='78.08px' lengthAdjust='spacingAndGlyphs'>Feasibility filter</text>
-<text transform='translate(123.63,306.88) rotate(-90)' text-anchor='middle' style='font-size: 11.10px;fill: #1F2937; font-family: "Fira Sans";' textLength='36.75px' lengthAdjust='spacingAndGlyphs'>catalog</text>
-<text transform='translate(135.35,306.88) rotate(-90)' text-anchor='middle' style='font-size: 11.10px;fill: #1F2937; font-family: "Fira Sans";' textLength='34.95px' lengthAdjust='spacingAndGlyphs'>Fill the</text>
 <text transform='translate(188.54,306.88) rotate(-90)' text-anchor='middle' style='font-size: 11.10px;fill: #1F2937; font-family: "Fira Sans";' textLength='45.81px' lengthAdjust='spacingAndGlyphs'>Generate</text>
 <text transform='translate(247.60,306.88) rotate(-90)' text-anchor='middle' style='font-size: 11.10px;fill: #1F2937; font-family: "Fira Sans";' textLength='56.22px' lengthAdjust='spacingAndGlyphs'>Recombine</text>
 <text transform='translate(426.68,306.88) rotate(-90)' text-anchor='middle' style='font-size: 11.10px;fill: #AEB6BD; font-family: "Fira Sans";' textLength='84.88px' lengthAdjust='spacingAndGlyphs'>Screening matrix</text>
