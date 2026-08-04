@@ -353,3 +353,45 @@ for (i in 1:3) for (ph in c("diverge","converge","test"))
 
 cat("  wrote 2 spine + 3 diamond + 9 chapter figures\n")
 cat("ok\n")
+
+## =====================================================================
+## E · the re-convergence figure
+##
+## Diamond 2 converges on TWO axes at once and the triple-diamond figures
+## cannot show it: as the pain comes into focus, the PEOPLE come into focus
+## with it. Teams who miss this read the narrowing of their group as a
+## mistake ("we changed our mind about who we serve") instead of as the
+## method working. Two lanes, one funnel, converging together.
+## =====================================================================
+recon <- function() {
+  W <- 8.6; TOPY <- 1.15; BOTY <- -1.15
+  END <- .26          # half-thickness of each lane at the right; keep labels clear
+  GAP <- .05          # white channel between the two lanes
+
+  pain <- data.frame(x=c(0,W,W,0), y=c(TOPY,  END+GAP*2, GAP, GAP))
+  ppl  <- data.frame(x=c(0,W,W,0), y=c(-GAP, -GAP, -(END+GAP*2), BOTY))
+
+  g <- ggplot() +
+    geom_polygon(data=pain, aes(x,y), fill="#93BFDB", colour="white", linewidth=.5) +
+    geom_polygon(data=ppl,  aes(x,y), fill="#2878A8", colour="white", linewidth=.5) +
+    annotate("text", x=.3, y=TOPY*.55, label="many candidate pains",
+             hjust=0, size=3.9, colour=brand$ink) +
+    annotate("text", x=.3, y=BOTY*.55, label="a community you can reach",
+             hjust=0, size=3.9, colour="white", fontface=2) +
+    ## outcomes sit OUTSIDE the funnel; inside there is no room once it tapers
+    annotate("text", x=W+.28, y=END*.75, label="one validated pain",
+             hjust=0, size=3.7, fontface=2, colour=brand$primary) +
+    annotate("text", x=W+.28, y=-END*.75, label="and the people it defines",
+             hjust=0, size=3.7, fontface=2, colour=brand$primary) +
+    annotate("text", x=W*.5, y=TOPY+.34, label="DIAMOND 2 CONVERGES ON BOTH AT ONCE",
+             size=3.6, fontface=2, colour=brand$primary) +
+    annotate("text", x=.3, y=BOTY-.36, hjust=0, size=3.3, fontface=3, colour="#8A6100",
+             label="the group narrows as the pain sharpens - that is the method, not a change of mind") +
+    coord_fixed(xlim=c(-.15, W+4.1), ylim=c(BOTY-.62, TOPY+.62), expand=FALSE) +
+    theme_void(base_family=FONT) + theme(plot.margin=margin(2,2,2,2))
+  xr <- c(-.15, W+4.1); yr <- c(BOTY-.62, TOPY+.62)
+  attr(g, "aspect") <- diff(xr) / diff(yr)
+  g
+}
+save_fit(file.path(O,"reconvergence.svg"), recon(), width=9.6)
+cat("  wrote reconvergence.svg\n")

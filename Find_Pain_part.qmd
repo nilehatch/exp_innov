@@ -15,6 +15,19 @@ This matters because most needs aren’t obvious. People adapt. They normalize f
 
 ![Diverge and converge to find a pain (unknown, unmet need) and test whether your customers feel it.](images/diamond-2.svg){#fig-pain-diamond-3 fig-align="center"}
 
+## Two Things Narrow at Once {.unnumbered}
+
+The first diamond left you with a community you can reach. It did not leave you with your customers, because customers are defined by what they share, and you do not yet know what these people share.
+
+That is what this diamond settles, and it settles two things at the same time. As the pain comes into focus, **the people come into focus with it**. You arrive holding a broad community and a long list of candidate frictions. You leave holding one validated pain and the group that actually carries it, which is almost always narrower than the group you started with.
+
+![As the pain sharpens, so does the definition of who has it. Diamond 2 converges on both at once.](images/reconvergence.svg){#fig-reconvergence fig-align="center"}
+
+This is worth expecting, because it is easy to misread. When your early conversations split into two or three different stories rather than one, the instinct is to conclude that you chose the wrong people. Usually you chose a group that contains several. The work is not to start over. It is to notice which story keeps returning, and to let that story tell you who your people are.
+
+Only at the end of this diamond have you earned the phrase **your people**: not everyone you have been talking to, but the ones a shared pain defines.
+
+
 ## The Pattern: Diverge, Converge, Test {.unnumbered}
 
 As with every diamond, the rhythm is diverge → converge → test.

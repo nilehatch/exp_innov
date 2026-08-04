@@ -1,26 +1,28 @@
 ---
 title: "Cast a Wide Net"
-subtitle: "Diverge by exploring many possible communities before you choose your people"
+subtitle: "Diverge by exploring many possible communities before you choose where to search"
 id: sec-diverge-people-chapter
 ---
 
 > "If you only fish where it's easy to cast, you may miss the part of the lake teeming with fish."
 
-## Diverge: Identifying Communities of People
+## Diverge: Looking for Neglect
 
 ![The People Diamond begins with divergent exploration: opening wide before narrowing to one community.](images/d1-diverge.svg){fig-align="center"}
 
-Most entrepreneurs start with a hunch about *what* to build. Expeditionary innovation starts with *who*. This diamond begins not with a decision but with divergence: a deliberate effort to look widely before you commit to anything.
+Most entrepreneurs start with a hunch about *what* to build. Expeditionary innovation starts with *where to look*. This diamond begins not with a decision but with divergence: a deliberate effort to see widely before you commit to anything.
 
-Your goal here is not to find the perfect group. It is to map the human landscape around a problem space, so that when you do choose, you are choosing from a real field of options rather than from the first thing that came to mind.
+You are not hunting for the perfect group. You are looking for a community you can get to and where you have reason to expect neglect. Those are the only two requirements, and the second one is the interesting one, because neglect is **predictable**.
 
-That is harder than it sounds, because there is a strong pull toward whoever is easy to reach. Roommates. Classmates. Whoever answered the group chat. Choosing them is not a small shortcut; it is the most common way this phase fails, and it fails quietly. You will get interviews. You will get data. It will simply be data about the wrong people, and you will not find out until much later, when the pain you validated turns out to belong to nobody in particular.
+That is the payoff of the tyranny of the market. Firms build for the dense middle, so the further a group sits from that middle, the more likely its needs are going unserved. You are not searching at random and you are not waiting for inspiration. You have a map, and it tells you to look away from the centre.
 
-## 1. Anchor in a Problem Space
+The hard part is that the pull runs the other way. There is a strong temptation toward whoever is easy to reach: roommates, classmates, whoever answered the group chat. Choosing them is not a small shortcut. It is the most common way this phase fails, and it fails quietly. You will get interviews. You will get data. It will simply be data about the wrong people, and you will not find out until much later, when the pain you validated turns out to belong to nobody in particular.
 
-Every expedition needs a point of departure. For innovators, that means choosing a domain of friction, tension, or unresolved struggle in the world. It could be broad ("stress in education") or narrow ("safety during the walk between subway and home"). What matters is that it *matters*, to real people, in tangible ways.
+## Anchor in a Problem Space
 
-Start with a space, not a solution. Do not ask "what can we build?" Ask: *where is life harder than it needs to be?* An anchor like that frames your exploration without closing it down.
+Every expedition needs a point of departure: a domain of friction, tension, or unresolved struggle. It can be broad ("stress in education") or narrow ("safety during the walk between subway and home"). What matters is that it *matters*, to real people, in tangible ways.
+
+Start with a space, not a solution. Do not ask "what can we build?" Ask: *where is life harder than it needs to be?*
 
 ::: {.callout-tip title="Examples of Problem Spaces"}
 - Food insecurity in mid-sized cities
@@ -32,11 +34,9 @@ Start with a space, not a solution. Do not ask "what can we build?" Ask: *where 
 
 Notice what those have in common. Each names a *situation people live in*, not a product category and not a problem someone has already solved. "Better project management software" is a solution wearing a problem's clothes. "The chaos of coordinating volunteers across three congregations" is a place you could go and look.
 
-## 2. Generate Communities
+## Generate Communities, Then Push Past the Obvious
 
-With a problem space in view, identify groups who live inside it. These may be formal (veterans, refugee families) or loosely defined (single parents, gig workers, late-night commuters). Your task here is range, not refinement.
-
-Push beyond the obvious. If your anchor is school stress, do not stop at "students." Think about anxious high achievers, burned-out teachers, parents navigating special education, teens facing cultural stigma. Each new group adds a dimension, and each raises the chance you will spot someone the mainstream has left out.
+With a problem space in view, list groups who live inside it. Some will be formal (veterans, refugee families), some loose (single parents, gig workers, late-night commuters). Range matters more than precision.
 
 ::: {.callout-tip title="Prompts for Community Generation"}
 - Who experiences this problem most intensely?
@@ -44,6 +44,12 @@ Push beyond the obvious. If your anchor is school stress, do not stop at "studen
 - Who has adapted in ways no one is paying attention to?
 - Who is talking about this, but not being heard?
 :::
+
+Your first three answers will be the groups already in public conversation, and that is worth knowing about them. **The groups that come to mind first are the ones in the news, and the news is a map of where attention already is.** Attention attracts effort. Where a neglected group has advocates, journalists, funders, and nonprofits already working on their behalf, the space is not neglected in the way that matters to you, however real their difficulty is.
+
+Parents of school-age children during the pandemic were genuinely struggling and were also the subject of a national conversation, a wave of new products, and a great deal of philanthropic money. Sympathy is not the same as opportunity. Ask not only *who is suffering* but *who is suffering while nobody is looking*.
+
+So treat your first list as a warm-up. The useful groups are usually one step to the side of it: not the patients but the people who drive them to appointments, not the teachers but the substitutes, not the veterans but their adult children.
 
 ### A group is not a demographic
 
@@ -59,25 +65,21 @@ They may well have one. But you would not have seen it. What happened is that yo
 
 A community, here, is a set of people **shaped by the same constraints**. Not the same census box: the same pressures, the same workarounds, the same things that make a Tuesday hard. When you can say *these people all have to deal with X*, you have a group. When all you can say is *these people are all between 25 and 34*, you have a demographic, and demographics do not have pains.
 
-The test is quick: could you write one sentence describing a bad day that most of this group would recognise? If not, the group is too broad, and no amount of interviewing will repair it.
+The test is quick: could you write one sentence describing a bad day that most of this group would recognise? If not, the group is too broad.
 
-## 3. Profile the People
+Too broad is recoverable, and often it is where you should start. The failure is not choosing a wide group; it is choosing a wide group and then expecting one complaint to emerge from it. If you begin wide, plan to narrow, and watch for the moment when your conversations split into two or three distinct stories rather than one.
 
-Once you have a list, sketch what daily life might look like for each group. These are not full personas yet, just rough portraits of lived experience.
+## Map the Orbit
 
-Ask: What pressures do they face? What workarounds have they normalised? What invisible effort goes into making things work?
+No one navigates life alone. For each community, ask who else shapes their experience: family members, supervisors, landlords, caseworkers, dispatchers, moderators, coaches.
 
-You might see patterns like juggling conflicting roles, adapting systems not designed for them, or quietly tolerating delays and confusion. Profiling helps you imagine context, not just categories. It is empathy in its earliest form.
+This does two things, and the second is the reason it belongs here.
 
-These profiles are guesses, and it is worth saying so plainly: everything you write at this stage is a hypothesis about people you have not met. The purpose is not to be right. It is to be specific enough to be *wrong* in a way you will notice, so that when you get into the field the gap between what you imagined and what you find is visible instead of invisible.
+It **keeps you from thinking too narrowly**. Problems rarely sit inside one person; they live in the friction between people, and the orbit is where that friction is.
 
-## 4. Map the Orbit
+It also **steers you off the obvious groups**. The person at the centre is usually the one already in the public conversation. The people in orbit are not, and they frequently carry more of the load. Everyone was talking about patients; nobody was asking the daughter who rearranged her work week to drive to the appointments. That daughter is a community, she is neglected, and she is reachable.
 
-No one navigates life alone. For each group you profile, ask who else shapes their experience: family members, supervisors, landlords, caseworkers, online influencers. These orbit roles often hold keys to the problem and to the solution.
-
-Mapping the orbit prevents you from thinking too narrowly. It reminds you that innovation rarely emerges from isolated individuals; it emerges from patterns of interaction and constraint.
-
-It has a practical use too. Orbit roles are frequently your way *in*. If your people are hard to reach directly (nurses mid-shift, teenagers, people in crisis), the person beside them often is not, and a charge nurse or a school counsellor or a support-group moderator can open a door that a cold message never will. Some of the orbit you map here will become your access strategy two chapters from now.
+There is a practical bonus. Orbit roles are frequently your way *in*. If your community is hard to approach directly (nurses mid-shift, teenagers, people in crisis), the person beside them often is not, and a charge nurse or school counsellor or support-group moderator can open a door a cold message never will. Some of the orbit you map here becomes your access strategy two chapters from now.
 
 ---
 
@@ -89,14 +91,14 @@ Use the [People Divergence Sprint](toolkit/People_Diverge_Guide.qmd) from the to
 
 There is no magic count, but there is a useful signal: keep generating until the groups stop being variations on the one you started with.
 
-Most first lists are a single idea wearing five outfits: students, college students, undergraduates, freshmen, first-years. That looks like divergence and is not. You have actually diverged when the list contains groups that would require genuinely different research: different places to go, different people to ask, different assumptions to check.
+Most first lists are a single idea wearing five outfits: students, college students, undergraduates, freshmen, first-years. That looks like divergence and is not. You have actually diverged when the list holds groups that would require genuinely different research: different places to go, different people to ask, different assumptions to check.
 
-A second signal. At least one group on your list should make you slightly uncomfortable, because you know nothing about them. If you could describe every group confidently from your own experience, you have mapped your own life rather than the problem space.
+A second signal. At least one group should make you slightly uncomfortable, because you know nothing about them and cannot picture their week. If you could describe every group confidently from your own experience, you have mapped your own life rather than the problem space.
 
 ## A Pause Before Convergence
 
-At the end of divergence, you are not ready to choose. You are ready to reflect.
+At the end of divergence you are not ready to choose. You are ready to reflect.
 
-Which groups seem most underserved? Which live with friction that incumbents ignore? Which are observable and reachable in practice?
+Which communities seem most overlooked? Which live with friction that incumbents ignore and that nobody is already rushing to fix? Which are observable and reachable in practice?
 
-Those questions belong to the next stage. But the strength of your choice later depends on the breadth of your exploration now. Diverge widely and you escape the trap of convenience, resist premature guessing, and give yourself a real decision to make.
+Those questions belong to the next stage. But the strength of your choice depends on the breadth of your exploration now. Diverge widely and you escape the trap of convenience, resist premature guessing, and give yourself a real decision to make.

@@ -1,6 +1,6 @@
 ---
 title: Commit to a Community
-subtitle: Converge from many possible communities to your community of focus
+subtitle: Converge from many possible communities to the one you will search
 id: sec-commit-community-chapter
 ---
 
@@ -10,11 +10,11 @@ id: sec-commit-community-chapter
 
 ![Convergent narrowing from many candidate groups to one chosen community of people.](images/d1-converge.svg){fig-align="center"}
 
-After diverging to explore a wide range of possible communities, the next step is to **converge**: to move from possibilities to a single, well-considered choice. This is more than selecting a study group. You are choosing the people whose needs you will try to understand, whose pain you will explore in depth, and whose problems you may ultimately solve.
+After diverging to explore a wide range of possible communities, the next step is to **converge**: to move from possibilities to a single, well-considered choice. You are choosing where to spend the next stretch of your attention: the community you will study closely enough that a pain can surface from it.
 
-It is a quiet but defining decision. If you did the work of divergence well, you now have several promising communities in view. The goal is not to pick the one you like most or the one that feels most familiar. It is to choose the group where your insight is likely to run deepest and your work is most needed.
+Remember what you are not doing. You are not naming your customers. That group is defined by a shared pain, and you do not know the pain yet. If you did the work of divergence well you now have several promising communities in view, and the goal is not to pick the one you like most or the one that feels most familiar. It is to choose the community where a real pain is most likely to surface, and where you can get close enough to see it.
 
-Convergence is uncomfortable in a specific way. Every group you set aside is a venture you are choosing not to build, and none of them has been disproven. You are not eliminating bad options. You are giving up good ones so that one of them can get your full attention. That discomfort is the correct response, and it does not mean you are choosing wrongly.
+Convergence is uncomfortable in a specific way. Every community you set aside is a search you are choosing not to run, and none of them has been ruled out. You are not eliminating bad options. You are giving up good ones so that one of them can get your full attention. That discomfort is the correct response, and it does not mean you are choosing wrongly.
 
 ## 1. Compare: Spot Patterns and Weigh Possibilities
 
@@ -68,7 +68,7 @@ If the answer is no to any of the three, revisit your shortlist. Sometimes an op
 
 *For an example of how this looks in practice, see the [Assess Access section](demo/exp-02-converge-worksheet.qmd#sec-ha-people-converge-access) of the Halo Alert demo.*
 
-## 4. Select Your People
+## 4. Commit to a Community
 
 With patterns observed, empathy noticed, and access considered, you are ready to choose.
 
@@ -78,7 +78,7 @@ Name the group. Write down why you chose them, in a sentence you would be willin
 **Provisional commitment** — a choice made firmly enough to act on and loosely enough to revise when evidence says so. Not a hedge; a working position.
 :::
 
-This choice is **provisional**. You are committing to a group for deep exploration, not signing a contract. Evidence may pull you toward a narrower or different definition later, and it often does.
+This choice is **provisional** by design, not by hedging. You are committing to a community for deep exploration, not naming a market. Evidence will almost certainly pull you toward a narrower definition later, because the group that matters is the one a pain defines, and that group only becomes visible from inside this one.
 
 Provisional does not mean tentative. Half-committing is the worst of both worlds: you get the cost of the research without the depth that makes it worth anything. Commit fully, work as though this is the group, and let evidence be the only thing that moves you.
 
@@ -86,7 +86,7 @@ Two things should move you, and it helps to name them now so you recognise them 
 
 One thing should *not* move you: the work being harder or slower than you expected. That is not a signal about the group. That is what discovery is like.
 
-Innovation does not begin with building. It begins with noticing, and noticing begins with choosing whom to notice.
+Innovation does not begin with building. It begins with noticing, and noticing begins with choosing where to look.
 
 ---
 
@@ -96,7 +96,7 @@ Use the [People Convergence Guide](toolkit/People_Converge_Guide.qmd) from the t
 
 ## What's Next
 
-With your group selected, you will turn to understanding them. But first you will find out whether you can actually get to them. The next chapter runs the access test, the gate that closes this diamond.
+With a community chosen, you will turn to understanding it. But first you will find out whether you can actually get to it. The next chapter runs the access test, the gate that closes this diamond.
 
 ## Attachments for Your Data Room
 
@@ -105,6 +105,6 @@ Store the artifacts from this stage where your team can find them later:
 - the comparison table across candidate groups
 - your empathy reflection notes
 - an access log of attempted contacts and what came back
-- the one-sentence statement of who you chose and why
+- the one-sentence statement of which community you chose and why
 
 That last one matters more than it looks. In four weeks, when the evidence is messy and the group feels wrong, you will want to read what you believed at the start and see precisely which part of it turned out to be untrue.

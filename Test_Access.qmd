@@ -8,7 +8,7 @@ id: sec-test-people-chapter
 
 ![Test whether you have sufficient access to your people.](images/d1-test.svg){fig-align="center"}
 
-You have chosen a group of people to focus on. You explored widely, converged thoughtfully, and selected with care. Before you spend months learning from them, there is one step that can save you all of it: **access testing**.
+You have chosen a community to search. You explored widely, converged thoughtfully, and selected with care. Before you spend months learning from them, there is one step that can save you all of it: **access testing**.
 
 The question is simple. *Can we actually reach the people we want to learn from?*
 
@@ -80,11 +80,11 @@ We return to sampling in the next chapter, but it is worth saying now: **access 
 
 The bias is quiet and it compounds. Every later stage inherits the sample this one produced.
 
-## You Are Still Defining Your People
+## You Do Not Have Your People Yet
 
-Even though you have chosen a group, you have not fully defined it. That definition will sharpen as you learn what pain unites them. You started with socio-demographic clues (age, role, setting) and will end up defining your people by **shared unmet needs**.
+You have a community to search. You do not yet have *your people*, and the difference is not pedantry. Your people are the group a shared pain defines, and the pain is what the next diamond is for. You started with socio-demographic clues (age, role, setting) and will end by defining your people through **shared unmet needs**.
 
-When those needs start to surface, your early conversations may sound chaotic. Different themes from different people often means you are talking to several pain subgroups at once. That is not failure; it is how discovery works. You will converge again later, using personas and experience maps to find the boundary that pain draws rather than the one demographics drew.
+When those needs start to surface, your early conversations may sound chaotic. Different themes from different people usually means you are talking to several pain subgroups at once. That is not failure; it is the first sign of the re-convergence to come. In the next diamond the pain and the people narrow together, and you will use personas and experience maps to find the boundary that pain draws rather than the one demographics drew.
 
 Keep listening. The real community is only beginning to take shape.
 
@@ -102,7 +102,7 @@ You are ready to begin ethnographic discovery when:
 - you can interact with them in a format that matches their lives
 - they respond, not once, but with depth and openness
 - you are not relying on convenience or personal connection
-- you are prepared to redefine "your people" as patterns emerge
+- you are prepared for the community to narrow as patterns emerge
 
 Access is not a checkbox. It is a gate, and the first diamond is not finished until you have passed through it on evidence rather than assumption.
 
