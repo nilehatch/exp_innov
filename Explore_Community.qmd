@@ -34,23 +34,33 @@ In that moment, the team realized the real bottleneck wasn’t customers waiting
 
 Now that you’ve selected your community and confirmed access in principle, the next challenge is practical: where do these people actually gather, and how do you engage them in a way that leads to real exploration? You are still testing access, as you did at the end of the first diamond, but now for a different purpose: finding which channels, places, and approaches reliably put you inside their world so you can run ethnographic, exploratory experiments (conversation, observation, shadowing, role play) that build your mountain of data.
 
-### Show Up Where They Are (Physical Contexts)
+### Show Up Where They Are
 
-- **Map the day-in-the-life.** List places and times your community naturally congregates (worksites, clinics, gyms, trade counters, meetups, shops, service desks, transportation hubs). Prioritize locations with *high density + high dwell time*.
-- **Respect gatekeepers.** Identify who controls access (managers, front-desk staff, community leaders). Prepare a concise, respectful ask: who you are, what you’re studying, how long it takes, and what participants gain (voice, learning, small thank-you).
-- **Observe before you approach.** Spend 10–15 minutes watching flow, queues, and rhythms. Enter at the least disruptive moment. Note visible frustrations or workarounds you might probe later.
-- **Start with low-friction intercepts.** A simple opener: “I’m studying how *X* gets done here—could I ask two quick questions now, or schedule 15 minutes later?” Offer a QR card or short link to book time.
-- **Earn permission for deeper immersion.** If the first chat is productive, ask for a *follow-on* exploratory experiment: shadow a task, watch a handoff, review artifacts (forms, screenshots), or co-walk the space.
-- **Bring a leave-behind and a follow-up plan.** Share contact info, a 1–2 sentence description of the study, and how you’ll use what you learn. Schedule next steps while the rapport is warm.
+Begin with the day in the life. Where does this community physically end up, and when? Worksites, clinics, gyms, trade counters, meetups, service desks, transit hubs. What you are looking for is density and dwell time *together*. A pharmacy counter has plenty of people and nobody stays; a dialysis waiting room has both, which is why you can learn something there.
 
-### Engage Where They Gather Online (Digital Contexts)
+Before you approach anyone, watch. Ten or fifteen minutes of standing quietly tells you the rhythm of a place: when it is frantic, when it lulls, who is waiting and who is working. Enter at a lull. You will also leave with a list of visible frustrations and workarounds to probe later, which is worth the quarter hour by itself.
 
-- **Find domain-centric communities.** Look for forums, subreddits, Discord/Slack groups, professional associations, Facebook/LinkedIn groups, and niche platforms specific to the craft or role.
-- **Evaluate group quality.** Prefer communities with active moderation, recent posts, and discussion depth. Skim the last 50 posts to spot recurring pains and the group’s tone.
-- **Introduce yourself with value.** Post a brief intro: what you’re exploring, who you want to hear from, the time ask, and what participants get (e.g., early findings summary). Avoid selling or hinting at solutions.
-- **Use light-touch prompts.** Run a 1–2 question poll or ask “last time” prompts (e.g., “What was the last time *X* really frustrated you?”). Invite DMs for private stories.
-- **Move from public to private thoughtfully.** After a comment exchange, invite a short call or asynchronous Q&A. Provide a scheduler and options across time zones.
-- **Bypass personal-network bias.** Do not rely on friends/classmates. Seek practitioners and decision-makers inside the community, not adjacent observers.
+Most places have someone who controls the door, whether that is a manager, a front-desk clerk, or the person everyone defers to without a title. Find them first and ask plainly: who you are, what you are trying to learn, how long it takes, and what the people you talk to get out of it. A gatekeeper who understands the ask will often introduce you to better participants than you would have found alone. One who is surprised by you will spend the rest of the day protecting people from you.
+
+Make the first ask small. *I'm studying how this gets done here — could I ask you two questions now, or find fifteen minutes later?* Two questions is a request almost anyone can grant, and granting it makes the next request easier. Then, if the conversation goes anywhere, ask for the bigger thing while the goodwill is warm: shadow a task, watch a handoff, look at the forms they fill in. That is where the real evidence is.
+
+Leave a way back. Contact details, a sentence about what you are doing, and a concrete next step arranged before you walk out. Rapport does not survive a week of silence.
+
+### Engage Where They Gather Online
+
+The same shape applies, with one problem of its own.
+
+Finding the rooms is easy: forums, subreddits, Discord and Slack groups, professional associations, niche platforms built around a craft or a role. Judging whether a room is *alive* matters more than finding it. Skim the last fifty posts. You will learn whether there is real discussion or only link-dropping, whether moderation is active, and — as a bonus you did not ask for — what these people complain about when nobody is studying them.
+
+Then you have to introduce yourself, and there is a choice here worth taking seriously. You can say what you are: a student, a founder, someone trying to understand this problem. Or you can simply participate as a member of the community and let the conversation come to you.
+
+Teams reach for the second because the first feels like it will get them ignored. Be careful with it. If you belong to the community, saying so is honest and often an advantage. What is not honest is *concealing why you are there* — asking questions as a peer while collecting evidence as a researcher. People who discover that do not merely stop answering you; they tell the group, and you lose the room for good. The instinct that this feels wrong is a reliable one. Follow it.
+
+The honest version costs less than you think. Say what you are exploring, who you would like to hear from, how much time you are asking for, and what they get back — a summary of what you learn is usually enough. Do not sell, and do not hint at a solution.
+
+After that, keep it light. A one-question poll, or a *last time* prompt — *what was the last time this really got in your way?* — invites a story without demanding a commitment. When someone answers at length, move the conversation somewhere private and give them options for when.
+
+One thing to avoid on both sides of this: do not build your sample out of friends and classmates. They will answer, they will be generous, and they will tell you what you were hoping to hear. You met this trap at the [access test](Test_Access.qmd) and it does not go away here.
 
 ::: {.trap}
 **Common Pitfalls When Finding and Engaging**
