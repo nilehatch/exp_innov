@@ -18,7 +18,9 @@ This is the essence of ethnographic exploration. We may go in expecting one kind
 As you work, watch the “information entropy” of your findings. When new stories keep surprising you, keep exploring. When new data starts repeating what you already know, you’ve reached the edge of your current map. That’s the moment to shift from divergence into abductive synthesis and begin the converge work of themes, personas, and experience maps.
 
 <!-- **Find Opportunity in Frustration**:--> 
-::: {.callout-note title="Find Opportunity in Frustration"}
+::: {.mini-case}
+**Find Opportunity in Frustration**
+
 One innovation team thought they understood the pain in auto body repair. Customers hated long delays and unpredictable updates while their cars were in the shop. The problem seemed obvious: fix customer communications.
 
 Then they spent time inside a repair shop. While waiting in the office, a burst of shouting echoed from down the hall. Instead of ignoring it, they followed the sound and found a technician furious at the tedious process of moving information back and forth with insurance adjusters. Estimates had to be re-typed into one system, then again into another, with errors compounding at each step.
@@ -50,7 +52,9 @@ Now that you’ve selected your community and confirmed access in principle, the
 - **Move from public to private thoughtfully.** After a comment exchange, invite a short call or asynchronous Q&A. Provide a scheduler and options across time zones.
 - **Bypass personal-network bias.** Do not rely on friends/classmates. Seek practitioners and decision-makers inside the community, not adjacent observers.
 
-::: {.callout-warning title="Common Pitfalls When Finding and Engaging"}
+::: {.trap}
+**Common Pitfalls When Finding and Engaging**
+
 - **Convenience over relevance:** recruiting whoever is nearby rather than those who live the pain daily.
 - **Platform monoculture:** using only one channel; diversify physical and digital touchpoints.
 - **Too-broad groups:** “small business owners” instead of a specific role + context (e.g., collision estimators at independent body shops).
@@ -78,6 +82,18 @@ Once you have found and engaged your people, the next step is to immerse yoursel
 
 What these three share is that they let you find what you did not know to ask about. That is the whole point of this diamond, and it is why the survey — the tool most founders reach for first — comes later in this chapter rather than here.
 
+### Who does what {.unnumbered}
+
+Every one of these methods has three moments, and only one of them is yours alone.
+
+**Prepare.** Drafting the questions, pressure-testing them, deciding what to watch for. Hand this to your AI. It is better at it than you are, and it costs you nothing.
+
+**Contact.** Being in the room with a person. This is yours, and there is no version of this method where it is not. Your AI has read a great deal *about* people. It has never sat with one while they realised something.
+
+**Synthesize.** Coding transcripts, clustering, mapping, noticing the thing you failed to follow up on. Hand this back to your AI, then check its work.
+
+The principle underneath is simple enough to keep in your head: **your AI can work on your evidence. It cannot be your evidence.** Everything below is arranged around protecting the middle moment.
+
 
 ### Conversation {.method-header #sec-conversation-section}
 
@@ -86,8 +102,24 @@ When you invite someone to share their experiences, you are deliberately probing
 
 But don’t ask people, *“What do you need?”* — they usually can’t answer. Instead, people reveal their struggles through stories. Your job is to guide those stories toward moments of frustration, emotion, or workaround. That is when unmet needs surface.
 
-::: callout-note
-Use a conversation guide. Prepare open-ended prompts (e.g., “Tell me about the last time you…”), but stay flexible. Your goal is not a script but a framework to keep the dialogue flowing.
+Use a conversation guide. Prepare open-ended prompts, but stay flexible: your goal is not a script but a framework that keeps the dialogue moving.
+
+::: {.ask-ai}
+**Ask Your AI**
+
+::: {.prompt}
+I am exploring the lives of [describe your community in one sentence] to find pains they may not have named. Draft me a conversation guide of eight to ten open prompts for a 30-minute conversation. Lead with "tell me about the last time you…" style prompts anchored to specific recent episodes. Do not include any question that names a solution, asks what they want, or can be answered yes or no. For each prompt, add one follow-up I could use if the answer is short.
+:::
+:::
+
+::: {.checkpoint}
+**Check before you use it**
+
+Your AI drafted a guide from a description you wrote. Both of you may be wrong about these people, and that is the point of going. Before you take it into the field:
+
+- **Strike any prompt that names a solution.** If a question could only be answered by someone who already agrees with you about what the problem is, it will get you agreement rather than evidence.
+- **Find the leading ones.** "How frustrating is it when…" tells the person what to feel. "Tell me about the last time…" does not.
+- **Keep at least two prompts you would not have thought to ask.** If the whole guide reflects what you already believe, you have automated your assumptions.
 :::
 
 #### How to run the experiment (short form)
@@ -106,8 +138,14 @@ Use a conversation guide. Prepare open-ended prompts (e.g., “Tell me about the
 While exploring safety in senior living facilities, the Halo Alert team interviewed staff about emergency response systems. At first, staff talked about the equipment itself. But when prompted for stories, one nurse shared her fear when a pendant button didn’t transmit during a nighttime fall. That emotional spike — fear of failure at a critical moment — revealed a deeper pain than “buttons are old.” The team realized they were dealing with trust in life-and-death reliability, not just product usability.
 -->
 
-::: {.callout-warning title="Common Questions: *“How many interviews do we need?”*"}
+::: {.for-curious}
+<details>
+<summary>For the Curious — How many interviews do we need?</summary>
+
+
 There’s no fixed number. Early on, every conversation reveals new stories (high information entropy). Keep going until stories begin to repeat and new interviews add little that’s novel. That’s your signal to pause and move into convergence.
+
+</details>
 :::
 
 
@@ -121,9 +159,7 @@ See the [Conversation Guide](toolkit/Conversation_Guide.qmd) for a ready-to-use 
 Observation is not passive watching — it is an **experiment in context**.  
 Sometimes the most powerful insights come not from what people say, but from what they do. By placing yourself where people live, work, or struggle, you see routines, interactions, and workarounds unfold in their natural setting. Done well, observation reveals unspoken needs and patterns that conversations often miss.
 
-::: callout-note
-Look for moments of friction. When people improvise, complain under their breath, or devise a workaround, they are revealing unmet needs in action.  
-:::
+Look for moments of friction. When people improvise, complain under their breath, or devise a workaround, they are revealing unmet needs in action.
 
 #### How to run the experiment (short form)
 
@@ -146,8 +182,14 @@ Look for moments of friction. When people improvise, complain under their breath
 #### Worked Example: Halo Alert
 One team shadowed older adults at a senior center. They noticed many wore personal medical devices but hesitated to press emergency buttons in social situations. This insight — **observed, not declared** — suggested a need for safety technology that avoids stigma. -->
 
-::: {.callout-note title="Common Questions: *“How do I start observing without it being awkward?”*"}
+::: {.for-curious}
+<details>
+<summary>For the Curious — How do I start observing without it being awkward?</summary>
+
+
 Enter through a **natural artifact or activity**. For example, a Shakespeare reading group brings seniors together around the play, but the real learning comes from the informal conversations and behaviors that follow. Anchor yourself in the activity; the observation will flow naturally.
+
+</details>
 :::
 
 **Toolkit Resource**  
@@ -162,9 +204,7 @@ See the [Observation Guide](toolkit/Observation_Guide.qmd) for a ready-to-use gu
 Role playing is not theater for its own sake — it is an **experiment in simulation**.  
 By enacting real or imagined scenarios, you and your participants surface hidden reactions, tacit knowledge, and unspoken assumptions. Role play creates a safe space to test how people might behave in situations that are rare, risky, or difficult to observe directly.
 
-::: callout-note
-Use role playing to reveal what people cannot easily articulate. It often exposes emotional responses, social dynamics, and decision shortcuts that surveys or conversations miss.  
-:::
+Use role playing to reveal what people cannot easily articulate. It often exposes emotional responses, social dynamics, and decision shortcuts that surveys or conversations miss.
 
 #### When to use role playing
 
@@ -199,7 +239,7 @@ Occasionally a survey does explore, when respondents happen to be unusually will
 
 So surveys are held for later, where they are genuinely strong: **once a hypothesis is clear**, a survey measures how widespread a pain is, compares subgroups, and ranks what matters most. That work belongs to [Validate Customer Pain](Validate_Pain.qmd), and the guidance below is here so it is at hand when you get there.
 
-::: callout-warning
+::: {.trap}
 The survey-first reflex is one of the most common ways an exploration fails: it produces a great deal of data about the questions you already had, and none about the ones you didn't.
 :::
 
@@ -246,14 +286,31 @@ The key principle: **if it is already known, don’t rediscover it through inter
 
 Secondary research rarely reveals unmet needs directly. But combined with ethnographic exploration, it frames the opportunity landscape and sharpens your hypotheses.^[@ethingtonPrimaryVsSecondary2018 notes that while no single source can answer the entrepreneur’s core questions, triangulating across multiple studies helps reveal where unmet needs are most likely to emerge.]
 
-### Open and Free Sources
+### Hand This One Over
 
-- **Government and public data**: portals like [USA.gov](https://www.usa.gov/statistics) or the [US Census](https://www.census.gov).  
-- **Search trends**: [Google Trends](https://trends.google.com/trends/) shows what people are looking for, when, and where.  
-- **Global indicators**: [Gapminder](https://www.gapminder.org/) for worldwide demographic, health, and social data.  
-- **Business press and consulting insights**: sources like *Harvard Business Review*, *Forbes*, or consulting firms (e.g., BCG, McKinsey).  
+Of everything in this diamond, secondary research is the work most worth delegating. The input is documents, not people. Your AI reads faster than you, never gets bored on page forty of an industry report, and has no stake in what it finds.
 
-For a more comprehensive collection of open and free sources of secondary data, explore these [public data sources](https://ba.nilehatch.com/public_data.html).
+::: {.ask-ai}
+**Ask Your AI**
+
+::: {.prompt}
+I am researching [describe your community and the problem space]. Search for what is already documented about how these people live and where they struggle: government and public data, industry and trade press, academic work, market and competitor reports. For each finding, give me the specific source and a link. Separate what is well established from what is contested or thin. Then tell me the two or three things I would most expect to be documented that you could not find, because those gaps are where I should be spending my own time.
+:::
+:::
+
+That last instruction is the important one. **What is missing from the record is a better lead than what is in it** — an absence often means nobody has looked, and nobody looking is what neglect looks like from a distance.
+
+::: {.checkpoint}
+**Check before you believe it**
+
+This is the one place in the book where handing work to an AI carries a real risk of being confidently wrong, because plausible-sounding sources are exactly what a language model is good at producing.
+
+- **Open every source you intend to rely on.** Not the summary. The source. If you cannot find it, it does not exist, and you have just been saved from citing it.
+- **Check the date and the population.** A 2015 figure about a different country is not evidence about your people, however relevant it sounds.
+- **Write down which claims you are now treating as settled**, because you will stop testing those in the field. That list should be short, and everything on it should have a link you have clicked.
+:::
+
+Some useful starting points if you want to look yourself: [USA.gov](https://www.usa.gov/statistics) and the [US Census](https://www.census.gov) for public data, [Google Trends](https://trends.google.com/trends/) for what people are searching and when, and [Gapminder](https://www.gapminder.org/) for global demographic and social indicators. A fuller collection lives in these [public data sources](https://ba.nilehatch.com/public_data.html).
 
 ### Proprietary and Paid Sources
 
@@ -261,8 +318,9 @@ Some of the richest insights live behind paywalls: databases like Factiva, Minte
 
 For a more comprehensive collection of open and free sources of secondary data, explore these [private data sources](https://ba.nilehatch.com/private_data.html).
 
-::: callout-note
-#### How to Use Secondary Research Effectively
+::: {.key-action}
+**How to Use Secondary Research Effectively**
+
 1. **Start with it** — scan existing knowledge before entering the field, so your primary research targets what isn’t already known.  
 2. **Use it to triangulate** — compare published findings with what you hear and see in context.  
 3. **Treat it as experiment design** — each search is a probe: *“If I look here, what will I learn?”*  
@@ -286,16 +344,28 @@ At some point, though, both fieldwork and desk research begin to repeat themselv
 
 Exploration can feel endless. There is always another person you could interview, another setting to observe, or another report to read. But at some point, the return on effort drops. The signal to stop is not exhaustion or impatience.  It is the decline of **information entropy**  — the rate of newness in what you learn — that is your signal to stop gathering and move into abductive hypothesizing (sense-making).^[The concept of information entropy comes from Claude Shannon’s work in communication theory [@shannonMathematicalTheoryCommunication1948]. In this context, it refers to how much “surprise” each new piece of data brings.]  
 
-At the beginning, every conversation, observation, or article adds something novel. Over time, surprises become rarer, and new inputs mostly echo what you have already heard or read. This flattening of novelty is your cue: the mountain of data is high enough. You are no longer climbing higher, just circling the same slope.  
+At the beginning, every conversation, observation, or article adds something novel. Over time, surprises become rarer, and new inputs mostly echo what you have already heard or read. This flattening of novelty is your cue: the mountain of data is high enough. You are no longer climbing higher, just circling the same slope.
+
+::: {.learn-ai}
+**Learn From Your AI**
+
+::: {.prompt}
+Teach me what information entropy means and why a drop in it is a signal to stop gathering data. Use an everyday example rather than the mathematics, then show me how the same idea applies to a founder deciding whether to run more customer interviews. Finish by telling me how someone could fool themselves into thinking novelty had flattened when they had simply been asking the same question of everyone.
+:::
+:::
 
 Stopping does not mean you know everything. It means you have reached the point where you know enough about your people to generate *informed* hypotheses about their needs.
 
-::: callout-note
-**Rule of thumb**  
+::: {.checkpoint}
+**Check before you stop**
 
-- If most new conversations yield no fresh themes, stop.  
-- If additional observations only confirm existing patterns, stop.  
-- If reports and databases repeat the same facts, stop.  
+Deciding you have enough is the easiest decision in this book to get wrong, because stopping is what you want to do anyway. Ask your AI to read across everything you have gathered and tell you where the novelty actually stands. Then check its answer against three things it cannot know:
+
+- **Name the last thing that genuinely surprised you, and when it happened.** If you have to reach back more than a few conversations, the curve really has flattened. If you cannot name one at all, you may never have been surprised, which is a different and worse problem.
+- **Check who you have not talked to.** Novelty flattens quickly if everyone you reached came through the same door. Repetition across one channel is not saturation.
+- **Ask whether you stopped hearing new things or stopped asking new questions.** These feel identical from the inside.
+
+If most new conversations yield no fresh themes, if further observation only confirms what you have, and if the reports repeat each other — and none of the three checks above raises a flag — stop.
 :::
 
 Entrepreneurs often struggle here. Quitting too early risks thin data and shaky insights. Quitting too late risks delay and wasted effort. But when novelty fades, and repetition dominates, the exploration phase has done its work. It is time to move from gathering to reasoning — from raw discovery to shaping hypotheses that can be tested.
