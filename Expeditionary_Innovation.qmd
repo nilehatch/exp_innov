@@ -38,6 +38,23 @@ That box has three properties the others don't.
 
 **There is no direct competitor.** Not because you outran anyone, but because nobody else has noticed the need yet. You are not taking share; you are opening ground.
 
+That advantage does not vanish the day a rival arrives, which is the part founders assume and get wrong. What you carry out of this process is a picture of the market that nobody else holds, and holding a different picture from your competitors turns out to be worth money in its own right.
+
+::: {.for-curious}
+<details>
+<summary>For the Curious — Why a different view of the market pays</summary>
+
+Nile Hatch and James Ostler model firms entering a new and uncertain market while holding different mental representations of it, crossing how much attention a firm pays to rivalry with how much it pays to uncertainty [@hatchCognitiveExposureHow2026].
+
+Two results bear on this book. **Firms holding identical representations underperform**, so there is a premium to seeing the market differently from your rivals — matching their view is the losing move, not the safe one. And **a representation that combines awareness of rivals with flexibility largely insures its holder against the rival's thinking**, where flexibility means keeping your options open until the uncertainty is resolved. That is a formal description of what this method builds.
+
+There is a caution in the same work. A firm's performance depends heavily on its *rival's* representation, often more than on its own — but that exposure is concentrated among firms that are blind to rivalry altogether. Discovering an unmet need does not license you to stop watching who else is coming.
+
+This is a model, not a field study. It shows what follows from a set of assumptions, which is a different and weaker kind of evidence than observing it happen.
+
+</details>
+:::
+
 **Your customers will pay a premium and be glad to.** They have been making do with something that almost fits. When something finally fits, the relief is worth real money to them.
 
 **You get a head start.** Incumbents do not respond to a niche until it is large enough to show up in their numbers, and that takes time. Across the teams I have advised, the window before a serious imitator arrives has tended to run something like two to five years. Long enough to get established. Short enough that you should spend those years building the advantages that will still hold when rivals arrive.
@@ -195,5 +212,20 @@ The journey from edge to evidence is not a straight line. The triple diamond let
 Do this and you will build for people who have been overlooked, who will gladly pay for a solution nobody else offers, and who will tell others. You will have a window before the market reacts. And you will have replaced guessing with evidence at each of the three points where guessing usually kills a venture.
 
 None of that guarantees success. Plenty of uncertainty remains that no method touches. What the process does is remove the uncertainty that was removable, so that what you finally risk is only what could not have been known in advance.
+
+It is fair to ask whether that is worth the trouble, since the resolving costs you weeks you could have spent building.
+
+::: {.for-curious}
+<details>
+<summary>For the Curious — Whether resolving uncertainty pays for itself</summary>
+
+The question has been modelled. Hatch and Ostler compare firms that enter a new market as soon as they are able against firms that first run experiments to resolve what they do not know about the customer, and they find the second group more profitable — **after charging the experiments' cost and delay against them** [@hatchPerformanceEffectsCompeting2018]. The later work extends the comparison to competition, where flexibility of this kind also protects a firm against its rival's decisions [@hatchCognitiveExposureHow2026].
+
+Two honest qualifications. These are simulations rather than field studies: they show what follows from a set of assumptions about how markets and rivals behave. And both are working papers rather than published findings.
+
+What they establish is narrower than "this method works," and more useful: **the time you spend finding out is not a tax on the venture.** It is part of what makes the venture worth more than the alternative of building first and asking later.
+
+</details>
+:::
 
 Begin your expedition. You will know the next step from here on.

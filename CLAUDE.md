@@ -114,6 +114,11 @@ node geometry are all derived, and editing one breaks the family's consistency.
 - **Assert before you patch.** Any scripted edit must verify the target string
   matches before writing. A silent no-match once shipped a change that never
   landed, and it was not caught until much later.
+- **Before adding a rule to `base.css`, grep for `^\.classname {` specifically.**
+  A pattern like `grep "\.trap"` matches the grouped selector and the
+  `> :first-child` rule and looks like a hit, while the standalone block sits
+  elsewhere in the file. That is how `.trap` ended up defined twice, in two
+  different reds, and shipped to both books.
 - **Regex over `.R` and `.qmd` is dangerous** — nested parens and callout fences
   break naive patterns. Prefer an explicit edit over a clever substitution.
 - Run `git status` before starting. Surface anything uncommitted.
