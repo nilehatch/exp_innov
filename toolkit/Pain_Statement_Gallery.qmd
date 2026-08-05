@@ -4,7 +4,7 @@ Use this guide with [What Makes a Good Pain Hypothesis](../Hypothesize_Pain.qmd#
 
 ---
 
-Almost nobody writes a good pain statement the first time. The reason is not carelessness — it is that the words *problem*, *need*, *want*, and *pain* feel interchangeable in ordinary speech, and only one of them is what you are hunting.
+Almost nobody writes a good pain statement the first time. The reason is not carelessness. It is that the words *problem*, *need*, *want*, and *pain* feel interchangeable in ordinary speech, and only one of them is what you are hunting.
 
 Reading good examples is not enough. You will look at a strong pain statement, recognise your own concept in it, and carry on writing what you were already writing. What forces the distinction is seeing the near-misses **beside** the real thing, and being told what changed.
 
@@ -13,7 +13,7 @@ Every weak statement below is the kind of thing capable teams produce after real
 ::: {.callout-note title="The Test You Are Applying"}
 A reminder if you arrived here before the chapter: a **problem** is the gap between how things
 are and how they should be. A **pain** is what living with that problem costs a particular
-person — and it is the pain, not the problem, that people will thank you for relieving.
+person, and it is the pain, not the problem, that people will thank you for relieving.
 
 A pain statement is doing its job when it is:
 
@@ -28,20 +28,20 @@ A pain statement is doing its job when it is:
 ## 1. The question that answers itself
 
 The most common failure by a wide margin: a question so well formed that the solution is already
-sitting inside it. Ask it and there is nothing left to discover — only something left to build.
+sitting inside it. Ask it and there is nothing left to discover, only something left to build.
 
 > **Weak.** How might we provide a clear outline of the fees associated with the cheerleading season?
 
-**Why it fails.** A fee outline is a solution. The statement has quietly decided what to build and skipped past what hurts. If the outline turns out to be the wrong answer, nothing here survives — there is no pain left to redesign around.
+**Why it fails.** A fee outline is a solution. The statement has quietly decided what to build and skipped past what hurts. If the outline turns out to be the wrong answer, nothing here survives, because there is no pain left to redesign around.
 
-> **Stronger.** Cheer parents commit to a season without knowing its full cost, then absorb equipment, travel and competition fees as they arrive — around $700 they had not planned for. Some quietly go into debt. Others pull a child mid-season and carry the guilt of it, because what they are really buying is their daughter's standing among the girls she trains with, and they know it.
+> **Stronger.** Cheer parents commit to a season without knowing its full cost, then absorb equipment, travel and competition fees as they arrive: around $700 they had not planned for. Some quietly go into debt. Others pull a child mid-season and carry the guilt of it, because what they are really buying is their daughter's standing among the girls she trains with, and they know it.
 
-**What changed.** The cost is now specific and it reaches four of the five kinds of pain at once. **Financial**, obviously. **Functional**, in a season's budgeting done blind. **Social**, in a parent's fear that their child will lose standing among peers — and in the uncomfortable knowledge that some of what they are paying for is status their child never asked for. **Emotional**, in the doubt that follows: *am I an adequate parent, or am I the obstacle to my own child's success?* Only physical pain is absent.
+**What changed.** The cost is now specific and it reaches four of the five kinds of pain at once. **Financial**, obviously. **Functional**, in a season's budgeting done blind. **Social**, in a parent's fear that their child will lose standing among peers, and in the uncomfortable knowledge that some of what they are paying for is status their child never asked for. **Emotional**, in the doubt that follows: *am I an adequate parent, or am I the obstacle to my own child's success?* Only physical pain is absent.
 
 Notice the statement no longer names a solution, so it stays true whether the answer is a fee schedule, an escrow plan, or something nobody has thought of yet.
 
 ::: {.callout-note title="A Word on *How Might We*"}
-*How might we…* is a design-thinking device, and a good one **in its own place** — the third diamond, where you have a validated pain and need many ways at it. It is built to open a solution space.
+*How might we…* is a design-thinking device, and a good one **in its own place**: the third diamond, where you have a validated pain and need many ways at it. It is built to open a solution space.
 
 That is exactly why it misfires here. A solution space is the wrong thing to open when you are still looking for the pain: the phrase invites you to name an outcome, and an outcome is a solution in disguise. The fault is not in the tool. It is in reaching for an ideation tool one diamond early.
 
@@ -54,11 +54,11 @@ In the second diamond, do not ask how you might do anything. Say what it costs s
 
 > **Weak.** Women who work out want organised, accessible plans for increasing bone health through strength training.
 
-**Why it fails.** A want is a request for a solution. It tells you what they would like to be handed; it does not tell you what it costs them not to have it. Wants are also cheap to express and cheap to abandon — which is why acting on one so often produces a product nobody buys.
+**Why it fails.** A want is a request for a solution. It tells you what they would like to be handed; it does not tell you what it costs them not to have it. Wants are also cheap to express and cheap to abandon, which is why acting on one so often produces a product nobody buys.
 
 > **Stronger.** Women told at a bone-density scan to "do some strength training" leave with no idea what that means in practice. Most do nothing for months, aware the whole time that they are losing bone they cannot get back, and feeling both frightened and faintly negligent about it.
 
-**What changed.** The want became a cost — time lost that cannot be recovered, plus fear and self-blame. That is something a person will act to relieve.
+**What changed.** The want became a cost: time lost that cannot be recovered, plus fear and self-blame. That is something a person will act to relieve.
 
 ---
 
@@ -66,13 +66,17 @@ In the second diamond, do not ask how you might do anything. Say what it costs s
 
 > **Weak.** Comic con attendees: cannot find a vendor they saw earlier; tired feet from walking; not enough seating; expensive food.
 
-**Why it fails.** Every item is true and none of them is a pain worth a venture. These are the ordinary frictions of a day out — real annoyances that nobody reorganises their life to avoid. A list like this usually means the fieldwork stayed at the surface: you asked what was annoying and people answered accurately.
+**Why it fails.** Every item is true and none of them is a pain worth a venture. These are the ordinary frictions of a day out, real annoyances that nobody reorganises their life to avoid. A list like this usually means the fieldwork stayed at the surface: you asked what was annoying and people answered accurately.
 
-> **Stronger.** Attendees who travel for a con budget months for it and arrive with a short list of makers they came specifically to meet. Losing a vendor in a hall of two thousand booths means going home without the one thing the trip was for — and no way to find them again afterwards, because most trade under a name that exists only on the badge.
+> **Stronger.** Attendees who travel for a con budget months for it and arrive with a short list of makers they came specifically to meet. Losing a vendor in a hall of two thousand booths means going home without the one thing the trip was for, with no way to find them again afterwards, because most trade under a name that exists only on the badge.
 
-There is a second pain underneath, and it is sharper. A large show is an **irreversible allocation problem**. You have a fixed number of hours and hundreds of candidates, you must commit attention before you have seen everything, and you cannot go back. Attendees describe walking past a booth that looked interesting enough, deciding to return if time allowed, and realising afterwards that it might have been the best thing there. What they carry home is not tiredness — it is the suspicion that they chose badly and will never know.
+There is a second pain underneath, and it is sharper. A large show is an **irreversible allocation problem**. You have a fixed number of hours and hundreds of candidates, you must commit attention before you have seen everything, and you cannot go back. Attendees describe walking past a booth that looked interesting enough, deciding to return if time allowed, and realising afterwards that it might have been the best thing there. What they carry home is not tiredness; it is the suspicion that they chose badly and will never know.
 
-**What changed.** One friction was followed until it produced a real loss, in a context where the stakes were already high. The others were left behind. **A long list of small pains is usually one under-explored pain.**
+**What changed.** One friction was followed until it produced a real loss, in a context where the stakes were already high. The others were left behind. 
+
+::: {.pull-quote}
+A long list of small pains is usually one under-explored pain.
+:::
 
 ---
 
@@ -80,11 +84,15 @@ There is a second pain underneath, and it is sharper. A large show is an **irrev
 
 > **Weak.** Experienced mountain bikers invest in premium bikes and secure them to tailgate mats in truck beds with velcro.
 
-**Why it fails.** This is a fact, and a good one — it is exactly the kind of workaround worth noticing. But it contains no person and no cost. A workaround is *evidence of* a pain, not the pain itself.
+**Why it fails.** This is a fact, and a good one: it is exactly the kind of workaround worth noticing. But it contains no person and no cost. A workaround is *evidence of* a pain, not the pain itself.
 
 > **Stronger.** Riders with bikes worth more than their first car strap them down with velcro and then spend the drive watching the tailgate in the mirror. At trailheads they will skip a coffee stop rather than leave the bike, and several described planning routes around where they felt able to park.
 
-**What changed.** The observation was pursued to what it costs — vigilance, forgone stops, route decisions shaped by anxiety. **When you find a workaround, ask what it is protecting against, and what it costs to keep doing it.**
+**What changed.** The observation was pursued to what it costs: vigilance, forgone stops, route decisions shaped by anxiety. 
+
+::: {.pull-quote}
+When you find a workaround, ask what it is protecting against, and what it costs to keep doing it.
+:::
 
 ---
 
@@ -94,9 +102,9 @@ There is a second pain underneath, and it is sharper. A large show is an **irrev
 
 **Why it fails.** This names the situation and attaches the word *stress* to it, which feels like naming a pain but is not. Stress is a placeholder. Anyone could have written this sentence without leaving the building.
 
-> **Stronger.** Parents of toddlers stop eating out. Not gradually — most name a specific meal, usually one that ended with a scene and a rushed exit, after which they simply stopped going. What they mourn is not the restaurant; it is that the friends they used to meet there now see them a fraction as often.
+> **Stronger.** Parents of toddlers stop eating out. Not gradually. Most name a specific meal, usually one that ended with a scene and a rushed exit, after which they simply stopped going. What they mourn is not the restaurant; it is that the friends they used to meet there now see them a fraction as often.
 
-**What changed.** The stress became a behaviour and a consequence — a lost part of their social life, traceable to a particular night. That is specific, categorisable as social and emotional, and testable: you can ask other parents whether they can name their last meal out.
+**What changed.** The stress became a behaviour and a consequence: a lost part of their social life, traceable to a particular night. That is specific, categorisable as social and emotional, and testable: you can ask other parents whether they can name their last meal out.
 
 ---
 
@@ -104,23 +112,27 @@ There is a second pain underneath, and it is sharper. A large show is an **irrev
 
 > **Weak.** We went forward with security as our pain point. We decided to develop a solution that will soothe the pain contractors experience when something is stolen from them.
 
-**Why it fails.** *Security* is a solution category, not a pain. The sentence describes a team decision rather than a customer's experience — and read closely, it never says what theft actually costs a contractor. It assumes we all know.
+**Why it fails.** *Security* is a solution category, not a pain. The sentence describes a team decision rather than a customer's experience, and read closely, it never says what theft actually costs a contractor. It assumes we all know.
 
-> **Stronger.** A contractor who loses a trailer of tools overnight cannot work the next morning. Crews stand idle on the clock, the job slips, and the client — who does not care why — starts calling. Most carry the replacement cost themselves, because a claim raises the premium by more than the tools were worth.
+> **Stronger.** A contractor who loses a trailer of tools overnight cannot work the next morning. Crews stand idle on the clock, the job slips, and the client, who does not care why, starts calling. Most carry the replacement cost themselves, because a claim raises the premium by more than the tools were worth.
 
-**What changed.** The cost is now concrete and cascading: lost days, idle payroll, a damaged relationship, and an insurance calculation that quietly makes the loss uninsurable. **The theft was never the pain. What the theft sets in motion is the pain.**
+**What changed.** The cost is now concrete and cascading: lost days, idle payroll, a damaged relationship, and an insurance calculation that quietly makes the loss uninsurable. 
+
+::: {.pull-quote}
+The theft was never the pain. What the theft sets in motion is the pain.
+:::
 
 ---
 
 ## 7. The category with no pain in it
 
-> **Weak.** Fitness for the elderly. Cost — never had a personal trainer. Lack of information — do not use free weights for fear of injury. No engagement — poor results, or results take a long time.
+> **Weak.** Fitness for the elderly. Cost, because they have never had a personal trainer. Lack of information, so they avoid free weights for fear of injury. No engagement, because results are poor or slow to arrive.
 
 **Why it fails.** These are reasons a market is under-served, which is a market analyst's observation, not a customer's experience. Nobody in this statement is a person. It is possible to write all three without having spoken to anyone.
 
 > **Stronger.** People in their seventies who have been told to strength-train describe standing in a gym full of equipment they are afraid to touch, surrounded by people half their age who know what they are doing. Most leave within two visits. Several said they would rather be told they were too frail than be watched failing.
 
-**What changed.** A category became a person in a room with a feeling. The social pain — being watched, being out of place — turns out to be doing more work than cost or information, and it would never have surfaced from the earlier framing.
+**What changed.** A category became a person in a room with a feeling. The social pain of being watched and out of place turns out to be doing more work than cost or information, and it would never have surfaced from the earlier framing.
 
 ---
 
@@ -130,19 +142,23 @@ There is a second pain underneath, and it is sharper. A large show is an **irrev
 
 **Why it fails.** Too broad to be wrong, and therefore too broad to be useful. *Medical professionals* spans surgeons and phlebotomists; *education and advancement* spans everything from board certification to a lunchtime webinar. An umbrella statement contains many problems, most of them already known and already served.
 
-> **Stronger.** Rural nurses who want a specialty certification must travel to a city for clinical hours. They burn holiday time and pay their own way, and many attempt it twice before giving up — after which they describe watching younger colleagues from teaching hospitals pass them for roles they had been doing informally for years.
+> **Stronger.** Rural nurses who want a specialty certification must travel to a city for clinical hours. They burn holiday time and pay their own way, and many attempt it twice before giving up, after which they describe watching younger colleagues from teaching hospitals pass them for roles they had been doing informally for years.
 
-**What changed.** The umbrella narrowed to one group, one obstacle, and one consequence. **A statement that could apply to a million people usually describes none of them.**
+**What changed.** The umbrella narrowed to one group, one obstacle, and one consequence. 
+
+::: {.pull-quote}
+A statement that could apply to a million people usually describes none of them.
+:::
 
 ---
 
 ## What good looks like at full length
 
-These two came from teams that did the work. They are longer than the statements above, and that is not padding — the length is evidence.
+These two came from teams that did the work. They are longer than the statements above, and that is not padding; the length is evidence.
 
 ### A pain with a mechanism
 
-> The anxiety that comes from not knowing whether loved ones are taking their pills is immense. It is difficult for many senior citizens to take the correct medications at the correct time, and caregivers often struggle with countless other demands. Tracking adherence is hard, especially when the caregiver is not present at medication times. Some caregivers feel they need to drop other responsibilities — including work — to help their caree maintain adherence.
+> The anxiety that comes from not knowing whether loved ones are taking their pills is immense. It is difficult for many senior citizens to take the correct medications at the correct time, and caregivers often struggle with countless other demands. Tracking adherence is hard, especially when the caregiver is not present at medication times. Some caregivers feel they need to drop other responsibilities, work among them, to help their caree maintain adherence.
 
 **Why it works.** It names who carries the pain (the caregiver, not only the patient), the mechanism that produces it (absence at the moment that matters), and the cost, which is measured in a life given up rather than in inconvenience. It is testable: you can ask caregivers what they have stopped doing.
 
@@ -150,9 +166,9 @@ These two came from teams that did the work. They are longer than the statements
 
 > Firefighters are exposed to many harmful substances during and after fire response. Despite the decontamination procedures available, they are still constantly worried about their health. They know they are exposed to carcinogens and deadly PAHs, but they have no way of knowing whether they have been sufficiently decontaminated after a fire. This pain intensifies as they consider the long-term repercussions. By possibly leaving the station with contaminants on their skin and clothing, firefighters may be exposing their loved ones to the same contaminants. The least visible, but perhaps the most debilitating pain lies in the fear of the unknown. They are aware of the risk, and they do not know whether they are truly clean. They do not know if they are bringing home contaminants to their loved ones; they do not know if the hands making their food are free of carcinogens.
 
-**Why it works.** It separates several distinct pains rather than blurring them into one — the physical risk to the firefighter, the physical risk carried home to a family, the emotional dread, the social weight of being the person who brought it there. Then it locates the sharpest one precisely: not the exposure, which they accepted when they took the job, but **not knowing**. That distinction is only available to someone who listened for a long time.
+**Why it works.** It separates several distinct pains rather than blurring them into one: the physical risk to the firefighter, the physical risk carried home to a family, the emotional dread, the social weight of being the person who brought it there. Then it locates the sharpest one precisely: not the exposure, which they accepted when they took the job, but **not knowing**. That distinction is only available to someone who listened for a long time.
 
-Labelling those pains by type would not weaken this statement — the test on this page asks you to categorise, and doing so here would sharpen it further. What matters is that the pains are *told apart* before anything is named.
+Labelling those pains by type would not weaken this statement, since the test on this page asks you to categorise, and doing so here would sharpen it further. What matters is that the pains are *told apart* before anything is named.
 
 ::: {.callout-tip title="The Tell"}
 Compare the length of the weak statements with these two. The weak ones are short because there was nothing behind them; the strong ones are long because there was. If your pain statement is one sentence and you cannot extend it with specifics, that is a signal to go back to the field rather than to keep writing.
@@ -169,5 +185,5 @@ Run your own statement through these.
 3. **Who is the person, and what is it costing them?** If there is no person, there is no pain.
 4. **Which of the five kinds is it?** Physical, functional, financial, emotional, social. If you cannot say, it is not specific enough.
 5. **What did I see or hear that produced this?** If you cannot point to a quote, an observation, or a moment, it is a guess.
-6. **Would this surprise the people who live it?** The best pain statements often do — they name something people carry without having put words to it.
+6. **Would this surprise the people who live it?** The best pain statements often do. They name something people carry without having put words to it.
 7. **Can I take it back to them?** If there is no way to be told you are wrong, it is not a hypothesis.

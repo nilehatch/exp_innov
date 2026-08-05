@@ -111,6 +111,14 @@ node geometry are all derived, and editing one breaks the family's consistency.
 
 ## Working rules that cost us something once
 
+- **Run `python3 scripts/prose-check.py` after every writing pass, before you
+  commit.** With no arguments it checks only the files this pass touched, which
+  is the point: it is for new prose, not for relitigating a manuscript written
+  before the rules existed. `--all` sweeps the book including the demos.
+  It enforces the family style guide's §15 em-dash target (≤4.0 per 1000 words
+  of prose) and §12a's ban on sentence-length bold. It exists because those
+  rules were broken three times in one session by the same person who had just
+  written them, twice within an hour of writing them. A habit did not work.
 - **Assert before you patch.** Any scripted edit must verify the target string
   matches before writing. A silent no-match once shipped a change that never
   landed, and it was not caught until much later.

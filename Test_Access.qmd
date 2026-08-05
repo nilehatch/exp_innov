@@ -76,7 +76,7 @@ You have three moves, and they are not equally good.
 
 ## A Word About Sampling
 
-We return to sampling in the next chapter, but it is worth saying now: **access problems almost always become sampling problems.** If you only talk to people who are close to you, unusually responsive, or especially available, your findings will lean the way those people lean. A passed access test tells you that you can reach a broad slice of your chosen group, not just the easy few.
+We return to sampling in the next chapter, but it is worth saying now: access problems almost always become sampling problems. If you only talk to people who are close to you, unusually responsive, or especially available, your findings will lean the way those people lean. A passed access test tells you that you can reach a broad slice of your chosen group, not just the easy few.
 
 The bias is quiet and it compounds. Every later stage inherits the sample this one produced.
 
