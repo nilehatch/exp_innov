@@ -62,6 +62,12 @@ You will apply it inside the **triple diamond framework** — three phases, each
 
 Each diamond widens to explore, narrows to decide, then tests before you move on. And each one asks a question that has to be answered *yes* before the next one matters.
 
+## If You Are Doing This With a Team {.unnumbered}
+
+Most of this book is written to *you*, singular, because the thinking is yours whether or not anyone is doing it beside you. But a great many innovations are attempted by teams, and teams fail at this work in ways that have nothing to do with method: unclear decision rights, uneven effort, disagreements nobody names until they are too large to fix.
+
+If you are forming a team or repairing one, read [Organize for Innovation](Organize_Team.qmd). It sits at the back of the book rather than the front, because in practice a direction usually comes first and the team is recruited to it. Go there when you need it.
+
 ## What This Book Offers {.unnumbered}
 
 If innovation has felt like high-stakes guessing, this book will change how you work. It gives you:

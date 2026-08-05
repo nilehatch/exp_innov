@@ -29,7 +29,6 @@ book:
   chapters:
     - index.qmd
     - Expeditionary_Innovation.qmd
-    - Organize_Team.qmd
 
     - part: Choose_People_part.qmd  # "Choose Where to Look"
       chapters:
@@ -107,6 +106,16 @@ book:
         - demo/_diamond3-separator.qmd
 
     - references.qmd
+
+  # Organize for Innovation sat first in the spine because a classroom has to
+  # form teams before it can start. In practice the order is the other way
+  # round: someone settles a direction and then recruits to it. Leading with it
+  # taught a sequence the book does not actually follow, and its subject is
+  # navigating teams rather than the method itself. Appendix, not deleted --
+  # it is consulted when you are forming or repairing a team, which is the
+  # moment it helps rather than the moment it is in the way.
+  appendices:
+    - Organize_Team.qmd
 
 bibliography: references.bib
 
