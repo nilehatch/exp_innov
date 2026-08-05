@@ -15,7 +15,7 @@ Secondary research will help you triangulate what you learn in the field so you 
 
 This is the essence of ethnographic exploration. We may go in expecting one kind of problem, but if we stay curious and follow emotion, we uncover pains hidden in plain sight. The methods that follow—conversation as guided storytelling, observation and shadowing in context, and role play as embodied empathy—are the tools for creating these moments of discovery. Alongside them, secondary research broadens and triangulates what you learn in the field so you avoid spending time re-learning what is already known.  
 
-As you work, watch the “information entropy” of your findings. When new stories keep surprising you, keep exploring. When new data starts repeating what you already know, you’ve reached the edge of your current map. That’s the moment to shift from divergence into abductive synthesis and begin the converge work of themes, personas, and experience maps.
+As long as new stories keep surprising you, keep exploring. When new data starts repeating what you already know, you’ve reached the edge of your current map. That’s the moment to shift from divergence into abductive synthesis and begin the converge work of themes, personas, and experience maps.
 
 <!-- **Find Opportunity in Frustration**:--> 
 ::: {.mini-case}
@@ -32,7 +32,7 @@ In that moment, the team realized the real bottleneck wasn’t customers waiting
 
 ## Finding and Engaging Your People
 
-Now that you’ve selected your community and confirmed access in principle, the next challenge is practical: where do these people actually gather, and how do you engage them in a way that leads to real exploration? Treat this step as an **access experiment**: you’re testing which channels, places, and approaches reliably put you inside their world so you can run ethnographic, exploratory experiments (conversation, observation, shadowing, role play) that build your mountain of data.
+Now that you’ve selected your community and confirmed access in principle, the next challenge is practical: where do these people actually gather, and how do you engage them in a way that leads to real exploration? You are still testing access, as you did at the end of the first diamond, but now for a different purpose: finding which channels, places, and approaches reliably put you inside their world so you can run ethnographic, exploratory experiments (conversation, observation, shadowing, role play) that build your mountain of data.
 
 ### Show Up Where They Are (Physical Contexts)
 
@@ -78,7 +78,7 @@ Avoiding these traps clears the path for authentic engagement. But clarity about
 
 ## Ethnographic Exploration
 
-Once you have found and engaged your people, the next step is to immerse yourself in their lived experience. Ethnographers use many tools, but three stand out as especially powerful for entrepreneurs: **conversations, observation, and role playing**. Each is not just a technique but an exploratory experiment — a structured way to surface evidence of unmet needs.
+Once you have found and engaged your people, the next step is to immerse yourself in their lived experience. Ethnographers use many tools, but three stand out as especially powerful for entrepreneurs: conversations, observation, and role playing. Each is not just a technique but an exploratory experiment — a structured way to surface evidence of unmet needs.
 
 What these three share is that they let you find what you did not know to ask about. That is the whole point of this diamond, and it is why the survey — the tool most founders reach for first — comes later in this chapter rather than here.
 
@@ -92,7 +92,13 @@ Every one of these methods has three moments, and only one of them is yours alon
 
 **Synthesize.** Coding transcripts, clustering, mapping, noticing the thing you failed to follow up on. Hand this back to your AI, then check its work.
 
-The principle underneath is simple enough to keep in your head: **your AI can work on your evidence. It cannot be your evidence.** Everything below is arranged around protecting the middle moment.
+The principle underneath is simple enough to keep in your head.
+
+::: {.pull-quote}
+Your AI can work on your evidence. It cannot be your evidence.
+:::
+
+Everything below is arranged around protecting the middle moment.
 
 
 ### Conversation {.method-header #sec-conversation-section}
@@ -173,7 +179,7 @@ Look for moments of friction. When people improvise, complain under their breath
     4. *What are they interacting with?* (people, tools, systems, spaces)  
     5. *What is absent?* (who is missing, which steps are skipped, or what resources are absent)  
 
-- Watch for **workarounds**, repeated **frustrations**, hesitations, delays, and subtle **rituals** that hint at unmet needs.  
+- Watch for workarounds, repeated frustrations, hesitations, delays, and the subtle rituals that hint at unmet needs.  
 
 *Success measure*: when you can describe how a day actually unfolds for your community, not just what they say about it.
 
@@ -187,7 +193,7 @@ One team shadowed older adults at a senior center. They noticed many wore person
 <summary>For the Curious — How do I start observing without it being awkward?</summary>
 
 
-Enter through a **natural artifact or activity**. For example, a Shakespeare reading group brings seniors together around the play, but the real learning comes from the informal conversations and behaviors that follow. Anchor yourself in the activity; the observation will flow naturally.
+Enter through a natural artifact or activity. For example, a Shakespeare reading group brings seniors together around the play, but the real learning comes from the informal conversations and behaviors that follow. Anchor yourself in the activity; the observation will flow naturally.
 
 </details>
 :::
@@ -237,7 +243,7 @@ A respondent can only answer the question you thought to ask. That is fine when 
 
 Occasionally a survey does explore, when respondents happen to be unusually willing to type at length and you have left them room to. It happens. It cannot be relied on, and you should not design your exploration around the hope of it.
 
-So surveys are held for later, where they are genuinely strong: **once a hypothesis is clear**, a survey measures how widespread a pain is, compares subgroups, and ranks what matters most. That work belongs to [Validate Customer Pain](Validate_Pain.qmd), and the guidance below is here so it is at hand when you get there.
+So surveys are held for later, where they are genuinely strong: *once a hypothesis is clear*, a survey measures how widespread a pain is, compares subgroups, and ranks what matters most. That work belongs to [Validate Customer Pain](Validate_Pain.qmd), and the guidance below is here so it is at hand when you get there.
 
 ::: {.trap}
 The survey-first reflex is one of the most common ways an exploration fails: it produces a great deal of data about the questions you already had, and none about the ones you didn't.
@@ -266,16 +272,20 @@ See the [Survey Guide](toolkit/Survey_Guide.qmd) for a ready-to-use guide on sur
 
 <!-- <hr class="method-divider"> -->
 
-Together, these three exploratory experiments — **conversations**, **observation**, and **role playing** — build the mountain of data you need. Each generates a different kind of evidence, but all share a common purpose: uncovering unmet needs that remain invisible until you engage, watch, and feel your way into them. Alongside them sits secondary research, which gathers what is already known so you don't spend field time rediscovering it. Between them they create the mountain of data — but how do you know when that mountain is high enough?
+Together, these three exploratory experiments — conversations, observation, and role playing — build the mountain of data you need. Each generates a different kind of evidence, but all share a common purpose: uncovering unmet needs that remain invisible until you engage, watch, and feel your way into them. Alongside them sits secondary research, which gathers what is already known so you don't spend field time rediscovering it. Between them they create the mountain of data — but how do you know when that mountain is high enough?
 
 
 
 
 ## Archival and Secondary Research Experiments  {#sec-secondary-research-section}
 
-Not every insight comes from fieldwork. Much is already known — in industry reports, government statistics, academic studies, and trade publications. Secondary research is your way of running **exploratory experiments with data others have already collected**. Each probe into an archive or database is a test: *“What does this source reveal, and how does it align with or challenge what I’ve seen in the field?”*
+Not every insight comes from fieldwork. Much is already known — in industry reports, government statistics, academic studies, and trade publications. Secondary research is your way of running exploratory experiments with data others have already collected. Each probe into an archive or database is a test: *“What does this source reveal, and how does it align with or challenge what I’ve seen in the field?”*
 
-The key principle: **if it is already known, don’t rediscover it through interviews or observation.** Mine existing knowledge so you can focus your primary exploration on what is still unknown.
+::: {.pull-quote}
+If it is already known, don’t rediscover it through interviews or observation.
+:::
+
+Mine existing knowledge so you can focus your primary exploration on what is still unknown.
 
 ### What Secondary Research Contributes
 
@@ -298,7 +308,7 @@ I am researching [describe your community and the problem space]. Search for wha
 :::
 :::
 
-That last instruction is the important one. **What is missing from the record is a better lead than what is in it** — an absence often means nobody has looked, and nobody looking is what neglect looks like from a distance.
+That last instruction is the important one. What is missing from the record is a better lead than what is in it: an absence often means nobody has looked, and nobody looking is what neglect looks like from a distance.
 
 ::: {.checkpoint}
 **Check before you believe it**
@@ -336,13 +346,18 @@ See the [Secondary Research Guide](toolkit/Secondary_Research_Guide.qmd) for a r
 
 In short, archival and secondary research experiments widen your vision. They prevent reinventing knowledge, situate your field insights in broader context, and strengthen confidence that the pains you uncover are real, significant, and shaped by larger trends.
 
-At some point, though, both fieldwork and desk research begin to repeat themselves. The real question becomes: **when is the mountain of data high enough?** That’s where the principle of “enough is enough” comes in.
+At some point, though, both fieldwork and desk research begin to repeat themselves. The real question becomes: when is the mountain of data high enough? That’s where the principle of “enough is enough” comes in.
 
 ---
 
 ## When Enough Is Enough
 
-Exploration can feel endless. There is always another person you could interview, another setting to observe, or another report to read. But at some point, the return on effort drops. The signal to stop is not exhaustion or impatience.  It is the decline of **information entropy**  — the rate of newness in what you learn — that is your signal to stop gathering and move into abductive hypothesizing (sense-making).^[The concept of information entropy comes from Claude Shannon’s work in communication theory [@shannonMathematicalTheoryCommunication1948]. In this context, it refers to how much “surprise” each new piece of data brings.]  
+Exploration can feel endless. There is always another person you could interview, another setting to observe, or another report to read. But at some point, the return on effort drops. The signal to stop is not exhaustion or impatience.  It is the decline of **information entropy** that is your signal to stop gathering and move into abductive hypothesizing (sense-making).^[The concept of information entropy comes from Claude Shannon’s work in communication theory [@shannonMathematicalTheoryCommunication1948].]
+
+::: {.column-margin .def-margin}
+**Information entropy** — the rate of newness in what you are learning. High when every conversation brings a surprise; low when they start echoing each other.
+:::
+
 
 At the beginning, every conversation, observation, or article adds something novel. Over time, surprises become rarer, and new inputs mostly echo what you have already heard or read. This flattening of novelty is your cue: the mountain of data is high enough. You are no longer climbing higher, just circling the same slope.
 
@@ -376,11 +391,11 @@ In short, the goal of exploratory experiments — whether in the field or in the
 
 ## The Essence of Exploratory Research
 
-Exploratory research is not about confirming what you already know — it is about **broadening your field of vision**. Its essence is curiosity: stepping into conversations, watching behavior in context, simulating lived experience, and mining what is already known in archives and reports. Each method — whether an interview, an observation, a role play, or a scan of existing data — is an exploratory experiment designed to surface unmet needs that would otherwise remain invisible.
+Exploratory research is not about confirming what you already know — it is about broadening your field of vision. Its essence is curiosity: stepping into conversations, watching behavior in context, simulating lived experience, and mining what is already known in archives and reports. Each method — whether an interview, an observation, a role play, or a scan of existing data — is an exploratory experiment designed to surface unmet needs that would otherwise remain invisible.
 
-What matters most is not mastering every method, but **assembling a diverse stream of evidence**. Stories, observed workarounds, simulated frustrations, and statistical trends each illuminate the problem space from a different angle. Taken together, they create a textured picture of people’s lives and the opportunities within them.
+What matters most is not mastering every method, but assembling a diverse stream of evidence. Stories, observed workarounds, simulated frustrations, and statistical trends each illuminate the problem space from a different angle. Taken together, they create a textured picture of people’s lives and the opportunities within them.
 
-But exploration cannot be endless. The true art lies in **knowing when the mountain of data is high enough** — when novelty begins to fade, and it is time to shift from gathering to sense-making. Exploratory research gives you raw material; abductive reasoning and analysis turn that material into insight.
+But exploration cannot be endless. The true art lies in knowing when the mountain of data is high enough — when novelty begins to fade, and it is time to shift from gathering to sense-making. Exploratory research gives you raw material; abductive reasoning and analysis turn that material into insight.
 
 In short: the essence of exploratory research is open-ended curiosity, disciplined variety, and the judgment to stop collecting when learning plateaus. With that balance, you are prepared to move from exploration toward convergence and the identification of your most urgent unknown.
 
