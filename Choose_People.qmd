@@ -72,7 +72,7 @@ Ask three questions:
 
 This is an assessment, not yet a test. You are making a judgement from your desk about whether access looks plausible, so that you do not commit to a group that is obviously unreachable. The next chapter turns that judgement into evidence by actually trying. Skip the assessment and you waste a week. Treat the assessment *as* the evidence and you waste a month.
 
-If the answer is “no” to any of the three, revisit your shortlist. Sometimes an opportunity becomes workable after a slight redefinition: not "people in crisis" but "the counsellors who work with them," not "surgeons" but "surgical residents."
+If the answer is no to any of the three, revisit your shortlist. Sometimes an opportunity becomes workable after a slight redefinition: not "people in crisis" but "the counsellors who work with them," not "surgeons" but "surgical residents."
 
 *For an example of how this looks in practice, see the [Assess Access section](demo/exp-02-converge-worksheet.qmd#sec-ha-people-converge-access) of the Halo Alert demo.*
 

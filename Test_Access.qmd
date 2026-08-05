@@ -12,7 +12,11 @@ You have chosen a community to search. You explored widely, converged thoughtful
 
 The question is simple. *Can we actually reach the people we want to learn from?*
 
-It is easy to assume that because you can imagine your people, you can find and talk to them. But ventures fail when teams build for people they cannot observe or engage. This is the gate that closes the first diamond, and it is the cheapest gate in the book. A few days here can prevent a wasted quarter.
+::: {.column-margin .def-margin}
+**Access test** — a small, deliberate attempt to reach your chosen community, run to find out whether sustained contact is possible before you depend on it.
+:::
+
+It is easy to assume that because you can imagine your people, you can find and talk to them. But ventures fail when teams build for people they cannot observe or engage. This is the gate that closes the first diamond, and it is the cheapest gate in the book. A few days here can prevent months of wasted work.
 
 ## What Counts as Access
 
