@@ -8,25 +8,34 @@ id: sec-explore-community-chapter
 ## Unearthing Unmet Needs
 
 ![Divergent exploration of the community of people to gain insight for better hypotheses of customer pain.](images/d2-diverge.svg){fig-align="center"}
-After choosing and confirming access to a community of people, the journey of entrepreneurial innovation continues with an in-depth exploration of their lives. This chapter focuses on *ethnographic exploratory experiments*—our deliberate move into divergent thinking—aimed at amassing a “mountain of data” about your chosen community. At this stage, the emphasis is on extensive evidence gathering through both *primary* and *secondary* research. You are not merely collecting anecdotes; you are running exploratory experiments—structured forays into lived experience—to surface pains that are real but often unarticulated.
+You have a community you can reach. Now you go and learn how they actually live.
+
+The work of this chapter is **ethnographic**: you learn about people by spending time among them rather than by asking them to report on themselves. That distinction does more work than it looks like it should. Ask someone what is hard about their week and you get a considered answer about what they believe is hard. Sit beside them on a Tuesday and you see the thing they stopped noticing years ago, which is the thing worth building for.
+
+::: {.column-margin .def-margin}
+**Ethnographic** — learning about people by being among them, in their context, rather than by asking them to describe themselves from memory.
+
+**Exploratory experiment** — a deliberate foray into someone's world undertaken *without* a hypothesis, run to find out what you did not know to ask about.
+:::
+
+Each foray is an **exploratory experiment**: deliberate, planned, and run without a hypothesis, because a hypothesis at this stage would only tell you what you already suspect. You are not collecting anecdotes. You are gathering, on purpose, until you have enough raw material that an explanation can be reasoned out of it.
 
 <!-- As you work, the goal is to collect enough raw evidence to ground abductive sense-making, theme finding, persona building, and experience mapping. -->
-Secondary research will help you triangulate what you learn in the field so you don’t waste time re-learning what is already known.
+The evidence comes from two directions, and you need both.
+
+::: {.column-margin .def-margin}
+**Primary research** — evidence you gather yourself, first-hand, from people. Conversation, observation, role play.
+
+**Secondary research** — evidence someone else already gathered and published. Reports, statistics, filings, reviews, studies.
+:::
+
+**Primary research** is what you collect yourself, in person: the conversations, the watching, the sitting-beside. It is the only source of anything nobody has written down yet, which is where unmet needs live. **Secondary research** is what somebody else already gathered and published. It is faster, cheaper, and cannot surprise you — its job is to stop you spending three weeks in the field rediscovering something a trade association published in 2019.
 
 This is the essence of ethnographic exploration. We may go in expecting one kind of problem, but if we stay curious and follow emotion, we uncover pains hidden in plain sight. The methods that follow—conversation as guided storytelling, observation and shadowing in context, and role play as embodied empathy—are the tools for creating these moments of discovery. Alongside them, secondary research broadens and triangulates what you learn in the field so you avoid spending time re-learning what is already known.  
 
 As long as new stories keep surprising you, keep exploring. When new data starts repeating what you already know, you’ve reached the edge of your current map. That’s the moment to shift from divergence into abductive synthesis and begin the converge work of themes, personas, and experience maps.
 
-<!-- **Find Opportunity in Frustration**:--> 
-::: {.mini-case}
-**Find Opportunity in Frustration**
 
-One innovation team thought they understood the pain in auto body repair. Customers hated long delays and unpredictable updates while their cars were in the shop. The problem seemed obvious: fix customer communications.
-
-Then they spent time inside a repair shop. While waiting in the office, a burst of shouting echoed from down the hall. Instead of ignoring it, they followed the sound and found a technician furious at the tedious process of moving information back and forth with insurance adjusters. Estimates had to be re-typed into one system, then again into another, with errors compounding at each step.
-
-In that moment, the team realized the real bottleneck wasn’t customers waiting for news—it was employees drowning in broken data flows. By listening for emotion and tracing frustration to its source, they uncovered a more valuable, systemic pain: the brittle exchange of information between insurers and shops.
-:::
 
 
 
@@ -159,7 +168,9 @@ While exploring safety in senior living facilities, the Halo Alert team intervie
 <summary>For the Curious — How many interviews do we need?</summary>
 
 
-There’s no fixed number. Early on, every conversation reveals new stories (high information entropy). Keep going until stories begin to repeat and new interviews add little that’s novel. That’s your signal to pause and move into convergence.
+There’s no fixed number. Early on, every conversation reveals new stories. Keep going until stories begin to repeat and new interviews add little that’s novel. That’s your signal to pause and move into convergence.
+
+One caution, and it bites hardest on teams who chose an ambitious group. If your community is really several communities wearing one label, repetition arrives late and arrives wrong: you will need far more conversations before anything repeats, and when things finally do you will hear *several* patterns rather than one. Hearing three recurring stories is not the rule failing. It is the rule telling you that you are talking to three groups.
 
 </details>
 :::
@@ -176,6 +187,16 @@ Observation is not passive watching — it is an **experiment in context**.
 Sometimes the most powerful insights come not from what people say, but from what they do. By placing yourself where people live, work, or struggle, you see routines, interactions, and workarounds unfold in their natural setting. Done well, observation reveals unspoken needs and patterns that conversations often miss.
 
 Look for moments of friction. When people improvise, complain under their breath, or devise a workaround, they are revealing unmet needs in action.
+
+::: {.mini-case}
+**Find Opportunity in Frustration**
+
+One innovation team thought they understood the pain in auto body repair. Customers hated long delays and unpredictable updates while their cars were in the shop. The problem seemed obvious: fix customer communications.
+
+Then they spent time inside a repair shop. While waiting in the office, a burst of shouting echoed from down the hall. Instead of ignoring it, they followed the sound and found a technician furious at the tedious process of moving information back and forth with insurance adjusters. Estimates had to be re-typed into one system, then again into another, with errors compounding at each step.
+
+In that moment, the team realized the real bottleneck wasn’t customers waiting for news—it was employees drowning in broken data flows. By listening for emotion and tracing frustration to its source, they uncovered a more valuable, systemic pain: the brittle exchange of information between insurers and shops.
+:::
 
 #### How to run the experiment (short form)
 
@@ -237,8 +258,12 @@ Use role playing to reveal what people cannot easily articulate. It often expose
 
 *Success measure*: When role play reveals responses, workarounds, or tensions that people themselves did not realize they carried, the experiment has done its job.  
 
-### Worked Example
-Designer Patty Moore once simulated aging by wearing a body brace, earplugs, blurred glasses, and a wig over months of immersion. She discovered not only the physical challenges of opening pill bottles and climbing buses but also the social reality of how others treated her differently.^[Patnaik [-@patnaikWiredCareHow2009] tells this story in *Wired to Care* to illustrate how designers can create deep empathy through embodied simulation.]  
+::: {.mini-case}
+**Patty Moore, in someone else's body**
+
+Designer Patty Moore once simulated aging by wearing a body brace, earplugs, blurred glasses, and a wig over months of immersion. She discovered not only the physical difficulty of opening pill bottles and boarding buses, but the social reality of how differently others treated her.^[Patnaik [-@patnaikWiredCareHow2009] tells this story in *Wired to Care* to illustrate how designers can create deep empathy through embodied simulation.]  
+:::
+
 
 **Toolkit Resource**  
 See the [Role Play Guide](toolkit/Role_Play_Guide.qmd) for a ready-to-use guide on how to setup, run, and interpret a role playing experiment.
@@ -282,7 +307,7 @@ See the [Survey Guide](toolkit/Survey_Guide.qmd) for a ready-to-use guide on sur
 
 <!-- <hr class="method-divider"> -->
 
-Together, these three exploratory experiments — conversations, observation, and role playing — build the mountain of data you need. Each generates a different kind of evidence, but all share a common purpose: uncovering unmet needs that remain invisible until you engage, watch, and feel your way into them. Alongside them sits secondary research, which gathers what is already known so you don't spend field time rediscovering it. Between them they create the mountain of data — but how do you know when that mountain is high enough?
+Together, these three exploratory experiments — conversations, observation, and role playing — build the mountain of data you need. Each generates a different kind of evidence, but all share a common purpose: uncovering unmet needs that remain invisible until you engage, watch, and feel your way into them. Alongside them sits secondary research, which gathers what is already known so you don't spend field time rediscovering it. Between them they build the mountain of data you need.
 
 
 
@@ -330,13 +355,18 @@ This is the one place in the book where handing work to an AI carries a real ris
 - **Write down which claims you are now treating as settled**, because you will stop testing those in the field. That list should be short, and everything on it should have a link you have clicked.
 :::
 
-Some useful starting points if you want to look yourself: [USA.gov](https://www.usa.gov/statistics) and the [US Census](https://www.census.gov) for public data, [Google Trends](https://trends.google.com/trends/) for what people are searching and when, and [Gapminder](https://www.gapminder.org/) for global demographic and social indicators. A fuller collection lives in these [public data sources](https://ba.nilehatch.com/public_data.html).
+Some useful starting points if you want to look yourself: [USA.gov](https://www.usa.gov/statistics) and the [US Census](https://www.census.gov) for public data, [Google Trends](https://trends.google.com/trends/) for what people are searching and when, and [Gapminder](https://www.gapminder.org/) for global demographic and social indicators.
 
-### Proprietary and Paid Sources
+### Where to Look That Costs Nothing
 
-Some of the richest insights live behind paywalls: databases like Factiva, Mintel, or Euromonitor. While costly for startups, many universities and libraries provide access. At BYU, for example, the Harold B. Lee Library maintains a [database index](https://guides.lib.byu.edu/EntInnovHatch) curated for entrepreneurial innovation projects.
+The expensive databases get the attention, and you do not need them. Almost everything an entrepreneur wants is public, once you recognise that it counts as evidence:
 
-For a more comprehensive collection of open and free sources of secondary data, explore these [private data sources](https://ba.nilehatch.com/private_data.html).
+- **What competitors say about themselves** — press releases, product launches, pricing pages, SEC filings, industry newsletters.
+- **What their customers say when nobody is asking** — Amazon, Yelp and G2 reviews, Reddit threads, support forums, Glassdoor. The closest thing to overhearing your market.
+- **Where the money and effort are going** — job postings on LinkedIn and Indeed show what firms are staffing up to do; patent filings at the USPTO show what they think is worth protecting; Crunchbase and funding news show who else has noticed.
+- **The rules of the game** — regulatory filings with the FCC, FDA or SEC, analyst reports, trade association updates, adjacent industry news.
+
+The second of those is the one teams under-use. A thousand one-star reviews of the nearest existing product is a corpus of people describing, unprompted and at length, exactly how it fails them.
 
 ::: {.key-action}
 **How to Use Secondary Research Effectively**
@@ -375,7 +405,7 @@ At the beginning, every conversation, observation, or article adds something nov
 **Learn From Your AI**
 
 ::: {.prompt}
-Teach me what information entropy means and why a drop in it is a signal to stop gathering data. Use an everyday example rather than the mathematics, then show me how the same idea applies to a founder deciding whether to run more customer interviews. Finish by telling me how someone could fool themselves into thinking novelty had flattened when they had simply been asking the same question of everyone.
+Teach me what information entropy means and why a drop in it is a signal to stop gathering data. Use an everyday example rather than the mathematics, then show me how the same idea applies to a founder deciding whether to run more customer interviews.
 :::
 :::
 
