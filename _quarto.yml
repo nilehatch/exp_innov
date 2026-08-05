@@ -31,7 +31,7 @@ book:
     - Expeditionary_Innovation.qmd
     - Organize_Team.qmd
 
-    - part: Choose_People_part.qmd  # "Choose People"
+    - part: Choose_People_part.qmd  # "Choose Where to Look"
       chapters:
         - Cast_Wide_Net.qmd
         - Choose_People.qmd

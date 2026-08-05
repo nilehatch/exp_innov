@@ -69,7 +69,7 @@ Which raises the real question, and the one your whole process exists to answer:
 
 This is the same mechanism behind *disruptive innovation*. Incumbents do not miss the low end because they cannot see it. They skip it because their margins make serving it irrational, right up until the entrant who took it grows into something they cannot dislodge [@christensenInnovatorsDilemmaWhen1997; @christensenInnovatorsSolutionCreating2003].
 
-We will return to this with a picture of how competitors crowd the middle and leave the edges open, in @fig-tyranny-market in the *Choosing Your People* part.
+We will return to this with a picture of how competitors crowd the middle and leave the edges open, in @fig-tyranny-market in the *Choose Where to Look* part.
 
 ## Finding the Edges {.unnumbered}
 

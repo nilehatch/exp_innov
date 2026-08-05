@@ -1,11 +1,11 @@
-# Choose Your People {#part-choose-people}
+# Choose Where to Look {#part-choose-people}
 
 
 ## Why We Start With People {.unnumbered}
 
 Every expedition begins with a choice of direction. In innovation, that choice is not about *what to build* but *where to look*.
 
-![Diverge and converge to choose a community of people and then test your access to them.](images/diamond-1.svg){#fig-people-diamond-3 fig-align="center"}
+![Diverge and converge to choose a community to search, then test your access to it.](images/diamond-1.svg){#fig-people-diamond-3 fig-align="center"}
 
 > *The question this diamond answers: can you actually reach these people?*
 
