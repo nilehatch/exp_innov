@@ -1,12 +1,22 @@
-# CLAUDE.md — Expeditionary Innovation
+# CLAUDE.md — Before You Build
 
-Quarto book. Live at <https://ei.nilehatch.com/>. This file covers what the repo
-cannot tell you on its own; for anything structural, read `_quarto.yml` and the
-comments already in it.
+Quarto book. Live at <https://ei.nilehatch.com/>.
+
+**The book is titled *Before You Build*. The method it teaches is *expeditionary
+innovation*.** Those are different things and both names are load-bearing: when a
+passage refers to the book, use the title; when it refers to the method, the chapter
+and the process, use the method name. The `Expeditionary_Innovation.qmd` chapter title
+and the Conclusion's headings are the method, and are correct as they stand.
+
+Licensed CC BY-NC 4.0. `LICENSE`, the preface colophon and the demo notice must agree;
+they contradicted each other until 2026-08-05, when `LICENSE` still said CC0.
+
+This file covers what the repo cannot tell you on its own; for anything structural,
+read `_quarto.yml` and the comments already in it.
 
 ## What this book is, and where it stops
 
-Expeditionary Innovation is the **exploration** book. It owns the front end —
+*Before You Build* is the **exploration** book. It owns the front end —
 choosing who to talk to, finding and validating pain, ideating and testing
 solutions — across three diamonds.
 
@@ -15,7 +25,7 @@ It is one of a family of books that share a hub-and-spoke architecture:
 | Book | Repo | Role |
 |---|---|---|
 | *Make the Call* (MtC) | `../book-make-the-call` | The hub. Owns the general logic of deciding under uncertainty. |
-| **Expeditionary Innovation (EI)** | here | A spoke. Applies that logic to the expedition front end. |
+| ***Before You Build*** (EI) | here | A spoke. Applies that logic to the expedition front end. Teaches *expeditionary innovation*. |
 | *Is This Worth Doing?* (ITWD) | `../book-is-this-worth-doing` | A spoke. Applies it to profit analytics. |
 
 **The hard boundary: EI hands off to Make the Call at the moment of deciding.**

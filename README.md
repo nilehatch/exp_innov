@@ -1,6 +1,6 @@
-# Expeditionary Innovation
+# Before You Build
 
-A Quarto book by Nile Hatch on finding and framing an innovation: how to reduce uncertainty
+A Quarto book by Nile Hatch teaching **expeditionary innovation**, a method for finding and framing an innovation: how to reduce uncertainty
 by choosing the right people, discovering an unmet need they actually live with, and
 designing a solution that relieves it.
 

@@ -79,3 +79,10 @@ h3.method-header::before {
   h2.method-header::before,
   h3.method-header::before { width: 5px; }
 }
+
+/* `date: last-modified` in _quarto.yml exists so the colophon can auto-stamp
+   "Last updated" and never go stale. Quarto also renders it into the title
+   block of the front page, labelled "Published" -- wrong word for a
+   modification date, and redundant beside the colophon two screens below.
+   Suppress the display; keep the metadata. */
+.quarto-title-meta { display: none; }

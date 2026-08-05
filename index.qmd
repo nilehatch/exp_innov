@@ -75,6 +75,16 @@ You won't finish with certainty. You will finish knowing what you know, how you 
 
 ---
 
-This book is written by Nile Hatch and is adapted from an earlier version, *Entrepreneurial Innovation* (2018).
+## Colophon {.unnumbered}
 
-This site is free to access, licensed under [CC BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/us/), and made possible through [Quarto](https://quarto.org/docs/books) and [Netlify](https://www.netlify.com)'s support of open innovation.
+*Before You Build* is written by Nile Hatch, and is adapted from an earlier version published as *Entrepreneurial Innovation* (2018).
+
+© 2026 Nile Hatch. Free to read online and licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/): you may share and adapt it, including for teaching and translation, for non-commercial purposes and with attribution.
+
+This is a living book. It is revised while it is being read, so the version you are looking at may differ from the one you read last month. Last updated {{< meta date >}}.
+
+**To cite it:** Hatch, Nile. *Before You Build*. <https://ei.nilehatch.com/>
+
+**Found an error?** Corrections and disagreements are welcome at the [book's repository](https://github.com/nilehatch/exp_innov/issues). A book revised in public gets better faster.
+
+Built with [Quarto](https://quarto.org/).

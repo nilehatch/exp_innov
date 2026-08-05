@@ -95,5 +95,5 @@ The intent is **traceability**: a student can jump from a technique in the narra
 
 # License & Attribution {#sec-license}
 
-This demo content follows the book’s license (CC BY-NC-ND 3.0).  
-Use in teaching is encouraged; please attribute **Expeditionary Innovation — Halo Alert Demos** and retain the license notice.
+This demo content follows the book’s license, [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).  
+Teaching use, adaptation and translation are expressly permitted for non-commercial purposes. Please attribute **Before You Build — Halo Alert Demos** and retain the license notice.

@@ -7,14 +7,18 @@ project:
     - scripts/sync-refs.py
 
 book:
-  title: "Expeditionary Innovation"
+  title: "Before You Build"
+  # Auto-stamped so the colophon's "last updated" cannot go stale as the book
+  # is revised in public. Rendered via {{< meta date >}} in index.qmd.
+  date: last-modified
+  date-format: "D MMMM YYYY"
   reader-mode: true
   site-url: https://ei.nilehatch.com/
   repo-url: https://github.com/nilehatch/exp_innov/
 
   page-footer:
     left: |
-      _Expeditionary Innovation_ was written by Nile Hatch as part of a portfolio of content on using evidence to succeed in entrepreneurship.
+      _Before You Build_ was written by Nile Hatch as part of a portfolio of content on using evidence to succeed in entrepreneurship.
     right: |
       This book was built with <a href="https://quarto.org/">Quarto</a>.
 

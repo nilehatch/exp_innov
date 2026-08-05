@@ -170,7 +170,11 @@ While exploring safety in senior living facilities, the Halo Alert team intervie
 
 There’s no fixed number. Early on, every conversation reveals new stories. Keep going until stories begin to repeat and new interviews add little that’s novel. That’s your signal to pause and move into convergence.
 
-One caution, and it bites hardest on teams who chose an ambitious group. If your community is really several communities wearing one label, repetition arrives late and arrives wrong: you will need far more conversations before anything repeats, and when things finally do you will hear *several* patterns rather than one. Hearing three recurring stories is not the rule failing. It is the rule telling you that you are talking to three groups.
+Expect to hear more than one recurring story, and do not read that as a problem. Most communities carry several pains at once, and choosing among them is the work of the next chapter.
+
+What you are watching for is something narrower: whether the stories sort by *person*. If the same people report all three, you have one group with three pains, and you will prioritise. If each story belongs to a different kind of person — the ones who work nights, the ones without a car, the ones new to the role — then the label you started with is covering several communities, and you will narrow to one before you can validate anything.
+
+That distinction matters most to teams who chose an ambitious group, because breadth delays the whole signal. The wider the label, the more conversations you need before anything repeats at all, and the more likely the repetition sorts by person when it finally arrives.
 
 </details>
 :::
@@ -281,7 +285,9 @@ Occasionally a survey does explore, when respondents happen to be unusually will
 So surveys are held for later, where they are genuinely strong: *once a hypothesis is clear*, a survey measures how widespread a pain is, compares subgroups, and ranks what matters most. That work belongs to [Validate Customer Pain](Validate_Pain.qmd), and the guidance below is here so it is at hand when you get there.
 
 ::: {.trap}
-The survey-first reflex is one of the most common ways an exploration fails: it produces a great deal of data about the questions you already had, and none about the ones you didn't.
+**The Survey-First Reflex**
+
+It is one of the most common ways an exploration fails: it produces a great deal of data about the questions you already had, and none about the ones you didn't.
 :::
 
 #### When to use surveys
