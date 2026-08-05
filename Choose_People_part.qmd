@@ -9,13 +9,13 @@ Every expedition begins with a choice of direction. In innovation, that choice i
 
 > *The question this diamond answers: can you actually reach these people?*
 
-## What This Diamond Is Not {.unnumbered}
+## What You Are Actually Choosing {.unnumbered}
 
 There is an awkward truth here, and it is easier to say plainly than to discover the hard way.
 
 In the end you want a group of people who share a pain, because that is what a market is. But you cannot identify those people until you know the pain, and you cannot find the pain without spending real time among people. Each one requires the other. It looks like a trap.
 
-The way out is to notice that this diamond is not choosing your customers. **It is choosing where to look.** What you need now is a community you can get to, observe, and talk with at length, and where you have some reason to expect neglect. That is all. Then in the second diamond, as the pain comes into focus, the group comes into focus with it.
+The way out is to notice that this diamond is not choosing your customers. It is choosing where to look. What you need now is a community you can get to, observe, and talk with at length, and where you have some reason to expect neglect. That is all. Then in the second diamond, as the pain comes into focus, the group comes into focus with it.
 
 ::: {.column-margin .def-margin}
 **A community to search** — the population you choose in this diamond, selected for access and expected neglect.
@@ -34,7 +34,7 @@ Markets are not fair. They reward the mainstream and neglect the edges. Over tim
 
 These people live under the *tyranny of the market*:
 
-- Their options are abundant but never quite right.  
+- Whatever is on offer never quite fits, and sometimes there is nothing on offer at all.  
 - They adapt with workarounds, hacks, and compromises.  
 - They quietly accept friction, delays, and risks as “normal life.”  
 
@@ -145,10 +145,11 @@ What that does not promise is that the needs you find will be reachable, or that
 
 When you choose a group to study, you’re not just looking for opportunity. You’re stepping into an injustice: a place where people have been forced to make do because no one has designed with them in mind.  
 
-Choosing people at the edges is an act of service. You are saying:  
+Choosing people at the edges is an act of service. You are saying: 
+
 - *We see you.*  
 - *Your needs matter.*  
-- *You deserve better than “good enough.”*  
+- *You deserve better than “good enough” — or better than nothing, which is what some of you have settled for.*  
 
 That commitment doesn’t just build better ventures; it builds loyalty. People who have long been ignored rarely forget the first team that designed something truly for them.  
 
@@ -160,9 +161,9 @@ Entrepreneurs get stuck here, afraid that picking the wrong group will waste mon
 
 The choice matters less than it feels like it should, because you are not choosing a target. You are choosing a search area. Almost any coherent community contains unmet needs, so the odds of picking a barren one are low, and if the group turns out to be the wrong shape you will discover that from inside it, while narrowing, rather than by starting over.
 
-What you *can* do is choose **badly**: out of convenience, or so broadly that the group shares nothing but a label. Those choices cost real time, and they are common.
+What you *can* do is choose *badly*: out of convenience, or so broadly that the group shares nothing but a label. Those choices cost real time, and they are common.
 
-The constraint is rarely the market. It is access. Can you observe these people in context? Can you get real conversations rather than polite ones? Will they open up enough to show you what they have stopped noticing? This diamond ends with a test of exactly that, and the test exists because the answer is sometimes no. Finding that out in week two is cheap. Finding it out in month four is not.
+The constraint is rarely the market. It is access. Can you observe these people in context? Can you get real conversations rather than polite ones? Will they open up enough to show you what they have stopped noticing? This diamond ends with a test of exactly that, and the test exists because the answer is sometimes “no.” Finding that out in week two is cheap. Finding it out in month four is not.
 
 ---
 

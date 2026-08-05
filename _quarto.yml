@@ -8,10 +8,6 @@ project:
 
 book:
   title: "Before You Build"
-  # Auto-stamped so the colophon's "last updated" cannot go stale as the book
-  # is revised in public. Rendered via {{< meta date >}} in index.qmd.
-  date: last-modified
-  date-format: "D MMMM YYYY"
   reader-mode: true
   site-url: https://ei.nilehatch.com/
   repo-url: https://github.com/nilehatch/exp_innov/

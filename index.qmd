@@ -81,7 +81,7 @@ You won't finish with certainty. You will finish knowing what you know, how you 
 
 © 2026 Nile Hatch. Free to read online and licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/): you may share and adapt it, including for teaching and translation, for non-commercial purposes and with attribution.
 
-This is a living book. It is revised while it is being read, so the version you are looking at may differ from the one you read last month. Last updated {{< meta date >}}.
+This is a living book. It is revised while it is being read, so the version you are looking at may differ from the one you read last month. Last updated 5 August 2026.
 
 **To cite it:** Hatch, Nile. *Before You Build*. <https://ei.nilehatch.com/>
 

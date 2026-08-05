@@ -73,7 +73,10 @@ from the Zotero Better BibTeX master export into `references.bib`.
 - **Do not hand-edit `references.bib`.** Fix metadata in Zotero; it propagates on
   the next render.
 - Cite keys are Better BibTeX (author-year-shortname).
-- Master export lives at `~/Documents/Claude/bibs/zotero.bib`. If it is absent
+- Master export lives at `~/Documents/bibs/zotero.bib` — this is the live Better
+BibTeX auto-export and the path `sync-refs.py` actually uses. **Do not use
+`~/Documents/Claude/bibs/zotero.bib`**: it is a stale copy (frozen 2026-05-12,
+221 entries behind) that will silently fail to resolve anything added since. If it is absent
   (fresh clone, CI), the script prints a notice and exits 0 — the build proceeds
   on the committed bib and never fails on this.
 - The script is shared verbatim with Make the Call. Fix bugs in both, or in
