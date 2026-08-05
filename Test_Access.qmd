@@ -24,7 +24,9 @@ Access is not sending a survey or getting a few replies to a direct message. It 
 
 3. **They respond, and they open up.** Access is not reach; it is reciprocity. Your people reply, reflect, and reveal. They are willing to talk, and willing to go past the first answer.
 
-::: {.callout-tip title="Minimum Conditions for a Passed Access Test"}
+::: {.threshold}
+**Minimum Conditions for a Passed Access Test**
+
 - You know **where** your people are
 - You can **interact** with them directly
 - They are **responsive and willing to engage**
@@ -57,7 +59,9 @@ The check is direct: *if I did not know this person, would they still have talke
 
 If your messages go unanswered, if you cannot find where your people spend time, or if conversations die after two sentences, pay attention. The problem might not be your concept. It might be your choice of people.
 
-::: {.callout-warning title="When Access Isn't Working"}
+::: {.trap}
+**When Access Isn't Working**
+
 - You can't find where your people spend time, physically or online
 - You rely entirely on personal connections (friends, classmates, roommates)
 - People are willing to talk but only give surface-level responses

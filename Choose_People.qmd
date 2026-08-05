@@ -12,13 +12,17 @@ id: sec-commit-community-chapter
 
 After diverging to explore a wide range of possible communities, the next step is to **converge**: to move from possibilities to a single, well-considered choice. You are choosing where to spend the next stretch of your attention: the community you will study closely enough that a pain can surface from it.
 
-Remember what you are not doing. You are not naming your customers. That group is defined by a shared pain, and you do not know the pain yet. If you did the work of divergence well you now have several promising communities in view, and the goal is not to pick the one you like most or the one that feels most familiar. It is to choose the community where a real pain is most likely to surface, and where you can get close enough to see it.
+Remember that you are not naming your customers. That group is defined by a shared pain, and you do not know the pain yet. If you did the work of divergence well you now have several promising communities in view, and the goal is not to pick the one you like most or the one that feels most familiar. It is to choose the community where a real pain is most likely to surface, and where you can get close enough to see it.
 
-Convergence is uncomfortable in a specific way. Every community you set aside is a search you are choosing not to run, and none of them has been ruled out. You are not eliminating bad options. You are giving up good ones so that one of them can get your full attention. That discomfort is the correct response, and it does not mean you are choosing wrongly.
+Convergence is uncomfortable in a specific way. Every community you set aside is a search you are choosing not to run, and none of them has been ruled out. You are not eliminating bad options; you are giving up good ones so that one of them can have your full attention.
+
+So do not throw them away. Put them in the refrigerator. Write down what you found promising about each one and where you would have started, and keep the note somewhere you can reach quickly. Nothing has been rejected; it is simply not the one you are working on this month. If the community you chose turns out to be wrong, you want the second choice waiting rather than reconstructed from memory.
 
 ## 1. Compare: Spot Patterns and Weigh Possibilities
 
-::: {.callout-tip title="Prompt"}
+::: {.reflect}
+**Ask yourself**
+
 Look across your divergent shortlist. Which groups show recurring struggles, clearer friction, or patterns that seem more persistent? Which ones blur or fade as less coherent?
 :::
 
@@ -26,7 +30,7 @@ When you look across the groups you identified during divergence, some will blur
 
 Ask which groups show clearer signs of struggling, which face structural gaps or persistent misfits with current solutions, and which are coherent: not a random collection of people but a community shaped by shared constraints.
 
-Two things are worth more than they look. **Workarounds** are the strongest signal available to you at this stage, because a workaround is proof that someone cared enough to build a fix themselves. And a group that **already spends money or time** on a partial answer has told you something a survey never will.
+Two things are worth more than they look. Workarounds are the strongest signal available to you at this stage, because a workaround is proof that someone cared enough to build a fix themselves. And a group that already spends money or time on a partial answer has told you something a survey never will.
 
 Be careful with the opposite signal. A group that is easy to describe is not the same as a group with a real problem. Some communities are highly visible precisely because they are already well served.
 
@@ -34,7 +38,9 @@ Be careful with the opposite signal. A group that is easy to describe is not the
 
 ## 2. Empathize: Follow the Emotional Pull
 
-::: {.callout-tip title="Prompt"}
+::: {.reflect}
+**Ask yourself**
+
 Which groups stay in your mind? Which stories linger? Which situations create a sense of urgency or injustice?
 :::
 
@@ -42,7 +48,7 @@ Some groups stay with you. Their stories resurface. Their frustrations stick. Yo
 
 This is empathy, not sentimentality. It is a felt response to pain that matters. If you feel unsettled imagining this group left unserved, pay attention. That pull is not proof, but it is a signal, and it usually shows where your energy and insight will go deepest.
 
-It is also the most practical criterion on this page, for an unglamorous reason. Discovery takes months, most of them unrewarding. Curiosity about these particular people is the fuel that gets you through the fourth week of interviews that are not yielding much. Teams that pick a group they find merely *lucrative* tend to stop looking early, and stopping early is how you end up with a pain you assumed rather than found.
+It is also the most practical criterion on this page. Done with concentration, discovery is a week or two of work rather than a semester of it, but some of those days will feel like nothing is happening. Curiosity is what carries you through those days, and it is also most of the reward: learning how another person actually gets through a Tuesday is a privilege, and the entrepreneurs who feel that keep looking one conversation longer than the ones who do not. Choose a group you find merely *lucrative* and you will stop early, which is how you end up with a pain you assumed rather than found.
 
 Be honest about where the pull comes from. Wanting to help is a good reason. Already knowing the answer is not: if you chose this group because you have a solution in mind for them, you have skipped two diamonds and are now looking for permission.
 
@@ -50,7 +56,9 @@ Be honest about where the pull comes from. Wanting to help is a good reason. Alr
 
 ## 3. Assess Access: Can You Reach Them?
 
-::: {.callout-tip title="Prompt"}
+::: {.reflect}
+**Ask yourself**
+
 A powerful need you cannot get to is not an opportunity. Confirm that your group is observable, reachable, and willing to engage.
 :::
 
@@ -62,9 +70,9 @@ Ask three questions:
 - Can we reach them through direct or indirect contact?
 - Are they willing to talk with us?
 
-This is an assessment, not yet a test. You are making a judgement from your desk about whether access looks plausible, so that you do not commit to a group that is obviously unreachable. The next chapter turns that judgement into evidence by actually trying. Teams that skip the assessment waste a week. Teams that treat the assessment *as* the evidence waste a month.
+This is an assessment, not yet a test. You are making a judgement from your desk about whether access looks plausible, so that you do not commit to a group that is obviously unreachable. The next chapter turns that judgement into evidence by actually trying. Skip the assessment and you waste a week. Treat the assessment *as* the evidence and you waste a month.
 
-If the answer is no to any of the three, revisit your shortlist. Sometimes an opportunity becomes workable after a slight redefinition: not "people in crisis" but "the counsellors who work with them," not "surgeons" but "surgical residents."
+If the answer is “no” to any of the three, revisit your shortlist. Sometimes an opportunity becomes workable after a slight redefinition: not "people in crisis" but "the counsellors who work with them," not "surgeons" but "surgical residents."
 
 *For an example of how this looks in practice, see the [Assess Access section](demo/exp-02-converge-worksheet.qmd#sec-ha-people-converge-access) of the Halo Alert demo.*
 
@@ -75,10 +83,10 @@ With patterns observed, empathy noticed, and access considered, you are ready to
 Name the group. Write down why you chose them, in a sentence you would be willing to show someone. Then write down the thing you are least sure about, because that is what the next chapter is going to test.
 
 ::: {.column-margin .def-margin}
-**Provisional commitment** — a choice made firmly enough to act on and loosely enough to revise when evidence says so. Not a hedge; a working position.
+**Provisional commitment** — a choice made firmly enough to act on and loosely enough to revise when the evidence says so. A working position, not a half-measure.
 :::
 
-This choice is **provisional** by design, not by hedging. You are committing to a community for deep exploration, not naming a market. Evidence will almost certainly pull you toward a narrower definition later, because the group that matters is the one a pain defines, and that group only becomes visible from inside this one.
+This choice is **provisional** by design. That is not the same as being half-hearted about it. You are committing to a community for deep exploration, not naming a market. Evidence will almost certainly pull you toward a narrower definition later, because the group that matters is the one a pain defines, and that group only becomes visible from inside this one.
 
 Provisional does not mean tentative. Half-committing is the worst of both worlds: you get the cost of the research without the depth that makes it worth anything. Commit fully, work as though this is the group, and let evidence be the only thing that moves you.
 

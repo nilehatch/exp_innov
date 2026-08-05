@@ -12,9 +12,9 @@ id: sec-diverge-people-chapter
 
 Most entrepreneurs start with a hunch about *what* to build. Expeditionary innovation starts with *where to look*. This diamond begins not with a decision but with divergence: a deliberate effort to see widely before you commit to anything.
 
-You are not hunting for the perfect group. You are looking for a community you can get to and where you have reason to expect neglect. Those are the only two requirements, and the second one is the interesting one, because neglect is **predictable**.
+You are not hunting for the perfect group. You are looking for a community you can get to and where you have reason to expect neglect. Those are the only two requirements, and the second one is the interesting one, because neglect is *predictable*.
 
-That is the payoff of the tyranny of the market. Firms build for the dense middle, so the further a group sits from that middle, the more likely its needs are going unserved. You are not searching at random and you are not waiting for inspiration. You have a map, and it tells you to look away from the centre.
+That is the payoff of the tyranny of the market. Firms build for the dense middle, so the further a group sits from that middle, the more likely its needs are going unserved. You are not searching at random and you are not waiting for inspiration. You have a map, and it tells you to look away from the center.
 
 The hard part is that the pull runs the other way. There is a strong temptation toward whoever is easy to reach: roommates, classmates, whoever answered the group chat. Choosing them is not a small shortcut. It is the most common way this phase fails, and it fails quietly. You will get interviews. You will get data. It will simply be data about the wrong people, and you will not find out until much later, when the pain you validated turns out to belong to nobody in particular.
 
@@ -24,21 +24,17 @@ Every expedition needs a point of departure: a domain of friction, tension, or u
 
 Start with a space, not a solution. Do not ask "what can we build?" Ask: *where is life harder than it needs to be?*
 
-::: {.callout-tip title="Examples of Problem Spaces"}
-- Food insecurity in mid-sized cities
-- The burden of caregiving for aging parents
-- Housing instability for gig workers
-- Safety concerns for women commuting alone
-- Quiet pressures faced by first-generation college students
-:::
+Some examples of the shape you are looking for: food insecurity in mid-sized cities, the burden of caregiving for aging parents, housing instability for gig workers, safety on a walk home after a late shift, the quiet pressures on first-generation college students.
 
-Notice what those have in common. Each names a *situation people live in*, not a product category and not a problem someone has already solved. "Better project management software" is a solution wearing a problem's clothes. "The chaos of coordinating volunteers across three congregations" is a place you could go and look.
+Notice what those have in common. Each names a *situation people live in*, not a product category and not a problem someone has already solved. "Better project management software" is a solution wearing a problem's clothes. "The chaos of coordinating volunteers across three shelters that share a van" is a place you could go and look.
 
 ## Generate Communities, Then Push Past the Obvious
 
 With a problem space in view, list groups who live inside it. Some will be formal (veterans, refugee families), some loose (single parents, gig workers, late-night commuters). Range matters more than precision.
 
-::: {.callout-tip title="Prompts for Community Generation"}
+::: {.reflect}
+**Prompts for Community Generation**
+
 - Who experiences this problem most intensely?
 - Who is largely ignored by existing solutions?
 - Who has adapted in ways no one is paying attention to?
@@ -63,7 +59,7 @@ They may well have one. But you would not have seen it. What happened is that yo
 **Community** — a set of people shaped by the same constraints, not merely sharing a category. Same pressures, same workarounds, same things that make a Tuesday hard.
 :::
 
-A community, here, is a set of people **shaped by the same constraints**. Not the same census box: the same pressures, the same workarounds, the same things that make a Tuesday hard. When you can say *these people all have to deal with X*, you have a group. When all you can say is *these people are all between 25 and 34*, you have a demographic, and demographics do not have pains.
+A **community**, here, is a set of people shaped by the same constraints. Not the same census box. What they share is the pressures, the workarounds, and the things that make a Tuesday hard. When you can say *these people all have to deal with X*, you have a group. When all you can say is *these people are all between 25 and 34*, you have a demographic, and demographics do not have pains.
 
 The test is quick: could you write one sentence describing a bad day that most of this group would recognise? If not, the group is too broad.
 
@@ -77,7 +73,7 @@ This does two things, and the second is the reason it belongs here.
 
 It **keeps you from thinking too narrowly**. Problems rarely sit inside one person; they live in the friction between people, and the orbit is where that friction is.
 
-It also **steers you off the obvious groups**. The person at the centre is usually the one already in the public conversation. The people in orbit are not, and they frequently carry more of the load. Everyone was talking about patients; nobody was asking the daughter who rearranged her work week to drive to the appointments. That daughter is a community, she is neglected, and she is reachable.
+It also **steers you off the obvious groups**. The person at the center is usually the one already in the public conversation. The people in orbit are not, and they frequently carry more of the load. Everyone was talking about patients; nobody was asking the daughter who rearranged her work week to drive to the appointments. That daughter is a community, she is neglected, and she is reachable.
 
 There is a practical bonus. Orbit roles are frequently your way *in*. If your community is hard to approach directly (nurses mid-shift, teenagers, people in crisis), the person beside them often is not, and a charge nurse or school counsellor or support-group moderator can open a door a cold message never will. Some of the orbit you map here becomes your access strategy two chapters from now.
 
@@ -99,6 +95,6 @@ A second signal. At least one group should make you slightly uncomfortable, beca
 
 At the end of divergence you are not ready to choose. You are ready to reflect.
 
-Which communities seem most overlooked? Which live with friction that incumbents ignore and that nobody is already rushing to fix? Which are observable and reachable in practice?
+Which communities seem most overlooked? Which live with friction that the established firms ignore, and that nobody else is already rushing to fix? Which are observable and reachable in practice?
 
 Those questions belong to the next stage. But the strength of your choice depends on the breadth of your exploration now. Diverge widely and you escape the trap of convenience, resist premature guessing, and give yourself a real decision to make.

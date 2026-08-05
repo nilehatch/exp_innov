@@ -138,7 +138,9 @@ geom_label(
 
 The tyranny of the market is not a lapse that someone is about to correct. It is what a working market produces, which is why you can start almost anywhere and expect to find people whose needs go unmet. Do the work of ethnographic discovery, listening and observing and probing, and you will find them.
 
-What that does not promise is that the needs you find will be reachable, or that any one of them is worth a business. Those are different questions, and this diamond and the next exist to answer them. The abundance of unmet need is what makes the search worth starting. It says nothing about where the search ends.
+What it does not promise is that you can get to the people who carry those needs, or that any need you find is one you could actually relieve. Those are different questions, and they are what this diamond and the next are built to answer. Whether the answer is worth a business at all is a further question still, and it belongs to [*Is This Worth Doing?*](https://ea.nilehatch.com/).
+
+The abundance of unmet need is what makes the search worth starting. It says nothing about where the search ends.
 
 
 ## Righting a Wrong {.unnumbered}
@@ -180,16 +182,19 @@ Alongside the narrative chapters you will find practical guides and demonstratio
 By the end of this part you will not have chosen a target audience. You will have committed to a community you can actually study, which is the only thing you are in a position to commit to yet.
 
 
-::: {.callout-note title="How to Use This Part"}
-Each stage of this diamond — diverge, converge, test — is supported three ways:
+::: {.key-action}
+**How to Use This Part**
 
-- **Chapter** — explains the *why* and the big ideas.
-- **Guide** — a step-by-step worksheet you can use directly.
-- **Demo** — shows how the Halo Alert team did it in practice.
+Each stage of this diamond (diverge, converge, test) comes with more than a chapter:
 
-The chapter teaches, the guide directs, and the demo proves it is doable.
+- **Chapter** — the *why*, the judgment, and the traps. Read this.
+- **Guide** — a step-by-step worksheet for the parts you do by hand.
+- **Demo** — how the Halo Alert team actually did it, with their real evidence.
+- **Your AI** — increasingly, the drafting and the sifting. It can widen a list of candidate communities, profile a dozen of them in an afternoon, and tell you what it could not find. It cannot go and meet anybody, and that limit is doing more work than it looks like.
 
-Do not stop at reading. Pair each chapter with its guide, then study the demo to see how real evidence gets gathered.
+The chapter teaches, the guide directs, the demo proves it is doable, and your AI does the part that is labour rather than judgment.
+
+Do not stop at reading. The one thing none of these four can do for you is walk into a room where your people are.
 :::
 
 
