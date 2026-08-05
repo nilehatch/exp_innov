@@ -29,9 +29,9 @@ The evidence comes from two directions, and you need both.
 **Secondary research** — evidence someone else already gathered and published. Reports, statistics, filings, reviews, studies.
 :::
 
-**Primary research** is what you collect yourself, in person: the conversations, the watching, the sitting-beside. It is the only source of anything nobody has written down yet, which is where unmet needs live. **Secondary research** is what somebody else already gathered and published. It is faster, cheaper, and cannot surprise you — its job is to stop you spending three weeks in the field rediscovering something a trade association published in 2019.
+**Primary research** is what you collect yourself, in person: the conversations, the watching, the sitting-beside. It is the only source of anything nobody has written down yet, which is where unmet needs live. **Secondary research** is what somebody else already gathered and published. It is faster, cheaper, and cannot surprise you. Its job is to stop you spending three weeks in the field rediscovering something a trade association published in 2019.
 
-This is the essence of ethnographic exploration. We may go in expecting one kind of problem, but if we stay curious and follow emotion, we uncover pains hidden in plain sight. The methods that follow—conversation as guided storytelling, observation and shadowing in context, and role play as embodied empathy—are the tools for creating these moments of discovery. Alongside them, secondary research broadens and triangulates what you learn in the field so you avoid spending time re-learning what is already known.  
+This is the essence of ethnographic exploration. We may go in expecting one kind of problem, but if we stay curious and follow emotion, we uncover pains hidden in plain sight. The methods that follow (conversation as guided storytelling, observation and shadowing in context, and role play as embodied empathy) are the tools for creating these moments of discovery. Alongside them, secondary research broadens and triangulates what you learn in the field so you avoid spending time re-learning what is already known.  
 
 As long as new stories keep surprising you, keep exploring. When new data starts repeating what you already know, you’ve reached the edge of your current map. That’s the moment to shift from divergence into abductive synthesis and begin the converge work of themes, personas, and experience maps.
 
@@ -59,13 +59,13 @@ Leave a way back. Contact details, a sentence about what you are doing, and a co
 
 The same shape applies, with one problem of its own.
 
-Finding the rooms is easy: forums, subreddits, Discord and Slack groups, professional associations, niche platforms built around a craft or a role. Judging whether a room is *alive* matters more than finding it. Skim the last fifty posts. You will learn whether there is real discussion or only link-dropping, whether moderation is active, and — as a bonus you did not ask for — what these people complain about when nobody is studying them.
+Finding the rooms is easy: forums, subreddits, Discord and Slack groups, professional associations, niche platforms built around a craft or a role. Judging whether a room is *alive* matters more than finding it. Skim the last fifty posts. You will learn whether there is real discussion or only link-dropping, whether moderation is active, and (as a bonus you did not ask for) what these people complain about when nobody is studying them.
 
 Then you have to introduce yourself, and there is a choice here worth taking seriously. You can say what you are: a student, a founder, someone trying to understand this problem. Or you can simply participate as a member of the community and let the conversation come to you.
 
 Teams reach for the second because the first feels like it will get them ignored. Be careful with it. If you belong to the community, saying so is honest and often an advantage. What is not honest is *concealing why you are there* — asking questions as a peer while collecting evidence as a researcher. People who discover that do not merely stop answering you; they tell the group, and you lose the room for good. The instinct that this feels wrong is a reliable one. Follow it.
 
-The honest version costs less than you think. Say what you are exploring, who you would like to hear from, how much time you are asking for, and what they get back — a summary of what you learn is usually enough. Do not sell, and do not hint at a solution.
+The honest version costs less than you think. Say what you are exploring, who you would like to hear from, how much time you are asking for, and what they get back: a summary of what you learn is usually enough. Do not sell, and do not hint at a solution.
 
 After that, keep it light. A one-question poll, or a *last time* prompt — *what was the last time this really got in your way?* — invites a story without demanding a commitment. When someone answers at length, move the conversation somewhere private and give them options for when.
 
@@ -97,9 +97,9 @@ Avoiding these traps clears the path for authentic engagement. But clarity about
 
 ## Ethnographic Exploration
 
-Once you have found and engaged your people, the next step is to immerse yourself in their lived experience. Ethnographers use many tools, but three stand out as especially powerful for entrepreneurs: conversations, observation, and role playing. Each is not just a technique but an exploratory experiment — a structured way to surface evidence of unmet needs.
+Once you have found and engaged your people, the next step is to immerse yourself in their lived experience. Ethnographers use many tools, but three stand out as especially powerful for entrepreneurs: conversations, observation, and role playing. Each is not just a technique but an exploratory experiment: a structured way to surface evidence of unmet needs.
 
-What these three share is that they let you find what you did not know to ask about. That is the whole point of this diamond, and it is why the survey — the tool most founders reach for first — comes later in this chapter rather than here.
+What these three share is that they let you find what you did not know to ask about. That is the whole point of this diamond, and it is why the survey, the tool most founders reach for first, comes later in this chapter rather than here.
 
 ### Who does what {.unnumbered}
 
@@ -149,10 +149,10 @@ Your AI drafted a guide from a description you wrote. Both of you may be wrong a
 
 #### How to run the experiment (short form)
 
-1. Prepare a light interview protocol — a few “last time” prompts, not a long script.  
+1. Prepare a light interview protocol: a few “last time” prompts, not a long script.  
 2. Meet people in their context (kitchen, workshop, office, shop floor).  
 3. Encourage storytelling: “Tell me about the last time you…”  
-4. Listen for emotional spikes — frustration, embarrassment, delight.  
+4. Listen for emotional spikes: frustration, embarrassment, delight.  
 5. Probe gently: “What made that difficult?” “What did you do next?”  
 6. Capture notes and stories; debrief with your team immediately after.  
 
@@ -253,7 +253,7 @@ Use role playing to reveal what people cannot easily articulate. It often expose
 
 - Ground the scenario in realistic detail (context, roles, stakes).  
 - Encourage participants to stay “in character” but debrief afterwards.  
-- Observe both behavior and language — especially moments of tension or improvisation.  
+- Observe both behavior and language, especially moments of tension or improvisation.  
 - Keep the setup simple so the focus stays on people, not props.  
 
 *Success measure*: When role play reveals responses, workarounds, or tensions that people themselves did not realize they carried, the experiment has done its job.  
@@ -295,7 +295,7 @@ The survey-first reflex is one of the most common ways an exploration fails: it 
 - Use open-ended prompts sparingly but strategically (e.g., “What is the hardest part of X?”).  
 - Include ranking or rating scales to gauge relative importance.  
 - Pilot-test questions to catch bias or ambiguity.  
-- Keep them short and focused — long surveys rarely yield thoughtful responses.  
+- Keep them short and focused; long surveys rarely yield thoughtful responses.  
 
 
 *Success measure*: When your survey sharpens which pains matter most and how widespread they are, the experiment has done its job.  
@@ -307,14 +307,14 @@ See the [Survey Guide](toolkit/Survey_Guide.qmd) for a ready-to-use guide on sur
 
 <!-- <hr class="method-divider"> -->
 
-Together, these three exploratory experiments — conversations, observation, and role playing — build the mountain of data you need. Each generates a different kind of evidence, but all share a common purpose: uncovering unmet needs that remain invisible until you engage, watch, and feel your way into them. Alongside them sits secondary research, which gathers what is already known so you don't spend field time rediscovering it. Between them they build the mountain of data you need.
+Together, these three exploratory experiments (conversations, observation, and role playing) build the mountain of data you need. Each generates a different kind of evidence, but all share a common purpose: uncovering unmet needs that remain invisible until you engage, watch, and feel your way into them. Alongside them sits secondary research, which gathers what is already known so you don't spend field time rediscovering it. Between them they build the mountain of data you need.
 
 
 
 
 ## Archival and Secondary Research Experiments  {#sec-secondary-research-section}
 
-Not every insight comes from fieldwork. Much is already known — in industry reports, government statistics, academic studies, and trade publications. Secondary research is your way of running exploratory experiments with data others have already collected. Each probe into an archive or database is a test: *“What does this source reveal, and how does it align with or challenge what I’ve seen in the field?”*
+Not every insight comes from fieldwork. Much is already known, sitting in industry reports, government statistics, academic studies, and trade publications. Secondary research is your way of running exploratory experiments with data others have already collected. Each probe into an archive or database is a test: *“What does this source reveal, and how does it align with or challenge what I’ve seen in the field?”*
 
 ::: {.pull-quote}
 If it is already known, don’t rediscover it through interviews or observation.
@@ -420,22 +420,22 @@ Deciding you have enough is the easiest decision in this book to get wrong, beca
 - **Check who you have not talked to.** Novelty flattens quickly if everyone you reached came through the same door. Repetition across one channel is not saturation.
 - **Ask whether you stopped hearing new things or stopped asking new questions.** These feel identical from the inside.
 
-If most new conversations yield no fresh themes, if further observation only confirms what you have, and if the reports repeat each other — and none of the three checks above raises a flag — stop.
+If most new conversations yield no fresh themes, if further observation only confirms what you have, and if the reports repeat each other, and none of the three checks above raises a flag, stop.
 :::
 
-Entrepreneurs often struggle here. Quitting too early risks thin data and shaky insights. Quitting too late risks delay and wasted effort. But when novelty fades, and repetition dominates, the exploration phase has done its work. It is time to move from gathering to reasoning — from raw discovery to shaping hypotheses that can be tested.
+Entrepreneurs often struggle here. Quitting too early risks thin data and shaky insights. Quitting too late risks delay and wasted effort. But when novelty fades, and repetition dominates, the exploration phase has done its work. It is time to move from gathering to reasoning, from raw discovery to shaping hypotheses that can be tested.
 
 ---
 
-In short, the goal of exploratory experiments — whether in the field or in the archives — is not to collect every possible fact but to reach the point where additional data stops changing the picture. At that moment, you are ready to shift from divergence into convergence and move toward isolating the pains that matter most.
+In short, the goal of exploratory experiments, whether in the field or in the archives, is not to collect every possible fact but to reach the point where additional data stops changing the picture. At that moment, you are ready to shift from divergence into convergence and move toward isolating the pains that matter most.
 
 ## The Essence of Exploratory Research
 
-Exploratory research is not about confirming what you already know — it is about broadening your field of vision. Its essence is curiosity: stepping into conversations, watching behavior in context, simulating lived experience, and mining what is already known in archives and reports. Each method — whether an interview, an observation, a role play, or a scan of existing data — is an exploratory experiment designed to surface unmet needs that would otherwise remain invisible.
+Exploratory research is not about confirming what you already know; it is about broadening your field of vision. Its essence is curiosity: stepping into conversations, watching behavior in context, simulating lived experience, and mining what is already known in archives and reports. Each method, whether an interview, an observation, a role play, or a scan of existing data, is an exploratory experiment designed to surface unmet needs that would otherwise remain invisible.
 
 What matters most is not mastering every method, but assembling a diverse stream of evidence. Stories, observed workarounds, simulated frustrations, and statistical trends each illuminate the problem space from a different angle. Taken together, they create a textured picture of people’s lives and the opportunities within them.
 
-But exploration cannot be endless. The true art lies in knowing when the mountain of data is high enough — when novelty begins to fade, and it is time to shift from gathering to sense-making. Exploratory research gives you raw material; abductive reasoning and analysis turn that material into insight.
+But exploration cannot be endless. The true art lies in knowing when the mountain of data is high enough: when novelty begins to fade, and it is time to shift from gathering to sense-making. Exploratory research gives you raw material; abductive reasoning and analysis turn that material into insight.
 
 In short: the essence of exploratory research is open-ended curiosity, disciplined variety, and the judgment to stop collecting when learning plateaus. With that balance, you are prepared to move from exploration toward convergence and the identification of your most urgent unknown.
 
