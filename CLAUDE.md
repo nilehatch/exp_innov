@@ -149,3 +149,25 @@ Assessments, plans, audits, and project state live in `~/notes/`, not in this
 repo. The EI overview is at `~/notes/10-Books/ent-innovation-ei/_overview.md`;
 cross-book decisions at `~/notes/10-Books/cross-book-architecture-decisions.md`.
 Read the overview for current status before proposing a direction.
+
+## Open item — stopping rules are thin (found 17 Aug 2026)
+
+Family style guide 16c-i settles a rule about who computes, and its third arm asks that a reader
+be told not just what the answer is but **at what point the answer would change**. In a book about
+arithmetic that is a threshold price. In this book, which is fieldwork, it is a **stopping rule**:
+how many conversations is enough, what would convince you the pain is not real, when repetition
+stops counting as evidence.
+
+EI has one excellent instance, in `Explore_Community`: *"ask whether you stopped hearing new things
+or stopped asking new questions."* That is exactly the move. Elsewhere the book tends to state the
+goal without the bar — `Validate_Pain` settles for "enough evidence that you're not chasing
+shadows," which tells a reader what they are aiming at and not how to know they have arrived.
+
+`.threshold` is the family callout built for this and EI uses it once, in `Test_Access`
+("Minimum Conditions for a Passed Access Test"), where it works well and reads as the model.
+For comparison: MtC 0 uses, ITWD 6.
+
+Not acted on — raised from an ITWD session, and it is EI's call whether the exploration chapters
+should carry explicit stopping rules or whether that would falsely precise a genuinely judgment-led
+process. The argument for doing it is that "keep going until it feels done" is the failure mode this
+book exists to prevent everywhere else.
