@@ -171,3 +171,30 @@ Not acted on — raised from an ITWD session, and it is EI's call whether the ex
 should carry explicit stopping rules or whether that would falsely precise a genuinely judgment-led
 process. The argument for doing it is that "keep going until it feels done" is the failure mode this
 book exists to prevent everywhere else.
+
+## Open: British spellings (found 17 Aug 2026, not fixed)
+
+`scripts/prose-check.py` gained a US-spelling check on 17 Aug, added in the ITWD
+session and copied here byte-identical. EI has the most of the three books —
+**16 instances across 8 files**, none fixed:
+
+| file | instances |
+|---|---|
+| `Choose_People.qmd` | judgement ×2, recognise |
+| `Test_Access.qmd` | summarise, neighbourhood |
+| `Explore_Community.qmd` | recognise, realised, prioritise |
+| `Cast_Wide_Net.qmd` | recognise |
+| `Hypothesize_Pain.qmd` | recognise |
+| `Ideate_Solutions.qmd` | travelling |
+| plus | behaviour, Labelling, organised, realising, reorganises |
+
+`python3 scripts/prose-check.py --all` lists every one with its file. The `-ise`
+verbs are the bulk and are a safe mechanical replace; **judgement** is worth a
+look, since some style guides keep it for the legal sense and this book does not
+use it that way.
+
+Two traps if sweeping by hand rather than by the checker. A `\b` after the stem
+misses compounds — `neighbourhood` and `Labelling` both survive a word-anchored
+grep. And the obvious stem for some pairs matches correct US words: `analys` hits
+*analysis* and *analyses*, `realis` hits *realism* and *realistic*. The checker's
+BRITISH table already encodes both lessons.
