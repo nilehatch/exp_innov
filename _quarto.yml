@@ -14,7 +14,7 @@ book:
 
   page-footer:
     left: |
-      _Before You Build_ was written by Nile Hatch as part of a portfolio of content on using evidence to succeed in entrepreneurship.
+      _Before You Build_ was written by Nile Hatch as part of a <a href="https://nilehatch.com/">portfolio</a> of content on using evidence to succeed in entrepreneurship.
     right: |
       This book was built with <a href="https://quarto.org/">Quarto</a>.
 
