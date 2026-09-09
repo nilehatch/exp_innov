@@ -115,6 +115,7 @@ book:
   # it is consulted when you are forming or repairing a team, which is the
   # moment it helps rather than the moment it is in the way.
   appendices:
+    - method-layer.qmd
     - Organize_Team.qmd
 
 bibliography: references.bib
