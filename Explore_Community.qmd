@@ -107,7 +107,7 @@ Every one of these methods has three moments, and only one of them is yours alon
 
 **Prepare.** Drafting the questions, pressure-testing them, deciding what to watch for. Hand this to your AI. It is better at it than you are, and it costs you nothing.
 
-**Contact.** Being in the room with a person. This is yours, and there is no version of this method where it is not. Your AI has read a great deal *about* people. It has never sat with one while they realised something.
+**Contact.** Being in the room with a person. This is yours, and there is no version of this method where it is not. Your AI has read a great deal *about* people. It has never sat with one while they realized something.
 
 **Synthesize.** Coding transcripts, clustering, mapping, noticing the thing you failed to follow up on. Hand this back to your AI, then check its work.
 
@@ -172,7 +172,7 @@ There’s no fixed number. Early on, every conversation reveals new stories. Kee
 
 Expect to hear more than one recurring story, and do not read that as a problem. Most communities carry several pains at once, and choosing among them is the work of the next chapter.
 
-What you are watching for is something narrower: whether the stories sort by *person*. If the same people report all three, you have one group with three pains, and you will prioritise. If each story belongs to a different kind of person — the ones who work nights, the ones without a car, the ones new to the role — then the label you started with is covering several communities, and you will narrow to one before you can validate anything.
+What you are watching for is something narrower: whether the stories sort by *person*. If the same people report all three, you have one group with three pains, and you will prioritize. If each story belongs to a different kind of person — the ones who work nights, the ones without a car, the ones new to the role — then the label you started with is covering several communities, and you will narrow to one before you can validate anything.
 
 That distinction matters most to teams who chose an ambitious group, because breadth delays the whole signal. The wider the label, the more conversations you need before anything repeats at all, and the more likely the repetition sorts by person when it finally arrives.
 
@@ -365,7 +365,7 @@ Some useful starting points if you want to look yourself: [USA.gov](https://www.
 
 ### Where to Look That Costs Nothing
 
-The expensive databases get the attention, and you do not need them. Almost everything an entrepreneur wants is public, once you recognise that it counts as evidence:
+The expensive databases get the attention, and you do not need them. Almost everything an entrepreneur wants is public, once you recognize that it counts as evidence:
 
 - **What competitors say about themselves** — press releases, product launches, pricing pages, SEC filings, industry newsletters.
 - **What their customers say when nobody is asking** — Amazon, Yelp and G2 reviews, Reddit threads, support forums, Glassdoor. The closest thing to overhearing your market.

@@ -51,7 +51,7 @@ will type something you did not list, and that is where the value hides.
 **Know what this biases toward.** A poll surfaces the *well-known* pains and
 ranks them. That is useful, and it is not what this book is finally after — an
 unknown unmet need will almost never appear in a list you wrote. Treat a poll as
-a way to sharpen and prioritise, never as a substitute for time in the field.
+a way to sharpen and prioritize, never as a substitute for time in the field.
 The "other" box is the only part that can surprise you, so always include it and
 always read it first.
 :::

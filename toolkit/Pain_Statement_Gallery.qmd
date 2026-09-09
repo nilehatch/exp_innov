@@ -6,7 +6,7 @@ Use this guide with [What Makes a Good Pain Hypothesis](../Hypothesize_Pain.qmd#
 
 Almost nobody writes a good pain statement the first time. The reason is not carelessness. It is that the words *problem*, *need*, *want*, and *pain* feel interchangeable in ordinary speech, and only one of them is what you are hunting.
 
-Reading good examples is not enough. You will look at a strong pain statement, recognise your own concept in it, and carry on writing what you were already writing. What forces the distinction is seeing the near-misses **beside** the real thing, and being told what changed.
+Reading good examples is not enough. You will look at a strong pain statement, recognize your own concept in it, and carry on writing what you were already writing. What forces the distinction is seeing the near-misses **beside** the real thing, and being told what changed.
 
 Every weak statement below is the kind of thing capable teams produce after real fieldwork. None of them is stupid. Each one stops one step short.
 
@@ -52,7 +52,7 @@ In the second diamond, do not ask how you might do anything. Say what it costs s
 
 ## 2. The want
 
-> **Weak.** Women who work out want organised, accessible plans for increasing bone health through strength training.
+> **Weak.** Women who work out want organized, accessible plans for increasing bone health through strength training.
 
 **Why it fails.** A want is a request for a solution. It tells you what they would like to be handed; it does not tell you what it costs them not to have it. Wants are also cheap to express and cheap to abandon, which is why acting on one so often produces a product nobody buys.
 
@@ -66,11 +66,11 @@ In the second diamond, do not ask how you might do anything. Say what it costs s
 
 > **Weak.** Comic con attendees: cannot find a vendor they saw earlier; tired feet from walking; not enough seating; expensive food.
 
-**Why it fails.** Every item is true and none of them is a pain worth a venture. These are the ordinary frictions of a day out, real annoyances that nobody reorganises their life to avoid. A list like this usually means the fieldwork stayed at the surface: you asked what was annoying and people answered accurately.
+**Why it fails.** Every item is true and none of them is a pain worth a venture. These are the ordinary frictions of a day out, real annoyances that nobody reorganizes their life to avoid. A list like this usually means the fieldwork stayed at the surface: you asked what was annoying and people answered accurately.
 
 > **Stronger.** Attendees who travel for a con budget months for it and arrive with a short list of makers they came specifically to meet. Losing a vendor in a hall of two thousand booths means going home without the one thing the trip was for, with no way to find them again afterwards, because most trade under a name that exists only on the badge.
 
-There is a second pain underneath, and it is sharper. A large show is an **irreversible allocation problem**. You have a fixed number of hours and hundreds of candidates, you must commit attention before you have seen everything, and you cannot go back. Attendees describe walking past a booth that looked interesting enough, deciding to return if time allowed, and realising afterwards that it might have been the best thing there. What they carry home is not tiredness; it is the suspicion that they chose badly and will never know.
+There is a second pain underneath, and it is sharper. A large show is an **irreversible allocation problem**. You have a fixed number of hours and hundreds of candidates, you must commit attention before you have seen everything, and you cannot go back. Attendees describe walking past a booth that looked interesting enough, deciding to return if time allowed, and realizing afterwards that it might have been the best thing there. What they carry home is not tiredness; it is the suspicion that they chose badly and will never know.
 
 **What changed.** One friction was followed until it produced a real loss, in a context where the stakes were already high. The others were left behind. 
 
@@ -104,7 +104,7 @@ When you find a workaround, ask what it is protecting against, and what it costs
 
 > **Stronger.** Parents of toddlers stop eating out. Not gradually. Most name a specific meal, usually one that ended with a scene and a rushed exit, after which they simply stopped going. What they mourn is not the restaurant; it is that the friends they used to meet there now see them a fraction as often.
 
-**What changed.** The stress became a behaviour and a consequence: a lost part of their social life, traceable to a particular night. That is specific, categorisable as social and emotional, and testable: you can ask other parents whether they can name their last meal out.
+**What changed.** The stress became a behavior and a consequence: a lost part of their social life, traceable to a particular night. That is specific, categorizable as social and emotional, and testable: you can ask other parents whether they can name their last meal out.
 
 ---
 
@@ -168,7 +168,7 @@ These two came from teams that did the work. They are longer than the statements
 
 **Why it works.** It separates several distinct pains rather than blurring them into one: the physical risk to the firefighter, the physical risk carried home to a family, the emotional dread, the social weight of being the person who brought it there. Then it locates the sharpest one precisely: not the exposure, which they accepted when they took the job, but **not knowing**. That distinction is only available to someone who listened for a long time.
 
-Labelling those pains by type would not weaken this statement, since the test on this page asks you to categorise, and doing so here would sharpen it further. What matters is that the pains are *told apart* before anything is named.
+Labeling those pains by type would not weaken this statement, since the test on this page asks you to categorize, and doing so here would sharpen it further. What matters is that the pains are *told apart* before anything is named.
 
 ::: {.callout-tip title="The Tell"}
 Compare the length of the weak statements with these two. The weak ones are short because there was nothing behind them; the strong ones are long because there was. If your pain statement is one sentence and you cannot extend it with specifics, that is a signal to go back to the field rather than to keep writing.

@@ -22,7 +22,7 @@ It is easy to assume that because you can imagine your people, you can find and 
 
 Access is not sending a survey or getting a few replies to a direct message. It is confirming that you can build a reliable, ethical, ongoing channel of interaction. Three conditions, all of them:
 
-1. **You can find them.** You know where they gather, online or offline, and can reliably locate them: a subreddit, a neighbourhood, a school, a profession, a hospital waiting room.
+1. **You can find them.** You know where they gather, online or offline, and can reliably locate them: a subreddit, a neighborhood, a school, a profession, a hospital waiting room.
 
 2. **You can engage them.** There is a viable way to start an interaction, whether that is conversation, observation, or something in between. The format has to fit their lives, not yours.
 
@@ -47,7 +47,7 @@ A good access test is low effort and high signal. You are not gathering findings
 - visiting a physical location to watch the flow and see who is available
 - asking for brief conversations and tracking how many say yes
 
-Keep score while you do it. Not elaborately, but write down how many you approached, how many answered, and how long the answers were. A test you cannot summarise in numbers is an impression, and impressions are generous to whatever you already believed.
+Keep score while you do it. Not elaborately, but write down how many you approached, how many answered, and how long the answers were. A test you cannot summarize in numbers is an impression, and impressions are generous to whatever you already believed.
 
 Two or three rich conversations from ten honest attempts is a pass. Twenty polite one-line replies is not, and it is the result most likely to be mistaken for one.
 

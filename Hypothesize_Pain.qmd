@@ -134,7 +134,7 @@ A good pain hypothesis is:
 - **Testable.** You can take it back to people and see if they nod vigorously or shrug.  
 
 ::: {.callout-tip title="See the Near-Misses"}
-Reading good pain statements is not enough — you will recognise your own concept in one and carry on writing what you were already writing. The [Pain Statement Gallery](toolkit/Pain_Statement_Gallery.qmd) sets weak statements beside stronger ones and names what changed. Most people need the contrast before the distinction becomes usable.
+Reading good pain statements is not enough — you will recognize your own concept in one and carry on writing what you were already writing. The [Pain Statement Gallery](toolkit/Pain_Statement_Gallery.qmd) sets weak statements beside stronger ones and names what changed. Most people need the contrast before the distinction becomes usable.
 :::
 
 ::: {.callout-warning  title = "The Danger of 'Problem Mapping'"}
