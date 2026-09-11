@@ -137,7 +137,7 @@ The [Halo Alert demo of developing personas](demo/exp-07.a-persona-2025-03-12.qm
 
 If clustering shows the patterns and personas put a face on them, experience mapping walks alongside that person through their day. An experience map traces the steps your persona takes toward a goal: commuting home, managing a condition, buying supplies, anything that matters in their life.[^mapnames]
 
-[^mapnames]: *Experience map* and *journey map* are often used interchangeably, and they are not the same thing. A customer journey map visualizes a process tied to a specific business or product; an experience map visualizes an end-to-end experience that is agnostic of any particular business [@kalbachMappingExperiencesComplete2026]. At this stage of an expedition, that distinction chooses the term for you. You have no product, so there is no journey with you in it. There is only a person having a hard time, which is exactly what you want to see.
+[^mapnames]: *Experience map* and *journey map* are often used interchangeably, and they are not the same thing. A customer journey map visualizes a process tied to a specific business or product; an experience map visualizes an end-to-end experience that is agnostic of any particular business [@gibbonsUXMappingMethods2017]. Both belong to a wider family of alignment diagrams, alongside empathy maps and service blueprints [@kalbachMappingExperiencesComplete2026]. At this stage of an expedition, that distinction chooses the term for you. You have no product, so there is no journey with you in it. There is only a person having a hard time, which is exactly what you want to see.
 
 Break the goal into five to ten stages, from before it begins to after it ends. At each stage, fill four lenses:
 
