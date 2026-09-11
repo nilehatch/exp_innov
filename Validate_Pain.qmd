@@ -5,104 +5,191 @@ subtitle: "Use confirmatory testing to determine whether the pain hypothesis is 
 
 ## Validating Pain Hypotheses
 
-<!-- <img src="images/d2-test.svg" alt="Confirmatory testing to validate the [well-informed] hypothesis of customer pain." class="wrapfig_left_25"/> -->
 ![Confirmatory testing to validate the (well-informed) hypothesis of customer pain.](images/d2-test.svg){fig-align="center"}
-You’ve felt the spark of empathy. You’ve clustered stories, built personas, even mapped out experiences. At this point, it’s tempting to believe you already *know* the pain. You can picture Maya stuck in traffic, her kids waiting at daycare, the anxious clock-watching that defines her commute. It feels so real you might be ready to jump ahead to brainstorming solutions.  
 
-But here’s the catch: empathy and plausible reasoning aren’t enough. They give us insight, not evidence. As entrepreneurs, we’re not just storytellers — we’re investigators. We need to know whether the pains we’ve identified are truly **real, frequent, and urgent** in the lives of the people we hope to serve. Without that proof, we risk building around shadows — problems that people nod along to in conversation but don’t actually feel deeply enough to change their behavior.  
+You have felt the spark of empathy. You clustered stories, built personas, mapped an experience. At this point it is tempting to believe you already *know* the pain. You can picture Maya on a dark street, checking her phone, walking faster than she wants to. It feels real enough that brainstorming solutions seems like the obvious next move.
 
-This is why we test pain hypotheses. It’s the final step in Diamond 2 and the bridge into Diamond 3. Until now, you’ve been generating and narrowing ideas about what hurts most. Now, you need to put those ideas under pressure. Testing tells you which pains are strong enough to anchor a business, and which ones are just background noise.  
+Here is the catch. Empathy and plausible reasoning are not evidence. They produced a good guess, and a good guess is exactly the kind of thing that survives contact with reality by being agreeable rather than by being true. You need to know whether the pain you named is **real, frequent, and urgent** in the lives of the people you hope to serve. Without that, you risk building around a shadow: something people nod along to in conversation and do not feel deeply enough to change what they do.
 
-Validation experiments don’t need to be elaborate. They need to be **deliberate**. A good test helps you distinguish between a pain that is interesting in theory and one that people are desperate to solve. It also protects you from two common traps:  
-
-- **False positives**: when people politely agree but don’t truly care.  
-- **False negatives**: when your method misses pains that are real but hidden.  
-
-The work here is about designing small, sharp probes that reveal what really matters. Once you’ve done that, you’ll know which pain is strong enough to carry you forward — not just in a story, but in evidence that people will act on.  
-
-::: {.callout-note title="How to Use This Chapter"}
-Pair this chapter with the [Pain Validation Guide](toolkit/Test_Pain_Guide.qmd) and review the [Halo Alert – Pain Test Demo](demo/exp-10.a-pain-test-summary-2025-03-20.qmd). The chapter explains *why* testing matters; the guide and demo show you *how to run one yourself*.  
+::: {.column-margin .def-margin}
+**Validation** — testing a hypothesis you already hold, to find out whether it survives. The opposite posture from exploration, where you had no hypothesis to defend.
 :::
 
+This is the last step in Diamond 2 and the bridge into Diamond 3. Until now you have been generating and narrowing ideas about what hurts. Now you put those ideas under pressure. Testing tells you which pains are strong enough to anchor a business and which are background noise.
 
+Validation experiments do not need to be elaborate. They need to be **deliberate**. A good test distinguishes a pain that is interesting in theory from one people are already working to escape.
 
-## Pain Validation
-
-The simplest way to test a pain hypothesis is to put it in front of people and ask if they experience it. You take the pains you’ve hypothesized and see whether they resonate. A direct check — “Do you deal with this?” — may sound almost too simple, but it often brings clarity.  
-
-A stronger version goes beyond yes-or-no. Ask about recency and frequency: “When was the last time you ran into this?” or “How often has this come up in the past month?” These questions ground answers in real life instead of polite agreement.  
-
-Another powerful refinement is **relative ranking**. Instead of asking whether a pain exists in isolation, ask people to compare across alternatives: “Which of these issues is most frustrating?” Ranking forces trade-offs and gives you a sharper sense of what matters most.  
-
-::: {.callout-tip title="What Counts as Pain Validation?"}
-- People can describe a *specific, recent instance* of the pain  
-- The pain shows up with *some frequency* (not just once in a lifetime)  
-- When ranked against other pains, it rises near the top  
+::: {.see-guide}
+The [Pain Testing Guide](toolkit/Test_Pain_Guide.qmd) carries the question wording, the logging table, the intercept script, and the micro-survey. This chapter covers what the answers mean and when you have enough of them.
 :::
 
-Pain validation works because it connects hypotheses back to lived experience. But it’s not perfect. People can nod along even if the pain isn’t central to their lives. They may also forget pains that show up less often but hit hard when they do. That’s why you rarely rely on pain validation alone — you combine it with the next probes.  
+## Who Does What
 
+Unlike the last chapter, this one puts you back in front of people, so the three moments return.
 
-## Ouch Factor
+**Prepare.** Drafting the questions, checking them for leading wording, deciding what to log. Hand this over. Your AI is good at it and it costs you nothing.
 
-Doctors have used pain scales for decades. “On a scale of 1–10, how bad is it?” Entrepreneurs can borrow the same logic. The **ouch factor test** asks people to rate the severity of a pain in their lives.  
+**Contact.** Asking a real person whether this is their life. Yours, and there is no version of this that is not.
 
-The value here is quick prioritization. If one pain consistently gets rated an “8” while another averages a “3,” you know which one feels more pressing.  
+**Synthesize.** Scoring the responses, comparing across people, noticing that one segment answered differently from another. Hand it back, then check the work.
 
-But severity is slippery. A “7” for one person may be another’s “4.” And different groups measure pain on different scales. That means ouch scores should be treated as **relative signals, not absolutes**. Within a single group, they help you sort pains against each other. Across groups, they can mislead.  
+The difference from exploration is what you are protecting against. There you were guarding against not hearing anything new. Here you are guarding against **hearing what you hoped to hear**, which is a harder problem because you will not notice it happening.
 
-To make ouch factors more meaningful, pair them with behavioral questions. Instead of just “How bad is this?” also ask, “What do you do today to deal with it?” or “How much time or money do you spend trying to make it better?” These responses anchor subjective pain ratings to actual effort.  
+## Three Tests, and Why You Run Two
 
-::: {.callout-warning title="Limits of Ouch Factor Tests"}
-- Scores are *not comparable* across groups  
-- A high number doesn’t always equal urgency  
-- Treat results as *directional signals*, not proof  
+There are three probes at this stage, and each fails in its own way. Run at least two, chosen so their failure modes do not overlap.
+
+### Pain Validation
+
+The simplest test puts the pain in front of someone and asks whether they experience it. A direct check sounds too simple to be useful, and it often brings immediate clarity.
+
+The stronger version goes past yes and no. Ask about recency and frequency. *When was the last time you ran into this? How often in the past month?* These anchor an answer in a real week rather than in a general impression, and a person who cannot name a single instance is telling you something even while they agree with you.
+
+Stronger still is **relative ranking**. Rather than asking whether a pain exists on its own, ask people to compare: *which of these is most disruptive for you?* Ranking forces a trade-off, and trade-offs are harder to be polite about than agreement is.
+
+::: {.threshold}
+**Minimum Evidence for a Passed Pain Test**
+
+- The person recalls a **specific, recent instance**, not a general impression.
+- The pain occurs with **some frequency**, not once in a lifetime.
+- It **ranks near the top** against the adjacent pains you offered.
+- There is **observable effort or spend today**: time, money, or a workaround they built.
+
+The fourth is the strongest and the easiest to leave out. Agreement is free and ranking is cheap. Having already rearranged your life around something is not.
 :::
 
-The ouch factor shines when it helps you narrow down a crowded list of possibilities. Just don’t mistake it for a universal measure.  
+### Ouch Factor
 
+Doctors have used pain scales for decades. *On a scale of one to ten, how bad is it?* The **ouch factor test** borrows the logic and asks people to rate severity.
 
-## Willingness to Pay for Relief
+The value is quick prioritization. If one pain consistently draws an eight while another averages a three, you know which one presses harder.
 
-The most tempting test is to ask directly: “How much would you pay to make this go away?” At first glance, it seems like the ultimate validation — if people name a dollar amount, surely that means the pain is real.  
+But severity is slippery. A seven for one person is a four for another, and different groups calibrate differently. Analyze scores **within one segment at a time**. Averaging an ouch score across two groups produces a number that describes neither of them.
 
-In practice, it’s rarely that simple. People don’t think in terms of paying for abstract “relief.” They imagine a solution, however fuzzy, and base their willingness to pay on that imagined product. If their mental picture is shallow, their answer will be low. If your later concept feels more concrete and credible, their willingness to pay often rises.  
+To make severity mean something, pair it with behavior. Alongside *how bad is this*, ask *what do you do about it today?* and *how much time or money does that cost you?* A high score with no behavior attached is a person being agreeable about something that does not actually cost them much.
 
-That means early willingness-to-pay questions usually **understate** the real value of the pain. Instead of treating them as hard numbers, treat them as **relative comparisons**. Which pains would someone pay more to solve? Which pains make them hesitate?  
+::: {.limit}
+**What ouch scores cannot tell you**
 
-You can also sidestep hypotheticals by asking about substitutes. “What do you already spend to deal with this?” Late fees, stopgap products, wasted time — all of these reveal how costly a pain already is. These behavioral anchors often say more than a speculative number.  
-
-::: {.callout-tip title="Better Ways to Probe Willingness-to-Pay (WTP)"}
-- Ask about *current spending* on substitutes or workarounds  
-- Compare *relative WTP* across pains rather than raw numbers  
-- Save *dollar-value WTP* for later stages, once solutions are concrete  
+Scores are not comparable across groups. A high number is not the same as urgency. Treat the result as a directional signal for sorting a crowded list, never as a measurement. It is useful precisely because it is quick, and it is unreliable for the same reason.
 :::
 
-Use willingness-to-pay sparingly at this stage. It becomes much more powerful once you have concrete solution concepts. For now, it can serve as a directional probe alongside other tests.  
+### Willingness to Pay for Relief
 
+The most tempting test asks directly: *how much would you pay to make this go away?* If someone names a dollar figure, surely the pain is real.
 
+In practice it rarely works that way. People do not price abstract relief. They imagine a solution, however fuzzy, and price *that*. If the picture in their head is shallow, the number comes out low, and a more concrete concept later will often raise it. **Early willingness-to-pay answers usually understate the pain**, which means a low number here is weak evidence of a weak pain.
 
-## Avoiding Pitfalls
+So use it as comparison rather than measurement. Which pains would someone pay more to end? Which make them hesitate?
 
-Every test has its traps. The art is knowing how to spot them.  
-
-- **False positives** happen when people agree politely, or exaggerate sympathy without true urgency. You avoid them by grounding questions in specifics: “When was the last time?” “What did you do?”  
-- **False negatives** happen when people can’t recall or imagine pains in the way you’ve framed them. You avoid them by triangulating methods: combine validation, ouch factor, and behavioral checks so one fills the gaps of another.  
-- **Over-reliance on one test** is perhaps the biggest mistake. No single probe is perfect. But when two or three point in the same direction, you can trust the signal.  
-
-::: {.callout-warning title="Common Pitfalls in Pain Testing"}
-- Accepting polite agreement as proof  
-- Over-trusting a single ouch score  
-- Taking raw WTP numbers at face value  
-- Ignoring pains that are rare but *very costly*  
+::: {.key-action}
+**Ask about behavior instead of hypotheticals.** *What do you already spend to deal with this?* Late fees, stopgap purchases, a subscription that half-solves it, two hours every Sunday. What someone already pays is a fact about their life. What they say they would pay is a forecast about a product that does not exist.
 :::
 
-The point isn’t to prove your hypothesis with scientific certainty. It’s to collect enough evidence that you can move forward with confidence, knowing you’re solving something real.  
+Keep this probe light here. Its real home is later, once you have a concrete solution and a genuine pricing question, and that work belongs to [*Is This Worth Doing?*](https://ea.nilehatch.com/) rather than to this book. At this stage you are asking whether the pain is worth escaping, not what relief should cost.
 
+## Preparing the Instrument
 
+::: {.ask-ai}
+**Ask Your AI**
 
-## Closing the Loop
+::: {.prompt}
+Here is my pain hypothesis and the segment it applies to. Draft a ten-minute intercept script that tests it two ways: pain validation with recency, frequency, and ranking against two adjacent pains I will supply, plus one behavioral question about what they already do or spend. Every question must be answerable by someone who has never heard of me or my idea. Flag any question that suggests its own answer, names a solution, or asks the person to predict what they would do. Then tell me which of my three pains this script will have the hardest time telling apart, and why.
+:::
+:::
 
-Testing your pain hypotheses isn’t about proving them beyond doubt. It’s about gathering enough evidence that you’re not chasing shadows. When your validation, ouch factors, and willingness-to-pay signals line up, you know you’re standing on solid ground. You’ve found pains that are not only felt, but felt often, felt deeply, and felt urgently enough that people are already spending time or money trying to ease them.  
+::: {.checkpoint}
+**Check before you take it into the field**
 
-That’s the foundation you need before you shift into Diamond 3. Only once you’re confident the pain is real does it make sense to ask: what could relief look like? Now the work turns from uncovering unmet needs to shaping answers. The next diamond is about design and validation of solutions — and you’ll enter it knowing you’re solving a problem that truly matters.  
+- **Read the last answer first.** If two of your pains are hard to tell apart in a script, they will be impossible to tell apart in the results, and you will not discover that until you are scoring them.
+- **Strike anything that carries its own answer.** *How frustrating is it when…* has told the person what to feel before they have said anything.
+- **Decide what you will log before you ask anyone.** Last occurrence, frequency, rank, effort or spend. A field you add after the first three conversations is a field you have for nobody.
+:::
+
+::: {.see-demo}
+The [Halo Alert pain test](demo/exp-10.a-pain-test-summary-2025-03-20.qmd) shows all three probes run against one hypothesis, with the [validation detail](demo/exp-10.b-pain-validation-detail-2025-03-20.qmd), the [ouch scores](demo/exp-10.c-ouch-factor-detail-2025-03-20.qmd), and the [willingness-to-pay responses](demo/exp-10.d-wtp-detail-2025-03-20.qmd) recorded separately so you can see how they disagreed.
+:::
+
+## Reading the Signals Together
+
+Two tests agreeing is worth more than one test agreeing loudly. What you are looking for is convergence, and the shape of the disagreement is informative when it does not arrive.
+
+**Everything lines up.** Recent repeated instances, top ranking, high severity *with* time or money already going into it. Advance to solution exploration. This is what a validated pain looks like.
+
+**High severity, no behavior.** Someone rates the pain an eight and does nothing about it. Believe the behavior. Either the pain is smaller than the number, or relief is impossible enough that they have stopped trying — and those two are worth telling apart, because the second one is an opportunity and the first is not. Ask what they would have to believe for a fix to be worth their time.
+
+**Ranking that will not hold still.** If people rank your pains differently every time and no order emerges, the usual cause is that your pains are **too broad**. "Childcare stress" will not rank consistently against anything. "The late-pickup fee" will. Make them step-specific and run it again. This is the same failure that produces thin clusters one chapter earlier, showing up in a different instrument.
+
+**Nothing lands.** Rare, one-off, consistently low rank, no workaround, no substitute spend. Archive it and go to your refrigerator. That is what you filled it for.
+
+## The Pain That Is Rare and Devastating
+
+The frame *real, frequent, urgent* has a blind spot, and it is worth naming because the tests above will walk straight past it.
+
+Some pains are rare and catastrophic. A basement floods once every four years. A single missed dose puts someone in hospital. Frequency questions score these near zero, and a thirty-day recall window may not catch them at all. Yet people insure against exactly these, which is behavior, and behavior is your best signal.
+
+So when a pain scores low on frequency, check severity and spend before you drop it. If someone is already paying to prevent something that has happened to them once, you have found a pain the frequency test cannot see. If they are not paying anything, the low frequency is probably telling the truth.
+
+::: {.trap}
+**Accepting agreement as evidence**
+
+Four ways this stage goes wrong, all of them comfortable:
+
+- **Polite agreement counted as proof.** The cure is a specific incident, a rank, and a behavior. Demand all three.
+- **A single ouch score trusted.** One number from one person about a feeling is the weakest evidence you will collect.
+- **Raw willingness-to-pay figures taken at face value.** They price an imagined product, not your pain.
+- **Rare but very costly pains dismissed on frequency.** See above.
+
+The unifying error is that every one of these lets you keep the hypothesis you arrived with.
+:::
+
+## Synthesizing What Came Back
+
+::: {.ask-ai}
+**Ask Your AI**
+
+::: {.prompt}
+Here are my logged responses. For each pain, report how many people recalled a specific instance, the frequency distribution, the ranking pattern, the ouch scores, and what people said they already do or spend. Keep the segments separate and do not average across them. Then tell me three things: where two tests disagree with each other, which of my pains has the weakest evidence and exactly what is missing, and what a skeptic would say about my strongest result. Do not tell me whether to proceed.
+:::
+:::
+
+::: {.checkpoint}
+**Check before you believe the summary**
+
+- **Read the skeptic's case first**, before you read your strongest result. In the other order you will already be defending it.
+- **Check that segments stayed apart.** A pooled average across two groups is a number about a population that does not exist.
+- **Find the people who said no.** They are the most useful respondents you have, and a summary organized around your hypothesis will put them last or leave them out.
+:::
+
+## How Much Evidence Is Enough
+
+This is where pain testing usually goes wrong, and not because people run too few conversations. They run enough and never decided in advance what would count, so the evidence gets read as support no matter what it says.
+
+Set the bar before you collect. Two parts, and the second matters more.
+
+**A floor on how many.** Pilot with eight to fifteen people in one segment, which is enough to find out that your wording is broken and not enough to conclude anything. Then grow toward twenty-five to fifty for a prioritization you would act on. These are floors and not targets: fifty polite agreements with no behavior attached is still nothing, and twelve people who all describe the same workaround is already something.
+
+**A statement of what would change your mind.** Before you ask anyone, write down the result that would make you abandon this hypothesis. *If fewer than half can name a recent instance. If nobody has built a workaround. If it ranks last against the two pains beside it.* Written in advance, that sentence is a test. Written afterward, it is a rationalization, and you will not be able to tell the difference from the inside.
+
+::: {.threshold}
+**Enough to Move On**
+
+You are done when you can say all four out loud:
+
+- **Two independent tests point the same way** for the same pain, in the same segment.
+- **Someone is already spending** time, money, or effort to escape it.
+- **You can name the result that would have stopped you**, and it did not happen.
+- **You know which of your pains failed**, and it is in the refrigerator rather than quietly forgotten.
+
+If you cannot produce the third, you have not run a test. You have run a demonstration.
+:::
+
+One more check, borrowed from the end of exploration and just as useful here: ask whether the evidence stopped changing your mind, or whether you stopped asking questions that could. Those feel identical while you are in them.
+
+## Into Diamond 3
+
+You entered this diamond with a mountain of raw material and no idea which part of it mattered. You leave it with one pain that people can point to in their own week, that ranks above its neighbors, and that somebody is already paying something to avoid. You also leave with a record of the pains that did not survive, which is worth more than it looks: it is the reason you will not spend Diamond 3 rediscovering them.
+
+Only now does the next question make sense: *what could relief look like, and would these people actually take it up?* That is Diamond 3, and it runs the same way this one did. You will widen first, generating far more candidate solutions than you need, then narrow to the one the evidence supports, then test it before you build anything.
+
+Deciding whether to *commit* to what you find is a different question again, with its own logic, and it belongs to [*Make the Call*](https://mc.nilehatch.com/). Your job here was to make sure the thing you commit to is real. It is.

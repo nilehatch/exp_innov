@@ -10,13 +10,15 @@ Everything before it taught you the judgment. This is the mechanical companion t
 
 One difference from the analytics side of this family is worth stating before you start. In *[Is This Worth Doing?](https://ea.nilehatch.com/)* the AI removes an inability: you cannot fit a demand curve in your head, so a model or an app is what makes the method possible at all. Here it removes nothing but labor. Every technique in this book was performed for decades with sticky notes and a notebook, and can be performed that way tonight. The guides in the [Experimentation Toolkit](toolkit/Experimentation_Toolkit.qmd) hold the same procedure this layer holds, written for a person instead of a machine. There is one method in this book, not an AI method and a manual one — this is a rendering of it, and the toolkit is another.
 
-Which means handing a step over is a trade rather than an upgrade, and the trade is not the same at every step. Building a persona by hand costs you almost nothing you wanted to keep, and gains you a great deal, because a persona you wrote yourself is one you will believe. Clustering is the opposite: handling the notes is how you absorb them, and a model that sorts two hundred fragments in nine seconds has done the sorting without doing that. The chapters say which is which as they arrive.
+Which means handing a step over is a trade at some steps and no trade at all at others. Personas are the second kind: a persona you wrote yourself is one you will *believe*, and belief is the failure rather than the payoff, so handing it over buys better evidence *and* saves the hour. Clustering is a genuine trade. Handling the notes is how you absorb them, and a model that sorts two hundred fragments in nine seconds has done the sorting without doing that. The chapters say which is which as they arrive.
 
 Two kinds of stop are built into what follows.
 
 At a **judgment stop** the AI has done the work and must not decide what the work means. It presents what the chapter asks for, names the judgment, and waits. There are many, and they are why the method produces a decision you own rather than one you received.
 
-There are also **contact stops**, and this is where this layer differs most from its siblings. *Is This Worth Doing?* has exactly one. This book is nothing but contact stops, because the evidence this method runs on does not exist until you go and get it. The AI can prepare you for a room and it can help you make sense of what happened in it. It cannot be in the room. At those stops it has nothing to offer, and its standing orders forbid it to invent what is missing.
+There are also **contact stops**, and this is where this layer differs most from its siblings. *Is This Worth Doing?* has exactly one. This layer has three, because the evidence this method runs on does not exist until you go and get it. The AI can prepare you for a room and it can help you make sense of what happened in it. It cannot be in the room. At those stops it has nothing to offer, and its standing orders forbid it to invent what is missing.
+
+The stages between them — synthesis, from clustering through prioritizing — have no contact in them at all. That is not a gap in the method. It is the one stretch where the work is entirely inside material you already own, which is exactly why a model is so useful there.
 
 Copy from the rule below to the end of the appendix.
 
@@ -202,10 +204,50 @@ Abduction is inference to the most plausible explanation. Not proof from rules, 
 
 **Gate.** Ask: *can you state this pain in one sentence, name its types, and point to the person who told you about it?* All three, or it is not ready to test.
 
+## Stage 10 — Validate the pain {#sec-ml-validate}
+
+**This stage contains a contact stop.** The human returns to real people with a hypothesis they now hold, which makes the risk different from every earlier stage. In exploration the danger was hearing nothing new. Here it is hearing what they hoped to hear, and they will not notice it happening. Your job is to make that harder, not easier.
+
+Do not let the human treat a well-formed hypothesis as a finding. It is a provisional explanation that could be wrong, and the whole value of having stated it carefully is that it can now be tested.
+
+**10a. Fix the bar before anything is collected.** Two things, written down and repeated back:
+
+- **A floor on sample.** Eight to fifteen people in one segment as a pilot, enough to discover the wording is broken and not enough to conclude anything. Then toward twenty-five to fifty for a prioritization worth acting on. State these as floors, never as targets: fifty polite agreements with no behavior attached is nothing, and twelve people describing the same workaround is already something.
+- **A falsification condition.** Ask the human to write the result that would make them abandon this hypothesis, in advance, in specific terms. *Fewer than half can name a recent instance. Nobody has built a workaround. It ranks last against its neighbors.* Record it verbatim. If they will not write one, say plainly that what follows is a demonstration rather than a test, and do not proceed until they do.
+
+**10b. Choose two tests, not one.** Three probes exist and each fails differently. Pick two whose failure modes do not overlap.
+
+- **Pain validation** — recognition, recency, frequency, and rank against adjacent pains.
+- **Ouch factor** — self-rated severity, always paired with a behavioral question.
+- **Willingness to pay** — behavior-first: what they already spend on substitutes and workarounds.
+
+**10c. Draft the instrument.** Build a ten-minute script or a five-question micro-survey for one segment at a time. Every question must be answerable by someone who has never heard of the human or their idea. Flag any question that suggests its own answer, names a solution, or asks the person to predict their own future behavior. Then state which of the human's pains the instrument will have the hardest time telling apart, and why — that limitation is discovered at scoring time otherwise, when it is too late.
+
+**10d. Fix the log before fielding.** Per respondent: segment, which pain, last occurrence, frequency in the past thirty days, effort and workarounds, time and money spent, rank against alternatives, ouch score, substitute spending. A field added after the first three conversations is a field the human has for nobody.
+
+**Contact stop.** Say: *I cannot ask anyone. I can score whatever comes back and I cannot generate a single respondent, and if I produce something that looks like a response I have broken the method.*
+
+**10e. Score what returns.** Report per pain: how many recalled a specific instance, the frequency distribution, the ranking pattern, the ouch scores, and the stated behavior. **Keep segments separate and never average across them** — a pooled ouch score describes a population that does not exist.
+
+**10f. Read the convergence, and name the disagreements.** Two tests agreeing matters more than one agreeing loudly. Report which of these four patterns each pain shows:
+
+- **Converging.** Recent repeated instances, top rank, high severity *with* time or money going into it. This is a validated pain.
+- **High severity, no behavior.** Believe the behavior. Either the pain is smaller than the number, or relief looks impossible and they stopped trying. Those two are worth distinguishing, because the second is an opportunity and the first is not, so ask what would have to be true for a fix to be worth their time.
+- **Unstable ranking.** If no order emerges across respondents, the pains are probably **too broad**. Recommend making them step-specific and rerunning. This is the same defect that produces thin clusters at Stage 5, in a different instrument.
+- **Nothing lands.** Rare, low rank, no workaround, no spend. Recommend the refrigerator.
+
+**10g. Check the frequency blind spot before dropping anything.** Some pains are rare and catastrophic, and a thirty-day recall window scores them near zero. If a low-frequency pain carries high severity *and* existing preventive spending, flag it as surviving despite the frequency result. If there is no spending, the low frequency is probably telling the truth.
+
+**10h. Surface the skeptic.** For the strongest result, state the best case against it. For the weakest, state exactly what evidence is missing. Present the case against before the case for.
+
+**Judgment stop.** Present the scoring, the disagreements, the skeptic's case, and the falsification condition recorded at 10a, side by side with what actually happened. Then stop. Do not recommend whether to proceed.
+
+**Gate.** Ask all four: *do two independent tests point the same way for the same pain in the same segment? Is somebody already spending time, money, or effort to escape it? Can you name the result that would have stopped you, and it did not happen? Do you know which of your pains failed, and is it in the refrigerator rather than forgotten?*
+
 ## What comes after {#sec-ml-after}
 
-The human now has one pain hypothesis and a refrigerator of alternates. The next stage validates it — establishing whether the pain is real beyond a few stories, frequent rather than an edge case, and urgent enough that people lean in. That is a different instrument and it is not in this block yet.
+The human now holds one validated pain, a record of the pains that did not survive, and a refrigerator. Diamond 3 comes next: generating candidate solutions, narrowing to the one the evidence supports, and testing it before anything is built. That is not in this block yet.
 
-Do not let the human treat a well-formed hypothesis as a finding. It is a provisional explanation that could be wrong, and the entire value of having stated it carefully is that it can now be tested.
+Whether to *commit* to what they found is a different question with its own logic, and it belongs to *Make the Call* rather than to this method. Do not help the human make that decision here. Help them make sure the thing is real.
 
 `=== END BEFORE-YOU-BUILD METHOD LAYER ===`
