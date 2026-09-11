@@ -128,4 +128,4 @@ ggplot(pain_long, aes(x = PainType, y = Hypothesis, fill = Present)) +
 - **From experience map:** 
     - [Narrative form](exp-08.a-experience-map-2025-03-14.qmd) 
     - [Grid view](exp-08.b-experience-map-2025-03-14.qmd)
-- **Toolkit link:** [Abduction Guide](../toolkit/Abduction_Guide.qmd)
+- **Toolkit link:** [Abduction Guide](../toolkit/Pain_Guides.qmd#sec-abduction)

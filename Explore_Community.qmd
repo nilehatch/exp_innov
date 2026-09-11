@@ -181,7 +181,7 @@ That distinction matters most to teams who chose an ambitious group, because bre
 
 
 **Toolkit Resource**  
-See the [Conversation Guide](toolkit/Conversation_Guide.qmd) for a ready-to-use protocol, sample prompts, and a notes template.
+See the [Conversation Guide](toolkit/Pain_Guides.qmd#sec-conversation) for a ready-to-use protocol, sample prompts, and a notes template.
 
 ---
 
@@ -234,7 +234,7 @@ Enter through a natural artifact or activity. For example, a Shakespeare reading
 :::
 
 **Toolkit Resource**  
-See the [Observation Guide](toolkit/Observation_Guide.qmd) for a ready-to-use guide on how to observe and how to record your observations.
+See the [Observation Guide](toolkit/Pain_Guides.qmd#sec-observation) for a ready-to-use guide on how to observe and how to record your observations.
 
 <!-- <hr class="method-divider"> -->
 
@@ -270,7 +270,7 @@ Designer Patty Moore once simulated aging by wearing a body brace, earplugs, blu
 
 
 **Toolkit Resource**  
-See the [Role Play Guide](toolkit/Role_Play_Guide.qmd) for a ready-to-use guide on how to setup, run, and interpret a role playing experiment.
+See the [Role Play Guide](toolkit/Pain_Guides.qmd#sec-role-play) for a ready-to-use guide on how to setup, run, and interpret a role playing experiment.
 
 ---
 
@@ -307,7 +307,7 @@ It is one of the most common ways an exploration fails: it produces a great deal
 *Success measure*: When your survey sharpens which pains matter most and how widespread they are, the experiment has done its job.  
 
 **Toolkit Resource**  
-See the [Survey Guide](toolkit/Survey_Guide.qmd) for a ready-to-use guide on survey design principles and traps to avoid.
+See the [Survey Guide](toolkit/Pain_Guides.qmd#sec-survey) for a ready-to-use guide on survey design principles and traps to avoid.
 
 ---
 
@@ -385,7 +385,7 @@ The second of those is the one teams under-use. A thousand one-star reviews of t
 
 
 **Toolkit Resource**  
-See the [Secondary Research Guide](toolkit/Secondary_Research_Guide.qmd) for a ready-to-use guide on what information to seek and where to look.
+See the [Secondary Research Guide](toolkit/Pain_Guides.qmd#sec-secondary-research) for a ready-to-use guide on what information to seek and where to look.
 
 
 ---

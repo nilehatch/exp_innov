@@ -1,0 +1,37 @@
+# Toolkit consolidation, 11 Sep 2026.
+#
+# Twenty-three flat toolkit pages became four, one per diamond, each running
+# diverge -> converge -> test. Every retired page redirects to its section in
+# the merged page so that links shared before the change keep working.
+#
+# Netlify reads this file from the root of the publish directory. It gets there
+# because _quarto.yml declares it under project.resources.
+
+/toolkit/People_Diverge_Guide.html      /toolkit/People_Guides.html#sec-people-diverge      301
+/toolkit/People_Converge_Guide.html     /toolkit/People_Guides.html#sec-people-converge     301
+/toolkit/People_Test_Guide.html         /toolkit/People_Guides.html#sec-people-test         301
+
+/toolkit/Conversation_Guide.html        /toolkit/Pain_Guides.html#sec-conversation          301
+/toolkit/Observation_Guide.html         /toolkit/Pain_Guides.html#sec-observation           301
+/toolkit/Role_Play_Guide.html           /toolkit/Pain_Guides.html#sec-role-play             301
+/toolkit/Secondary_Research_Guide.html  /toolkit/Pain_Guides.html#sec-secondary-research    301
+/toolkit/Survey_Guide.html              /toolkit/Pain_Guides.html#sec-survey                301
+/toolkit/Clustering_Guide.html          /toolkit/Pain_Guides.html#sec-clustering            301
+/toolkit/Persona_Guide.html             /toolkit/Pain_Guides.html#sec-persona               301
+/toolkit/Experience_Map_Guide.html      /toolkit/Pain_Guides.html#sec-experience-map        301
+/toolkit/Abduction_Guide.html           /toolkit/Pain_Guides.html#sec-abduction             301
+/toolkit/Prioritize_Pain_Guide.html     /toolkit/Pain_Guides.html#sec-prioritize            301
+/toolkit/Test_Pain_Guide.html           /toolkit/Pain_Guides.html#sec-pain-testing          301
+
+# The experiment templates and log tracker are retired rather than moved. They
+# were course infrastructure for a shared Drive folder, had zero inbound links
+# from any chapter or demo, and their procedure is now in the method layer.
+/toolkit/Primary_Experiment_Template.html    /toolkit/Experimentation_Toolkit.html  301
+/toolkit/Supporting_Experiment_Template.html /toolkit/Experimentation_Toolkit.html  301
+/toolkit/Experiment_Log_Tracker.html         /toolkit/Experimentation_Toolkit.html  301
+
+# Sub-part separators.
+/toolkit/_people_guides_separator.html        /toolkit/People_Guides.html            301
+/toolkit/_pain_guides_separator.html          /toolkit/Pain_Guides.html              301
+/toolkit/_solution_guides_separator.html      /toolkit/Solution_Guides.html          301
+/toolkit/_experiment_templates_separator.html /toolkit/Experimentation_Toolkit.html  301

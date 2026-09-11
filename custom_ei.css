@@ -36,24 +36,6 @@
    particular are a toolkit pattern that Is This Worth Doing? will want.
    =============================== */
 
-/* ---------- Worksheet fill-in fields ----------
-   Used throughout the Experimentation Toolkit so a reader can complete a
-   guide on the page. Deliberately color-free: a rule the reader writes on. */
-.blank {
-  display: inline-block;
-  border-bottom: 1.5px solid #444;
-  min-width: 8ch;
-  line-height: 1.2;
-  padding-bottom: 0.15em;
-  background-color: transparent;
-  vertical-align: baseline;
-}
-
-.blank-short  { min-width: 6ch;  }
-.blank-medium { min-width: 12ch; }
-.blank-long   { min-width: 20ch; }
-.blank-fill   { background-color: #f5f5f5; }
-
 /* ---------- Method header tick ----------
    The accent bar marking each exploratory method in Explore the Community
    (Conversation, Observation, Role Playing, Surveys). */

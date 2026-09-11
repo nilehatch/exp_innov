@@ -68,4 +68,4 @@ Observation was chosen to complement commuter interviews. By watching morning fl
 **Attribution:** Observation conducted by Nile as part of the Halo Alert exploratory research series (Diamond 2).
 
 
-*For a practical checklist to use in the field, see the [Observation Guide](../toolkit/Observation_Guide.qmd) in the [Experimentation Toolkit](../toolkit/Experimentation_Toolkit.qmd).*
+*For a practical checklist to use in the field, see the [Observation Guide](../toolkit/Pain_Guides.qmd#sec-observation) in the [Experimentation Toolkit](../toolkit/Experimentation_Toolkit.qmd).*

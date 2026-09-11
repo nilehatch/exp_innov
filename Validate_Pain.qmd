@@ -20,7 +20,7 @@ This is the last step in Diamond 2 and the bridge into Diamond 3. Until now you 
 Validation experiments do not need to be elaborate. They need to be **deliberate**. A good test distinguishes a pain that is interesting in theory from one people are already working to escape.
 
 ::: {.see-guide}
-The [Pain Testing Guide](toolkit/Test_Pain_Guide.qmd) carries the question wording, the logging table, the intercept script, and the micro-survey. This chapter covers what the answers mean and when you have enough of them.
+The [Pain Testing Guide](toolkit/Pain_Guides.qmd#sec-pain-testing) carries the question wording, the logging table, the intercept script, and the micro-survey. This chapter covers what the answers mean and when you have enough of them.
 :::
 
 ## Who Does What

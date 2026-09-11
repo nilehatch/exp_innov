@@ -1,3 +1,0 @@
-# ── Solution Guides ── {#sec-toolkit-solution-separator .unnumbered}
-
-#### Guides for the process of choosing, building, and testing solutions to customer pain {.subtitle}

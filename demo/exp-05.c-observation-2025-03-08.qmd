@@ -55,4 +55,4 @@
 
 --- 
 
-*For a practical checklist to use in the field, see the [Observation Guide](../toolkit/Observation_Guide.qmd) in the [Experimentation Toolkit](../toolkit/Experimentation_Toolkit.qmd).*
+*For a practical checklist to use in the field, see the [Observation Guide](../toolkit/Pain_Guides.qmd#sec-observation) in the [Experimentation Toolkit](../toolkit/Experimentation_Toolkit.qmd).*

@@ -1,0 +1,255 @@
+# Pain Guides {#sec-pain-guides .unnumbered}
+
+#### Operational detail for Diamond 2: finding and validating pains {.subtitle}
+
+These are the steps behind [Find and Validate Pains](../Find_Pain_part.qmd). The chapters carry the judgment. This page carries the procedure, in the order the diamond runs it: explore widely, make sense of what you gathered, then test what you concluded.
+
+The same steps in machine-readable form, for working with an AI, are Stages 4 through 10 of [The Method Layer](../method-layer.qmd). Three of the methods below are yours alone and no model can run them, which is why they are the longest entries here: conversation, observation, and role play all require you to be in the room.
+
+## Diverge — Explore the Community {#sec-pain-diverge}
+
+### Conversation {#sec-conversation}
+
+Use with the [Conversation](../Explore_Community.qmd#sec-conversation-section) section. Exploratory conversations are guided storytelling experiments. The goal is not to validate your idea; it is to learn what people actually do, feel, and work around.
+
+::: {.trap}
+**Pitching, or asking whether they would buy**
+
+Do not pitch. Do not ask "would you buy this?" Stay in story-first mode: real events, real feelings, real behaviors. Your job is to listen deeply, not to persuade, and the moment you start persuading the evidence stops arriving.
+:::
+
+**Before.** Know whom you will visit, what you hope to ask, and how you will record it. Bring a notebook, a sketchbook, and a recorder if permission is granted. Prepare a transparent introduction: you are working on a project, you need their expertise, you are not selling. Ask consent before recording.
+
+**Opening.** Exchange names and thank them. Keep your purpose to one sentence. *I am working on a project and would like to learn from your experience.*
+
+**Story-first questions.** Anchor every question in a specific past event rather than a hypothetical.
+
+- "Tell me about the last time you ______."
+- "What was hardest about that?"
+- "Why was it hard?"
+- "How did you solve it then?"
+- "Why was that solution not awesome?"
+
+Follow up to keep the story moving: *What else happened? What surprised you most? What were you thinking at that point? What would I not expect about that experience?*
+
+**Emotional triggers.** Emotion marks unmet need. When frustration, excitement, or guilt appears, follow it rather than the topic.
+
+- "Why do you say that? Tell me more."
+- "How did you feel when that happened?"
+- "Why is that important to you?"
+
+Two tools worth having by reflex:
+
+- **3-peat.** Ask about another time it happened. Three times, to see whether it is a pattern or an anecdote.
+- **5-whys.** Ask why repeatedly until you reach a root cause or an emotion.
+
+**Closing.** Ask whether they know others you should talk to. Referrals are how access compounds. Thank them, and say how their story helps.
+
+**After.** Document thoroughly and immediately, or debrief with a teammate while it is fresh. Compare notes and find the gaps. Log which questions you failed to follow up on, because that list is the best input to your next conversation.
+
+### Observation {#sec-observation}
+
+Use with the [Observation](../Explore_Community.qmd#sec-observation-section) section. If conversation lets people tell their stories, observation shows you the parts they cannot put into words. People normalize their own frustrations. They stop noticing the workarounds, the delays, the small mismatches. Watching in context surfaces what an interview cannot reach.
+
+Observation is an experiment in context: choosing where to look and what to attend to *is* the design of the probe.
+
+**How to watch.**
+
+- **Actions before words.** What people do, not what they say they do.
+- **Workarounds.** An invented hack or shortcut is a pain someone has already priced.
+- **Friction.** Hesitation, repetition, backtracking, muttering.
+- **Stay unobtrusive.** The less you interfere, the more authentic what you see.
+
+**Recording.** Take notes immediately, even rough ones. Sketch the environment. Capture exact phrases. Write sequences as sequences (first, then, next) and note the tools, layouts, and constraints shaping the whole thing.
+
+With a team, assign one person to watch and one to write, then regroup fast while detail survives. Different observers reliably notice different things, and the disagreement is data.
+
+**Turning it into insight.** Raw notes are not findings. Cluster them around recurring themes and ask what surprised you, what seemed ordinary, and what that says about how these people experience this part of their world. Then decide what to take into a conversation or a document search.
+
+### Role Play {#sec-role-play}
+
+Use with the [Role Playing](../Explore_Community.qmd#sec-role-play-section) section. Role play puts you inside your customer's experience so you feel the breakdowns rather than inferring them.
+
+**When it earns its place.** When direct observation is impossible. When you need to feel how a process lands rather than describe it. When you want the friction in a journey before anything is built.
+
+**Setup.** Define the scenario concretely: ordering lunch through a delivery app, navigating an airport with a stroller. Assign roles: someone is the customer, others are staff, systems, or obstacles. Gather rough props; a phone, a chair, a bag will do. State what you hope to learn.
+
+**Running it.** Walk the task through as realistically as you can and stay in character. Pause to narrate feeling out loud, *this step is confusing*, because the feeling is the data. Replay with variations: a different persona, a tighter constraint, a worse day. Note where frustration, delay, or improvisation appears.
+
+**Questions afterward.** Where did confusion or hesitation happen? What emotions surfaced? Which workarounds did the customer invent on the spot? What surprised you against your expectation?
+
+::: {.trap}
+**Performing instead of empathizing**
+
+It is not an acting class, and polish is not the goal. Do not design solutions while you are in it; you are there to experience the pain, not fix it. And rough props are enough; waiting for good ones is how this never happens.
+:::
+
+**Debrief** as a team while it is fresh, compare against real observations to see whether the pains match, and capture quotes and surprises before memory tidies them.
+
+### Secondary Research {#sec-secondary-research}
+
+Use with the [Archival and Secondary Research](../Explore_Community.qmd#sec-secondary-research-section) section. This is the one exploration method whose input is documents rather than people, which makes it the part of this diamond most worth handing to an AI.
+
+**What to search for.** Customer insight: demographics, behaviors, usage patterns. Market analysis: size, growth, adoption. Competitors: who exists, their model, their gaps. Environment: technology, regulation, cultural and economic shifts.
+
+**Where to look.** Government portals for census, labor, and trade data. Google Trends for what people search and when. World Bank, OECD, and think-tank reports. Business press and consulting white papers. Where you have institutional access: Mintel, Euromonitor, IBISWorld, Factiva, industry associations, university databases.
+
+**How to use it.** Scan before you enter the field, so you are not paying for interviews to learn what is published. Triangulate published findings against what you see and hear. Treat each search as an experiment: *if I look here, what will I learn?* And track the **absences**: a thing you expected to be documented and cannot find often means nobody has looked, and nobody looking is what neglect looks like from a distance.
+
+## Converge — Make Sense of What You Gathered {#sec-pain-converge}
+
+### Clustering into Themes {#sec-clustering}
+
+Use with [Clustering into Themes](../Hypothesize_Pain.qmd#sec-cluster-themes-section).
+
+1. **Atomize.** Break your notes into single observations, one idea each. Three kinds count: a direct quote, a behavior you watched, a fact from a document. Keep the source on every one.
+2. **Spread them out.** On paper, write each on its own sticky and post them on a wall. In a shared board, paste each into its own sticky; most boards import spreadsheet rows as stickies automatically. In a spreadsheet, one observation per cell.
+3. **Affinity map.** Group what feels related. Add as you go, start a new cluster when something does not fit, and let the groups emerge rather than sorting into categories you named first.
+4. **Name the clusters.** Two to four words capturing what ties them. Keep the names tentative.
+5. **Place everything.** Every note goes somewhere, including the odd ones. Keep the ones that resisted placement in their own pile rather than discarding them, because an oddball is often the seed of the theme nobody expected.
+6. **Count the people.** For each cluster, how many observations and how many *different* people. A cluster of fifteen notes from one talkative person is a transcript, not a theme.
+
+Keep the pace brisk and let intuition make the first groupings. Do not force a fit, and do not treat a cluster as a conclusion.
+
+### Personas {#sec-persona}
+
+Use with [Developing Personas](../Hypothesize_Pain.qmd#sec-persona-section).
+
+1. **One per major theme**, unless a single persona plainly covers several.
+2. **Name them** so they are memorable, and add a face if it helps; a sketch or a stock image is fine.
+3. **Sketch the context** from your actual notes. Demographics only where they shape the difficulty.
+4. **List pains and goals.** The frictions this person meets, and what they are trying to get to that the friction interrupts.
+5. **Write a short day-in-the-life** passage drawn directly from real quotes.
+6. **Mark every line** as evidenced, with its source, or inferred. A persona that is mostly inference is a character in a story, and should be labeled one.
+
+Build from data, not clichés. Do not load it with demographics. Expect to revise as you learn.
+
+### Experience Mapping {#sec-experience-map}
+
+Use with [Experience Mapping](../Hypothesize_Pain.qmd#sec-experience-map-section).
+
+1. **Pick one persona and one specific goal** they are trying to reach.
+2. **Break it into stages**, five to ten, from before the goal begins to after it ends.
+3. **Fill four lenses per stage.** *Doing*, the actions you observed or heard. *Thinking*, what is going through their mind. *Saying*, their own words quoted. *Feeling*, the emotion at that moment.
+4. **Leave empty cells empty** where you have no evidence. A blank is a map of what to go back and ask; filling it with what usually happens turns your assumption into something that will later look like data.
+5. **Mark peaks and valleys**, and flag the in-between stages especially. Friction accumulates in the middle more often than at either end.
+6. **Capture contradictions.** Anything unexpected or inconsistent, and every place where saying and doing disagree. Record both without resolving them.
+
+### Abduction {#sec-abduction}
+
+Use with [Abduction](../Hypothesize_Pain.qmd#sec-abduction-section).
+
+1. **Start from the evidence**: the clusters, the persona, the map. Go first to the emotional highs and lows and the contradictions.
+2. **Generate several explanations** per friction point. At least three. Do not stop at the first, which is usually the one you arrived with.
+3. **Check alignment.** Does this pain fit what people actually said and did, and does it make sense in the context of this person's life?
+4. **State each as a personal cost**, not as a gap in the world. A problem is the gap; a pain is what living with it costs someone.
+5. **Categorize** against the five kinds: physical, functional, financial, emotional, social. A candidate you cannot categorize is usually still a problem statement.
+6. **Write what argues against each one**, alongside what supports it. This is what makes the next stage a test rather than a confirmation.
+
+Do not slip into solutions. Keep the discarded explanations rather than deleting them.
+
+::: {.see-guide}
+Before you accept any pain statement you have written, put it beside the [Pain Statement Gallery](Pain_Statement_Gallery.qmd). Most people cannot see what is wrong with their own statement until they see a near-miss next to the real thing.
+:::
+
+### Prioritize and Refrigerate {#sec-prioritize}
+
+Use with [Choose One, and Keep the Rest Cold](../Hypothesize_Pain.qmd#sec-hypothesize-pain-section).
+
+1. **List the candidates** side by side, each stated clearly.
+2. **Assess urgency.** Which is most pressing in lived experience? Look for the strong emotional reactions rather than the interesting ones.
+3. **Check feasibility.** Which can you actually test, given the access you established in Diamond 1? A feasible test of a lesser pain beats a perfect pain nobody will discuss.
+4. **Choose one** and commit to testing it before you move.
+5. **Refrigerate the rest.** Write each unchosen candidate into a durable note with its evidence pointers and the reason you set it aside. Revisit this note first when a test surprises you.
+
+## Test — Validate the Pain {#sec-pain-test}
+
+Use with [Validate Customer Pain](../Validate_Pain.qmd). Three probes, each failing differently. Run at least two, chosen so their failure modes do not overlap.
+
+### Pain Testing {#sec-pain-testing}
+
+**Quick start.** Pick one segment at a time. Choose two of the three probes below. Draft your questions. Pilot with eight to fifteen people to find out whether your wording is broken, then grow toward twenty-five to fifty. Log specifics. Score, then decide what to keep, refine, or drop.
+
+**What to capture, for every respondent.**
+
+| field | record |
+|---|---|
+| Who | segment or persona |
+| Which pain | the concise statement |
+| Recency | date it last occurred |
+| Frequency | times in the past 30 days |
+| Effort | what they did in the moment |
+| Cost | approximate money per month, hours per week |
+| Ranking | position against the adjacent pains you offered |
+| Ouch score | 1–10, analyzed *within this segment only* |
+| WTP signals | current substitute spending |
+
+::: {.threshold}
+**Minimum evidence for a passed pain test**
+
+- The person recalls a **specific, recent instance**.
+- It occurs with **some frequency**, not once in a lifetime.
+- It **ranks near the top** against adjacent pains.
+- There is **observable effort or spend today**: time, money, or a workaround they built.
+
+The fourth is the strongest and the easiest to omit. Agreement is free. Having already rearranged your life around something is not.
+:::
+
+**Probe 1 — Pain validation.** Confirm the pain is lived rather than plausible.
+
+- "Do you personally deal with ______?"
+- "When was the **last time** this happened?"
+- "How **often** in the past 30 days?"
+- "Rank these one to three, most to least disruptive."
+- "What did you **do** about it? Any time or money spent?"
+
+**Probe 2 — Ouch factor.** Severity, always paired with behavior. Ask *how bad is this* and then immediately *what do you do about it today* and *what does that cost you*. A high score with no behavior attached is politeness.
+
+::: {.limit}
+**What ouch scores cannot tell you**
+
+Not comparable across groups, because a seven for one person is a four for another. A high number is not urgency. Analyze within one segment and never average across two. Directional signal for sorting a crowded list, never a measurement.
+:::
+
+**Probe 3 — Willingness to pay.** Behavior first. *What do you already spend to deal with this?* Late fees, stopgap purchases, a subscription that half-works, two hours every Sunday. What someone already pays is a fact; what they say they would pay is a forecast about a product that does not exist, and it systematically understates the pain this early.
+
+**Reading it together.**
+
+- **Converging.** Recent repeated instances, top rank, high severity *with* time or money going in. Advance.
+- **High severity, no behavior.** Believe the behavior. Either the pain is smaller than the number or relief looks impossible and they stopped trying, and those are worth telling apart.
+- **Unstable ranking.** If no order emerges, your pains are probably **too broad**. "Childcare stress" will not rank against anything; "the late-pickup fee" will. Make them step-specific and rerun.
+- **Nothing lands.** Rare, low rank, no workaround, no spend. Refrigerate.
+
+::: {.trap}
+**False conclusions in both directions**
+
+**False positives** come from accepting agreement. Require a specific incident *and* a ranking *and* a behavior.
+
+**False negatives** come from your framing. Offer lists with an "other" box, prompt by journey step rather than by category, and let people tell the story before you hand them a scale.
+:::
+
+**Before you field anything, write down what would change your mind**: the result that would make you abandon this hypothesis. Written in advance it is a test. Written afterward it is a rationalization.
+
+**Ethics.** Get consent for recordings and notes. Keep wording neutral. Offer a small, non-coercive thank-you. In sensitive contexts, prepare opt-out language and protect privacy.
+
+### Targeted Poll {#sec-survey}
+
+A survey is a **convergent** instrument, not an exploratory one. See [A Note on Surveys](../Explore_Community.qmd#sec-surveys-section) for why. It belongs here, at validation, rather than in the field work above.
+
+**When to use it.** To validate and rank what conversations surfaced. To measure how widespread a pain is. To reach people you cannot interview.
+
+**Design.** Five to ten questions. Ask about past and present, never hypotheticals or future desires. Use ranking or rating rather than yes and no. Add one or two open prompts. Pilot on a few respondents to catch confusing wording.
+
+A short poll dropped where your people already gather, in a forum or a group or a subreddit, is the format that earns its place earliest. Not to discover a need, but to find the **sharpest** one inside a domain you have already entered.
+
+> *What is the worst part of managing the chemicals in your hot tub?*
+
+Give four or five concrete options and put **"other"** at the bottom with a text box. Most people will rank what you listed. The generous few will type something you did not, and that is where the value hides.
+
+::: {.limit}
+**Know what a poll biases toward**
+
+It surfaces the *well-known* pains and ranks them. That is useful, and it is not what this book is finally after: an unknown unmet need will almost never appear in a list you wrote. Use it to sharpen and prioritize, never as a substitute for time in the field. The "other" box is the only part that can surprise you, so always include it and always read it first.
+:::
+
+**Common mistakes.** Too long, so fatigue corrupts the data. Product-centric: "would you buy this?" Future-focused: "would you want a tool that…". Leading or loaded wording.

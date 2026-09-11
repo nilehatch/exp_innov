@@ -45,7 +45,7 @@ These tools do not replace your data. They *reveal what is hidden inside it*.
 
 Clustering is the first move. After exploration you are holding dozens, maybe hundreds, of raw notes, quotes, and observations. On their own they feel scattered. Clustering brings order. Fragments begin to take the shape of patterns.
 
-If what you are holding does not yet feel like dozens of separate notes, that is the first task rather than a problem. Break the material down until each piece carries exactly one idea: a direct quote, a behavior you watched, a fact from a document. One recorded conversation usually yields twenty or thirty of these. The [Clustering Guide](toolkit/Clustering_Guide.qmd) covers the mechanics, including how to do it on a wall, in a spreadsheet, or in a shared board.
+If what you are holding does not yet feel like dozens of separate notes, that is the first task rather than a problem. Break the material down until each piece carries exactly one idea: a direct quote, a behavior you watched, a fact from a document. One recorded conversation usually yields twenty or thirty of these. The [Clustering Guide](toolkit/Pain_Guides.qmd#sec-clustering) covers the mechanics, including how to do it on a wall, in a spreadsheet, or in a shared board.
 
 This is often the first genuine surprise of convergence. Repetition that felt boring in the field becomes signal. When you notice three, five, ten notes pointing at the same frustration, the realization lands: *this is not one person's problem, it is a pattern.*
 

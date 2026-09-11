@@ -1,0 +1,171 @@
+# People Guides {#sec-people-guides .unnumbered}
+
+#### Operational detail for Diamond 1: choosing where to look {.subtitle}
+
+These are the steps behind [Choose Where to Look](../Choose_People_part.qmd). The chapters carry the judgment: why you are looking away from the center of a problem, what makes a community coherent, why an easy yes is suspicious. This page carries the procedure, in the order a diamond runs it: widen, narrow, then test before you commit.
+
+The same steps in machine-readable form, for working with an AI, are Stages 1 through 3 of [The Method Layer](../method-layer.qmd).
+
+## Diverge — Cast a Wide Net {#sec-people-diverge}
+
+A 45 to 90 minute sprint that produces a shortlist of 10 to 30 plausible communities, each with a one-line profile and at least one access channel to verify later. Works solo; halve the timings.
+
+**You need** sticky notes or a shared board, a timer, and two to five people if you have them.
+
+### Step 1 — Anchor a problem space (5–10 min)
+
+Write one plain-language statement.
+
+> We are exploring friction around ______ for ______ in ______ context.
+
+- "Safety during the *walking segments* of commutes for *women* in *urban areas*."
+- "Care coordination for *adult children* supporting *aging parents* across *states*."
+
+::: {.trap}
+**Solution words in the anchor**
+
+"App," "platform," "AI." Any of these in your anchor has already decided the answer, and every group you generate afterward will be a group who might use that thing rather than a group who has that difficulty.
+:::
+
+### Step 2 — Generate communities (10–20 min)
+
+Silent brainstorm for three to five minutes, then share round-robin. Aim for **quantity**: twenty or more. Stretch prompts when you stall:
+
+- Who experiences this most **intensely**?
+- Who is **ignored** by what already exists?
+- Who has **workarounds** nobody sees?
+- Who faces this at **odd times or places**: night shift, rural routes, transfer points?
+- Who is **adjacent**: caregivers, gatekeepers, frontline workers, volunteers?
+
+### Step 3 — Add texture (8–15 min)
+
+For each promising group, write a one-line profile: role, situation, friction.
+
+> **[Group]** who **[do X or live in Y]** often **[friction]** because **[why]**.
+
+- "Professional women who walk from subway to office often avoid side streets because lighting is inconsistent and foot traffic thins."
+- "Night-shift nurses crossing hospital lots carry keys visible because patrols are sparse at 3am."
+
+### Step 4 — Map an orbit (6–10 min)
+
+Name one to three orbit roles per group: the people who influence or constrain the experience. Property managers, transit security, roommates, HR, campus police, rideshare drivers, forum moderators.
+
+Orbit roles are access multipliers, and they reveal constraints you would otherwise discover late.
+
+### Step 5 — Capture light access signals (8–12 min)
+
+For each group, note at least one channel where you could plausibly reach them within a week.
+
+- **Physical** — specific stations, entrances, bus stops, gyms, dorms, employer lobbies.
+- **Digital** — a subreddit, a Slack or Discord, alumni groups, Nextdoor, Meetup, congregation lists.
+- **Warm routes** — student clubs, coworking spaces, HR newsletters, union or local boards.
+
+If you cannot imagine where they are *and* how you would approach, mark access **LOW**. Signals only. You are not concluding anything about access yet.
+
+### Step 6 — Snapshot and shortlist (5–10 min)
+
+Build a one-screen table you can return to when you converge.
+
+| Group label | One-line profile | Orbit roles | Likely access channels | Access | Why this group might hurt |
+|---|---|---|---|---|---|
+| Women walking part of a commute | Subway to office, avoid side streets after dark | Roommates, property manager, transit security | Station exits, coworking list, local subreddit | MED | Lighting, sparsity, vigilance load |
+| Night-shift nurses | 3am lot crossing with fatigue | Hospital security, supervisors | Staff Slack, union board | LOW | Distance, staffing patterns |
+| Female grad students | Campus to housing, late | Roommates, campus police | Grad Slack, department admins | HIGH | Staggered hours, low-cost routes |
+
+Keep ten to thirty rows.
+
+### Bias check (2–4 min)
+
+- Are most of these groups **people like you**, or people who are **easy to reach**? Add three that are neither.
+- Is at least one **non-obvious**: transfers, caregivers, gig workers, the person who cleans up afterward?
+
+::: {.threshold}
+**Diverge is complete when**
+
+- You have **10 to 30** candidate communities, each with a one-line profile.
+- Each has **at least one realistic access channel**, even a tentative one.
+- Orbit roles are noted for your top eight to ten.
+:::
+
+### Field sheet
+
+```
+Anchor: We are exploring friction around ______ for ______ in ______.
+
+Candidate groups (aim for 20+):
+1) ______   2) ______   3) ______   ...
+
+One-line profiles (pick 10-30 to flesh out):
+- [Group] who [do/live] often [friction] because [why].
+
+Orbit roles (1-3 each):
+- [Group]: ______
+
+Access channels (at least one per group):
+- [Group]: ______
+
+Bias check additions (3 non-obvious):
+- ______   - ______   - ______
+```
+
+**Into your data room:** the dated sprint document, the shortlist table as a sheet, and any contact lists or channel links you surfaced.
+
+## Converge — Commit to a Community {#sec-people-converge}
+
+Use this after the divergence sprint, alongside [Commit to a Community](../Choose_People.qmd). Convergence runs in four moves, and the output is one group plus a written record of what you set aside.
+
+**1. Compare.** Lay the candidates side by side and record what you notice across them: size and coherence, evidence of neglect, whether they already spend money or time on workarounds, the access signal from Step 5. Write down the patterns, not just the ratings — a pattern across candidates is often more informative than any single row.
+
+**2. Empathize.** Name the one to three groups that stay in your mind when you are not working. Write down *why* they feel different. This is evidence about whether you will still be curious in week four, and it is not a tiebreaker to apply at the end. Record it before you compare access, so it does not get rationalized.
+
+**3. Assess access.** For each finalist, note what you actually know about whether they are observable, reachable, and willing to engage, and mark which of those three you are assuming rather than evidencing. Note your sampling risk: if everyone you can imagine reaching came through one door, your access is narrower than it looks.
+
+**4. Select.** Name the group. Write the rationale in three or four sentences, and write the caveats and working assumptions beside it. Then write every rejected candidate into a durable note with the reason it was set aside. They are refrigerated, not discarded, and a failed access test sends you back here rather than to the beginning.
+
+**Reflection worth recording:** what surprised you during convergence, which assumptions you updated, and what the next step is now.
+
+**Into your data room:** the comparison board, the empathy notes, the access tracker, and the refrigerated list with reasons.
+
+## Test — Test Your Access {#sec-people-test}
+
+Use alongside [Test Your Access](../Test_Access.qmd). Before you invest in conversations or observations, confirm you can reach these people repeatedly. A few days here prevents wasted months.
+
+::: {.threshold}
+**Minimum access conditions**
+
+Count each only where evidence supports it, not where you have an assumption:
+
+- You can **find them** — specific places, online or offline.
+- You can **engage them** — a message, an intercept, an observation, an introduction.
+- They **respond and open up** — willing to talk, reflect, and tell you something you did not ask for.
+:::
+
+### Design the test
+
+Record before you run it: which channels you are testing, how many people you will attempt, the method (message, intercept, post, visit), and the timeline. Draft the actual opening message, short enough to answer on a phone.
+
+### Keep score while you run it
+
+- What did you actually do?
+- How many people did you attempt to reach?
+- How many responded, and how long were the answers?
+- Surface or depth?
+- What barriers or surprises appeared?
+
+A test you cannot summarize in numbers is an impression, and impressions are generous to whatever you already believed.
+
+### Read the signal
+
+- **Green — strong access.** People responded quickly and openly, and you could do it again next week.
+- **Yellow — weak or no signal.** Responses were few, shallow, or hard to replicate. Often this means too few attempts to mean anything, which is not the same as failure.
+- **Red — blocked.** You could not reliably find, reach, or engage them.
+
+Then check the easy yes: if everyone who answered was already known to you, the test measured your personal network rather than your access to a community.
+
+### Update what you know
+
+What do you now know about access to this group? Which assumptions were validated or overturned? Did you learn anything about subgroups, gatekeepers, or hidden barriers?
+
+**Next steps.** Green, plan your first exploratory conversations. Yellow, refine channels, messaging, or sampling and run it again. Red, return to convergence and your refrigerated list.
+
+**Into your data room:** the messages or posts you sent, the intercept script, and the record of replies including the silence.

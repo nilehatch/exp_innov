@@ -188,6 +188,6 @@ ggplot(data_evening, aes(x = stage, y = Emotion, group = 1)) +
 
 - **From persona:** [Maya Patel](exp-07.a-persona-2025-03-12.qmd)  
 - **From clusters:** Reassurance routines, Route choice & environment, Crowding & vigilance, Predictability & control  
-- **Toolkit link:** [Guide — Experience Mapping](../toolkit/Experience_Map_Guide.qmd)  
+- **Toolkit link:** [Guide — Experience Mapping](../toolkit/Pain_Guides.qmd#sec-experience-map)  
 
 ---

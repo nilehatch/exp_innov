@@ -8,7 +8,7 @@
 
 In this demo, we take the mountain of raw data from [conversations](exp-04.a-results-full-transcript-2025-02-24.qmd) and [observations](exp-05.a-observation-2025-03-05.qmd) and cluster it into themes.  
 
-We demonstrate how we used a **Google Sheet** (one observation per row) imported into a **Miro board** for sticky clustering. It pairs with the Toolkit: [Clustering Guide](../toolkit/Clustering_Guide.qmd).
+We demonstrate how we used a **Google Sheet** (one observation per row) imported into a **Miro board** for sticky clustering. It pairs with the Toolkit: [Clustering Guide](../toolkit/Pain_Guides.qmd#sec-clustering).
 
 The goal is to see what frictions, routines, and emotional cues repeat often enough to point toward **hypotheses of pain**.
 
@@ -176,9 +176,9 @@ Edge clusters are like leftovers: not dinner tonight, but they keep well. Store 
 ## Traceability
 
 - **Toolkit links:**  
-  - [Guide — Clustering into Themes](../toolkit/Clustering_Guide.qmd)  
-  - [Guide — Developing Personas](../toolkit/Persona_Guide.qmd)
-  - [Guide — Experience Mapping](../toolkit/Experience_Map_Guide.qmd)
+  - [Guide — Clustering into Themes](../toolkit/Pain_Guides.qmd#sec-clustering)  
+  - [Guide — Developing Personas](../toolkit/Pain_Guides.qmd#sec-persona)
+  - [Guide — Experience Mapping](../toolkit/Pain_Guides.qmd#sec-experience-map)
 
 - **Related demos:**  
   - Conversations: [Exp 04.a — Sarah Thompson (summary)](exp-04.a-conversation-sarah-thompson-2025-02-24.qmd)  

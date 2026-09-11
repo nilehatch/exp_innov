@@ -1,6 +1,11 @@
 project:
   type: book
   output-dir: _book
+  # Netlify honours a _redirects file at the root of the publish dir. Quarto
+  # only copies it there if it is declared as a resource. Keeps the pre-merge
+  # toolkit URLs alive for anything already linked in a syllabus or an LMS.
+  resources:
+    - _redirects
   # Mirrors cited entries from the Zotero Better BibTeX export into references.bib.
   # See scripts/sync-refs.py and the Quarto publishing playbook.
   pre-render:
@@ -50,30 +55,18 @@ book:
 
     - Conclusion.qmd
 
+    # One page per diamond, each running diverge -> converge -> test, matching
+    # the spine. The old layout had 23 flat entries grouped by artifact type
+    # (templates / people / pain / solution) which made "Convergence Guides" a
+    # category claim that is false: every diamond converges. Diamond is the
+    # page; phase is the section inside it. Old per-guide URLs are preserved by
+    # _redirects, so links shared before this change still resolve.
     - part: toolkit/Experimentation_Toolkit.qmd  # "Experimentation Toolkit"
       chapters:
-        - toolkit/_experiment_templates_separator.qmd
-        - toolkit/Primary_Experiment_Template.qmd
-        - toolkit/Supporting_Experiment_Template.qmd
-        - toolkit/Experiment_Log_Tracker.qmd
-        - toolkit/_people_guides_separator.qmd
-        - toolkit/People_Diverge_Guide.qmd
-        - toolkit/People_Converge_Guide.qmd
-        - toolkit/People_Test_Guide.qmd
-        - toolkit/_pain_guides_separator.qmd
-        - toolkit/Conversation_Guide.qmd
-        - toolkit/Observation_Guide.qmd
-        - toolkit/Role_Play_Guide.qmd
-        - toolkit/Survey_Guide.qmd
-        - toolkit/Secondary_Research_Guide.qmd
-        - toolkit/Clustering_Guide.qmd
-        - toolkit/Persona_Guide.qmd
-        - toolkit/Experience_Map_Guide.qmd
-        - toolkit/Abduction_Guide.qmd
-        - toolkit/Prioritize_Pain_Guide.qmd
-        - toolkit/Test_Pain_Guide.qmd
+        - toolkit/People_Guides.qmd
+        - toolkit/Pain_Guides.qmd
         - toolkit/Pain_Statement_Gallery.qmd
-        - toolkit/_solution_guides_separator.qmd
+        - toolkit/Solution_Guides.qmd
 
     - part: demo/demo-halo-alert.qmd  # "Demonstration: Halo Alert"
       chapters:

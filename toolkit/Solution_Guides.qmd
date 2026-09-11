@@ -1,0 +1,63 @@
+# Solution Guides {#sec-solution-guides .unnumbered}
+
+#### Operational detail for Diamond 3: building and testing solutions {.subtitle}
+
+These are the steps behind [Build and Test Solutions](../Build_Solutions_part.qmd), and they run in the same three phases as the two diamonds before them: widen, narrow, then test before you commit. If you have worked through [People Guides](People_Guides.qmd) and [Pain Guides](Pain_Guides.qmd), the shape here will be familiar. That repetition is the method, not a coincidence.
+
+::: {.limit}
+**This page is still being written**
+
+The divergence guide below is complete. The convergence and testing guides are in progress, and what is here names the methods and what each is for so you can plan around them. Until they land, the chapters carry the judgment and [The Method Layer](../method-layer.qmd) stops at the end of Diamond 2.
+
+Everything on this page concerns solutions you have not built yet. Nothing here asks a customer to commit, and nothing here decides whether the venture is worth doing — that question belongs to [*Is This Worth Doing?*](https://ea.nilehatch.com/) and the decision itself to [*Make the Call*](https://mc.nilehatch.com/).
+:::
+
+## Diverge — Generate Many Solutions {#sec-solution-diverge}
+
+Use with [Ideate Many Solutions](../Ideate_Solutions.qmd). You now hold one validated pain. The temptation is to build the first fix that occurs to you, and the first fix that occurs to you is almost always the one you were already carrying before the fieldwork started.
+
+The purpose of this phase is quantity and range, not quality. You are not choosing yet.
+
+### Brainwriting {#sec-brainwriting}
+
+Brainwriting is brainstorming with the talking removed. Everyone writes in silence, then ideas circulate and get built on. It exists because group brainstorming has two reliable failures: the loudest person anchors the room, and everyone waits their turn instead of thinking.
+
+**You need** index cards or a shared document with one section per person, a timer, and three to six people. Solo variants work, and you lose the building-on step that makes it worth doing.
+
+1. **State the pain, not the brief.** Write the validated pain statement at the top where everyone can see it, as a personal cost. If it drifts back into a problem statement here, every idea that follows will address the problem rather than the cost.
+2. **Silent round (5 min).** Each person writes three ideas. No discussion, no evaluation, no talking at all. Rough is fine; a phrase is fine.
+3. **Pass (5 min).** Hand your sheet to the person on your left. Read what is there and add three more, either new ideas or extensions of what you just read. Build on rather than judge.
+4. **Repeat two or three times.** The later rounds are where the value is. The obvious ideas are exhausted in round one, which is the point of continuing.
+5. **Silent read (5 min).** Everyone reads everything without speaking. Mark what surprises you.
+6. **Only now, talk.** Cluster near-duplicates, keep the odd ones separate, and count what you have. Fewer than thirty from four people in twenty minutes usually means somebody was evaluating while they wrote.
+
+::: {.trap}
+**Evaluating while generating**
+
+The instant "that would never work" enters the room, output drops and does not recover. That judgment is correct and it is early: nearly every idea here will be wrong, and you are generating the range inside which the right one might sit. Convergence has its own phase and its own criteria, and this is not it.
+:::
+
+::: {.threshold}
+**Diverge is complete when**
+
+- You have **thirty or more** distinct candidate solutions.
+- At least three attack the pain from a direction nobody proposed in round one.
+- At least one is **cheap and unglamorous**. The elegant ideas crowd out the practical ones, and the practical one is often what people actually adopt.
+- You can point at the pain statement and say how each cluster relates to it.
+:::
+
+### Other creativity tools {#sec-creativity-tools}
+
+*In progress.* Additional divergence methods to sit alongside brainwriting: analogy and cross-domain transfer, constraint inversion, and the deliberate search for adjacent solutions that already exist in other industries.
+
+## Converge — Narrow to One {#sec-solution-converge}
+
+*In progress.* Use with [Hypothesize a Good Solution](../Hypothesize_Solution.qmd).
+
+A few simple tools for getting from thirty candidates to one worth testing. As in the two diamonds before it, the output is one choice plus a written record of what was set aside and why, so a failed test sends you back to a refrigerated list rather than to the beginning.
+
+## Test — Test Before You Build {#sec-solution-test}
+
+*In progress.* Use with [Test Solutions with Prototypes](../Test_Solution.qmd).
+
+Roughly seven methods belong here, ranging from very cheap to substantial, and they are sequenced so the cheap ones can kill a bad idea before an expensive one is needed. What every one of them tests is the same thing: whether these people would actually take this up, which is a different question from whether they say they like it.

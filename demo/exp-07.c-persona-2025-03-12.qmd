@@ -65,8 +65,8 @@ Anika is in her late 20s, early in her legal career, and fiercely committed to p
   - Predictability and control
 
 - **Toolkit links:**  
-  - [Guide — Persona](../toolkit/Persona_Guide.qmd)  
-  - [Guide — Experience Mapping](../toolkit/Experience_Map_Guide.qmd) (next step)
+  - [Guide — Persona](../toolkit/Pain_Guides.qmd#sec-persona)  
+  - [Guide — Experience Mapping](../toolkit/Pain_Guides.qmd#sec-experience-map) (next step)
 
 - **Related demos:**  
   - [Clustering Themes](exp-06-cluster-themes-2025-03-12.qmd)  

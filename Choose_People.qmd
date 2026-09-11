@@ -98,7 +98,7 @@ Innovation does not begin with building. It begins with noticing, and noticing b
 
 ---
 
-Use the [People Convergence Guide](toolkit/People_Converge_Guide.qmd) from the toolkit to work through this decision with your team, and review the [Halo Alert Demo](demo/exp-02-converge-worksheet.qmd) to see how another team narrowed its options and chose its people.
+Use the [People Convergence Guide](toolkit/People_Guides.qmd#sec-people-converge) from the toolkit to work through this decision with your team, and review the [Halo Alert Demo](demo/exp-02-converge-worksheet.qmd) to see how another team narrowed its options and chose its people.
 
 ---
 

@@ -16,7 +16,7 @@ It supports the demo: [Pain Validation with Maya Patel](exp-09-hypothesize-pain-
 
 ## Protocol {.unnumbered}
 
-Questions asked (from the [Pain Testing Guide](../toolkit/Test_Pain_Guide.qmd)):
+Questions asked (from the [Pain Testing Guide](../toolkit/Pain_Guides.qmd#sec-pain-testing)):
 
 1. On a scale of **1–10**, how severe is the stress of **[Pain A/B/C]**?  
 2. What do you currently **do** to manage it? (workarounds, routines, substitutes)  
@@ -88,4 +88,4 @@ Questions asked (from the [Pain Testing Guide](../toolkit/Test_Pain_Guide.qmd)):
 - **From experience map:** [Maya Patel commute](exp-08.a-experience-map-2025-03-14.qmd) 
 - **From pain hypothesis:** [Maya Patel commuting pain hypothesis](exp-09-hypothesize-pain-2025-03-16.qmd)
 - **Next step:** Summarize these results for the [pain hypothesis test summary](exp-10.a-pain-test-summary-2025-03-20.qmd)
-- **Toolkit link:** [Pain Testing Guide](../toolkit/Test_Pain_Guide.qmd)
+- **Toolkit link:** [Pain Testing Guide](../toolkit/Pain_Guides.qmd#sec-pain-testing)

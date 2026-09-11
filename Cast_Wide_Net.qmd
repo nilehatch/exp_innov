@@ -79,7 +79,7 @@ There is a practical bonus. Orbit roles are frequently your way *in*. If your co
 
 ---
 
-Use the [People Divergence Sprint](toolkit/People_Diverge_Guide.qmd) from the toolkit to widen the net you cast in search of neglected or disenfranchised communities. Also review the [Halo Alert Demo](demo/exp-01-diverge-people-2025-02-19.qmd) to see how a team kept expanding their focus on commuters.
+Use the [People Divergence Sprint](toolkit/People_Guides.qmd#sec-people-diverge) from the toolkit to widen the net you cast in search of neglected or disenfranchised communities. Also review the [Halo Alert Demo](demo/exp-01-diverge-people-2025-02-19.qmd) to see how a team kept expanding their focus on commuters.
 
 ---
 
