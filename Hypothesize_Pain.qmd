@@ -11,23 +11,25 @@ When the surprises slow down, it is time to change gears. You have built a mount
 
 This is where empathy and abduction *work together*. Empathy helps you see the world through your people's eyes. Abduction helps you turn that empathy into *plausible hypotheses of hidden pain*. Together they stop you from settling for the obvious needs that everyone else already sees, and point you toward the deeper, less visible pains that others miss.
 
-## The One Stage With No Fieldwork In It
+## The Stage That Works Only on What You Already Have
 
-Notice something about this chapter before you start working through it. Every other stage of this method puts you in a room with a person. This one does not. The evidence is already gathered. From here to the end of the chapter you are working with text you collected, and there is nothing left that only a human body in a real place can do.
+Several stages of this method keep you at your desk. Casting a wide net and committing to a community both do, and so does much of the solution work later on. This stage differs from those in a way worth naming before you start.
 
-That has a consequence worth being deliberate about: every tool in this chapter *can be handed to an AI*. Clustering, personas, experience maps, abduction, prioritization. Not one of them requires contact.
+Back in Diamond 1 you were at your desk because you had nothing else. There was no evidence yet, so the work was informed guessing. Here you hold a mountain of real material from real people, and the entire job is making sense of it. That is what makes this stage unusual: the input is *text you already own*.
 
 ::: {.column-margin .def-margin}
 **Convergence** — narrowing many observations into few explanations. The opposite of the exploration you just finished, and it uses a different set of muscles.
 :::
 
-That does not mean you should hand all of them over. Handing a step to your AI is a trade, not an upgrade, and the trade is different at every step. Some of these tools cost you nothing to delegate and gain you a great deal. One of them costs you something real. The sections below say which is which as they arrive, and you should decide tool by tool rather than once.
+Which is also why every tool in this chapter can be handed to an AI. Clustering, personas, experience maps, abduction, prioritization. None of them needs you to be anywhere in particular.
 
-If you want the whole procedure in one place, in a form you can paste into your AI and work through end to end, it is in [The Method Layer](method-layer.qmd). The [toolkit guides](toolkit/Experimentation_Toolkit.qmd) hold the same procedure written for a person with a wall and a stack of sticky notes. They are two renderings of one method, and neither is the lesser path.
+That does not mean you should hand all of them over. The trade is different at every step, and at one of them there is no trade at all. Some of these tools cost you nothing to delegate and gain you a great deal. One costs you something real. The sections below say which is which as they arrive, and the decision is tool by tool rather than once.
+
+If you want the whole procedure in one place, in a form you can paste into your AI and work through end to end, it is in [The Method Layer](method-layer.qmd). The [toolkit guides](toolkit/Experimentation_Toolkit.qmd) hold the same steps written for a person with a wall and a stack of sticky notes. They are two renderings of one method, and neither is the lesser path.
 
 ## Why Empathy Tools Matter
 
-Most entrepreneurs want to skip straight from interviews to solutions. That is a mistake. Without tools for empathy you will latch onto surface problems, the things customers will happily tell anyone. Those are not where the advantage lies, because anyone who asked got the same answer.
+You might want to skip straight from interviews to solutions. That would be a mistake. What people volunteer without prompting is the surface layer: the difficulties they already have words for, which every competitor who ever asked has also heard. Those problems are not unsolved because nobody noticed them. They are unsolved for other reasons, and the advantage does not live there.
 
 To find deep unmet pains you have to **organize, reframe, and visualize** the messy data you collected. That is what empathy tools are for. They force you to slow down and *see patterns you would otherwise miss*.
 
@@ -41,7 +43,9 @@ These tools do not replace your data. They *reveal what is hidden inside it*.
 
 ### Clustering into Themes {#sec-cluster-themes-section}
 
-Clustering is the first move. After exploration you are holding dozens, maybe hundreds, of raw notes, quotes, and observations. On their own they feel scattered. Clustering brings order: fragments begin to take the shape of patterns.
+Clustering is the first move. After exploration you are holding dozens, maybe hundreds, of raw notes, quotes, and observations. On their own they feel scattered. Clustering brings order. Fragments begin to take the shape of patterns.
+
+If what you are holding does not yet feel like dozens of separate notes, that is the first task rather than a problem. Break the material down until each piece carries exactly one idea: a direct quote, a behavior you watched, a fact from a document. One recorded conversation usually yields twenty or thirty of these. The [Clustering Guide](toolkit/Clustering_Guide.qmd) covers the mechanics, including how to do it on a wall, in a spreadsheet, or in a shared board.
 
 This is often the first genuine surprise of convergence. Repetition that felt boring in the field becomes signal. When you notice three, five, ten notes pointing at the same frustration, the realization lands: *this is not one person's problem, it is a pattern.*
 
@@ -51,29 +55,45 @@ Clustering does not solve the puzzle. It clears the fog. A mountain of disconnec
 
 That argument is not a rule, and it does not apply everywhere in this chapter. It applies here because the input is evidence *you* gathered and were present for. Re-handling it is a way of re-living the contact.
 
-::: {.trap}
-**The cluster that is one loud person**
-
-A theme is a pattern across people, not across notes. Fifteen quotes from the one participant who loved talking to you is not a theme; it is a transcript. Before you name a cluster, count how many different people are in it. If the answer is one or two, it goes back in the pile.
-:::
-
-If you do hand it over, hand over the sorting and keep the reading.
+**Then hand your clustering to your AI and ask what you missed.** That is the better use of it here. You keep the absorption and still get a second reading from something with no stake in the themes you named, no memory of which participant you liked, and no investment in the story you have started telling yourself.
 
 ::: {.ask-ai}
 **Ask Your AI**
 
 ::: {.prompt}
-Here are my raw field notes and transcripts. Break them into single observations, one idea each, keeping only direct quotes, described behaviors, and facts from documents. Do not paraphrase quotes. Group them by affinity and give each group a short descriptive name of two to four words. Place every observation somewhere, including odd ones that fit nowhere, and list those separately. For each group, tell me how many observations it holds and how many different people contributed to it.
+Here are my raw observations and the clusters I made from them, with my names for each cluster. Audit my work. Tell me which notes look misfiled, which of my clusters are really two things, which two of mine are really one thing, and what grouping you would have made that I did not. Then list every observation I left unplaced and say whether any of them belong somewhere. Do not re-cluster from scratch, and do not tell me my names are fine if they are not.
 :::
 :::
 
 ::: {.checkpoint}
-**Check before you accept the themes**
+**Check before you accept the audit**
 
-- **Read the source spread, not the cluster size.** A big cluster from few people is a loud voice, not a pattern.
-- **Find the group you would have made differently.** Where you disagree with the sorting, something is being flattened, and your disagreement is information about the data.
-- **Look at the leftovers first.** The observations that fit nowhere are where the unexpected theme usually starts. A tidy result with no leftovers means the categories were imposed rather than found.
+- **Read the source spread, not the cluster size.** A big cluster drawn from few people is a loud voice, not a pattern.
+- **Take the disagreements seriously and not automatically.** Where your AI regrouped something, one of you is flattening a distinction. Deciding which is your job, and the answer is often that you know something about that person the note does not carry.
+- **Look at the unplaced notes.** They are the most common place a theme nobody expected begins, and the easiest thing to lose.
 :::
+
+::: {.trap}
+**The cluster that is one loud person**
+
+A theme is a pattern across people, not across notes. Fifteen quotes from the one participant who loved talking to you is a transcript, not a theme.
+
+Every note still gets placed, and nothing goes back in the pile. But before you call a cluster a theme, count how many different people are in it. One or two, and what you are holding is a lead.
+:::
+
+#### When the clusters come out thin
+
+Perhaps a quarter of the time, this stage does not produce a few strong themes. It produces many small ones: clusters of two or three notes, each from a different person, with nothing repeating hard enough to feel like a pattern. Not the usual outcome, but common enough to plan for.
+
+Thin clusters usually are not a failure of clustering. They are the first visible evidence that the group you chose is *actually several groups*. That is the failure mode [Commit to a Community](Choose_People.qmd) warned about, and this is where it surfaces, because pains sort by person and these ones will not sort at all.
+
+Two ways forward, and both are narrowing rather than starting over.
+
+**Narrow the people.** Find the subgroup whose notes hang together best, redefine your community around them, and go back for depth. You are not repeating Diamond 1. You are doing what it asked, with evidence you did not have the first time.
+
+**Narrow the scope around one real cluster.** If a small cluster is coherent and the people in it are reachable, carry it forward with a smaller, sharper definition of who your people are. Three people with the same specific pain is a better starting point than thirty with a vague one.
+
+What you should not do is promote a single observation into a theme because it is interesting. A singleton is a *lead*, not a finding. The move is to go looking for it deliberately: put it into your next few conversations and see whether it recurs. If it does, you have a theme and you found it on purpose. If it does not, refrigerate it. Nobody builds a persona on one person.
 
 ::: {.see-demo}
 In the [Halo Alert demo of clustering into themes](demo/exp-06-cluster-themes-2025-03-12.qmd), dozens of raw quotes and notes from interviews are clustered into themes about safety during evening commutes. Watch the noise of scattered observations turn into patterns you can work with.
@@ -87,7 +107,9 @@ Why bother? Because it is hard to empathize with a cluster of notes. It is much 
 
 A good persona represents more than demographics. "Young women, ages 18 to 24" is a census box. What matters is the specific context that produces the pain: the late-night walk, the texting family members, the constant low-grade worry.
 
-**Hand this one over.** The reason is not speed. A persona you write yourself is a persona you will believe. It is your imagination wearing the clothes of research, and it becomes the frame that survives all the fieldwork that follows, including the parts that should have overturned it. A persona your AI writes is visibly someone else's guess, so you read it critically. Separating the guess from the guesser is worth more here than the hour you save.
+**Hand this one over.** Not for the hour it saves, though it saves one. A persona you write yourself is a persona you will *believe*, and that belief is the cost rather than the benefit. It is your own imagination wearing the clothes of research, and it becomes the frame that survives every piece of fieldwork that should have overturned it. A persona your AI wrote is visibly somebody else's guess, so you argue with it instead of defending it.
+
+This is the rare step where handing over is not a trade at all. You get better evidence *and* the hour.
 
 ::: {.ask-ai}
 **Ask Your AI**
@@ -100,9 +122,11 @@ Using only the clustered observations I gave you, build one persona for each maj
 ::: {.checkpoint}
 **Check before you believe the person**
 
-- **Ask which parts you did not tell it.** Those are the invented parts, and they will be the most vivid ones, because invention is unconstrained.
-- **Check the inference ratio.** A persona that is mostly inference is a character in a story. It may still be useful, but you must not test against it as though it were a finding.
-- **Ask whether someone in the community would recognize this person.** If you cannot answer, that is a question to take back to the field rather than settle at your desk.
+The prompt asked your AI to mark every line *evidenced* or *inferred*, so you do not have to remember what you told it. Read the marks.
+
+- **Go to the inferred lines first.** They will be the most specific and the most colorful, because invention is unconstrained: a detail that has to match a real note can only say what the note says, and a detail that has to match nothing can be as sharp as the model likes. That is why an invented line feels more real while being less real, and it is why you cut it rather than admire it.
+- **Check the ratio.** A persona that is mostly inference is a character in a story. It may still be useful, but you must not test against it as though it were a finding.
+- **Ask whether someone in the community would recognize this person.** If you cannot answer, that is a question for the field rather than for your desk.
 :::
 
 ::: {.see-demo}
@@ -111,7 +135,9 @@ The [Halo Alert demo of developing personas](demo/exp-07.a-persona-2025-03-12.qm
 
 ### Experience Mapping {#sec-experience-map-section}
 
-If clustering shows the patterns and personas put a face on them, experience mapping walks alongside that person through their day. An experience map traces the steps your persona takes toward a goal: commuting home, managing a condition, buying supplies, anything that matters in their life.
+If clustering shows the patterns and personas put a face on them, experience mapping walks alongside that person through their day. An experience map traces the steps your persona takes toward a goal: commuting home, managing a condition, buying supplies, anything that matters in their life.[^mapnames]
+
+[^mapnames]: *Experience map* and *journey map* are often used interchangeably, and they are not the same thing. A customer journey map visualizes a process tied to a specific business or product; an experience map visualizes an end-to-end experience that is agnostic of any particular business [@kalbachMappingExperiencesComplete2026]. At this stage of an expedition, that distinction chooses the term for you. You have no product, so there is no journey with you in it. There is only a person having a hard time, which is exactly what you want to see.
 
 Break the goal into five to ten stages, from before it begins to after it ends. At each stage, fill four lenses:
 
@@ -122,7 +148,9 @@ Break the goal into five to ten stages, from before it begins to after it ends. 
 
 The fourth lens is where unmet needs hide, and the third is what keeps the fourth honest. It is easy to assign a feeling to a stage because it seems like the feeling that belongs there. A quote in the *Saying* row is the check on that.
 
-Mapping is not designing. It is slowing down enough to notice where the bumps really are. Entrepreneurs are regularly surprised to find that the worst moments are not at the start or the end of a journey but in small in-between steps where stress accumulates.
+Two of these four lenses depend entirely on having asked. *What were you thinking right then? What did that feel like?* If those questions were not in your conversations, the Thinking and Feeling rows will be thin here, and no amount of care at this stage will fill them. That is worth knowing before your next conversation rather than after your last one.
+
+You are not looking for what to build yet. Mapping is the opposite of inventing. It is slowing down enough to notice where the bumps really are, and entrepreneurs are regularly surprised to find that the worst moments are not at the start or the end of a journey but in small in-between steps where stress accumulates.
 
 **Leave the empty cells empty.** Where you have no evidence for what someone was thinking at a stage, the cell stays blank. A blank cell is not a flaw in the map; it is a map of what to go back and ask. Filling it with what usually happens converts your assumption into something that will later look like data.
 
@@ -135,7 +163,7 @@ Take this persona and this specific goal, and build an experience map from my ob
 :::
 
 ::: {.checkpoint}
-**Check before you read pains off the map**
+**Check before you work from the map**
 
 - **Find the emptiest stretch.** It is either a part of the journey where nothing happens or a part you never looked at. Only you know which.
 - **Go straight to the contradictions.** Where saying and doing disagree, do not resolve it. That gap is one of the most reliable places an unnamed pain lives.
@@ -146,39 +174,9 @@ Take this persona and this specific goal, and build an experience map from my ob
 In the [Halo Alert demo of experience mapping](demo/exp-08.a-experience-map-2025-03-14.qmd), Maya's journey home is mapped stage by stage. The map shows where her anxiety spikes and how her family becomes drawn into the stress, surfacing several candidate pains at once.
 :::
 
-## Abduction {#sec-abduction-section}
+## What You Are Looking For {#sec-hypothesize-pain-section}
 
-Clustered themes, personas, and maps will show you patterns of stress and friction. Spotting a pattern is not enough. You still have to make the leap: *what hidden pain best explains what I am seeing?* That is abduction, and it is the one part of this chapter that is genuinely hard.
-
-Abduction is educated guessing. Deduction proves from rules and induction generalizes from data. Abduction asks what would most plausibly explain an odd fact, a repeated frustration, an emotional spike. It is ordinary reasoning: the car will not start and you think *maybe the battery*; a friend is unusually quiet and you think *maybe something happened at work*. In entrepreneurship it is how empathy becomes a claim you can test.
-
-Good abduction is active. It is not waiting for the right pain to reveal itself but drafting, comparing, and revising until one explanation stands up better than the others. Two habits separate it from guessing:
-
-**Generate several explanations before judging any of them.** For every friction point, at least three. The first explanation that occurs to you is usually the one you arrived with, and stopping there converts your prior belief into a finding.
-
-**State what argues against each one.** Every candidate has evidence that fits and evidence that sits awkwardly. Writing down the awkward part is what makes the next stage a test rather than a confirmation.
-
-::: {.ask-ai}
-**Ask Your AI**
-
-::: {.prompt}
-Working only from these clusters, personas, and maps, generate candidate pain hypotheses. For each friction point give me at least three competing explanations, including at least one I would find inconvenient. State each as a personal cost rather than as a gap in the world. For every candidate list what in my evidence supports it and what sits awkwardly against it, with pointers. Do not rank them.
-:::
-:::
-
-::: {.checkpoint}
-**Check before you pick one**
-
-- **Ask which one it would find hardest to dismiss**, then ask which one it finds easiest to defend. When those are different candidates, the difference is worth more than either answer.
-- **Delete anything you cannot trace.** Every hypothesis points back to something a real person said or did. If the pointer is missing, the hypothesis came from the model's general knowledge of people like these, which is exactly what this method exists to avoid.
-- **Keep the inconvenient one alive** at least until it is tested. It is the one your own reading of the evidence was least likely to produce.
-:::
-
-::: {.see-demo}
-The [Halo Alert demo of hypothesizing pain](demo/exp-09-hypothesize-pain-2025-03-16.qmd) takes candidate pains through abductive reasoning, drafting and comparing and refining until one stands out as most urgent and testable.
-:::
-
-## What Makes a Good Pain Hypothesis {#sec-hypothesize-pain-section}
+Your maps and clusters are full of friction. Before you start explaining any of it, be precise about what you are trying to end up with, because everyday speech uses the word loosely.
 
 It is tempting to say "the problem is X, so that is the pain." Problems and pains are not the same thing.
 
@@ -212,36 +210,48 @@ A good pain hypothesis is:
 - **Grounded.** It came from your empathy work, and you can point to the note.
 - **Testable.** You can take it to a person and watch them either nod hard or shrug.
 
-::: {.threshold}
-**Ready to Test**
-
-A hypothesis is ready when you can do three things without looking anything up:
-
-- **State it in one sentence** as a personal cost that a specific kind of person pays.
-- **Name its kinds** from the five above.
-- **Point to the person** who gave you the evidence, and say what they said.
-
-All three, or it goes back. The third is the one people skip, and it is the one that separates a hypothesis from a hunch you have grown attached to.
-:::
-
-::: {.see-guide}
-Reading good pain statements is not enough. You will recognize your own concept in one and carry on writing what you were already writing. The [Pain Statement Gallery](toolkit/Pain_Statement_Gallery.qmd) sets weak statements beside stronger ones and names what changed. Most people need the contrast before the distinction becomes usable.
-:::
-
 ::: {.trap}
-**Problem mapping**
+**The problem with solving problems**
 
 It is easy to start with a big vague problem and design a clever solution that addresses one corner of it. If that corner does not touch a pain your people actually feel, customers will not care.
 
 This is why so many problem-driven startups fizzle. The solution maps neatly back to the problem statement and not at all to the lived costs of the people it is meant to serve. Always check: does this hypothesis connect to a personal cost, physical or functional or financial or emotional or social, that someone will *thank you* for relieving?
 :::
 
-### Industrial Abduction
+::: {.see-guide}
+Reading good pain statements is not enough. You will recognize your own concept in one and carry on writing what you were already writing. The [Pain Statement Gallery](toolkit/Pain_Statement_Gallery.qmd) sets weak statements beside stronger ones and names what changed. Most people need the contrast before the distinction becomes usable.
+:::
 
-::: {.mini-case}
-When Gillette entered the Indian market, they did not simply ship razors designed for American bathrooms. They sat on floors with men who shaved using bowls of water, often without electricity. Through empathy they saw pains others had missed: longer hair from infrequent shaving, no running water, an awkward grip.
+## Abduction {#sec-abduction-section}
 
-Their abductive leap was the **Gillette Guard**, a lightweight single-blade razor with a handle designed for that posture. It became a market success. Gillette won not by inventing new technology but by noticing pains that others had walked past.
+Now you know what you are looking for. Clustered themes, personas, and maps will show you patterns of stress and friction, but spotting a pattern is not the same as explaining it. You still have to make the leap: *what hidden pain best explains what I am seeing?* That is abduction, and it is the one part of this chapter that is genuinely hard.
+
+Abduction is educated guessing. Deduction proves from rules and induction generalizes from data. Abduction asks what would most plausibly explain an odd fact, a repeated frustration, an emotional spike. It is ordinary reasoning: the car will not start and you think *maybe the battery*; a friend is unusually quiet and you think *maybe something happened at work*. In entrepreneurship it is how empathy becomes a claim you can test.
+
+Good abduction is active. It is not waiting for the right pain to reveal itself but drafting, comparing, and revising until one explanation stands up better than the others. Two habits separate it from guessing.
+
+**Generate several explanations before judging any of them.** For every friction point, at least three. The first explanation that occurs to you is usually the one you arrived with, and stopping there converts a prior belief into a finding.
+
+**State what argues against each one.** Every candidate has evidence that fits and evidence that sits awkwardly. Writing down the awkward part is what makes the next stage a test rather than a confirmation.
+
+::: {.ask-ai}
+**Ask Your AI**
+
+::: {.prompt}
+Working only from these clusters, personas, and maps, generate candidate pain hypotheses. Treat a pain as the personal cost a specific person bears from living with a problem, never the problem itself, and categorize each candidate against five kinds: physical, functional, financial, emotional, social. If you cannot categorize one, say so, because it is probably still a problem statement. For every friction point give me at least three competing explanations, and include at least one that would be inconvenient for me if it were true: one implying that the direction I appear to favor is wrong, or that the pain is not one I could relieve. For each candidate, list what in my evidence supports it and what sits awkwardly against it, with pointers to the notes. Do not rank them.
+:::
+:::
+
+::: {.checkpoint}
+**Check before you pick one**
+
+- **Ask the AI which candidate it would find hardest to refute**, then ask which it would find easiest to argue for. When those are different candidates, the difference tells you more than either answer does.
+- **Delete anything you cannot trace.** Every hypothesis points back to something a real person said or did. If the pointer is missing, it came from the model's general knowledge of people like these, which is exactly what this method exists to avoid.
+- **Keep the inconvenient one alive** at least until it is tested. It is the candidate your own reading of the evidence was least likely to produce, which is precisely why it is worth testing.
+:::
+
+::: {.see-demo}
+The [Halo Alert demo of hypothesizing pain](demo/exp-09-hypothesize-pain-2025-03-16.qmd) takes candidate pains through abductive reasoning, drafting and comparing and refining until one stands out as most urgent and testable.
 :::
 
 ## Choose One, and Keep the Rest Cold
@@ -266,10 +276,18 @@ Exploration gave you breadth. Convergence gave you depth. You clustered scattere
 
 What you hold now is a small set of well-formed hypotheses about pains your people actually live with, grounded in evidence rather than guesswork. They are still **hypotheses**: provisional explanations that could be wrong. That is not a weakness. The entire value of having stated one carefully is that it can now be tested.
 
-The next chapter shifts from abductive reasoning to validation. The questions change:
+The next chapter shifts from abductive reasoning to validation, and the questions change. Which pains are *real*, and not artifacts of a few vivid stories? Which are *frequent*, and not rare edge cases? Which are *urgent enough* that people lean in when you raise them? This is where conjecture meets evidence again. You began this diamond with exploratory experiments, and you now design **pain validation experiments** to find out whether the pains you hypothesized truly exist, how often they occur, and how much they matter.
 
-- Which pains are *real*, and not artifacts of a few vivid stories?
-- Which are *frequent*, and not rare edge cases?
-- Which are *urgent enough* that people lean in when you raise them?
+Before you go, make sure what you are carrying is ready.
 
-This is where conjecture meets evidence again. You began this diamond with exploratory experiments; you now design **pain validation experiments** to find out whether the pains you hypothesized truly exist, how often they occur, and how much they matter.
+::: {.threshold}
+**Ready to Test**
+
+A hypothesis is ready when you can do three things without looking anything up:
+
+- **State it in one sentence** as a personal cost that a specific kind of person pays.
+- **Name its kinds** from the five above.
+- **Point to the person** who gave you the evidence, and say what they said.
+
+All three, or it goes back. The third is the one people skip, and it is the one that separates a hypothesis from a hunch you have grown attached to.
+:::

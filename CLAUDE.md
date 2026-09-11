@@ -82,6 +82,35 @@ BibTeX auto-export and the path `sync-refs.py` actually uses. **Do not use
 - The script is shared verbatim with Make the Call. Fix bugs in both, or in
   neither.
 
+## The method layer and the toolkit: one method, two renderings
+
+`method-layer.qmd` (appendix) is the procedure rendered for a machine. The toolkit guides
+hold the same steps rendered for a person with a wall and sticky notes. **This is not an AI
+path plus a manual alternative** — that framing rebuilds the two-track confusion and brands
+the hand-worker's route as lesser. Nothing in the prose should suggest one is primary.
+
+Why EI does this when ITWD deleted its toolkits: ITWD's toolkits measured zero executable
+lines, and ITWD has the Profit Analytics **app** as its no-AI path. EI's guides carry real
+steps and EI has no app. Also note ITWD's second rendering is code, which cannot silently
+disagree with the layer. EI's is prose, which can.
+
+**The drift rule, settled 10 Sep 2026: the guide is authoritative for steps. The layer is
+derived from it.** When they disagree, the guide wins and the layer is corrected to match.
+Never patch only one.
+
+The AI/human trade is **per tool, and it is not always a trade.** Personas hand over with no
+cost at all: a persona you write you believe, and belief is the failure. Clustering is a real
+trade, because handling the notes is how you absorb them — so the chapter tells the reader to
+cluster by hand and then hand the clustering to the AI for an audit. The full reasoning is in
+`~/notes/10-Books/ent-innovation-ei/method-layer-and-the-ai-split.md` §4b.
+
+**Open: the toolkit needs restructuring, not deleting.** Measured 9 Sep, only 38-52% of each
+standard-form guide is Steps + Tips; the other half is Purpose / Why It Matters / Method
+Options, which is chapter content sitting in the toolkit. Cutting each to a one-page procedure
+card would halve the toolkit, return the framing to the chapters, and shrink the drift surface
+to the only part that was ever operational. Twenty-three flat entries also want grouping by
+diamond.
+
 ## Styling
 
 - `base.css` is **canonical and shared with Make the Call** — same file, byte for
