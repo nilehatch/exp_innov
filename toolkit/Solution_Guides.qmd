@@ -6,64 +6,80 @@ These are the steps behind [Build and Test Solutions](../Build_Solutions_part.qm
 
 | | |
 |---|---|
-| [Diverge — Generate Many Solutions](#sec-solution-diverge) | [Brainwriting](#sec-brainwriting) · [other creativity tools](#sec-creativity-tools) |
-| [Converge — Narrow to One](#sec-solution-converge) | In progress. |
-| [Test — Test Before You Build](#sec-solution-test) | In progress. |
+| [Diverge — Generate Many Solutions](#sec-solution-diverge) | [Fill the Catalog](#sec-catalog) · [Generate](#sec-generate) · [Recombine](#sec-recombine) |
+| [Converge — Narrow to One](#sec-solution-converge) | Feasibility filter · dot voting · screening matrix · SIT |
+| [Test — Test Before You Build](#sec-solution-test) | The seven tests, and which question each one asks |
 
 ::: {.limit}
 **This page is still being written**
 
-The divergence guide below is complete. The convergence and testing guides are in progress, and what is here names the methods and what each is for so you can plan around them. Until they land, the chapters carry the judgment and [The Method Layer](../method-layer.qmd) stops at the end of Diamond 2.
+Unlike the other two diamonds, Diamond 3 never had guides: its methods were written into the chapters and stayed there. So these pages are being **extracted from** the chapters rather than written beside them, and the extraction is partway done. Divergence is complete here. Convergence and testing name every method and what each one asks, and the chapters still carry them in full. Follow the links. [The Method Layer](../method-layer.qmd) stops at the end of Diamond 2.
 
 Everything on this page concerns solutions you have not built yet. Nothing here asks a customer to commit, and nothing here decides whether the venture is worth doing — that question belongs to [*Is This Worth Doing?*](https://ea.nilehatch.com/) and the decision itself to [*Make the Call*](https://mc.nilehatch.com/).
 :::
 
 ## Diverge — Generate Many Solutions {#sec-solution-diverge}
 
-Use with [Ideate Many Solutions](../Ideate_Solutions.qmd). You now hold one validated pain. The temptation is to build the first fix that occurs to you, and the first fix that occurs to you is almost always the one you were already carrying before the fieldwork started.
+Use with [Ideate Many Solutions](../Ideate_Solutions.qmd), which carries the reasoning: why recombination works, and why a single compelling idea is a low-probability bet that feels like a good one. Three moves, in order.
 
-The purpose of this phase is quantity and range, not quality. You are not choosing yet.
+### Move One — Fill the Catalog {#sec-catalog}
 
-### Brainwriting {#sec-brainwriting}
+Recombination cannot combine what you do not have. Before generating anything, stock the pool: adjacent solutions from other industries, how this difficulty is handled elsewhere, what your people already improvise. A thin catalog produces thin ideas and the cause is invisible at the time.
 
-Brainwriting is brainstorming with the talking removed. Everyone writes in silence, then ideas circulate and get built on. It exists because group brainstorming has two reliable failures: the loudest person anchors the room, and everyone waits their turn instead of thinking.
+### Move Two — Generate {#sec-generate}
 
-**You need** index cards or a shared document with one section per person, a timer, and three to six people. Solo variants work, and you lose the building-on step that makes it worth doing.
+**Brainstorming.** Useful, and it has two failure modes that the next method exists to fix: the loudest person anchors the room, and evaluation creeps in while people are still producing.
 
-1. **State the pain, not the brief.** Write the validated pain statement at the top where everyone can see it, as a personal cost. If it drifts back into a problem statement here, every idea that follows will address the problem rather than the cost.
-2. **Silent round (5 min).** Each person writes three ideas. No discussion, no evaluation, no talking at all. Rough is fine; a phrase is fine.
-3. **Pass (5 min).** Hand your sheet to the person on your left. Read what is there and add three more, either new ideas or extensions of what you just read. Build on rather than judge.
-4. **Repeat two or three times.** The later rounds are where the value is. The obvious ideas are exhausted in round one, which is the point of continuing.
-5. **Silent read (5 min).** Everyone reads everything without speaking. Mark what surprises you.
-6. **Only now, talk.** Cluster near-duplicates, keep the odd ones separate, and count what you have. Fewer than thirty from four people in twenty minutes usually means somebody was evaluating while they wrote.
+**6-3-5 Brainwriting.** The book's primary generation tool, and the numbers are the method: **six** participants, **three** ideas each, **five** minutes a round. Each round you pass your sheet to your **right** and use what you received as the prompt for three new ideas.
 
-::: {.trap}
-**Evaluating while generating**
+Run **six rounds** and a team of six produces around a hundred ideas in about half an hour. Teams do not believe this until they have done it, and that reframing is worth more than the technique: idea generation stops being days of staring and becomes a timed, almost mechanical half hour.
 
-The instant "that would never work" enters the room, output drops and does not recover. That judgment is correct and it is early: nearly every idea here will be wrong, and you are generating the range inside which the right one might sit. Convergence has its own phase and its own criteria, and this is not it.
-:::
+It fixes both brainstorming failures at once. Nobody can dominate, because everyone writes simultaneously. Nobody can evaluate, because everyone is busy producing. What happens instead is *building* — each sheet arrives carrying someone else's thinking and you extend it.
+
+- Adjust the numbers to your team and keep the structure. Four participants and four rounds still works.
+- Keep every sheet. They are the raw material for recombination and for the next chapter.
+- Debrief afterward, never during. The session ends, then you look at what you have.
+
+### Move Three — Recombine {#sec-recombine}
+
+The move teams skip, because it looks like effort and arrives dressed in overalls.
+
+**SCAMPER** and **Systematic Inventive Thinking** are the two structured recombination methods the chapter sets out; SIT returns in the next phase, applied to high-scoring market requirements. Work the pile into better candidates rather than treating generation output as finished.
 
 ::: {.threshold}
 **Diverge is complete when**
 
-- You have **thirty or more** distinct candidate solutions.
-- At least three attack the pain from a direction nobody proposed in round one.
-- At least one is **cheap and unglamorous**. The elegant ideas crowd out the practical ones, and the practical one is often what people actually adopt.
-- You can point at the pain statement and say how each cluster relates to it.
+Judge the pool on three measures, not one.
+
+- **Quantity.** The raw count, of *distinct concepts*. Twenty variants of one idea is one idea.
+- **Variety.** Sort the pool into groups. If everything lands in two or three clusters, you explored a narrow slice and should return to recombination with a different constraint.
+- **Novelty.** How far the pool reaches past the obvious. Keep the seemingly infeasible ones; they are frequently unusable as stated and frequently the parent of something usable.
+
+Large, varied, and reaching is ready for screening. Large but narrow is not: it is one idea wearing many hats, and screening will simply hand that idea back to you.
 :::
-
-### Other creativity tools {#sec-creativity-tools}
-
-*In progress.* Additional divergence methods to sit alongside brainwriting: analogy and cross-domain transfer, constraint inversion, and the deliberate search for adjacent solutions that already exist in other industries.
 
 ## Converge — Narrow to One {#sec-solution-converge}
 
-*In progress.* Use with [Hypothesize a Good Solution](../Hypothesize_Solution.qmd).
+Use with [Hypothesize a Good Solution](../Hypothesize_Solution.qmd). *Procedure extraction in progress; the chapter carries the full method today.*
 
-A few simple tools for getting from thirty candidates to one worth testing. As in the two diamonds before it, the output is one choice plus a written record of what was set aside and why, so a failed test sends you back to a refrigerated list rather than to the beginning.
+Four filters, applied in order from cheapest to most deliberate: the **feasibility filter** as a first pass, **dot voting** to surface where team conviction actually sits, the **screening matrix** to score candidates against market requirements and a reference solution, and **Systematic Inventive Thinking** applied to the high-scoring requirements to improve what survives rather than merely ranking it.
 
 ## Test — Test Before You Build {#sec-solution-test}
 
-*In progress.* Use with [Test Solutions with Prototypes](../Test_Solution.qmd).
+Use with [Test Solutions with Prototypes](../Test_Solution.qmd). *Procedure extraction in progress; the chapter carries each test in full today.*
 
-Roughly seven methods belong here, ranging from very cheap to substantial, and they are sequenced so the cheap ones can kill a bad idea before an expensive one is needed. What every one of them tests is the same thing: whether these people would actually take this up, which is a different question from whether they say they like it.
+Seven tests. The first distinction to hold on to is what each one asks: **validation** faces the customer and asks whether you are solving the right problem for the right people; **verification** faces the workbench and asks whether the thing can be built and works. One rough prototype often serves both.
+
+| test | what it asks |
+|---|---|
+| [Validation testing](../Test_Solution.qmd) | Does this solve the pain, for these people? |
+| [Verification testing](../Test_Solution.qmd) | Can it be built, and does it work as intended? |
+| [Wow factor test](../Test_Solution.qmd) | Is there emotional pull, not merely acceptance? |
+| [\$100 test](../Test_Solution.qmd) | Which features do they actually value, given a forced trade-off? |
+| [Wizard of Oz test](../Test_Solution.qmd) | Would they use it, if the manual version behaves like the real one? |
+| [Smoke test](../Test_Solution.qmd) | Will anyone act on the offer before it exists? |
+| [Profit analytics](../Test_Solution.qmd) | At what they would pay, does this earn more than it costs? |
+
+**Wizard of Oz is not only a test.** It is also an *input* to several of the others, because it is how you put a solution concept in front of someone convincingly enough that their reaction means something. Reach for it whenever a test needs the customer to experience the solution rather than imagine it.
+
+**Profit analytics is deliberately partial here.** The chapter introduces what the test does and when it belongs, then hands off: estimating a demand curve and computing expected profit properly is a book's worth of method, and that book is [*Is This Worth Doing?*](https://ea.nilehatch.com/). The overlap is intentional. A reader should leave knowing the test exists and why it comes last, and should not try to run it from what is written here.

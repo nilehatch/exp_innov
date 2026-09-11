@@ -187,7 +187,7 @@ Profitability Analytics Testing is focused on assessing the financial viability 
 
 -   **Positive Outlook**: Conversely, a high expected profit indicates a strong market potential, justifying further investment and market entry.
 
--   **Detailed Analysis**: For a comprehensive guide to estimating demand curves and detailed profitability analysis, refer to the book *Hatchet or Hatch It: Making Launch Decisions from Profit Analytics Evidence*.
+-   **Detailed Analysis**: This section introduces what the test does and when it belongs; it is not enough to run one. For estimating demand curves and computing expected profit properly, see [*Is This Worth Doing?*](https://ea.nilehatch.com/), which is that method's book.
 
 Profit Analytics Testing stands as a critical final validation step, combining financial analysis with customer value perception. It moves beyond theoretical customer feedback, grounding the innovation's potential success in tangible economic terms. This testing phase helps entrepreneurs make informed decisions about market entry, backed by a clear understanding of the innovation's financial prospects.
 

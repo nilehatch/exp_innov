@@ -31,14 +31,61 @@ It is one of a family of books that share a hub-and-spoke architecture:
 **The hard boundary: EI hands off to Make the Call at the moment of deciding.**
 EI must not re-argue MtC's thesis. When a passage starts explaining *how to weigh
 evidence and commit*, it has crossed the line — link to MtC instead. The same
-applies at the other edge: profit analytics belongs to ITWD, and
-`Test_Solution.qmd` currently overruns that boundary (a known, unfixed problem).
+applies at the other edge: profit analytics belongs to ITWD.
+
+**Correction, 11 Sep 2026.** This file used to say `Test_Solution.qmd` *overran*
+that boundary and called it a known unfixed problem. That was wrong, and it had
+been repeated for weeks. Profit analytics is the seventh solution test, and the
+chapter introduces what it does and when it belongs and then explicitly says
+there is not space to cover it properly. **The overlap is deliberate**: the reader
+should leave knowing the test exists and why it comes last, and should not try to
+run it from what is written there. That is the boundary working, not failing.
+What was genuinely wrong is now fixed: the hand-off pointed at *Hatchet or Hatch
+It*, a title ITWD no longer uses, with no link. It now names the current book and
+links to it.
 
 There is no required reading order. Each book must stand alone, which means
 cross-references are pointers, not prerequisites.
 
 If you notice a claim in EI that contradicts one in a sibling book, surface it
 rather than quietly reconciling it.
+
+## Diamond 3 is different: the chapters are the source
+
+For Diamonds 1 and 2, the guides hold procedure the chapters had lost, so revising a
+chapter meant pulling judgment *up* out of its guide. **Diamond 3 inverts this and it
+is a historical accident worth knowing.** The LaTeX originals mixed principle and
+method together in the chapter. The ChatGPT-era pass split them, moving methods out
+into guides — but only ever got as far as Diamonds 1 and 2. D3 guides were never
+created, so nothing migrated out and **the three D3 chapters still carry their methods
+in full**: 6-3-5 brainwriting, SCAMPER, SIT, the feasibility filter, dot voting, the
+screening matrix with a worked demonstration, and all seven solution tests.
+
+So `toolkit/Solution_Guides.qmd` must be **extracted from** the chapters, never written
+beside them. Writing one independently produces drift, which already happened once:
+a brainwriting guide written from scratch on 11 Sep said *pass left, two or three
+rounds* while `Ideate_Solutions.qmd` says **6-3-5, pass right, six rounds**, with a
+citation to `rohrbachCreativeRulesMethod1969`. Check the chapter first, every time.
+
+NWH's caveat, worth testing when D3 is revised: the chapters did get one revision
+round, so something may have been dropped in it.
+
+**The seven solution tests**, all in `Test_Solution.qmd`: validation, verification,
+wow factor, \$100, Wizard of Oz, smoke, profit analytics. Wizard of Oz is also an
+*input* to several of the others, since it is how a concept gets in front of someone
+convincingly enough for the reaction to mean anything.
+
+## The split is judgment/procedure, not principles/methods
+
+A refinement from the Diamond 2 work, and it answers NWH's doubt about whether the
+ChatGPT-era split was right. Principles-versus-methods sends everything operational to
+the guide, including *operational judgment* — and that is where it goes wrong. Four
+times in one session the guide turned out to hold judgment the chapter needed: the
+*Saying* lens, urgency x feasibility, the fourth pain-test criterion, the sample
+floors. Each one improved the chapter when moved up.
+
+The working rule: **the chapter takes every judgment, including operational ones. The
+guide keeps steps.** Gallery shows good beside bad; the layer is the machine rendering.
 
 ## Prose
 
@@ -59,7 +106,7 @@ markdown links to the `.qmd` path, with an optional anchor:
 
 ```markdown
 [What Makes a Good Pain Hypothesis](Hypothesize_Pain.qmd#sec-hypothesize-pain-section)
-[Test Pain Guide](../toolkit/Test_Pain_Guide.qmd)     <!-- from demo/ or toolkit/ -->
+[Pain Testing](../toolkit/Pain_Guides.qmd#sec-pain-testing)   <!-- from demo/ or toolkit/ -->
 ```
 
 This is deliberate and matches Make the Call. `@fig-` and `@tbl-` refs are still
