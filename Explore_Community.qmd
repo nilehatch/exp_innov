@@ -39,11 +39,11 @@ As long as new stories keep surprising you, keep exploring. When new data starts
 
 
 
-## Finding and Engaging Your People
+## Finding and Engaging Your People {#sec-finding-people}
 
 Now that you’ve selected your community and confirmed access in principle, the next challenge is practical: where do these people actually gather, and how do you engage them in a way that leads to real exploration? You are still testing access, as you did at the end of the first diamond, but now for a different purpose: finding which channels, places, and approaches reliably put you inside their world so you can run ethnographic, exploratory experiments (conversation, observation, shadowing, role play) that build your mountain of data.
 
-### Show Up Where They Are
+### Show Up Where They Are {#sec-show-up}
 
 Begin with the day in the life. Where does this community physically end up, and when? Worksites, clinics, gyms, trade counters, meetups, service desks, transit hubs. What you are looking for is density and dwell time *together*. A pharmacy counter has plenty of people and nobody stays; a dialysis waiting room has both, which is why you can learn something there.
 
@@ -396,7 +396,7 @@ At some point, though, both fieldwork and desk research begin to repeat themselv
 
 ---
 
-## When Enough Is Enough
+## When Enough Is Enough {#sec-enough}
 
 Exploration can feel endless. There is always another person you could interview, another setting to observe, or another report to read. But at some point, the return on effort drops. The signal to stop is not exhaustion or impatience.  It is the decline of **information entropy** that is your signal to stop gathering and move into abductive hypothesizing (sense-making).^[The concept of information entropy comes from Claude Shannon’s work in communication theory [@shannonMathematicalTheoryCommunication1948].]
 

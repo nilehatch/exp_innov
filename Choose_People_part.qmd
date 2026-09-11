@@ -27,6 +27,8 @@ So we will be careful with words. Until a pain defines them, what you have is **
 
 This is why teams reach the end of the process serving different people than they set out to study. Nobody made a mistake. The people you finish with are usually a subset of the people you began with, and occasionally a group you could not have named at the start. Expect it, and it stops being alarming.
 
+The hand-over happens at a specific moment rather than gradually: once a pain is validated, your people are whoever carries it, and the boundary can be drawn from the evidence you collected. The procedure for drawing it is [From Community to People](toolkit/Pain_Guides.qmd#sec-boundary), at the end of the pain guides. It is worth reading now, because knowing what the community is eventually *for* changes how you choose one.
+
 
 ## The Tyranny of the Market {.unnumbered}
 

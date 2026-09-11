@@ -12,7 +12,7 @@ id: sec-commit-community-chapter
 
 After diverging to explore a wide range of possible communities, the next step is to **converge**: to move from possibilities to a single, well-considered choice. You are choosing where to spend the next stretch of your attention: the community you will study closely enough that a pain can surface from it.
 
-Remember that you are not naming your customers. That group is defined by a shared pain, and you do not know the pain yet. If you did the work of divergence well you now have several promising communities in view, and the goal is not to pick the one you like most or the one that feels most familiar. It is to choose the community where a real pain is most likely to surface, and where you can get close enough to see it.
+Remember that you are not naming your customers. That group is defined by a shared pain, and you do not know the pain yet; once you do, your people are whoever carries it, and [From Community to People](toolkit/Pain_Guides.qmd#sec-boundary) is how you draw that boundary when the time comes. If you did the work of divergence well you now have several promising communities in view, and the goal is not to pick the one you like most or the one that feels most familiar. It is to choose the community where a real pain is most likely to surface, and where you can get close enough to see it.
 
 Convergence is uncomfortable in a specific way. Every community you set aside is a search you are choosing not to run, and none of them has been ruled out. You are not eliminating bad options; you are giving up good ones so that one of them can have your full attention.
 

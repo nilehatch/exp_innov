@@ -8,7 +8,7 @@ The same steps in machine-readable form, for working with an AI, are Stages 4 th
 
 | | |
 |---|---|
-| **Diverge** | [Conversation](#sec-conversation) · [Observation](#sec-observation) · [Role Play](#sec-role-play) · [Secondary Research](#sec-secondary-research) |
+| **Diverge** | [Getting People to Talk](#sec-recruiting) · [Conversation](#sec-conversation) · [Observation](#sec-observation) · [Role Play](#sec-role-play) · [Secondary Research](#sec-secondary-research) |
 | **Converge** | [Clustering](#sec-clustering) · [Personas](#sec-persona) · [Experience Mapping](#sec-experience-map) · [Abduction](#sec-abduction) · [Prioritize and Refrigerate](#sec-prioritize) |
 | **Test** | [Pain Testing](#sec-pain-testing) · [Targeted Poll](#sec-survey) |
 | **Hand off** | [From Community to People](#sec-boundary) |
@@ -16,6 +16,90 @@ The same steps in machine-readable form, for working with an AI, are Stages 4 th
 Alongside these, the [Pain Statement Gallery](Pain_Statement_Gallery.qmd) shows weak pain statements beside strong ones. Use it before you accept anything you have written.
 
 ## Diverge — Explore the Community {#sec-pain-diverge}
+
+### Getting People to Talk {#sec-recruiting}
+
+Every method below assumes somebody agreed to talk to you. That assumption is where most exploration actually stalls, and it stalls quietly: you do not decide to stop, you just run out of people and drift into analyzing what you already have. Recruiting is a process, and it is worth running deliberately rather than opportunistically.
+
+#### The routes, in order of yield
+
+They are not equally good, and the ranking is stable across almost every community.
+
+1. **A warm introduction.** Someone who knows both of you says you are worth twenty minutes. Almost always accepted, and the conversation starts warmer, which means the stories come faster.
+2. **A gatekeeper introduction.** The manager, the front-desk clerk, the moderator, the charge nurse. See [Show Up Where They Are](../Explore_Community.qmd#sec-show-up) for how to approach one. A gatekeeper who understands your ask will often hand you better participants than you would have found alone.
+3. **A post where they already gather.** Higher yield than a cold message because the group has already granted you a kind of standing by letting you post.
+4. **A cold message.** Low yield, unlimited supply, and the only route that scales without anyone's permission. Worth doing in volume precisely because it is cheap.
+5. **An intercept in person.** Lowest commitment for them and the shortest conversation you will get, which makes it excellent for access testing and weak for depth.
+
+The practical consequence is worth sitting with: most people spend their effort on route four while their results come from routes one and two. Build a habit of converting every conversation into the next one, and the expensive route stops being the main one.
+
+#### The cold message
+
+It has one job: to make a stranger believe that twenty minutes with you is low-risk and mildly interesting. It is not a pitch, and anything that resembles a pitch converts it into one.
+
+```
+Subject: 20 minutes about [the specific difficulty]?
+
+Hi [name],
+
+I am [who you are] trying to understand how [specific community] handle
+[specific recurring difficulty]. I am not selling anything and I do not
+have a product.
+
+I would like to hear about the last time it happened to you. Twenty
+minutes, by phone or wherever suits you.
+
+[A scheduling link, or two concrete times.]
+
+Either way, thank you for reading.
+[your name]
+```
+
+Every line is doing a job, and dropping any one of them measurably hurts:
+
+- **You say who you are.** Anonymity reads as sales. A student or a researcher or a founder who names themselves is a person.
+- **You name the difficulty specifically.** "How you handle evening pickup when you are running late" gets answered. "Your experience with childcare" does not, because it sounds like the opening of a survey.
+- **You disclaim selling explicitly.** They are already assuming you are selling. Saying it first is worth the line.
+- **You ask for a story, not an opinion.** *The last time it happened* is a question they can answer without preparing, and it is also the only kind of answer worth having.
+- **You bound the time and mean it.** Twenty minutes, and then end at twenty minutes unless they keep going. People who felt respected refer others.
+- **You remove the scheduling friction.** A link or two specific times. "Let me know what works" adds a round trip and loses a third of the people who were willing.
+- **You give a graceful exit.** It costs you nothing and it is the difference between a non-reply and an apologetic non-reply, which sometimes becomes a referral anyway.
+
+Swap in your own version once you have one that works. The point of the template is the structure, not the wording.
+
+#### The referral ask, which is the whole game
+
+Ask at the end of every conversation, when they have just finished being helpful and are inclined to keep being helpful. The generic version gets a generic answer:
+
+> *Do you know anyone else I should talk to?* → "Hmm, let me think about it."
+
+Two changes fix it. **Ask for a role rather than a person**, so they are searching a category instead of their whole memory. Then **ask for the introduction rather than the name**, because a name is a cold message and an introduction is route one.
+
+> *Who is the person you would call when this happens?*
+>
+> *Would you be willing to introduce me?*
+
+::: {.limit}
+**What referrals cost you**
+
+Referrals compound, and they compound inside one network. Ten conversations reached through one person's contacts can feel like saturation while sampling a single door. This is precisely the trap named in [When Enough Is Enough](../Explore_Community.qmd#sec-enough): *repetition across one channel is not saturation.*
+
+So mix routes deliberately. For every few referrals, reach one person who has no connection to the others, even though it is the more expensive conversation. When a genuinely unconnected person reports the same pain, that is worth more than the previous five combined.
+:::
+
+#### Plan with your own numbers
+
+You already measured your response rate during the [access test](Community_Guides.qmd#sec-community-test). Use that rather than a rule of thumb: if a tenth of your messages produced a conversation, then eight conversations means eighty messages, and knowing that in advance is the difference between a plan and a slow surprise.
+
+Keep a simple log of who you approached, through which route, and what happened. Two weeks in, it will tell you which route is actually working for this community, and that is rarely the one you expected.
+
+#### When nobody will talk
+
+First assume it is the channel rather than the community. A cold message fails where a gatekeeper introduction succeeds, and the [orbit you mapped during divergence](Community_Guides.qmd#sec-community-diverge) is the list of channels you have not tried. [Test Your Access](../Test_Access.qmd) covers what to do when changing the channel does not work either.
+
+#### Ethics, briefly
+
+Say what you are doing and why, before they agree rather than after. Get consent for recordings or notes. Offer a small thank-you if you can, small enough that it is a courtesy rather than a payment. In sensitive contexts, prepare opt-out language and say plainly what you will do with what they tell you. All of this is also self-interested: the people you treated well are the people who introduce you to the next three.
 
 ### Conversation {#sec-conversation}
 
