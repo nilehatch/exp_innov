@@ -6,6 +6,15 @@ These are the steps behind [Find and Validate Pains](../Find_Pain_part.qmd). The
 
 The same steps in machine-readable form, for working with an AI, are Stages 4 through 10 of [The Method Layer](../method-layer.qmd). Three of the methods below are yours alone and no model can run them, which is why they are the longest entries here: conversation, observation, and role play all require you to be in the room.
 
+| | |
+|---|---|
+| **Diverge** | [Conversation](#sec-conversation) · [Observation](#sec-observation) · [Role Play](#sec-role-play) · [Secondary Research](#sec-secondary-research) |
+| **Converge** | [Clustering](#sec-clustering) · [Personas](#sec-persona) · [Experience Mapping](#sec-experience-map) · [Abduction](#sec-abduction) · [Prioritize and Refrigerate](#sec-prioritize) |
+| **Test** | [Pain Testing](#sec-pain-testing) · [Targeted Poll](#sec-survey) |
+| **Hand off** | [From Community to People](#sec-boundary) |
+
+Alongside these, the [Pain Statement Gallery](Pain_Statement_Gallery.qmd) shows weak pain statements beside strong ones. Use it before you accept anything you have written.
+
 ## Diverge — Explore the Community {#sec-pain-diverge}
 
 ### Conversation {#sec-conversation}
@@ -253,3 +262,32 @@ It surfaces the *well-known* pains and ranks them. That is useful, and it is not
 :::
 
 **Common mistakes.** Too long, so fatigue corrupts the data. Product-centric: "would you buy this?" Future-focused: "would you want a tool that…". Leading or loaded wording.
+
+## Hand off — From Community to People {#sec-boundary}
+
+This is the step that has no phase, because it is the moment the question changes. Everything before it treated your community as a search space. Validation has now told you that a specific pain is real for specific people, which means your people can finally be defined by something better than the label you started with. They are the ones who *carry this pain*.
+
+Do this once, immediately after a pain passes, and before you go anywhere near a solution.
+
+1. **List everyone whose evidence validated the pain.** Not the whole sample. The ones who recalled a specific instance, ranked it high, and had already built a workaround.
+
+2. **Ask what they share besides the community label.** Almost always it is a **circumstance**, not a category: works nights, has no car, is new to the role, lives more than a certain distance out, is the only one in the household who drives. The label got you into the room. The circumstance is what actually produces the pain.
+
+3. **List who did not report it.** People inside your original community who shrugged. This is the more informative list and the one everybody skips. The boundary is drawn by the contrast, not by the confirmations, and without the shrugs you have a description of some people rather than a boundary around them.
+
+4. **Write the boundary as a prediction and then test it.** *Our people are those who carry [pain] because [circumstance].* Now name someone who sits just outside it, predict that they do not have the pain, and go and check. A boundary you cannot be wrong about is a label, not a finding.
+
+5. **Expect it to move, in either direction.** Narrower than your community is the common case. **Wider is the one worth watching for:** the circumstance may hold for people in communities you never searched, because the community was only ever the door you happened to walk through. If step 2 produced a circumstance rather than a category, go and look for it elsewhere before you assume your market is the room you started in.
+
+6. **Write down who you now need to talk to and have not.** That list is the first input to Diamond 3, because the people who will adopt a solution are this boundary's population and not your original sample.
+
+::: {.threshold}
+**The boundary is drawn when**
+
+- You can state it as **a circumstance**, not a demographic or a category.
+- You can name **people inside your original community who fall outside it**, and say why.
+- You have made **one prediction about someone outside the boundary** and checked it.
+- You know whether your people are **narrower than, wider than, or different from** the community you chose, and you can say which.
+:::
+
+There is no perfect community statement, because the community was never the thing you were looking for. It was an instrument for searching unknown territory, chosen to make repetition likely enough to notice. What you were looking for is here, at the end: the people, found through their pain.

@@ -1,4 +1,4 @@
-# People Guides {#sec-people-guides .unnumbered}
+# Community Guides {#sec-community-guides .unnumbered}
 
 #### Operational detail for Diamond 1: choosing where to look {.subtitle}
 
@@ -6,7 +6,25 @@ These are the steps behind [Choose Where to Look](../Choose_People_part.qmd). Th
 
 The same steps in machine-readable form, for working with an AI, are Stages 1 through 3 of [The Method Layer](../method-layer.qmd).
 
-## Diverge — Cast a Wide Net {#sec-people-diverge}
+| | |
+|---|---|
+| [Diverge — Cast a Wide Net](#sec-community-diverge) | A timed sprint producing 10 to 30 candidate communities with access signals. |
+| [Converge — Commit to a Community](#sec-community-converge) | Compare, notice the pull, assess access, select, and refrigerate the rest. |
+| [Test — Test Your Access](#sec-community-test) | Confirm you can reach them repeatedly before investing in conversations. |
+| [Community Choice Gallery](Community_Choice_Gallery.qmd) | Badly and well scoped communities side by side, with what makes the difference. |
+
+::: {.limit}
+**A community is not yet your people**
+
+What you choose here is a **search space**, not a customer. You are picking a population
+coherent enough that pains repeat inside it and varied enough that you can tell what causes
+them. Who your people actually are gets settled in Diamond 2, by who turns out to carry the
+validated pain, and the answer can land outside the community you started in. The procedure
+for drawing that boundary is [From Community to People](Pain_Guides.qmd#sec-boundary) at the
+end of the pain guides.
+:::
+
+## Diverge — Cast a Wide Net {#sec-community-diverge}
 
 A 45 to 90 minute sprint that produces a shortlist of 10 to 30 plausible communities, each with a one-line profile and at least one access channel to verify later. Works solo; halve the timings.
 
@@ -110,7 +128,7 @@ Bias check additions (3 non-obvious):
 
 **Into your data room:** the dated sprint document, the shortlist table as a sheet, and any contact lists or channel links you surfaced.
 
-## Converge — Commit to a Community {#sec-people-converge}
+## Converge — Commit to a Community {#sec-community-converge}
 
 Use this after the divergence sprint, alongside [Commit to a Community](../Choose_People.qmd). Convergence runs in four moves, and the output is one group plus a written record of what you set aside.
 
@@ -126,7 +144,7 @@ Use this after the divergence sprint, alongside [Commit to a Community](../Choos
 
 **Into your data room:** the comparison board, the empathy notes, the access tracker, and the refrigerated list with reasons.
 
-## Test — Test Your Access {#sec-people-test}
+## Test — Test Your Access {#sec-community-test}
 
 Use alongside [Test Your Access](../Test_Access.qmd). Before you invest in conversations or observations, confirm you can reach these people repeatedly. A few days here prevents wasted months.
 

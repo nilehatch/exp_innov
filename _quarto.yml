@@ -63,7 +63,8 @@ book:
     # _redirects, so links shared before this change still resolve.
     - part: toolkit/Experimentation_Toolkit.qmd  # "Experimentation Toolkit"
       chapters:
-        - toolkit/People_Guides.qmd
+        - toolkit/Community_Guides.qmd
+        - toolkit/Community_Choice_Gallery.qmd
         - toolkit/Pain_Guides.qmd
         - toolkit/Pain_Statement_Gallery.qmd
         - toolkit/Solution_Guides.qmd

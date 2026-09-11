@@ -98,7 +98,7 @@ Keep listening. The real community is only beginning to take shape.
 
 ---
 
-Before moving on, run one yourself. Use the [Access Test Guide](toolkit/People_Guides.qmd#sec-people-test) to design and run a quick access check with your chosen group, and see how the Halo Alert team confirmed access in their [Access Test Demo](demo/exp-03-access-test.qmd).
+Before moving on, run one yourself. Use the [Access Test Guide](toolkit/Community_Guides.qmd#sec-community-test) to design and run a quick access check with your chosen group, and see how the Halo Alert team confirmed access in their [Access Test Demo](demo/exp-03-access-test.qmd).
 
 ---
 

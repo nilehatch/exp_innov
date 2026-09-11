@@ -2,11 +2,12 @@
 
 #### The operational detail behind every chapter, and why you write it down {.subtitle}
 
-The chapters of this book carry the judgment: what you are looking for, what makes a good one, how to know you have arrived. This part carries the procedure. Four pages, one per diamond, plus a gallery.
+The chapters of this book carry the judgment: what you are looking for, what makes a good one, how to know you have arrived. This part carries the procedure: one page per diamond, each running the same three phases, plus a gallery for the two artifacts people most often get wrong in ways that look right.
 
 | | |
 |---|---|
-| [People Guides](People_Guides.qmd) | Diamond 1. Casting a wide net, committing to a community, testing access. |
+| [Community Guides](Community_Guides.qmd) | Diamond 1. Casting a wide net, committing to a community, testing access. |
+| [Community Choice Gallery](Community_Choice_Gallery.qmd) | Badly and well scoped communities side by side. Scope is a resolution setting, not a description. |
 | [Pain Guides](Pain_Guides.qmd) | Diamond 2. Conversation, observation, role play, secondary research, then clustering through to pain testing. |
 | [Pain Statement Gallery](Pain_Statement_Gallery.qmd) | Weak pain statements beside strong ones, with what changed named. |
 | [Solution Guides](Solution_Guides.qmd) | Diamond 3. Generating many solutions, narrowing, testing before you build. |

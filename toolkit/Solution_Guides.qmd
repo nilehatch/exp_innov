@@ -2,7 +2,13 @@
 
 #### Operational detail for Diamond 3: building and testing solutions {.subtitle}
 
-These are the steps behind [Build and Test Solutions](../Build_Solutions_part.qmd), and they run in the same three phases as the two diamonds before them: widen, narrow, then test before you commit. If you have worked through [People Guides](People_Guides.qmd) and [Pain Guides](Pain_Guides.qmd), the shape here will be familiar. That repetition is the method, not a coincidence.
+These are the steps behind [Build and Test Solutions](../Build_Solutions_part.qmd), and they run in the same three phases as the two diamonds before them: widen, narrow, then test before you commit. If you have worked through [Community Guides](Community_Guides.qmd) and [Pain Guides](Pain_Guides.qmd), the shape here will be familiar. That repetition is the method, not a coincidence.
+
+| | |
+|---|---|
+| [Diverge — Generate Many Solutions](#sec-solution-diverge) | [Brainwriting](#sec-brainwriting) · [other creativity tools](#sec-creativity-tools) |
+| [Converge — Narrow to One](#sec-solution-converge) | In progress. |
+| [Test — Test Before You Build](#sec-solution-test) | In progress. |
 
 ::: {.limit}
 **This page is still being written**

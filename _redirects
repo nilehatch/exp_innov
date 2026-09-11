@@ -7,9 +7,9 @@
 # Netlify reads this file from the root of the publish directory. It gets there
 # because _quarto.yml declares it under project.resources.
 
-/toolkit/People_Diverge_Guide.html      /toolkit/People_Guides.html#sec-people-diverge      301
-/toolkit/People_Converge_Guide.html     /toolkit/People_Guides.html#sec-people-converge     301
-/toolkit/People_Test_Guide.html         /toolkit/People_Guides.html#sec-people-test         301
+/toolkit/People_Diverge_Guide.html      /toolkit/Community_Guides.html#sec-community-diverge      301
+/toolkit/People_Converge_Guide.html     /toolkit/Community_Guides.html#sec-community-converge     301
+/toolkit/People_Test_Guide.html         /toolkit/Community_Guides.html#sec-community-test         301
 
 /toolkit/Conversation_Guide.html        /toolkit/Pain_Guides.html#sec-conversation          301
 /toolkit/Observation_Guide.html         /toolkit/Pain_Guides.html#sec-observation           301
@@ -31,7 +31,12 @@
 /toolkit/Experiment_Log_Tracker.html         /toolkit/Experimentation_Toolkit.html  301
 
 # Sub-part separators.
-/toolkit/_people_guides_separator.html        /toolkit/People_Guides.html            301
+/toolkit/_people_guides_separator.html        /toolkit/Community_Guides.html         301
 /toolkit/_pain_guides_separator.html          /toolkit/Pain_Guides.html              301
 /toolkit/_solution_guides_separator.html      /toolkit/Solution_Guides.html          301
 /toolkit/_experiment_templates_separator.html /toolkit/Experimentation_Toolkit.html  301
+
+# People Guides was live for about an hour on 11 Sep before being renamed to
+# Community Guides: Diamond 1 chooses a community to search, and "your people"
+# are not defined until the pain is validated. Kept in case the URL escaped.
+/toolkit/People_Guides.html             /toolkit/Community_Guides.html          301

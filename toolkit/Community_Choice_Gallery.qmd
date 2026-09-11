@@ -1,0 +1,97 @@
+# Community Choice Gallery {#sec-community-gallery .unnumbered}
+
+#### Badly and well scoped communities side by side, and what makes the difference {.subtitle}
+
+You are not trying to describe a community correctly. There is no correct description, because the community is not the thing you are looking for. It is an **instrument for searching unknown territory**, and scope is its resolution setting. Set it wrong in either direction and the instrument stops resolving anything.
+
+Most people set it too wide. That is the larger risk and the harder one to see, because a wide community feels like ambition and reads like a market.
+
+::: {.column-margin .def-margin}
+**Scope** — how much of the world your community label admits. Not how many people, but how many *different situations*.
+:::
+
+## The Two Failures, and How They Show Up Later
+
+Scope has to satisfy two conditions at once, and they pull against each other.
+
+**Broad enough that you can tell what causes the pain.** You need variation. If everyone in your community shares every constraint, then when a pain appears you cannot say which constraint produced it, and you will never be able to draw a boundary around your people. Contrast is what makes attribution possible.
+
+**Narrow enough that themes repeat.** You need enough shared circumstance that the same difficulty surfaces in conversation after conversation. Repetition is your only signal that something is a pattern rather than one person's week.
+
+Those conditions give you the two failure modes, and each announces itself at a predictable point downstream.
+
+| you chose | what happens | where you find out |
+|---|---|---|
+| **Too broad** | Themes do not repeat. You get many clusters of two or three notes, each from a different person. | [Clustering](Pain_Guides.qmd#sec-clustering), as thin clusters |
+| **Too narrow** | Themes repeat beautifully and you cannot attribute them. Everyone shares every constraint, so nothing sorts and no boundary appears. | [From Community to People](Pain_Guides.qmd#sec-boundary), where the shrug list comes back empty |
+
+A community that is too narrow is more comfortable than one that is too broad, which is why it survives longer. Thin clusters feel like failure. Uniform agreement feels like validation.
+
+## Too Broad
+
+> **Weak.** Women.
+
+**Why it fails.** It is a census box, and census boxes do not share constraints. Half of these people drive everywhere, half never do; some walk at night and most do not. You will hear a hundred different difficulties once each. The label admits so many situations that no situation repeats.
+
+> **Weak.** Commuters.
+
+**Why it fails.** Same defect, one level down and harder to notice because "commuter" sounds like a behavior rather than a category. But a commuter is a person who drives forty minutes, or takes two trains, or cycles, or walks eight blocks, and none of those people has the other's problems. A label that names an *activity* is not the same as a label that names a *circumstance*.
+
+> **Weak.** People who care about personal safety.
+
+**Why it fails.** This one is scoped by **attitude**, not by situation, which is the most seductive version of too broad. It sounds specific and it selects for nothing: the people who say they care and the people who have actually rearranged their routes may be entirely different sets. Attitudes vary within a person across a week. Circumstances do not.
+
+Watch for this shape generally. Any community defined by what people *value*, *believe*, or *want* will scatter, because you have selected on self-report rather than on the world.
+
+## Too Narrow
+
+> **Weak.** Night-shift nurses at one hospital who park in the west lot.
+
+**Why it fails.** Themes will repeat immediately and perfectly, and every one of them will be uninterpretable. Everyone here shares the shift, the employer, the lot, the walk, and the lighting, so when they all report the same anxiety you cannot say whether it comes from the hour, the distance, the lighting, or the staffing. You have a finding you cannot generalize and cannot even explain.
+
+Then it fails a second time, later and worse. When you go to draw the boundary around your people, you need the list of people inside the community who *did not* report the pain. Here that list is empty, because the community was defined so tightly that having the pain is nearly a condition of membership. A boundary you cannot be wrong about is *a label*.
+
+> **Weak.** People who would use an app that alerts a friend when you get home.
+
+**Why it fails.** It is scoped by the **solution**, which is the narrowest possible error and the one most likely to feel like progress. This community can only produce confirmation: you have pre-selected for people who accept your answer, and then you will ask them whether your answer is right. Every conversation will go well and you will learn nothing.
+
+This is the [how-might-we](Pain_Statement_Gallery.qmd) failure arriving one stage earlier than usual. The solution got embedded in the choice of who to talk to, so no later step can dislodge it.
+
+## Well Scoped
+
+> **Stronger.** Women who walk part of an urban commute after dark.
+
+**What makes it work.** One shared circumstance that plausibly produces difficulty: being on foot, alone, in a city, at night. Enough variation to attribute: these people differ in route, in distance, in neighborhood, in whether anyone is expecting them, in whether they have done it for years or started last month. So when a pain repeats you can ask which of those differences it tracks, and the answer is the beginning of a boundary.
+
+It is also **searchable**. You can say where these people are and how you would reach them this week, which the access test will hold you to.
+
+> **Stronger.** Adult children coordinating care for a parent who lives in another state.
+
+**What makes it work.** The constraint is doing the work: distance plus responsibility plus no daily presence. It has nothing to do with age, income, or attitude, and it predicts a whole class of difficulty without naming any of it. The variation is built in — some have siblings and some do not, some parents have a diagnosis and some are simply declining — and that variation is exactly what will let you find the boundary later.
+
+> **Stronger.** People who maintain a hot tub at home.
+
+**What makes it work.** Narrow, ordinary, and unglamorous, which is usually a good sign. A specific recurring task, a specific set of things that go wrong with it, and a population that congregates in findable places. Nobody's self-image is involved, so what they tell you will be about the task.
+
+Notice that this one is much smaller than the others and still well scoped. **Scope is not size.** A small community with internal variation resolves better than a huge one without it.
+
+## Reading Your Own Choice
+
+Before you commit, run the four checks. None of them is about whether the community is interesting.
+
+::: {.threshold}
+**A workable community**
+
+- **One sentence about a bad day** that most of the group would recognize. If you cannot write it, you are too broad.
+- **Name three ways these people differ from each other** that could plausibly change whether they have the difficulty. If you cannot, you are too narrow.
+- **Name the circumstance, not the category.** If your label is a demographic, an attitude, or a solution, rescope before you go anywhere.
+- **Say where they are and how you would reach one this week.** If you cannot, everything downstream is theoretical.
+:::
+
+And accept the arithmetic underneath all of this. You are choosing a search instrument under uncertainty, so you are playing probabilities rather than getting it right: a well-scoped community makes detectable repetition **likely**, not certain. If the clusters come out thin you were too wide and you narrow. If the shrug list comes out empty you were too tight and you widen. Both are ordinary results, both are recoverable from inside, and neither is a reason to start over.
+
+::: {.limit}
+**About these examples**
+
+They are constructed to show the shapes, not drawn from student work. Real choices are messier and their defects are usually mixed. If you are teaching from this page, your own students' community statements will be sharper material than anything written here.
+:::
