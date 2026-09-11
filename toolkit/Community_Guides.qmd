@@ -2,7 +2,7 @@
 
 #### Operational detail for Diamond 1: choosing where to look {.subtitle}
 
-These are the steps behind [Choose Where to Look](../Choose_People_part.qmd). The chapters carry the judgment: why you are looking away from the center of a problem, what makes a community coherent, why an easy yes is suspicious. This page carries the procedure, in the order a diamond runs it: widen, narrow, then test before you commit.
+These are the steps behind [Choose Where to Look](../Choose_Community_part.qmd). The chapters carry the judgment: why you are looking away from the center of a problem, what makes a community coherent, why an easy yes is suspicious. This page carries the procedure, in the order a diamond runs it: widen, narrow, then test before you commit.
 
 The same steps in machine-readable form, for working with an AI, are Stages 1 through 3 of [The Method Layer](../method-layer.qmd).
 
@@ -130,7 +130,7 @@ Bias check additions (3 non-obvious):
 
 ## Converge — Commit to a Community {#sec-community-converge}
 
-Use this after the divergence sprint, alongside [Commit to a Community](../Choose_People.qmd). Convergence runs in four moves, and the output is one group plus a written record of what you set aside.
+Use this after the divergence sprint, alongside [Commit to a Community](../Commit_Community.qmd). Convergence runs in four moves, and the output is one group plus a written record of what you set aside.
 
 **1. Compare.** Lay the candidates side by side and record what you notice across them: size and coherence, evidence of neglect, whether they already spend money or time on workarounds, the access signal from Step 5. Write down the patterns, not just the ratings — a pattern across candidates is often more informative than any single row.
 

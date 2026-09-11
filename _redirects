@@ -40,3 +40,8 @@
 # Community Guides: Diamond 1 chooses a community to search, and "your people"
 # are not defined until the pain is validated. Kept in case the URL escaped.
 /toolkit/People_Guides.html             /toolkit/Community_Guides.html          301
+
+# Diamond 1 filenames predated the reframe: both said "People" while both are
+# about choosing a community to search. Renamed 11 Sep 2026.
+/Choose_People_part.html                /Choose_Community_part.html            301
+/Choose_People.html                     /Commit_Community.html                 301

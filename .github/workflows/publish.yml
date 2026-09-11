@@ -3,7 +3,7 @@ name: Publish to Netlify
 # Deploy the book to Netlify on every push to main.
 #
 # The book contains R figure chunks (the tyranny-of-the-market chart in
-# Choose_People_part.qmd and two Halo Alert demo figures), but this workflow
+# Choose_Community_part.qmd and two Halo Alert demo figures), but this workflow
 # never installs R: execute.freeze is `auto` in _quarto.yml, so `quarto render`
 # uses the committed _freeze/ results as long as the source is unchanged. If a
 # chunk's source HAS changed and the freeze was not committed, the runner has

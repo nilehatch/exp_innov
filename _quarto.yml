@@ -35,10 +35,10 @@ book:
     - index.qmd
     - Expeditionary_Innovation.qmd
 
-    - part: Choose_People_part.qmd  # "Choose Where to Look"
+    - part: Choose_Community_part.qmd  # "Choose Where to Look"
       chapters:
         - Cast_Wide_Net.qmd
-        - Choose_People.qmd
+        - Commit_Community.qmd
         - Test_Access.qmd
 
     - part: Find_Pain_part.qmd  # "Find and Validate Pains"

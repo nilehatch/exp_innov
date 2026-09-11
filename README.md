@@ -24,7 +24,7 @@ project render reuses the committed `_freeze/` results.
 then commit the updated `_freeze/`.
 
 ```bash
-quarto render Choose_People_part.qmd
+quarto render Choose_Community_part.qmd
 ```
 
 ## Citations

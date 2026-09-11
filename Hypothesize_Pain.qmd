@@ -85,7 +85,7 @@ Every note still gets placed, and nothing goes back in the pile. But before you 
 
 Perhaps a quarter of the time, this stage does not produce a few strong themes. It produces many small ones: clusters of two or three notes, each from a different person, with nothing repeating hard enough to feel like a pattern. Not the usual outcome, but common enough to plan for.
 
-Thin clusters usually are not a failure of clustering. They are the first visible evidence that the group you chose is *actually several groups*. That is the failure mode [Commit to a Community](Choose_People.qmd) warned about, and this is where it surfaces, because pains sort by person and these ones will not sort at all.
+Thin clusters usually are not a failure of clustering. They are the first visible evidence that the group you chose is *actually several groups*. That is the failure mode [Commit to a Community](Commit_Community.qmd) warned about, and this is where it surfaces, because pains sort by person and these ones will not sort at all.
 
 Two ways forward, and both are narrowing rather than starting over.
 

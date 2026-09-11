@@ -14,7 +14,7 @@
    Contrast 6.23 on white, which passes AA for body text and not merely for
    large text. Gold and the ink/muted grays are shared family anchors.
 
-   The figure fill in Choose_People_part.qmd's R chunk hardcodes the primary;
+   The figure fill in Choose_Community_part.qmd's R chunk hardcodes the primary;
    it must be changed with these values, and its freeze re-rendered.
    =============================== */
 
