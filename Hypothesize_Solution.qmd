@@ -53,7 +53,7 @@ A screening matrix is a form of *controlled convergence* to evaluate and separat
 
 [^1]: Controlled convergence is a two-stage method to evaluate and separate ideas. The first stage is concept screening and the second stage is concept scoring. In both cases, you will construct a decision matrix to rate and rank your remaining concepts (solution ideas). In this chapter, we will only consider concept screening because, in entrepreneurship, we almost never have enough information about customers and their requirements to determine the weights for scoring. To see concept scoring in detail, see @pughTotalDesignIntegrated1991, @ulrichProductDesignDevelopment1995, and @mattsonFundamentalsProductDevelopment2018.
 
-### Construct he Screening Matrix
+### Construct the Screening Matrix
 
 #### Market Requirements {.unnumbered}
 

@@ -67,8 +67,27 @@ a brainwriting guide written from scratch on 11 Sep said *pass left, two or thre
 rounds* while `Ideate_Solutions.qmd` says **6-3-5, pass right, six rounds**, with a
 citation to `rohrbachCreativeRulesMethod1969`. Check the chapter first, every time.
 
-NWH's caveat, worth testing when D3 is revised: the chapters did get one revision
-round, so something may have been dropped in it.
+**NWH's caveat was right, audited 11 Sep.** The D3 revision round dropped two things,
+so the extraction rule above has an exception. Full detail in
+`~/notes/10-Books/ent-innovation-ei/d3-latex-audit-2026-09-11.md`.
+
+- **The Scoring Matrix is gone.** LaTeX `HH04` carried the standard pair: a *Screening*
+  Matrix (coarse, +/0/- against a reference solution, unweighted) and then a *Scoring*
+  Matrix (weighted -- assign weights, rate features, score). The book kept only the
+  first, and "scoring matrix" / "assign weight" / "weighted" appear nowhere in it.
+  Convergence has a filter designed to eliminate and nothing designed to choose.
+- **Smoke testing is compressed about 90%**, from 3,844 LaTeX words to 380. Gone: domain,
+  landing-page anatomy, conversion tracking, ad campaign, Google Ads setup. The whole of
+  `Test_Solution.qmd` is now shorter than the LaTeX spent on this one test.
+
+**So the exception: for smoke testing the source is `HH05.4 Smoke Testing.tex`, not the
+chapter**, because the chapter no longer holds the procedure. Extract from the chapter
+everywhere else in D3; check the LaTeX first here. Same in miniature for looks-like vs
+works-like, which organized `HH05.3` and survives only as a clause inside "Rapid
+Prototypes".
+
+The LaTeX also carries commented-out outline notes -- intentions from 2018 never
+written. Read them before writing D3 guides; they are NWH's own plans.
 
 **The seven solution tests**, all in `Test_Solution.qmd`: validation, verification,
 wow factor, \$100, Wizard of Oz, smoke, profit analytics. Wizard of Oz is also an
