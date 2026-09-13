@@ -8,11 +8,11 @@ id: sec-test-solution-chapter
 
 <!-- <img src="images/d3-test.svg" alt="Confirmatory testing to validate the solution with the customer." class="wrapfig_left_25"/> -->
 ![Confirmatory testing to validate the solution with the customer.](images/d3-test.svg){fig-align="center"}
-Developing a solution is just one milestone in the innovation journey. The real challenge lies in validating this solution - a process that unfolds through a sequence of prototype testing. Unlike a one-off test, this entails a series of progressively complex and costly experiments. Each stage of this validation journey is designed to incrementally align your solution more closely with your customer's pain points and expectations.
+Developing a solution is just one milestone in the innovation journey. Validating it is the harder half, and it is not one test but a sequence that grows more complex and more expensive as it goes. Each round narrows the gap between what you built and what these people actually need.
 
-Validating a solution is a nuanced balancing act. It requires ensuring that your solution not only addresses the identified customer pains but is also technically feasible and economically viable. Each prototype test acts as a pivotal moment, providing crucial feedback and insights. This feedback is instrumental in making necessary adjustments and enhancements to your solution.
+Three things have to hold at once: the solution relieves the pain, it can be built, and it earns more than it costs. Every test answers one of them and none answers all three, which is why the sequence exists.
 
-For entrepreneurs, this iterative process of testing and refining is indispensable. It's the bridge that turns abstract ideas into concrete, market-ready products. It significantly lowers the risk of market failure and heightens the chances of creating a solution that genuinely resonates with customer needs. This chapter delves into the various stages of prototype testing. It highlights the pivotal role of customer feedback and outlines practical strategies for refining your solution.
+What follows is the sequence, cheapest first, with what each test can and cannot tell you.
 
 <!-- ![Confirmatory testing to validate the solution with the customer](images/d3-test.svg){#fig:test-solution fig-align="center"} -->
 
@@ -52,32 +52,11 @@ The "Wow Factor Test" is a critical validation tool that gauges the emotional co
 
 [^1]: The wow factor test is explained in detail in the work of @swensonFindingDevelopingNew2013.
 
-#### Conducting the Wow Factor Test {.unnumbered}
+::: {.see-guide}
+The six moves, the question sets, and what to do with the answers are in [Wow Factor Test](toolkit/Solution_Guides.qmd#sec-wow-guide).
+:::
 
-To effectively conduct a Wow Factor Test, follow these steps:
-
-1.  **Presentation**: Introduce the innovation to potential customers, clearly explaining its intended purpose and functionality. This step sets the stage for informed feedback.
-
-2.  **Emotional Connection Assessment**: Ask the customers to rate their emotional connection to the innovation on a scale of 1 to 10, where 1 signifies a poor concept and 10 indicates a concept that elicits a 'wow' response.
-
-3.  **Positive Feedback Collection**: Seek specific feedback on what aspects of the innovation customers find appealing. Questions could include:
-
-    -   "What aspects of this product idea appeal to you?"
-    -   "What benefits do you foresee in using this product?"
-    -   "In what situations would you see yourself using this product?"
-
-4.  **Negative Feedback Collection**: Inquire about any reservations or dislikes regarding the innovation. Ask questions like:
-
-    -   "What elements of this product idea do you dislike?"
-    -   "Are there any shortcomings or deficiencies you perceive?"
-    -   "What could be potential barriers or reasons for not purchasing this product?"
-
-5.  **Improvement Engagement**: Actively involve the customers in the ideation process for improvement. Questions might include:
-
-    -   "How could we enhance this product?"
-    -   "What modifications would make you more likely to purchase it?"
-
-6.  **Group Summary**: Conclude the session by summarizing the key points. This could involve asking the group to reflect on the major learnings and takeaways from the discussion.
+Two of the six get cut when time is short: asking what they *dislike*, and asking what would make them more likely to buy. Those two carry most of the value. A room that has just been asked what it likes will say generous things; the same room asked what would stop them buying says something you can act on.
 
 #### Assessing the Wow Factor {.unnumbered}
 
@@ -91,17 +70,7 @@ The "\$100 Test" is an effective technique for identifying the most valued featu
 
 [^2]: For more detail on the \$100 test, see @furrNailItThen2011.
 
-#### Conducting the \$100 Test {.unnumbered}
-
-To execute the \$100 Test, follow these steps:
-
-1.  **Pain and Solution Explanation**: Present the hypothesized customer pain and your proposed solution, either in person or through a survey. Emphasize the importance of their input in refining the solution.
-
-2.  **Feature Listing**: Provide a comprehensive list of potential features that could be included in the product. This list should be extensive and cover various aspects of functionality, design, and user experience.
-
-3.  **Hypothetical Investment**: Ask customers to allocate a hypothetical budget of \$100 across these features, investing more in the features they value the most. This exercise forces customers to prioritize features based on their perceived importance and utility.
-
-4.  **Feature Prioritization**: Analyze the allocation of funds across different features to identify the most valued ones. This data will guide you in trimming down the feature list to those that are essential from the customer's perspective.
+The mechanics are simple: present the pain and the solution, list the candidate features generously, and ask each person to spread a hypothetical hundred dollars across them. What matters is that they are forced to trade one feature against another rather than approving each in turn.
 
 #### Analyzing the Results {.unnumbered}
 
@@ -119,17 +88,7 @@ The "Wizard of Oz Test" is an innovative approach to prototype testing that invo
     This sort of testing has also been called the mechanical Turk test. In 1770, Wolfgang von Kempelen presented a chess playing automaton (robot) to Empress Maria Theresa of Austria. Over the years, he would challenge humans to play chess against his machine and the machine usually won. It was eventually revealed that the mechanical Turk was a hoax with a small hiding place for a chess master and a system of mirrors to see the chess board and manipulate the automaton to move the pieces.\
     Much more recently, Amazon created a crowdsourcing service, also named Mechanical Turk or MTurk, where the public is invited to do tasks that computers cannot easily do. To avoid confusion between the centuries-old automaton and the recent Amazon crowdsourcing service, we now usually adopt the name wizard of Oz test.
 
-#### Implementing the Wizard of Oz Test {.unnumbered}
-
-1.  **Creating the Illusion**: Develop a basic prototype or a presentation that simulates the product's functionality. This could be as simple as a PowerPoint animation or a mock-up interface.
-
-2.  **Manual Operation**: The test requires manual input behind the scenes to simulate the product's functions. This could involve a team member entering data, manipulating the prototype, or otherwise creating the impression of a working product.
-
-3.  **Customer Interaction**: Present the prototype to potential customers and observe their interaction with it. Encourage them to use it as they would a fully functional product.
-
-4.  **Feedback Collection**: Collect feedback on the product's concept, usability, and perceived value. Pay close attention to how users interact with the prototype and any difficulties or confusion they encounter.
-
-5.  **Adapting to User Input**: Be prepared for scenarios where users go off-script or try unexpected actions. These instances can be particularly revealing and guide future development.
+The illusion need not be elaborate: a mock-up, a slide animation, a plain interface, with a person behind it entering the data and producing the result. What matters is that the participant believes they are using a working thing, and that you let them go off script when they try something you did not plan for. Those moments are the most informative part, and the instinct to steer them back is the one to resist.
 
 #### Example: Innovating for Rock Climbers {.unnumbered}
 
@@ -243,9 +202,9 @@ Prototyping serves as a vital tool in innovation, not as an end goal but as a me
 
 In conclusion, prototyping is a dynamic and essential component of the innovation process. It's not just about creating a physical representation of an idea but about using that representation as a strategic tool to learn, iterate, and refine. Effective use of prototypes can significantly reduce risks, optimize resource usage, and increase the likelihood of arriving at a solution that genuinely resonates with customer needs.
 
-## Conclusion
+## What You Carry Out of This Diamond
 
-In concluding this chapter on validating solutions with prototypes, it's crucial to reemphasize the iterative nature of this process. As every diamond in this process has shown, innovation is a journey of building, testing, and iterating. Each stage of prototyping and testing helps in progressively reducing uncertainty and crystallizing the solution.
+Prototypes are not the destination and neither is a passed test. Both are instruments for lowering the cost of being wrong, and the sequence you just ran was arranged cheapest-first for exactly that reason: a concept that dies to a rough model has cost you an afternoon rather than a quarter.
 
 ### Every Test Also Asks a Question Back {#sec-tests-teach}
 
@@ -257,14 +216,16 @@ So log the objections, not only the verdicts. What did they say it would have to
 
 Then take them back to the [screening matrix](Hypothesize_Solution.qmd#sec-second-pass). Once is normal. You are adding rows to a table you already built, using evidence you gathered anyway, and occasionally you will find that a concept you dropped deserved better or a concept you kept does not survive the fuller list.
 
-### Matching Tests with Prototypes
+### Matching the Test to the Question
 
--   **Strategic Choice of Tests and Prototypes**: The choice of which test to use and which prototype to employ should align with the specific questions and uncertainties you are addressing. For example, a rough prototype suffices to check if a defibrillator is noticeable, while material testing might require more sophisticated prototypes.
--   **Iterative Refinement**: Through successive rounds of testing and refinement, prototypes evolve, moving from simple representations to more complex and accurate models. This evolution is guided by the feedback obtained and the learning accrued at each stage.
+Choose the test from the uncertainty rather than from the calendar. A rough model answers *would they notice this*; a working one answers *does the mechanism hold*; a landing page answers *would a stranger act*. Running an expensive test on a question a cheap one could have settled is the ordinary way to spend a month learning something you could have learned on Thursday.
 
-### Toward Solution Release
+Prototypes evolve as the questions narrow. Early on they exist to be wrong quickly. Later they exist to be right in a particular way, and by then you should know which way.
 
--   **Transitioning from Innovation to Commercialization**: As you resolve uncertainties and refine your solution, the focus gradually shifts from innovation to preparing for market entry. This transition marks the point where you have enough confidence in your solution to consider business model development and commercialization.
--   **The Journey Ahead**: The journey of innovation doesn’t end with the final prototype. It seamlessly leads into the next phase of bringing your solution to the market, where new challenges and opportunities await.
+### Where This Leaves You
 
-The path from a concept to a market-ready solution is not linear but a series of informed steps, each building upon the learnings of the previous. By carefully selecting your tests and prototypes and adapting them to your evolving understanding of customer needs, you pave the way for a solution that not only addresses the identified pain points but also holds the potential for successful commercialization.
+You have a concept that survived elimination, evidence that people who were not recruited by you will act on it, and a list of what they objected to. That is enough to build with and it is not enough to commit.
+
+Two questions remain, and neither belongs to this book. Whether the numbers work is [*Is This Worth Doing?*](https://ea.nilehatch.com/). Whether to commit, with evidence pointing two ways and a decision still required, is [*Make the Call*](https://mc.nilehatch.com/).
+
+What you have done here is make sure the thing you are deciding about is real.

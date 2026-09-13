@@ -135,11 +135,11 @@ SCAMPER is a checklist of transformations. Take an existing concept and apply ea
 | **E**liminate | remove something essential | what remains, and is it enough? |
 | **R**everse | invert the order or direction | run the process backwards |
 
-The value is not any single prompt. It is that the checklist forces you past the pairings you would have found on your own: it manufactures the collisions that serendipity would otherwise have to supply.
+The value is not any single prompt. It is that the checklist forces you past the pairings you would have found on your own, manufacturing the collisions that serendipity would otherwise have to supply.
 
 ### Systematic Inventive Thinking {.method-header #sec-sit}
 
-SIT is the more disciplined cousin, and it is aimed squarely at *elegance*. Where SCAMPER opens options, SIT works inside the constraints of the thing in front of you. Subtraction removes an essential component and asks what the remainder is good for; task unification makes one element do a second job.[^sit] The results tend to be leaner solutions rather than more elaborate ones, which matters because the elegant solution is usually the buildable one.
+SIT is the more disciplined cousin, and it is aimed squarely at *elegance*. Where SCAMPER opens options, SIT works inside the constraints of the thing in front of you. Subtraction removes an indispensable component and asks what the remainder is good for; task unification makes one element do a second job.[^sit] The results tend to be leaner solutions rather than more elaborate ones, which matters because the elegant solution is usually the buildable one.
 
 [^sit]: For detail on Systematic Inventive Thinking, see @goldenbergFindingYourInnovation2003 and @boydBox2013.
 
