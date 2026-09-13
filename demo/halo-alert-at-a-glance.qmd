@@ -1,0 +1,67 @@
+# Halo Alert at a Glance {#sec-halo-glance .unnumbered}
+
+#### One expedition, twenty-nine days, on a single page {.subtitle}
+
+The full Halo Alert record runs to two dozen files: outreach counts, complete interview transcripts, observation logs, a clustering board, three personas, an experience map, and the raw responses from three pain tests. That completeness is deliberate, because a demo you cannot check is a claim rather than evidence.
+
+It is also discouraging if it is the first thing you see. So here is the same expedition in one page. The long version is beside it, and every row below links into it.
+
+::: {.limit}
+**What this is**
+
+Halo Alert is a realistic teaching demonstration rather than a live venture. The seed came from a student team that later disbanded, no intellectual property is being pursued, and the dates are a real working sequence rather than a compressed illustration. Treat the numbers as an honest example of what a small team produced in a month, not as a benchmark to hit.
+:::
+
+## The Whole Expedition
+
+::: {.gridded}
+| When | Step | What they did | What came back |
+|---|---|---|---|
+| **19 Feb** | [Diverge](exp-01-diverge-people-2025-02-19.qmd) | Generated **ten** candidate communities near one problem space, with orbit roles and access signals for each | A shortlist, and the discovery that the obvious group was not the only one |
+| 19 Feb | [Bias check](exp-01.b-bias-check.qmd) | Asked which candidates were only there because they were easy to reach | Additions that would not have surfaced otherwise |
+| **24 Feb** | [Converge](exp-02-converge-worksheet.qmd) | Compared candidates on coherence, neglect and access; named the emotional pull | Chose **professional women commuting on foot in mid-sized cities**, explicitly as a *working commitment, not a final lock-in* |
+| **24 Feb** | [Access test](exp-03-access-test.qmd) | Three channels, real outreach: 10 LinkedIn messages, 1 coworking email, 1 forum post | **21 approached, 15 replies, 9 strong leads.** Green light |
+| **24–25 Feb** | [Conversations](exp-04.a-conversation-sarah-thompson-2025-02-24.qmd) | Two long conversations, recorded and transcribed in full | Stories about route choice, check-in texts, and the cost of being late |
+| **5–8 Mar** | [Observations](exp-05.a-observation-2025-03-05.qmd) | Three outings: a subway exit at 8am, the same at 8pm, a campus on a Friday night | What people *did* rather than said: keys in hand, street crossings, phones already out |
+| **12 Mar** | [Clustering](exp-06-cluster-themes-2025-03-12.qmd) | Sorted the raw observations on a board | **Six core themes** plus edge clusters, including reassurance routines, route choice, and predictability |
+| **12 Mar** | [Personas](exp-07.a-persona-2025-03-12.qmd) | Built three personas from the themes | Maya Patel, the one that carried the strongest emotional signal |
+| **14 Mar** | [Experience map](exp-08-experience-map-2025-03-14.qmd) | Traced Maya's evening commute across seven stages and four lenses | The emotional arc, and two stages where she says nothing at all |
+| **16 Mar** | [Abduction](exp-09-hypothesize-pain-2025-03-16.qmd) | Generated competing explanations, checked each against the evidence, chose one | *Anxiety when commuting at night, especially in unpredictable or poorly lit environments.* Emotional and functional, with social overtones. Two rivals refrigerated |
+| **20 Mar** | [Pain test](exp-10.a-pain-test-summary-2025-03-20.qmd) | Ran three probes against three candidate pains | **Dark or unlit blocks: green.** Crowded exits and unexpected detours: yellow |
+:::
+
+**Twenty-nine days**, start to validated pain.
+
+## What the Test Actually Said
+
+Three candidate pains, three probes each, and only one converged.
+
+::: {.gridded}
+| Pain | Validation | Ouch factor | Already paying | Verdict |
+|---|---|---|---|---|
+| **Dark or unlit blocks** | 8 of 10 in the past 30 days | 7.2 average, with workarounds | 40% | **Green** |
+| Crowded exits | 6 of 10, ranked lower | 6.0, mild behaviors | 10% | Yellow |
+| Unexpected detours | 6 of 10, secondary | 5.9, buffer time | 15% | Yellow |
+:::
+
+Notice that the three probes agreed for one pain and disagreed for the other two. That disagreement is the finding, not a failure of the test.
+
+## Where It Changed Direction
+
+Three moments where evidence overturned an expectation. These are the reason the expedition was worth running rather than reasoning through.
+
+**LinkedIn was supposed to be the cold channel.** The team expected slow, formal, low-yield replies. They came back within 24 to 48 hours and were detailed. The channel they assumed was weakest carried a third of their leads.
+
+**The forum answered a question nobody asked.** Replies described safety experiences *outside* commuting altogether: late-night walking, solo travel. The community was broader than the frame the team had brought to it.
+
+**The chosen pain was not the most obvious one.** Crowding on the subway is visible, physical, and easy to describe, and it scored yellow. Dark blocks on the last stretch scored green, and the difference was behavior: people were already paying to avoid them.
+
+## What It Cost
+
+One small team. Twenty-one people approached, fifteen of whom answered. Two long conversations, three observation outings, three pain-test probes. A month of calendar time, most of it not full-time.
+
+That is the honest scale of a first expedition. It is less than most people expect and more than most people do.
+
+## Reading the Full Record
+
+Every row above links into the working file that produced it. Two are worth opening even if you read nothing else: a [complete conversation transcript](exp-04.a-results-full-transcript-2025-02-24.qmd), because it shows how unpolished real evidence is, and the [clustering board](exp-06-cluster-themes-2025-03-12.qmd), because it shows scattered notes becoming themes in one place.

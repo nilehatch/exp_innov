@@ -71,6 +71,9 @@ book:
 
     - part: demo/demo-halo-alert.qmd  # "Demonstration: Halo Alert"
       chapters:
+        # The short version, first, because the full record's completeness is
+        # both its credibility and its discouragement.
+        - demo/halo-alert-at-a-glance.qmd
         - demo/_diamond1-separator.qmd
         - demo/exp-01-diverge-people-2025-02-19.qmd
         - demo/exp-01.b-bias-check.qmd
