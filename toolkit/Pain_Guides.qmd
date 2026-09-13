@@ -250,6 +250,8 @@ Use with [Experience Mapping](../Hypothesize_Pain.qmd#sec-experience-map-section
 
 Empty cells stay empty. On a grid they are visible at a glance, and a column with holes in it tells you which lens you failed to ask about.
 
+The designed maps you will see elsewhere are transposed: lenses down the side, stages across the top, with an emotion curve running above them. That suits a poster, which is wide and has a fixed reading direction. It does not suit a page or a screen, because stages are the dimension that grows and columns are the direction that runs out of room. In a spreadsheet the question is moot; transpose whenever it helps.
+
 ::: {.limit}
 **You are not making a poster**
 
