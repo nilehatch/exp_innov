@@ -106,6 +106,53 @@ floors. Each one improved the chapter when moved up.
 The working rule: **the chapter takes every judgment, including operational ones. The
 guide keeps steps.** Gallery shows good beside bad; the layer is the machine rendering.
 
+## The Halo Alert demonstration
+
+**Provenance, and it must stay stated.** The concept and much of the framing come from a
+**real innovation project** that never shipped -- promising, customer-tested, killed by team
+dynamics. Its artifacts are gone except one: the **screening matrix** in
+`Hypothesize_Solution.qmd` is the original team's own, recovered from course files. Everything
+else in `demo/` is **reconstructed**, written with an AI.
+
+That disclosure is load-bearing, not decorative. This book's standing order is that an AI can
+work on your evidence and cannot *be* your evidence, so a demo of generated transcripts
+presented as field records would contradict the method it teaches. The landing page says so and
+turns it into the lesson: the demo may generate a record because its job is to show the shape of
+one; the reader's own record may not, because it has to *be* the evidence. **Do not soften or
+remove that.**
+
+**Anonymity.** The origin story is told with no institution, year, course, roles, or
+characterisation -- NWH has a former student who would recognise himself. The phrase is *real
+innovation project*, never *student project*. Researchers carry pseudonyms (Dana, Ray) exactly
+as respondents do; NWH's own name was in transcripts and observation logs until 13 Sep. Students
+appear only as a **studied population**, never as the team's identity.
+
+**Structure, since 13 Sep.** Nine entries, consolidated by diamond, no separators:
+at-a-glance, D1, D2 explore, two full transcripts, D2 converge, D2 validate, D3. Every record
+follows *Unknown → Design → Execution → Evidence → Knowledge update → Next steps*, which is the
+operational form of the four-part record in the toolkit landing page.
+
+**Where it stops, and why.** After the wow factor and \$100 tests. The team stopped there, and
+NWH is preparing real student smoke-test landing pages on nilehatch.com as explorable demos,
+because a landing page shown as screenshots cannot be clicked. Wiring those URLs in later is a
+two-line change: the pointers already exist in the D3 page and the smoke-test guide.
+
+## Two hazards that cost a render each
+
+- **Bare `---` rules.** The demo sources used them as separators, and a rule followed
+  immediately by text reads to pandoc as a YAML block -- `**Attribution:**` starts with an
+  asterisk and fails as a YAML alias. Merges strip horizontal rules.
+- **Lists that never become lists.** A bold label with no blank line before the list renders the
+  dashes literally, and an **en-dash** used as a bullet marker never was a list at all. Both
+  occurred in the ChatGPT-era demo text.
+
+## prose-check: the demo exemption is inverted
+
+`TRANSCRIPT_DIRS` skips `demo/` **only when `--all` is absent**. So a targeted run on a demo file
+reports *clean by skipping it*, not by passing it. Check demo prose with `--all`, or by hand.
+Its stub-bullet rule also strips bold as a run-in label, so mid-sentence bold leaves a fragment
+and trips the count -- which is a §12a violation anyway, since bold is navigation and not stress.
+
 ## Prose
 
 - Nile's voice. Do not smooth it toward textbook tone. Ask before an edit that
@@ -288,27 +335,20 @@ repo. The EI overview is at `~/notes/10-Books/ent-innovation-ei/_overview.md`;
 cross-book decisions at `~/notes/10-Books/cross-book-architecture-decisions.md`.
 Read the overview for current status before proposing a direction.
 
-## Open item — stopping rules are thin (found 17 Aug 2026)
+## Closed: stopping rules (9 Sep 2026)
 
-Family style guide 16c-i settles a rule about who computes, and its third arm asks that a reader
-be told not just what the answer is but **at what point the answer would change**. In a book about
-arithmetic that is a threshold price. In this book, which is fieldwork, it is a **stopping rule**:
-how many conversations is enough, what would convince you the pain is not real, when repetition
-stops counting as evidence.
+Raised 17 Aug: the book stated aims without bars, and `Validate_Pain` settled for "enough
+evidence that you're not chasing shadows". Closed by the 2.3 rewrite, which gives the stopping
+rule **two arms** rather than a number, because a number alone would falsely precise a judgment
+call: a floor on sample (8–15 to pilot wording, 25–50 for a prioritization worth acting on,
+stated as floors and not targets) **and a falsification condition written before fielding**.
+If the reader will not write one, the chapter says what they are running is a demonstration
+rather than a test.
 
-EI has one excellent instance, in `Explore_Community`: *"ask whether you stopped hearing new things
-or stopped asking new questions."* That is exactly the move. Elsewhere the book tends to state the
-goal without the bar — `Validate_Pain` settles for "enough evidence that you're not chasing
-shadows," which tells a reader what they are aiming at and not how to know they have arrived.
-
-`.threshold` is the family callout built for this and EI uses it once, in `Test_Access`
-("Minimum Conditions for a Passed Access Test"), where it works well and reads as the model.
-For comparison: MtC 0 uses, ITWD 6.
-
-Not acted on — raised from an ITWD session, and it is EI's call whether the exploration chapters
-should carry explicit stopping rules or whether that would falsely precise a genuinely judgment-led
-process. The argument for doing it is that "keep going until it feels done" is the failure mode this
-book exists to prevent everywhere else.
+`.threshold` is now used throughout rather than once. `Explore_Community` also gained
+*What Stopping Actually Means*: the entropy signal ends the broad sweep and does not prove
+nobody would have surprised you, and four named triggers reopen the question. Each names a
+question, a target and a finish line, which is what separates a return from unbounded churn.
 
 ## Closed: British spellings (swept 9 Sep 2026)
 

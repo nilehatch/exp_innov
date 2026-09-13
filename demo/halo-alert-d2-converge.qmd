@@ -18,11 +18,12 @@ We demonstrate how we used a **Google Sheet** (one observation per row) imported
 
 The goal is to see what frictions, routines, and emotional cues repeat often enough to point toward **hypotheses of pain**.
 
-> **Outputs you’ll see here**  
-> – Screenshots of the clustering wall (before/after)  
-> – The theme labels we settled on  
-> – Narrative explanations for each cluster  
-> – Core vs. edge distinction, so you can see which themes anchor hypotheses and which are “refrigerated” for later surprises  
+**Outputs you'll see here**
+
+- Screenshots of the clustering wall, before and after
+- The theme labels they settled on
+- A narrative explanation for each cluster
+- The core-versus-edge distinction, so you can see which themes anchor hypotheses and which are refrigerated for later surprises  
 
 ### Files & Links {.unnumbered}
 

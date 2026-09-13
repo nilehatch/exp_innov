@@ -22,7 +22,9 @@ Everything around it is **reconstructed**: the generation session, the requireme
 
 **Design.** Five people, three ideas each, five minutes a round, six rounds, sheets passing right. The pain statement at the top of every sheet, phrased as a cost rather than a gap: *she rearranges her route, her timing and her attention to manage a risk she cannot put down.* No discussion during rounds; debrief afterward.
 
-**Execution.** Thirty minutes. One round was given over to deliberately bad ideas, run fourth rather than first, once the room had loosened. It is [described below](#sec-ha-d3-bad-ideas), because it did more work than the other five.
+Everyone arrived with four ideas already written down: three they thought might work, and **one they knew was terrible**. The bad ones went onto the sheets in round one alongside the rest, so they were circulating from the beginning rather than quarantined in a round of their own.
+
+**Execution.** Thirty minutes. The [bad ideas people brought](#sec-ha-d3-bad-ideas) did more work than their share, and they did it by being in circulation rather than by being collected.
 
 **Evidence.** Roughly ninety distinct concepts. Sorted loosely, they fell into two families: *something you carry*, and *something that tells somebody where you are*. A third and much smaller family proposed changing the environment rather than equipping the person, with better lighting and staffed routes, which nobody could act on but which nobody deleted either.
 
@@ -30,18 +32,18 @@ One sheet, reproduced whole, because the count is not the interesting part. Watc
 
 ::: {.gridded}
 | Round | What was written |
-|---|---|
-| **1** | A whistle on a keyring · an app that texts a friend when you press it · shoes that light up |
-| **2** | A whistle that *also* sends a text · an app that texts only if you **fail** to check in · lights that come on when your pace drops |
-| **3** | A bracelet you squeeze · a check-in that cancels itself when you arrive · a light only other people can see |
-| **4** | *(bad-ideas round)* clothing that shocks whoever grabs you · a siren that cannot be turned off · a tracker your employer can read |
-| **5** | Something that fires *unless* you stop it · a signal nobody nearby can perceive · a device an attacker gains nothing by taking |
-| **6** | A worn object that sends silently, confirms receipt, and needs no phone · a ring · a keychain fob |
+|:--|:-----------------------------------------------------------------------|
+| **1** | A whistle on a keyring · an app that texts a friend when you press it · *(brought bad idea)* clothing that shocks whoever grabs you |
+| **2** | A whistle that *also* sends a text · an app that texts only if you **fail** to check in · a jacket that lights up when you slow down |
+| **3** | A bracelet you squeeze · a phone app that cancels the alert when you get home · a pendant that only your contact can see light up |
+| **4** | A bracelet that sends without a phone · an app that alerts your contact if you miss your arrival time · a clip-on fob for a bag strap |
+| **5** | A wristband that alerts unless you cancel it · a fob that buzzes back to confirm someone got it · a locket with the button behind the stone |
+| **6** | A ring with the button under the stone that buzzes to confirm · a keychain fob that does the same · a pendant version for people who do not wear rings |
 :::
 
-Round one is three people's first thoughts and they are all obvious. Round two is the first evidence anyone is reading rather than writing: *texts a friend* becomes *texts a friend if you fail to check in*, which is a different product. Round five is the bad-ideas round being metabolized — the siren that cannot be turned off becomes *fires unless you stop it*, and the tracker an employer can read becomes *a device an attacker gains nothing by taking*.
+Round one is first thoughts, and they are obvious apart from the bad idea somebody brought. Round two is the first evidence anyone is reading rather than writing: *texts a friend* becomes *texts a friend if you fail to check in*, which is a different product. By round four the phone has quietly dropped out. By round five the confirmation has arrived, and the button has gone under a stone.
 
-Nobody proposed the ring in round one. It is a round-six object, and it did not exist until five rounds of other people's sheets had happened to it.
+Nobody proposed the ring in round one. It is a round-six object, and it did not exist until five rounds of other people's sheets had happened to it. That is the argument for the method: the ring is not anybody's idea.
 
 **Knowledge update.** The pool was large and narrow. Ninety ideas across two families is one idea wearing many hats, and the team recognized it: the count looked healthy and the *variety* did not. That is what sent them into recombination rather than straight to screening.
 
@@ -49,22 +51,24 @@ Nobody proposed the ring in round one. It is a round-six object, and it did not 
 
 ### Recombination {#sec-ha-d3-recombine}
 
-**Unknown.** Whether anything in the pile could do both jobs at once: be carried without thought *and* tell somebody where she was.
+**Unknown.** Brainwriting had arrived at a worn object with a hidden button and a confirmation buzz, and nobody could say *why* that shape rather than another. Six rounds of building had produced it by feel. The question was whether it held up when taken apart deliberately, and whether there was anything better beside it.
 
-**Design.** Work the catalog rather than generate afresh. SCAMPER over the strongest candidates, then subtraction on the two families in turn.
+**Design.** Work the catalog rather than generate afresh, after the session rather than during it. SCAMPER over the strongest candidates, then the SIT templates on the two families in turn.
 
 **Execution.** Four passes, worked out loud, because the intermediate objects are the part that cannot be summarized. The rule was the closed world: nothing allowed in that was not already in the concept or its surroundings.
 
 ::: {.gridded}
 | Move | Applied to | The object it produced | What it turned out to be for |
 |---|---|---|---|
-| **Subtraction** | *an app that texts a friend when you press it* | Remove the **phone**. A thing that texts a friend with no phone in it. | It has to be worn and connected some other way. This is the first appearance of the ring. |
+| **Subtraction** | *an app that texts a friend when you press it* | Remove the **phone**. A thing that texts a friend with no phone in it. | It has to be worn and connected some other way, which is what the room had already groped its way to by round four. The template explains the ring rather than inventing it. |
 | **Subtraction** | *a worn button that sends when pressed* | Remove the **press**. Something that sends while you do nothing. | Either it detects, which nobody could build, or it sends *unless cancelled*. The check-in inverts. |
 | **Task unification** | *a ring with a button and an indicator light* | The **jewelry itself** does a second job: the band is the antenna, the stone is the button. | Removes the part that made it look like a device rather than a ring, which is what made it discreet. |
 | **Multiplication** | *one alert to one contact* | Copy the alert and change the copy: a second, different alert. | A quiet one to a friend and a loud one nobody controls. Rejected, and it is why *escalation* got written down as something to avoid. |
 :::
 
-**Evidence.** Two subtractions met in the same place: a small worn object, already on the body, that sends without being unlocked. The ring and the keychain are both that object, differing only in whether it is worn or carried.
+**Evidence.** Two subtractions met where brainwriting had already arrived: a small worn object, on the body, that sends without being unlocked. That convergence is the useful part. Six rounds of intuition and two deliberate templates reached the same object by different routes, which is a better reason to trust it than either route alone.
+
+Task unification then did something the session had not: it put the button under the stone, and in doing so removed the last thing that made the object read as a device.
 
 The fourth move produced nothing usable and was still worth running. Deterrence was the team's own assumption, and this is where they first saw it fail on contact rather than at the \$100 test, where it failed again.
 
@@ -74,9 +78,7 @@ The fourth move produced nothing usable and was still worth running. Deterrence 
 
 ### The Bad-Ideas Round {#sec-ha-d3-bad-ideas}
 
-Round four was given over to the worst thing they could build. The instruction was the sharp version: not merely useless, but something that would make her situation *worse*.
-
-Five minutes produced, among others:
+Everyone was asked to arrive with one, and the instruction was the sharp version: not merely useless, but something that would make her situation *worse*. Five people, five bad ideas, in circulation from round one.
 
 - **Electrified clothing.** Shocks anyone who grabs the wearer, including the wearer.
 - **A siren with no off switch.** Once it is triggered it runs, whatever she wants.
@@ -94,7 +96,7 @@ It was the concept the team described to women in the community, and their react
 
 Working out why it frightened them produced the ideas that made the surviving concept more discreet and more wearable. The bad idea was the parent of a good one.
 
-And look at round five on the sheet above. *Fires unless you stop it* and *a device an attacker gains nothing by taking* are both direct descendants of round four. The bad ideas were not set aside; they were passed to the right and built on, which is the only reason they were worth writing down.
+Seeding them at the start rather than collecting them in a round of their own is what made that possible. A bad idea written in round four has two rounds left to be built on. The same idea written in round one has five, and it spends them traveling round the table being answered.
 :::
 
 ### What the Catalog Held {#sec-ha-d3-catalog}

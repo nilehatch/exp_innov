@@ -18,7 +18,7 @@ Read the numbers as an honest picture of the scale of a first expedition rather 
 
 ::: {.gridded}
 | When | Step | What they did | What came back |
-|---|---|---|---|
+|:-----------|:---------------|:-----------------------------|:-----------------------------|
 | **19 Feb** | [Diverge](halo-alert-d1-choose.qmd#sec-ha-d1-diverge) | Generated **ten** candidate communities near one problem space, with orbit roles and access signals for each | A shortlist, and the discovery that the obvious group was not the only one |
 | 19 Feb | [Bias check](halo-alert-d1-choose.qmd#sec-ha-d1-bias) | Asked which candidates were only there because they were easy to reach | Additions that would not have surfaced otherwise |
 | **24 Feb** | [Converge](halo-alert-d1-choose.qmd#sec-ha-d1-converge) | Compared candidates on coherence, neglect and access; named the emotional pull | Chose **professional women commuting on foot in mid-sized cities**, explicitly as a *working commitment, not a final lock-in* |

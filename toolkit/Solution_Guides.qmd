@@ -42,9 +42,11 @@ It fixes both brainstorming failures at once. Nobody can dominate, because every
 
 #### A round of deliberately bad ideas {#sec-bad-ideas-guide}
 
-Chapter: [Deliberately Bad Ideas](../Ideate_Solutions.qmd#sec-bad-ideas). Run it as one round inside brainwriting, or as a five-minute warm-up before the first round.
+Chapter: [Deliberately Bad Ideas](../Ideate_Solutions.qmd#sec-bad-ideas).
 
-1. **State the target plainly.** The worst thing we could build for these people. Infeasible counts; something that makes the pain *worse* counts double.
+**Seed them, do not schedule them.** Ask everyone to arrive with three or four ideas they think might work *and one they know is terrible*, and have the bad ones go onto the sheets in round one with the rest. A bad idea written in round four has two rounds left to be built on; the same idea written in round one has five, and it spends them traveling round the table being answered.
+
+1. **State the target plainly** when you ask for it. The worst thing we could build for these people. Infeasible counts; something that makes the pain *worse* counts double.
 2. **Keep the timing and the silence** of a normal round. It is a generating round, not a discussion.
 3. **Pass and build**, exactly as usual. Bad ideas compound enjoyably.
 4. **Do not sort them into a separate pile.** They go in the catalog with everything else, because their value is as recombination material.
