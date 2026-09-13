@@ -12,7 +12,7 @@
 - **Interviewer:** Dana  
 - **Consent:** Verbal consent to a ~20-minute recorded conversation for a research project; no sales intent.
 
-::: callout-note
+::: {.fieldnote}
 **Framing**: This interview is part of an exploratory series with professional women and female university students who commute by walking and public transit. We anchor on **specific, recent experiences** and probe for **emotions, workarounds, and routines**.
 :::
 
@@ -34,8 +34,8 @@ Emily works late some evenings and commutes home around 9:30 PM. Streets are qui
 > **Emily (Transcript):**  
 > “My commute home was much later than usual, around 9:30 PM. By then, the streets were quieter and the lighting was dimmer. Walking to the station, I felt a little uneasy—there weren’t as many people around. I kept my headphones off so I could be fully aware of my surroundings.”  
 
-::: callout-note
-**Notes:** Darkness + sparsity heighten unease; chooses sensory alertness (no headphones).  
+::: {.fieldnote}
+Darkness + sparsity heighten unease; chooses sensory alertness (no headphones).  
 :::
 
 ---
@@ -44,8 +44,8 @@ Emily works late some evenings and commutes home around 9:30 PM. Streets are qui
 > **Emily (Transcript):**  
 > “The hardest part is the lack of people. It’s nice not to be in a huge crowd, but when the streets or platforms are nearly empty, it makes you feel exposed. Every sound seems louder. I walked briskly, kept my bag close, and avoided eye contact with the few people I did pass.”  
 
-::: callout-note
-**Notes:** Trade-off between crowd comfort vs. exposure; somatic cues (sounds louder); protective tactics.  
+::: {.fieldnote}
+Trade-off between crowd comfort vs. exposure; somatic cues (sounds louder); protective tactics.  
 :::
 
 ---
@@ -54,8 +54,8 @@ Emily works late some evenings and commutes home around 9:30 PM. Streets are qui
 > **Emily (Transcript):**  
 > “Because you start to wonder: *what if something happens?* There aren’t as many people around to notice or help. Even just waiting for the train, when only a couple of people are on the platform, I felt tense.”  
 
-::: callout-note
-**Notes:** Vulnerability rooted in lack of bystanders or witnesses; anticipatory fear.  
+::: {.fieldnote}
+Vulnerability rooted in lack of bystanders or witnesses; anticipatory fear.  
 :::
 
 ---
@@ -64,8 +64,8 @@ Emily works late some evenings and commutes home around 9:30 PM. Streets are qui
 > **Emily (Transcript):**  
 > “I made small choices—stayed in well-lit areas, kept my keys in my hand, and walked faster than normal. On the train, I sat near the doors so I could get off quickly if needed.”  
 
-::: callout-note
-**Notes:** Behavioral adaptations: lighting preference, defensive posture, exit strategy.  
+::: {.fieldnote}
+Behavioral adaptations: lighting preference, defensive posture, exit strategy.  
 :::
 
 ---
@@ -74,8 +74,8 @@ Emily works late some evenings and commutes home around 9:30 PM. Streets are qui
 > **Emily (Transcript):**  
 > “Yes, once I was walking home from the station and passed through a side street. It was dark and no one was around. I’d heard about a mugging in that area a few weeks before. I wasn’t harmed, but ever since then, I avoid that route and take a longer way home where there are more lights and people.”  
 
-::: callout-note
-**Notes:** Past incident nearby produces durable behavioral change; prioritizes reassurance over convenience.  
+::: {.fieldnote}
+Past incident nearby produces durable behavioral change; prioritizes reassurance over convenience.  
 :::
 
 ---
@@ -84,8 +84,8 @@ Emily works late some evenings and commutes home around 9:30 PM. Streets are qui
 > **Emily (Transcript):**  
 > “Because I realized convenience wasn’t worth the risk. Even if nothing happens, the feeling of anxiety is enough. I’d rather walk an extra five minutes and feel safer.”  
 
-::: callout-note
-**Notes:** Value trade-off: time vs. psychological safety. Anxiety itself framed as cost.  
+::: {.fieldnote}
+Value trade-off: time vs. psychological safety. Anxiety itself framed as cost.  
 :::
 
 ---
@@ -94,8 +94,8 @@ Emily works late some evenings and commutes home around 9:30 PM. Streets are qui
 > **Emily (Transcript):**  
 > “I often text my sister or a close friend when I leave work late. I’ll share my location or just say, ‘Heading home now, should be back by 10.’ If they don’t hear from me by then, they’ll check in. It’s reassuring to know someone’s paying attention.”  
 
-::: callout-note
-**Notes:** Connection ritual; accountability loop; shared location as safety proxy.  
+::: {.fieldnote}
+Connection ritual; accountability loop; shared location as safety proxy.  
 :::
 
 ---
@@ -104,8 +104,8 @@ Emily works late some evenings and commutes home around 9:30 PM. Streets are qui
 > **Emily (Transcript):**  
 > “During the day, I barely think about safety. There are so many people, the trains are crowded, and the streets are busy. But at night, even though there are fewer people, I feel like I have to be on high alert the entire time.”  
 
-::: callout-note
-**Notes:** Density flips valence: crowd = relief at night, crowd = nuisance by day.  
+::: {.fieldnote}
+Density flips valence: crowd = relief at night, crowd = nuisance by day.  
 :::
 
 ---

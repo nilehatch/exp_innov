@@ -146,6 +146,33 @@ two-line change: the pointers already exist in the D3 page and the smoke-test gu
   dashes literally, and an **en-dash** used as a bullet marker never was a list at all. Both
   occurred in the ChatGPT-era demo text.
 
+## `.fieldnote`: why the transcripts do not use callouts
+
+Closed 13 Sep. The two transcripts held 20 stock `::: callout-note` blocks, which rendered a
+"Note" title bar above text that then began `**Notes:**`. NWH's read was exact: they looked
+like the family blocks, but a little wrong.
+
+**The rule that decided it: a callout in this family means the book is speaking to the
+reader.** A transcript annotation is not the book. It is the fieldworker reading their own
+data, inside the record. And the demo's job is to show the *shape of a record*, so furnishing
+that record with the book's instructional boxes makes it a worse model of one. The taxonomy
+was never wrong here; it simply has no member for this, because every class in it is
+instructional.
+
+The page had already solved it twice. Each exchange carries three voices — `**Prompt:**
+*italic*`, then the respondent's blockquote, then the notes — and only the third reached for
+a box.
+
+So `.fieldnote`, in `base.css`, modeled on the `.def-margin` precedent: rule, no fill, no
+icon, no title bar, differentiated by weight rather than by a new hue as `.key-action` is.
+**The `**Notes:**` label is gone** — the treatment carries the identity, which is what removed
+the doubling. `**Framing**` keeps its label, because it names the interview's design rather
+than annotating one exchange.
+
+It went in `base.css` rather than `custom_ei.css` even though MtC has no transcripts: it is
+structural, an unused class costs MtC nothing, and byte-identity is the more valuable
+invariant. Any sibling book that shows field records will want it.
+
 ## prose-check: the demo exemption is inverted
 
 `TRANSCRIPT_DIRS` skips `demo/` **only when `--all` is absent**. So a targeted run on a demo file
@@ -356,9 +383,11 @@ Open, and none of it blocking:
   tested. Paste Block 1 into a model and walk a real problem space through Stages 0 to 3.
 - **Smoke-test landing pages** for nilehatch.com are NWH's to capture; the pointers exist in
   the D3 demo and the smoke-test guide, so wiring URLs later is a two-line change.
-- **27 stock callouts remain in `demo/`**, 20 inside the two transcripts. Those are field
-  records rather than instructional prose and may not want the family taxonomy. Decide
-  rather than sweep.
+- **Demo prose fails `prose-check --all` on inherited em-dash density**, and the two
+  transcripts fail on the **stub rule flagging respondent metadata** (`**Name:**`,
+  `**Date:**`, `**Age:**`). That is a data record, not prose naming ideas instead of
+  carrying them, and it is the false positive the demo exemption exists for. Do not pad
+  metadata into sentences to satisfy the checker.
 - **Permission for the operating agreement template** is NWH's to confirm with the law
   faculty who drafted it. He has general permission to use it outside the fellowship and
   authorized shipping it; the attribution line in the chapter names no institution, pending
