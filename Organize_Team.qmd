@@ -102,7 +102,7 @@ Note that conflict is present in both approaches. However, the nature of conflic
 
 The tendency towards advocacy can be a major pitfall for teams, leading to suboptimal outcomes and strained dynamics. Recognizing the signs of an advocacy-dominated environment is crucial, as is knowing strategies to steer the team towards more productive, inquiry-based collaboration.
 
-## Advocating Psychological Safety in Team Dynamics
+## Psychological Safety
 
 While interdisciplinary teams have the potential to harness diverse skills for innovative solutions, this diversity can also be a source of conflict if not managed correctly. One of the most critical aspects of managing this diversity effectively is by ensuring psychological safety within the team.[^4]
 
@@ -338,7 +338,7 @@ Use it the way you use the demonstration in this book: as evidence of *form* rat
 Take your answers from the worksheet above to a lawyer where you are. The worksheet is the expensive part, and it is the part nobody can do for you.
 :::
 
-## Organizing to Harness the Power of Team Collaboration
+## What Organizing Buys You
 
 Four things have to hold for a team to run this method rather than perform it.
 
