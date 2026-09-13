@@ -36,7 +36,9 @@ It also explains the frontier. The set of ideas reachable from your current card
 
 [^2]: The adjacent possible comes from the pioneering work of Stuart @kauffmanHomeUniverseSearch1995 which was extended to the logic of creativity and ideation by Steven @johnsonWhereGoodIdeas2010.
 
-::: {.callout-note title="Ground Rules for the Whole Diamond"}
+::: {.key-action}
+**Ground rules for the whole diamond**
+
 Divergence dies under evaluation. Before you begin any of the three moves, agree on three rules and hold to them:
 
 - **Suspend judgment.** Critique has its place and its place is the next chapter. During divergence every idea gets room to breathe.
@@ -83,7 +85,9 @@ Run six rounds and the arithmetic is startling: a team of six produces around *a
 
 It also fixes brainstorming's two failure modes. Nobody can dominate, because everyone writes simultaneously. And nobody can evaluate, because everyone is busy producing. What you get instead is *building*: each sheet arrives carrying someone else's thinking, and you extend it rather than judge it.
 
-::: {.callout-tip title="Running It Well"}
+::: {.key-action}
+**Running it well**
+
 - Adjust the numbers to your team; keep the structure. Four participants and four rounds still works.
 - Keep every sheet. They are the raw material for the next chapter and for recombination.
 - Debrief afterward, but not during. The session ends, then you look at what you have.

@@ -10,7 +10,9 @@ Reading good examples is not enough. You will look at a strong pain statement, r
 
 Every weak statement below is the kind of thing capable teams produce after real fieldwork. None of them is stupid. Each one stops one step short.
 
-::: {.callout-note title="The Test You Are Applying"}
+::: {.definition}
+**The test you are applying**
+
 A reminder if you arrived here before the chapter: a **problem** is the gap between how things
 are and how they should be. A **pain** is what living with that problem costs a particular
 person, and it is the pain, not the problem, that people will thank you for relieving.
@@ -40,7 +42,9 @@ sitting inside it. Ask it and there is nothing left to discover, only something 
 
 Notice the statement no longer names a solution, so it stays true whether the answer is a fee schedule, an escrow plan, or something nobody has thought of yet.
 
-::: {.callout-note title="A Word on *How Might We*"}
+::: {.trap}
+**Reaching for *how might we* one diamond early**
+
 *How might we…* is a design-thinking device, and a good one **in its own place**: the third diamond, where you have a validated pain and need many ways at it. It is built to open a solution space.
 
 That is exactly why it misfires here. A solution space is the wrong thing to open when you are still looking for the pain: the phrase invites you to name an outcome, and an outcome is a solution in disguise. The fault is not in the tool. It is in reaching for an ideation tool one diamond early.
@@ -170,7 +174,9 @@ These two came from teams that did the work. They are longer than the statements
 
 Labeling those pains by type would not weaken this statement, since the test on this page asks you to categorize, and doing so here would sharpen it further. What matters is that the pains are *told apart* before anything is named.
 
-::: {.callout-tip title="The Tell"}
+::: {.key-action}
+**The tell**
+
 Compare the length of the weak statements with these two. The weak ones are short because there was nothing behind them; the strong ones are long because there was. If your pain statement is one sentence and you cannot extend it with specifics, that is a signal to go back to the field rather than to keep writing.
 :::
 

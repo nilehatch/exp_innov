@@ -85,15 +85,17 @@ One thing to avoid on both sides of this: do not build your sample out of friend
 
 Avoiding these traps clears the path for authentic engagement. But clarity about what not to do is only half the battle; here’s a practical checklist to help you move forward with confidence.
 
-<!--
-::: {.callout-tip title="Quick Start Checklist"}
-- [ ] List 5 physical places and 5 digital communities where your people gather.
-- [ ] Identify gatekeepers and draft a 3–4 sentence access script.
-- [ ] Plan two low-friction intercepts (1 physical, 1 digital) you can execute this week.
-- [ ] Prepare a scheduler link and a 2–3 question “last time” prompt for follow-ups.
-- [ ] Define your success signal for access (e.g., 10 qualified conversations scheduled).
+::: {.checklist}
+**Quick start checklist**
+
+- [ ] List five physical places and five digital communities where your people gather.
+- [ ] Identify the gatekeepers and draft a three or four sentence access script.
+- [ ] Plan two low-friction approaches, one physical and one digital, that you can run this week.
+- [ ] Prepare a scheduler link and two or three "last time" prompts for the conversations that follow.
+- [ ] Decide your success signal before you start, in numbers.
+
+The routes and the messages are in [Getting People to Talk](toolkit/Pain_Guides.qmd#sec-recruiting).
 :::
--->
 
 ## Ethnographic Exploration
 
