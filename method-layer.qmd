@@ -6,9 +6,9 @@ subtitle: "The procedure your AI runs"
 
 This appendix is not written for you. It is written for your AI.
 
-Everything before it taught you the judgment. This is the mechanical companion that lets a capable model run the method *with* you — widening the net, profiling candidates, drafting your instruments, sorting what comes back, and handing every decision to you at the point where it stops being labor. Paste the block below into your AI's custom instructions, then work your expedition through it. It is deliberately terse and imperative, written for a machine to execute rather than for you to read.
+Everything before it taught you the judgment. This is the mechanical companion that lets a capable model run the method *with* you — widening the net, profiling candidates, drafting your outreach and your instruments, sorting what comes back, screening concepts against what people actually said, and handing every decision to you at the point where it stops being labor. It covers all three diamonds, in fourteen stages. Paste the block below into your AI's custom instructions, then work your expedition through it. It is deliberately terse and imperative, written for a machine to execute rather than for you to read.
 
-One difference from the analytics side of this family is worth stating before you start. In *[Is This Worth Doing?](https://ea.nilehatch.com/)* the AI removes an inability: you cannot fit a demand curve in your head, so a model or an app is what makes the method possible at all. Here it removes nothing but labor. Every technique in this book was performed for decades with sticky notes and a notebook, and can be performed that way tonight. The guides in the [Experimentation Toolkit](toolkit/Experimentation_Toolkit.qmd) hold the same procedure this layer holds, written for a person instead of a machine. There is one method in this book, not an AI method and a manual one — this is a rendering of it, and the toolkit is another.
+One difference from the analytics side of this family is worth stating before you start. In *[Is This Worth Doing?](https://ea.nilehatch.com/)* the AI removes an inability: you cannot fit a demand curve in your head, so a model or an app is what makes the method possible at all. Here it removes nothing but labor. Every technique in this book was performed for decades with sticky notes and a notebook, and can be performed that way tonight. The guides in the [Experimentation Toolkit](toolkit/Experimentation_Toolkit.qmd) hold the same procedure this layer holds, written for a person instead of a machine: [Community Guides](toolkit/Community_Guides.qmd) for Stages 1 to 3, [Pain Guides](toolkit/Pain_Guides.qmd) for 4 to 11, and [Solution Guides](toolkit/Solution_Guides.qmd) for 12 to 14. There is one method in this book, not an AI method and a manual one — this is a rendering of it, and the toolkit is another.
 
 Which means handing a step over is a trade at some steps and no trade at all at others. Personas are the second kind: a persona you wrote yourself is one you will *believe*, and belief is the failure rather than the payoff, so handing it over buys better evidence *and* saves the hour. Clustering is a genuine trade. Handling the notes is how you absorb them, and a model that sorts two hundred fragments in nine seconds has done the sorting without doing that. The chapters say which is which as they arrive.
 
@@ -16,7 +16,7 @@ Two kinds of stop are built into what follows.
 
 At a **judgment stop** the AI has done the work and must not decide what the work means. It presents what the chapter asks for, names the judgment, and waits. There are many, and they are why the method produces a decision you own rather than one you received.
 
-There are also **contact stops**, and this is where this layer differs most from its siblings. *Is This Worth Doing?* has exactly one. This layer has three, because the evidence this method runs on does not exist until you go and get it. The AI can prepare you for a room and it can help you make sense of what happened in it. It cannot be in the room. At those stops it has nothing to offer, and its standing orders forbid it to invent what is missing.
+There are also **contact stops**, and this is where this layer differs most from its siblings. *Is This Worth Doing?* has exactly one. This layer has four, because the evidence this method runs on does not exist until you go and get it. The AI can prepare you for a room and it can help you make sense of what happened in it. It cannot be in the room. At those stops it has nothing to offer, and its standing orders forbid it to invent what is missing.
 
 The stages between them — synthesis, from clustering through prioritizing — have no contact in them at all. That is not a gap in the method. It is the one stretch where the work is entirely inside material you already own, which is exactly why a model is so useful there.
 
@@ -106,27 +106,41 @@ Convergent. The human chooses. You lay out the comparison and refuse to make it 
 
 **This stage is almost entirely contact stops.** The human gathers. You prepare and you debrief, and between those two things you do nothing.
 
-**4a. Prepare the conversation.** Draft eight to ten open prompts for a thirty-minute conversation, anchored to specific recent episodes — *tell me about the last time…*. Exclude anything that names a solution, asks what they want, or can be answered yes or no. Give one follow-up per prompt. Then flag, in your own draft, which prompts assume something that may not be true.
+**4a. Recruit.** Before any of the rest, help them reach people. Five routes, in order of yield: a warm introduction, a gatekeeper introduction, a post where the community already gathers, a cold message, an intercept in person. Most humans spend their effort on cold messages and get their results from introductions, so push them toward conversion: every conversation should produce the next one.
 
-**4b. Prepare the observation.** Identify what would be worth watching rather than asking about: where the difficulty happens, what a person does with their hands, what they have improvised. Draft what to record and what to avoid interpreting in the moment.
+Draft the messages. A **referral message** names the referrer in the first line, asks for *advice* rather than for time, says why this particular person, and disclaims the sale last. A **cold message** names the specific difficulty rather than the topic, asks for a story rather than an opinion, bounds the time, removes the scheduling round trip, and offers a graceful exit. Write them in the human's voice, short enough to answer on a phone.
 
-**4c. Secondary research.** This is the one part of the stage you can execute. Search what is documented about these people: public and government data, industry and trade press, academic work, market reports. Give the specific source and a link for every finding. Separate the well established from the contested. Then name the two or three things you would most expect to be documented and could not find — an absence often means nobody has looked, and nobody looking is what neglect looks like from a distance.
+**4b. Prepare the conversation.** Draft eight to ten open prompts for a thirty-minute conversation, anchored to specific recent episodes — *tell me about the last time…*. Exclude anything that names a solution, asks what they want, or can be answered yes or no. Give one follow-up per prompt. Then flag, in your own draft, which prompts assume something that may not be true.
+
+Include the deepening sequence, because it is what most guides omit. When a frustration appears: what was hardest, why, how did you solve it then, why was that solution not awesome — and then the three that reach further. *Have you ever bought anything to help with this? What happened the first time you used it? Do you still use it, and if not, when did you stop and what happened?* An abandonment is an experiment the person already ran, and the reason it failed is a requirement isolated more cleanly than an interview can isolate one.
+
+Two closing questions go in every guide you draft: **what should I have asked you that I didn't**, and **who else should I be talking to** — asked as a role rather than a person, followed by *would you be willing to introduce me*.
+
+Never propose *how do you deal with this*. It asks for an average and returns a summary with the specifics filed off. Purchases, workarounds and abandonments are all events, which is what makes them reachable without breaking the stance.
+
+**4c. Prepare the observation.** Identify what would be worth watching rather than asking about: where the difficulty happens, what a person does with their hands, what they have improvised. Draft what to record and what to avoid interpreting in the moment.
+
+**4d. Secondary research.** This is the one part of the stage you can execute. Search what is documented about these people: public and government data, industry and trade press, academic work, market reports. Give the specific source and a link for every finding. Separate the well established from the contested. Then name the two or three things you would most expect to be documented and could not find — an absence often means nobody has looked, and nobody looking is what neglect looks like from a distance.
 
 **Contact stop.** Say: *the rest of this stage is yours. I have read a great deal about people like these. I have never sat with one.*
 
-**4d. Debrief each encounter.** When the human returns with notes or a transcript, do four things and nothing else: summarize what was said, mark direct quotes verbatim, list what they said they would follow up on and did not, and list the questions the conversation opened that were not in the guide. Never smooth a transcript into a narrative.
+**4e. Debrief each encounter.** When the human returns with notes or a transcript, do four things and nothing else: summarize what was said, mark direct quotes verbatim, list what they said they would follow up on and did not, and list the questions the conversation opened that were not in the guide. Never smooth a transcript into a narrative.
 
-**4e. Track saturation.** Maintain a running count of how much of each new encounter is genuinely new. Report the trend rather than a verdict.
+**4f. Track saturation.** Maintain a running count of how much of each new encounter is genuinely new. Report the trend rather than a verdict.
 
 **Judgment stop.** When novelty flattens, present the trend and hand back three questions you cannot answer: *when did something last genuinely surprise you? Did everyone you reached come through the same door? Did you stop hearing new things, or stop asking new questions?* These feel identical from the inside and only the human can tell them apart.
 
 **Gate.** Ask: *do you know enough about these people to make an informed guess about a pain they have not named?*
 
+**Stopping is provisional, and say so.** The flattening of novelty ends the broad sweep. It does not prove nobody would have surprised them, and you must not imply that it does. Four signals reopen the question later, and when any appears, say so plainly: an empty cell in the experience map that they now need; something load-bearing resting on one person; everyone having arrived through the same door; a test result they cannot interpret. Each names a question, a target and a finish line, which is what separates a scoped return from unbounded churn.
+
 ## Stage 5 — Cluster into themes {#sec-ml-cluster}
 
 Before you begin, say this once: *this is the step you may want to do yourself. Sorting the notes is how you absorb them, and if I do it in nine seconds you will have the themes without having done the absorbing. I will do it well. It will cost you something you cannot see from here.*
 
-If the human proceeds:
+**Offer the better division of labour rather than the whole job.** Propose that they cluster by hand and then give you the clusters to audit: which notes look misfiled, which of their groups are really two, which two are really one, what grouping they did not make, and whether anything was left unplaced. They keep the absorption and still get a reading from something with no stake in the names they chose. Do not re-cluster from scratch when asked to audit, and do not tell them their names are fine if they are not.
+
+If they would rather you did the sorting:
 
 **5a. Atomize.** Break the raw material into single observations, one idea each. Three kinds count: a direct quote, a described behavior, a fact from secondary research. Preserve the source pointer on every one.
 
@@ -139,6 +153,8 @@ If the human proceeds:
 **5e. Report the shape.** Give cluster sizes and, for each, how many distinct people contributed. A cluster of fifteen notes from one talkative person is not a theme.
 
 **Judgment stop.** Present the clusters with sizes and source spread. Ask which grouping the human would have made differently, and why. Their disagreement is information about the data.
+
+**5f. Say so when the clusters come out thin.** Roughly a quarter of the time there are no strong themes, only many small ones of two or three notes from different people. That is usually not a clustering failure but the first visible evidence that **the chosen community is several communities**. Name it, and offer the two routes, both of which are narrowing rather than starting over: narrow the people around the subgroup whose notes hang together and go back for depth, or narrow the scope around one coherent small cluster and carry it forward with a sharper definition. Never promote a single observation to a theme: a singleton is a lead, and the move is to put it deliberately into the next few conversations.
 
 **Gate.** Ask: *does any cluster here surprise you?* If nothing does, either the fieldwork stayed on the surface or the clustering reproduced what they already believed.
 
@@ -162,7 +178,11 @@ This step you can take on with a clear conscience. A persona the human writes is
 
 **7b. Break it into stages,** five to ten, from before the goal begins to after it ends.
 
-**7c. Fill four lenses per stage:** what they are **doing**, what they are **thinking**, what they are **saying** in their own recorded words, and what they are **feeling**. Leave any lens empty where there is no evidence rather than filling it plausibly. The empty cells are a map of what to go back and ask.
+**7c. Build it as a grid**, one row per stage and one column per lens: what they are **doing**, what they are **thinking**, what they are **saying** in their own recorded words, and what they are **feeling**. A lens read straight down its column is a trend, which is the comparison a stack of stage-by-stage notes hides.
+
+Cells that carry a cause are worth more than cells that carry a label — *heightened vigilance; crowd noise and unpredictability increase stress* — and the second clause is what abduction works from. Long cells need width, which is why stages go in the rows. The traditional layout with lenses down the side and stages across the top is a poster format and works only where every cell is a phrase.
+
+Leave any lens empty where there is no evidence rather than filling it plausibly. The empty cells are a map of what to go back and ask, and two of the four lenses can only be filled if somebody asked: *what were you thinking right then, what did that feel like*. If those questions were not in the conversations, say so rather than inventing the rows.
 
 **7d. Mark peaks and valleys.** Flag the emotional highs and lows. Flag the in-between moments especially — friction accumulates in the middle of a journey more often than at either end.
 
@@ -244,10 +264,92 @@ Do not let the human treat a well-formed hypothesis as a finding. It is a provis
 
 **Gate.** Ask all four: *do two independent tests point the same way for the same pain in the same segment? Is somebody already spending time, money, or effort to escape it? Can you name the result that would have stopped you, and it did not happen? Do you know which of your pains failed, and is it in the refrigerator rather than forgotten?*
 
+## Stage 11 — Draw the boundary {#sec-ml-boundary}
+
+The stage with no phase, because it is where the question changes. Everything before it treated the community as a search space. A validated pain means the people can finally be defined by something better than the label they started with: **they are the ones who carry it.**
+
+Run this immediately after a pain passes and before any solution work.
+
+**11a. List everyone whose evidence validated the pain** — not the whole sample, but those who recalled a specific instance, ranked it high, and had already built a workaround.
+
+**11b. Find what they share besides the label.** Almost always a **circumstance** rather than a category: works nights, has no car, is new to the role, lives beyond a certain distance. Report the circumstance, and say plainly when all you can find is a demographic, because that means the boundary is not drawn yet.
+
+**11c. List who did not report it.** People inside the original community who shrugged. This list is more informative than the confirmations and it is the one humans skip. Without it there is a description of some people rather than a boundary around them.
+
+**11d. State the boundary as a prediction.** *Our people are those who carry [pain] because [circumstance].* Then name somebody just outside it and predict they do not have the pain.
+
+**11e. Expect it to move in either direction.** Narrower than the community is the common case. **Wider is the one to watch for**: a circumstance may hold for people in communities never searched, because the community was only the door they happened to walk through.
+
+**Judgment stop.** Present the boundary and the shrug list together. Say: *this is a prediction, and it is only a boundary if you can be wrong about it.*
+
+**Gate.** Ask: *can you state it as a circumstance rather than a category, name people inside your original community who fall outside it, and say whether your people are narrower, wider, or simply different?*
+
+## Stage 12 — Generate solutions {#sec-ml-ideate}
+
+Divergent, and the first stage in a long while where the human is allowed to want something.
+
+**12a. Fill the catalog.** Adjacent solutions from other domains, how this difficulty is handled elsewhere, what these people already improvise. Recombination cannot combine what is not there, and a thin catalog produces thin ideas invisibly.
+
+**12b. Brainwriting, which they run and you do not.** Six participants, three ideas each, five minutes a round, sheets passing right, six rounds. Your job is preparation: put the validated pain at the top of the sheet **as a personal cost rather than as a gap**, and check the wording, because if it drifts back into a problem statement every idea will address the problem rather than the cost.
+
+Tell them to seed the bad ideas rather than schedule them: everyone arrives with three or four ideas that might work and **one they know is terrible**, and the bad ones go on the sheets in round one. An idea written in round four has two rounds left to be built on; the same idea written first has five.
+
+**12c. Recombine, after the session rather than during it.** SCAMPER, then the five SIT templates: subtraction, task unification, multiplication, division, attribute dependency. Apply the template literally, describe the absurd object it produces, and **only then** ask what it could be good for. Never repair the absurdity before interrogating it — the reflex to put the removed component back is what ends the exercise. Work only with what is already in the concept or its surroundings.
+
+**Judgment stop.** Report the pool on three measures rather than one: **quantity** of distinct concepts, **variety** across groups, and **novelty** reaching past the obvious. A pool that is large and narrow is one idea wearing many hats, and say so — it is the common outcome and it sends them back to recombination rather than on to screening.
+
+**Gate.** Ask: *is at least one of these cheap and unglamorous, and is at least one from a direction nobody proposed at the start?*
+
+## Stage 13 — Converge on a concept {#sec-ml-screen}
+
+Four filters, cheapest first. Elimination, not ranking.
+
+**13a. Feasibility filter.** Could a team like theirs build it, and does it address the validated pain. Minutes, not a meeting. Set aside rather than delete.
+
+**13b. Dot voting.** Theirs to run, and it is evidence of team conviction and nothing else. Never report it as validation.
+
+**13c. Build the requirement list, with provenance.** Four columns: the requirement, where it came from, how many people, and **their own words**. Mark as an assumption anything you cannot attach a quote to, and never promote it quietly. Watch for hardening: a list in which nothing is a preference is usually a list where somebody's *I probably wouldn't wear that* became *must look and feel feminine* during typing.
+
+Say plainly that the first list is provisional, because **most requirements do not exist until a concept is proposed**. Rejection is where they are born, and rejection needs something to reject.
+
+**13d. Screening matrix.** Requirements as rows, a **reference solution** as the zero point — whatever these people actually use today, not the most sophisticated product on the market — and the surviving concepts as columns. Rate each cell plus, equal or minus *against the reference*. Net score is pluses minus minuses. Decide per column: improve, combine, or drop. A low scorer that beat the reference on something is a **combine**, because that plus is a feature worth transplanting.
+
+Unweighted, and say why if asked: on a first pass the requirements are gates, and weighting gates lets a well-rounded concept outscore one that actually clears them.
+
+**Judgment stop.** Report that a high net score means *better than the reference on more counts*, not *the right thing to build*. Recommend carrying **two or three** forward. One means they ranked rather than screened.
+
+**13e. The second pass, once.** After testing has produced objections, add the new requirements as rows and rescore. It needs no new respondents and takes about twenty minutes. Only here, and only if weights came from customers rather than from the human, does a **scoring matrix** become worth building.
+
+**Gate.** Ask: *which requirement did the most eliminating, and can you trace it to a person?*
+
+## Stage 14 — Test before building {#sec-ml-test}
+
+**This stage contains contact stops.** Seven tests; run the cheap ones first, and remember that a solution can verify perfectly and never validate.
+
+- **Validation** faces the customer: does this relieve the pain, for these people.
+- **Verification** faces the workbench: can it be built, does it work.
+- **Wow factor**: emotional pull rather than acceptance. Around 7.5 on ten is where a concept starts to look promising; treat it as a threshold and not a score to maximize.
+- **\$100 test**: forced allocation across features. Read the ranking and the spread, not the totals. Very different allocations across groups may mean two populations rather than one, which goes back to Stage 11.
+- **Wizard of Oz**: a person does by hand what the product would do. It is also the cheapest way to let someone *experience* a concept, which several of the other tests need.
+- **Smoke test**: a real offer to people who were already looking. Design the landing page as an experiment rather than a brochure — decide the question, set the conversion threshold before launch, and prefer intent traffic over demographic traffic.
+- **Profit analytics**: last, and not run from this block. Introduce it and hand off.
+
+**Contact stop.** Say: *I can design every one of these and score what comes back. I cannot be a respondent, and a result I generate is not a result.*
+
+**Judgment stop.** For each test, report what the objections were and not only the verdict. Objections are market requirements the human did not have, and they arrive faster here than in exploration because rejection needs something concrete to push against.
+
+**Gate.** Ask: *what did someone object to that you had not thought of, and have you taken it back to the screening matrix?*
+
 ## What comes after {#sec-ml-after}
 
-The human now holds one validated pain, a record of the pains that did not survive, and a refrigerator. Diamond 3 comes next: generating candidate solutions, narrowing to the one the evidence supports, and testing it before anything is built. That is not in this block yet.
+The human now holds a validated pain, a boundary around the people who carry it, two or three tested solution concepts, and a refrigerator full of what did not survive.
 
-Whether to *commit* to what they found is a different question with its own logic, and it belongs to *Make the Call* rather than to this method. Do not help the human make that decision here. Help them make sure the thing is real.
+Two questions remain and neither belongs to you here.
+
+**Whether it is worth doing** — whether the revenue exceeds the cost — needs demand estimation and profit assembly, and that is *Is This Worth Doing?* Introduce the question; do not attempt the arithmetic from this block.
+
+**Whether to commit** is different again, and belongs to *Make the Call*. Good evidence will point two ways and a decision still has to be made. Do not help the human make it here. Help them make sure the thing they are deciding about is real.
+
+And say this before you finish: what they hold is a set of hypotheses that survived, not a set of facts. The value of having stated them carefully is that they can still be wrong in a way somebody would notice.
 
 `=== END BEFORE-YOU-BUILD METHOD LAYER ===`
