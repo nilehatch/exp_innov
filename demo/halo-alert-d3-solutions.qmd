@@ -22,7 +22,7 @@ Everything around it is **reconstructed**: the generation session, the requireme
 
 **Design.** Five people, three ideas each, five minutes a round, six rounds, sheets passing right. The pain statement at the top of every sheet, phrased as a cost rather than a gap: *she rearranges her route, her timing and her attention to manage a risk she cannot put down.* No discussion during rounds; debrief afterward.
 
-**Execution.** Thirty minutes. One round given over to [deliberately bad ideas](#sec-ha-d3-bad-ideas), run fourth rather than first, once the room had loosened.
+**Execution.** Thirty minutes. One round was given over to deliberately bad ideas, run fourth rather than first, once the room had loosened. It is described below, because it did more work than the other five.
 
 **Evidence.** Roughly ninety distinct concepts. Sorted loosely, they fell into two families: *something you carry*, and *something that tells somebody where you are*. A third and much smaller family proposed changing the environment rather than equipping the person — better lighting, staffed routes — which nobody could act on but which nobody deleted either.
 
@@ -32,7 +32,7 @@ Everything around it is **reconstructed**: the generation session, the requireme
 
 ### Recombination {#sec-ha-d3-recombine}
 
-**Unknown.** Whether anything in the pile could do both jobs at once — be carried without thought *and* tell somebody where she was.
+**Unknown.** Whether anything in the pile could do both jobs at once: be carried without thought *and* tell somebody where she was.
 
 **Design.** Work the catalog rather than generate afresh. SCAMPER over the strongest candidates, then subtraction on the two families in turn.
 
@@ -49,7 +49,7 @@ Everything around it is **reconstructed**: the generation session, the requireme
 After recombination, the candidates worth screening included:
 
 - electrified clothing that shocks an assailant
-- non-jewelry accessories that track and send a distress call — a headband, ear buds
+- non-jewelry accessories that track and send a distress call, such as a headband or ear buds
 - jewelry that sends a distress call at the press of a button, such as a ring
 - a concealed knife
 - noise makers to scare an assailant away
@@ -65,11 +65,11 @@ Seven, and the provenance is mixed in the way the [chapter warns it will be](../
 ::: {.gridded}
 | Requirement | Where it came from |
 |---|---|
-| Stops an assault | exploration — the reason the project exists |
-| Discreet, rather than visibly deterrent | exploration — several women preferred to scare an assailant off than to advertise a defense |
+| Stops an assault | exploration; the reason the project exists |
+| Discreet, rather than visibly deterrent | exploration; several women preferred to scare an assailant off than to advertise a defense |
 | Looks like real jewelry | reaction to an early mock-up |
 | Looks and feels feminine | reaction to an early mock-up |
-| Works without the phone | exploration, unprompted — *the first thing they grab is your phone* |
+| Works without the phone | exploration, unprompted: *the first thing they grab is your phone* |
 | Confirms the alert was sent and received | assumption, held by the team |
 | Not usable as a weapon if taken | **reaction to the shock-clothing concept** |
 :::
@@ -78,7 +78,7 @@ Seven, and the provenance is mixed in the way the [chapter warns it will be](../
 
 **Unknown.** Which candidates were worth the cost of testing, given what the women had said they needed.
 
-**Design.** Each candidate rated against **Mace** — the best thing these women actually had — on each requirement: better, the same, or worse. Unweighted, because every requirement on the list was a gate.
+**Design.** Each candidate rated against **Mace**, the best thing these women actually had, on each requirement: better, the same, or worse. Unweighted, because every requirement on the list was a gate.
 
 This is the team's own matrix.
 

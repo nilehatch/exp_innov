@@ -30,9 +30,16 @@ Read the numbers as an honest picture of the scale of a first expedition rather 
 | **14 Mar** | [Experience map](halo-alert-d2-converge.qmd#sec-ha-expmap) | Traced Maya's evening commute across seven stages and four lenses | The emotional arc, and two stages where she says nothing at all |
 | **16 Mar** | [Abduction](halo-alert-d2-converge.qmd#sec-ha-abduction) | Generated competing explanations, checked each against the evidence, chose one | *Anxiety when commuting at night, especially in unpredictable or poorly lit environments.* Emotional and functional, with social overtones. Two rivals refrigerated |
 | **20 Mar** | [Pain test](halo-alert-d2-validate.qmd#sec-ha-test-summary) | Ran three probes against three candidate pains | **Dark or unlit blocks: green.** Crowded exits and unexpected detours: yellow |
+| **24 Mar** | [Brainwriting](halo-alert-d3-solutions.qmd#sec-ha-d3-brainwriting) | Five people, six rounds, half an hour, including one round of deliberately bad ideas | ~90 concepts in two families, which is fewer families than it sounds |
+| 24 Mar | [Recombination](halo-alert-d3-solutions.qmd#sec-ha-d3-recombine) | Worked the pile rather than generating more | A small worn object that sends without being unlocked |
+| **25 Mar** | [Screening](halo-alert-d3-solutions.qmd#sec-ha-d3-matrix) | Rated candidates against pepper spray on the women's own requirements | Two survivors: the **alert ring** and the **alert keychain**. The taser eliminated, its one advantage carried forward |
+| **28 Mar** | [Wow factor](halo-alert-d3-solutions.qmd#sec-ha-d3-wow) | Both concepts to the same group, rated and probed | The ring pulled harder, because it is *already in your hand* |
+| 28 Mar | [\$100 test](halo-alert-d3-solutions.qmd#sec-ha-d3-100) | Eight features, a hypothetical hundred dollars | Money concentrated on two features. Nothing at all went to deterrence |
 :::
 
-**Twenty-nine days**, start to validated pain.
+**Twenty-nine days** from first divergence to a validated pain, and another eight to two tested solution concepts.
+
+Notice how the rhythm changes. Diamond 2 is measured in weeks because it waits on other people's calendars. Diamond 3's generation and screening took an afternoon each, because they wait on nobody.
 
 ## What the Test Actually Said
 

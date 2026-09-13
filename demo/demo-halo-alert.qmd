@@ -5,7 +5,7 @@
 
 ::: {.see-demo}
 **Start here:** [Halo Alert at a Glance](halo-alert-at-a-glance.qmd) puts the whole
-expedition — twenty-nine days, from ten candidate communities to one validated pain —
+expedition, twenty-nine days from ten candidate communities to one validated pain,
 on a single page. Everything that follows is the working record behind it.
 :::
 
@@ -16,6 +16,7 @@ The **Halo Alert** demos show what that process looks like when it is written do
 
 - **Narrative + How-to:** Every method chapter in the book explains *why* and *how*.  
   These demos show *what it looks like* when a real team does the work.
+
 - **Linkable & modular:** Each demo stands alone, and chapters link back to the relevant toolkit guides (templates, checklists, prompts).
 - **Right level of detail:** Brief vignettes for quick ideas; full transcripts where depth helps (e.g., conversations).
 
@@ -30,11 +31,11 @@ That failure is why [Organize for Innovation](../Organize_Team.qmd) exists, and 
 ::: {.limit}
 **Where the evidence on these pages came from**
 
-The original project's artifacts are gone. Everything you will read here — the transcripts, the observation logs, the counts — was **reconstructed**, written with an AI so the record would be complete enough to follow end to end.
+The original project's artifacts are gone. Everything you will read here, the transcripts and the observation logs and the counts, was **reconstructed**, written with an AI so the record would be complete enough to follow end to end.
 
 That makes these pages illustrative of **form** rather than evidence of **fact**. They show what a good conversation record looks like, how a clustering board is laid out, what a pain test reports and how its three probes can disagree. They do not establish that any particular claim about commuters is true.
 
-And notice what that means for you, because it is the opposite of what it might seem to license. **Doing this with your own project would break the method.** This demo may generate a record, because its job is to show you the shape of one. Yours may not, because yours has to *be* the evidence — which is the one prohibited act in [the standing orders](../method-layer.qmd#sec-ml-role).
+And notice what that means for you, because it is the opposite of what it might seem to license. Doing this with your own project would *break the method*. This demo may generate a record, because its job is to show you the shape of one. Yours may not, because yours has to *be* the evidence — which is the one prohibited act in [the standing orders](../method-layer.qmd#sec-ml-role).
 
 One artifact is genuine. The **screening matrix** in [Hypothesize a Good Solution](../Hypothesize_Solution.qmd#sec-screening-matrix) is the original team's own, recovered from course files because it happened to have been built in software that kept a copy. Its ideas, its reference solution and its ratings are theirs.
 
@@ -54,7 +55,7 @@ Keep your own **data room** in parallel: copy the templates, adapt the guides, a
 [Halo Alert at a Glance](halo-alert-at-a-glance.qmd) lists every file with its date and
 what it produced. Rather than repeat that here, two notes about scope:
 
-**Diamonds 1 and 2 are complete** — divergence, the access test, two full conversation
+**Diamonds 1 and 2 are complete**: divergence, the access test, two full conversation
 transcripts, three observation outings, clustering, personas, the experience map,
 abduction, and three pain-test probes with their raw responses.
 
@@ -87,7 +88,7 @@ Every demo ties to at least one guide:
 - Observation → see [observation guide](../toolkit/Pain_Guides.qmd#sec-observation)
 - Recording any of it → [the experimentation toolkit](../toolkit/Experimentation_Toolkit.qmd)
 
-The intent is **traceability**: a student can jump from a technique in the narrative → to a guide → to a concrete Halo Alert example → and back to their own data room with the same template.
+The intent is **traceability**: a reader can jump from a technique in the narrative → to a guide → to a concrete Halo Alert example → and back to their own data room with the same template.
 
 ## What to Look For (Learning Lenses) {#sec-lenses}
 

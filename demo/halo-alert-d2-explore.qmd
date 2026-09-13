@@ -16,7 +16,7 @@ The toolkit's conversation guide adapted to this community. Notice how little of
 - **Protocol:** Engage women commuters outside urban/suburban metro stations. Aim for natural, conversational tone rather than a rigid questionnaire.  
 - **Resources:** Notebook + recorder (with consent).  
 - **Introduction:**  
-  “Hi, my name is Nile. I’m working on a student project to better understand people’s commuting experiences. I’m not selling anything — I’d just love to hear your perspective. The conversation will take 15–20 minutes. Is it okay if I ask a few questions, and possibly record for accuracy?”  
+  “Hi, my name is [your name]. I’m working on a project to better understand people’s commuting experiences. I’m not selling anything — I’d just love to hear your perspective. The conversation will take 15–20 minutes. Is it okay if I ask a few questions, and possibly record for accuracy?”  
 
 ### Opening and Rapport  
 - Exchange names, age (optional), and commuting origin/destination.  
@@ -79,7 +79,7 @@ This screener is designed for **short, in-the-moment checks** (e.g., on the stre
 
 ### Introduction (Script)
 
-Hello, my name is [your name]. I’m a student working on a project about [general problem space].  
+Hello, my name is [your name]. I’m working on a project about [general problem space].  
 We’re not selling anything. We’re just learning from people’s experiences, and your perspective would really help.  
 Can I ask you a few quick questions? It’ll only take a minute.  
 
@@ -100,7 +100,7 @@ Can I ask you a few quick questions? It’ll only take a minute.
 ### Notes for Field Teams
 
 - Keep the tone conversational, not interrogative.  
-- If someone hesitates, reassure them: *“We’re just students, not a company. We’re trying to learn.”*  
+- If someone hesitates, reassure them: *“We’re not selling anything. We’re trying to understand how this works for people.”*  
 - Respect refusals immediately — thank them for their time.
 
 ## Conversations {#sec-ha-conversations}
@@ -180,9 +180,7 @@ Can I ask you a few quick questions? It’ll only take a minute.
 - Cross-validate with observational notes at stations.  
 - Cluster across multiple transcripts to draft a **pain hypothesis** around *predictability + reassurance*.
 
-::: {.see-demo}
 The [full transcript](halo-alert-transcript-sarah.qmd) runs unedited, including the questions that went nowhere.
-:::
 
 ### Emily Rivera, 25 February {#sec-ha-conv-emily}
 
@@ -253,7 +251,8 @@ The [full transcript](halo-alert-transcript-sarah.qmd) runs unedited, including 
 
 ### 7. Knowledge Updating
 - **What do we now know?**  
-  Late-evening conditions (low density + low light) shift commuters’ strategies toward **situational awareness** and **connection-based reassurance**. perceived safety is strongly tied to **environmental controllability** (light, sight lines, proximity of others).  
+  Late-evening conditions (low density + low light) shift commuters’ strategies toward **situational awareness** and **connection-based reassurance**. perceived safety is strongly tied to **environmental controllability** (light, sight lines, proximity of others).
+
 - **Confidence**: Moderate — converges with Sarah’s patterns (connection routines), but adds strong **lighting/timing** dimension; needs more off-peak interviews.  
 - **Assumptions Updated/Abandoned**:  
   - Updated: “Physical risk” proxies (e.g., reported incidents) influence **route choice** even when not personally experienced.  
@@ -265,9 +264,7 @@ The [full transcript](halo-alert-transcript-sarah.qmd) runs unedited, including 
 - **Hypothesis shaping**: Draft pain hypothesis around **“reassurance under low-control conditions”** (low light, low density, unfamiliar routes).  
 - **Design signal tests**: Explore **low-friction check-in** mechanisms and **discreet triggers** that work with hands full or phone stowed.
 
-::: {.see-demo}
 The [full transcript](halo-alert-transcript-emily.qmd) is also unedited.
-:::
 
 ## Observations {#sec-ha-observations}
 

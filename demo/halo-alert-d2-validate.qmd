@@ -51,6 +51,7 @@ Contrast (n=2): Lower recognition; avg ouch 5.5/10; minimal substitute spend.
 
 - **In-segment:** High recognition (88%), strong recency, pain ranks consistently #1.^[Headline estimates reflect the **in-segment sample** (professional women with ≥10-minute night walks).\
 Contrast group responses provide context only.  ]
+
 - **Contrast:** Recognition and severity lower, but still present.  
 - Pain ranks consistently near the top, above other commute issues.  
 :::
@@ -147,6 +148,7 @@ We include a small **contrast** group for context but don’t base decisions on 
 
 - **From clusters:** [Commuting themes](halo-alert-d2-converge.qmd#sec-ha-cluster) 
   <!--Reassurance routines, Route choice & environment, Crowding & vigilance.  -->
+
 - **From persona:** [Maya Patel](halo-alert-d2-converge.qmd#sec-ha-persona-maya)
 - **From experience map:** [Maya Patel commute](halo-alert-d2-converge.qmd#sec-ha-expmap) 
 - **From abduction:** [Maya Patel commuting pain hypothesis](halo-alert-d2-converge.qmd#sec-ha-abduction)
@@ -230,6 +232,7 @@ Questions asked (from the [Pain Testing Guide](../toolkit/Pain_Guides.qmd#sec-pa
 
 - **From clusters:** [Commuting themes](halo-alert-d2-converge.qmd#sec-ha-cluster) 
   <!--Reassurance routines, Route choice & environment, Crowding & vigilance.  -->
+
 - **From persona:** [Maya Patel](halo-alert-d2-converge.qmd#sec-ha-persona-maya)
 - **From experience map:** [Maya Patel commute](halo-alert-d2-converge.qmd#sec-ha-expmap) 
 - **From pain hypothesis:** [Maya Patel commuting pain hypothesis](halo-alert-d2-converge.qmd#sec-ha-abduction)
@@ -305,6 +308,7 @@ Questions asked (from the [Pain Testing Guide](../toolkit/Pain_Guides.qmd#sec-pa
 
 - **From clusters:** [Commuting themes](halo-alert-d2-converge.qmd#sec-ha-cluster) 
   <!--Reassurance routines, Route choice & environment, Crowding & vigilance.  -->
+
 - **From persona:** [Maya Patel](halo-alert-d2-converge.qmd#sec-ha-persona-maya)
 - **From experience map:** [Maya Patel commute](halo-alert-d2-converge.qmd#sec-ha-expmap) 
 - **From pain hypothesis:** [Maya Patel commuting pain hypothesis](halo-alert-d2-converge.qmd#sec-ha-abduction)
@@ -380,6 +384,7 @@ Questions asked (from the [Pain Testing Guide](../toolkit/Pain_Guides.qmd#sec-pa
 
 - **From clusters:** [Commuting themes](halo-alert-d2-converge.qmd#sec-ha-cluster) 
   <!--Reassurance routines, Route choice & environment, Crowding & vigilance.  -->
+
 - **From persona:** [Maya Patel](halo-alert-d2-converge.qmd#sec-ha-persona-maya)
 - **From experience map:** [Maya Patel commute](halo-alert-d2-converge.qmd#sec-ha-expmap) 
 - **From pain hypothesis:** [Maya Patel commuting pain hypothesis](halo-alert-d2-converge.qmd#sec-ha-abduction)

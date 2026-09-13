@@ -115,15 +115,19 @@ Candidate groups (aim for 20+):
 1) ______   2) ______   3) ______   ...
 
 One-line profiles (pick 10-30 to flesh out):
+
 - [Group] who [do/live] often [friction] because [why].
 
 Orbit roles (1-3 each):
+
 - [Group]: ______
 
 Access channels (at least one per group):
+
 - [Group]: ______
 
 Bias check additions (3 non-obvious):
+
 - ______   - ______   - ______
 ```
 

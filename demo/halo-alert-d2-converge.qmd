@@ -660,7 +660,7 @@ ggplot(pain_long, aes(x = PainType, y = Hypothesis, fill = Present)) +
 <!--
 ### Teaching Notes  
 
-- **Why tag pain types:** Forces precision. If students can’t assign at least one type, they probably named a *problem* not a pain.  
+- **Why tag pain types:** Forces precision. If you cannot assign at least one type, you have probably named a *problem* not a pain.  
 - **Stacked pains = high value:** Pains that cut across multiple types (e.g., functional + emotional + social) are often the most compelling to address.  
 - **Reminder:** Hypothesizing pains ≠ proposing solutions. Stay in the *what hurts* stage.  
 -->
@@ -669,6 +669,7 @@ ggplot(pain_long, aes(x = PainType, y = Hypothesis, fill = Present)) +
 
 - **From clusters:** [Commuting themes](halo-alert-d2-converge.qmd#sec-ha-cluster) 
   <!--Reassurance routines, Route choice & environment, Crowding & vigilance.  -->
+
 - **From persona:** [Maya Patel](halo-alert-d2-converge.qmd#sec-ha-persona-maya)
 - **From experience map:** 
     - [Experience map](halo-alert-d2-converge.qmd#sec-ha-expmap)
