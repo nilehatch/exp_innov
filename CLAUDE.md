@@ -343,7 +343,7 @@ node geometry are all derived, and editing one breaks the family's consistency.
 
 The editor is VS Code or Cursor. Do not assume RStudio or add `.Rproj` files.
 
-## Where the manuscript stands (14 Sep 2026)
+## Where the manuscript stands (13 Sep 2026)
 
 Nothing structural is open. Preface through Conclusion revised, three diamonds of chapters,
 a complete toolkit, a nine-page Halo Alert demonstration, and a three-block method layer.
@@ -359,7 +359,54 @@ Open, and none of it blocking:
 - **27 stock callouts remain in `demo/`**, 20 inside the two transcripts. Those are field
   records rather than instructional prose and may not want the family taxonomy. Decide
   rather than sweep.
-- **`Organize_Team.qmd`** is unrevised, and the Halo Alert origin story now points at it.
+- **Two principles in `Organize_Team.qmd` are argued and not cited.** Reward future
+  contribution; settle fairness while stakes are low. The canonical source is Wasserman on
+  founder equity splits, and **there is no Wasserman and no equity-split literature in the
+  Zotero master** (checked 13 Sep). Add the collection, or leave them as reasoning.
+- **Permission for the operating agreement template** is NWH's to confirm with the law
+  faculty who drafted it. He has general permission to use it outside the fellowship and
+  authorized shipping it; the attribution line in the chapter names no institution, pending
+  that. If permission does not hold, deleting `files/` and the link paragraph is a two-line
+  change and the section still stands without it.
+
+## Organize for Innovation: where the book stops on legal content
+
+Revised 13 Sep. It had been four bodies of material with no argument between them. The
+unifying frame was already sitting in its own subtitle and had never been used:
+**private ordering**, a team settling its terms in advance rather than discovering them in
+an argument. That frame carries both instruments, and it is deliberately the same move the
+book already teaches in `Validate_Pain` — binding a future self who will have a motive,
+which is worthless written afterward because from the inside the two feel identical.
+
+**The two instruments are not symmetric, and that asymmetry is the whole answer to how far
+the book goes.**
+
+- **The charter is handed over whole.** It binds nobody, a bad one hurts no one, and its
+  value is the conversation it forces.
+- **The operating agreement is not**, because its value exists only if it is enforceable,
+  and enforceability is exactly what a book cannot supply. So the book gives everything
+  *upstream* of the lawyer and stops: the two principles, a decision worksheet, and one
+  drafted example.
+
+**Do not add legal content here.** No clause drafting, no jurisdiction, no entity-formation
+primer. The discipline that keeps it out: **every provision discussed must tie to a specific
+act the method requires.** Vesting → makes abandonment affordable. Voting/non-voting units →
+a part-timer cannot veto field evidence they did not gather. Buy-back → the team changes
+without dissolving. A board of one to three → convergence cannot stall forever. Anything
+that cannot be tied to a method act stays in the template and out of the chapter.
+
+The worksheet is the part that earns its place, because it is the one artifact nobody else
+writes: a lawyer cannot decide who is full-time or what happens when the team refrigerates
+someone's idea. The template ships at `files/operating-agreement-template.docx`, declared
+under `project.resources` in `_quarto.yml` (a bare link is not enough to get a `.docx` into
+`_book/`). Its `.limit` frames it exactly as the Halo Alert demo is framed: **evidence of
+form, not of fact.** Keep those two consistent, as with the method layer's `.limit`.
+
+Two things that were wrong in the file for a long time and are worth not reintroducing.
+Element 2 of the charter was an ownership section, so a non-binding document was trying to
+bind equity; that content is now the operating agreement's. And the decision-making element
+said *"Ensure this process supports advocacy and collaboration"*, the opposite of the two
+sections immediately above it.
 
 ## Notes and audits go to the vault, not here
 
