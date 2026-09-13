@@ -9,7 +9,9 @@ It is also discouraging if it is the first thing you see. So here is the same ex
 ::: {.limit}
 **What this is**
 
-Halo Alert is a realistic teaching demonstration rather than a live venture. The seed came from a student team that later disbanded, no intellectual property is being pursued, and the dates are a real working sequence rather than a compressed illustration. Treat the numbers as an honest example of what a small team produced in a month, not as a benchmark to hit.
+The concept comes from a real innovation project whose artifacts are gone, so the record here was **reconstructed** rather than recovered. It illustrates the *form* of a complete expedition, not the *fact* of any finding about commuters. The [demonstration overview](demo-halo-alert.qmd#sec-what-halo-alert) says more, including why generating a record like this would break the method if you did it with your own project.
+
+Read the numbers as an honest picture of the scale of a first expedition rather than as a benchmark to hit.
 :::
 
 ## The Whole Expedition

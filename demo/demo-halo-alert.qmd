@@ -12,19 +12,32 @@ on a single page. Everything that follows is the working record behind it.
 ## Purpose of this Demo Part {#sec-demos-purpose}
 
 This book teaches a **repeatable process** for reducing uncertainty and finding unmet needs.  
-The **Halo Alert** demos show that process **as it actually looks in practice**—field notes, interview transcripts, observation logs, clustering, hypotheses, and confirmatory tests—so students can trace each step and reuse the same tools on their own projects.
+The **Halo Alert** demos show what that process looks like when it is written down: field notes, interview transcripts, observation logs, clustering, hypotheses, and confirmatory tests, complete enough that you can trace every step and reuse the same tools on your own project.
 
 - **Narrative + How-to:** Every method chapter in the book explains *why* and *how*.  
   These demos show *what it looks like* when a real team does the work.
 - **Linkable & modular:** Each demo stands alone, and chapters link back to the relevant toolkit guides (templates, checklists, prompts).
 - **Right level of detail:** Brief vignettes for quick ideas; full transcripts where depth helps (e.g., conversations).
 
-## What is Halo Alert? {#sec-what-halo-alert}
+## What Halo Alert Is, and Where It Came From {#sec-what-halo-alert}
 
-**Halo Alert** is a fictitious—but realistic—project about **reassurance and safety** for **women who walk as part of their commute** (including professional women and female university students).  
-The core concept explores **discreet, low-friction ways to stay connected** (e.g., a subtle trigger that signals “I need you watching me now”) without escalating situations or requiring overt phone use.
+**Halo Alert** is a personal-safety concept for **women who walk as part of their commute**, including professionals and university students. It explores **discreet, low-friction ways to stay connected**: a subtle trigger that signals *I need you watching me now*, without escalating a situation or visibly reaching for a phone.
 
-> Background: The seed idea came from a student team that later disbanded; no IP is being pursued. We use the scenario here as a **teaching demo**.
+The concept and much of the framing come from a **real innovation project**, one that never shipped. The idea was promising and the team could not work together, and it died on the drawing board and the bench rather than in the market. No test found it wanting. It never got far enough to be tested.
+
+That failure is why [Organize for Innovation](../Organize_Team.qmd) exists, and why this book treats psychological safety as a condition of the method rather than a courtesy. A team that cannot suspend judgment cannot diverge, and a team that cannot disagree safely will converge on whatever the loudest person already wanted.
+
+::: {.limit}
+**Where the evidence on these pages came from**
+
+The original project's artifacts are gone. Everything you will read here — the transcripts, the observation logs, the counts — was **reconstructed**, written with an AI so the record would be complete enough to follow end to end.
+
+That makes these pages illustrative of **form** rather than evidence of **fact**. They show what a good conversation record looks like, how a clustering board is laid out, what a pain test reports and how its three probes can disagree. They do not establish that any particular claim about commuters is true.
+
+And notice what that means for you, because it is the opposite of what it might seem to license. **Doing this with your own project would break the method.** This demo may generate a record, because its job is to show you the shape of one. Yours may not, because yours has to *be* the evidence — which is the one prohibited act in [the standing orders](../method-layer.qmd#sec-ml-role).
+
+Two further notes. The setting is New York and the original work was not; a dense transit city makes a walking commute legible to readers anywhere, so it was chosen rather than reported. And Diamond 3 is simulated for an additional reason: the original project never reached it, and this method did not exist yet when the work was done.
+:::
 
 ## How to Use This Demo Part {#sec-how-to-use}
 
