@@ -6,14 +6,14 @@ These are the steps behind [Build and Test Solutions](../Build_Solutions_part.qm
 
 | Phase | What it covers |
 |---|---|
-| [Diverge — Generate Many Solutions](#sec-solution-diverge) | [Fill the Catalog](#sec-catalog) · [Generate](#sec-generate) · [Recombine](#sec-recombine) |
+| [Diverge — Generate Many Solutions](#sec-solution-diverge) | [Fill the Catalog](#sec-catalog) · [Generate](#sec-generate) · [Bad ideas](#sec-bad-ideas-guide) · [Recombine](#sec-recombine) |
 | [Converge — Narrow to One](#sec-solution-converge) | [Feasibility filter](#sec-feasibility) · [Dot voting](#sec-dot-voting) · [Screening matrix](#sec-screening) · [SIT](#sec-sit-converge) · [The second pass](#sec-second-pass-guide) |
-| [Test — Test Before You Build](#sec-solution-test) | The seven tests and what each asks · [Running a Smoke Test](#sec-smoke-guide) |
+| [Test — Test Before You Build](#sec-solution-test) | [Validation & verification](#sec-val-ver-guide) · [Wow factor](#sec-wow-guide) · [\\$100](#sec-100-guide) · [Wizard of Oz](#sec-wizard-guide) · [Smoke test](#sec-smoke-guide) · [Profit analytics](#sec-profit-guide) |
 
 ::: {.limit}
-**This page is still being written**
+**How this page relates to the chapters**
 
-Unlike the other two diamonds, Diamond 3 never had guides: its methods were written into the chapters and stayed there. So these pages are being **extracted from** the chapters rather than written beside them, and the extraction is partway done. Divergence and convergence are complete here, SIT included, and smoke testing has its procedure. The other six tests name what each one asks, and the chapters still carry them in full. Follow the links. The scoring matrix is deliberately absent while its place in the method is still being settled. [The Method Layer](../method-layer.qmd) stops at the end of Diamond 2.
+Unlike the other two diamonds, Diamond 3 never had guides: its methods were written into the chapters and stayed there. So this page is **extracted from** the chapters rather than written beside them, and every entry links back to the section it came from. All three phases now carry their procedures. The scoring matrix is deliberately absent while its place in the method is still being settled, and [The Method Layer](../method-layer.qmd) still stops at the end of Diamond 2.
 
 Everything on this page concerns solutions you have not built yet. Nothing here asks a customer to commit, and nothing here decides whether the venture is worth doing — that question belongs to [*Is This Worth Doing?*](https://ea.nilehatch.com/) and the decision itself to [*Make the Call*](https://mc.nilehatch.com/).
 :::
@@ -39,6 +39,22 @@ It fixes both brainstorming failures at once. Nobody can dominate, because every
 - Adjust the numbers to your team and keep the structure. Four participants and four rounds still works.
 - Keep every sheet. They are the raw material for recombination and for the next chapter.
 - Debrief afterward, never during. The session ends, then you look at what you have.
+
+#### A round of deliberately bad ideas {#sec-bad-ideas-guide}
+
+Chapter: [Deliberately Bad Ideas](../Ideate_Solutions.qmd#sec-bad-ideas). Run it as one round inside brainwriting, or as a five-minute warm-up before the first round.
+
+1. **State the target plainly.** The worst thing we could build for these people. Infeasible counts; something that makes the pain *worse* counts double.
+2. **Keep the timing and the silence** of a normal round. It is a generating round, not a discussion.
+3. **Pass and build**, exactly as usual. Bad ideas compound enjoyably.
+4. **Do not sort them into a separate pile.** They go in the catalog with everything else, because their value is as recombination material.
+5. **Harvest before you move on.** For two or three of the worst, ask what would have to be true for this to be good, and invert one attribute. Write down whatever that produces.
+
+::: {.threshold}
+**What the round tells you**
+
+If the team struggles to make the pain worse, stop. Inventing harm requires knowing the mechanism, so a silent room here usually means the pain is understood as a label rather than as a cause. Go back to the [experience map](Pain_Guides.qmd#sec-experience-map) before generating further.
+:::
 
 ### Move Three — Recombine {#sec-recombine}
 
@@ -217,6 +233,87 @@ Seven tests. The first distinction to hold on to is what each one asks: **valida
 | [Profit analytics](../Test_Solution.qmd#sec-profit-test) | At what they would pay, does this earn more than it costs? |
 
 **Wizard of Oz is not only a test.** It is also an *input* to several of the others, because it is how you put a solution concept in front of someone convincingly enough that their reaction means something. Reach for it whenever a test needs the customer to experience the solution rather than imagine it.
+
+#### Validation and Verification {#sec-val-ver-guide}
+
+Chapter: [Validation](../Test_Solution.qmd#sec-validation-test) and [Verification](../Test_Solution.qmd#sec-verification-test). These are not two tests so much as two questions any prototype can be asked, and one rough model usually answers both.
+
+**Validation faces the customer.** Who exactly is this person? What is the pain? Does this relieve it? You have answers to the first two from Diamond 2; what is new here is the third.
+
+**Verification faces the workbench.** What must it do? Can it be built? What is the best way to build it?
+
+Run them in that order and keep them separate in your notes, because they fail differently and the difference matters. A solution can verify perfectly and never validate: it works exactly as designed and nobody wants it.
+
+::: {.threshold}
+**Done when**
+
+- You can say which of the two a given result speaks to. A result that seems to answer both usually answers neither.
+- A validation failure sends you back to the concept or to the pain. A verification failure sends you back to the workbench. Write which one you are looking at before you start redesigning.
+:::
+
+#### Wow Factor Test {#sec-wow-guide}
+
+Chapter: [Wow Factor Testing](../Test_Solution.qmd#sec-wow-test). Measures emotional pull rather than acceptance, which are different and easy to confuse.
+
+1. **Present the concept**, saying plainly what it is for and what it does.
+2. **Ask for a rating**, one to ten, of their emotional connection to it.
+3. **Collect the positive**: what appeals, what benefit they foresee, when they would use it.
+4. **Collect the negative**: what they dislike, what is missing, what would stop them buying.
+5. **Invite improvement**: how would you change it, what would make you more likely to buy.
+6. **Summarize back to the group** and ask what the main learning was.
+
+Steps four and five are the ones that get cut when time is short, and they carry most of the value. A room that has just been asked what it likes will say generous things; the same room asked what would stop them buying says something usable.
+
+::: {.threshold}
+**The bar**
+
+An average around **7.5** is where a concept starts to look promising — high enough to indicate real pull rather than politeness [@swensonFindingDevelopingNew2013].
+
+Treat it as a threshold and not a score to maximize. A 9 from three people who love you is worth less than a 7 from twenty strangers.
+:::
+
+#### \$100 Test {#sec-100-guide}
+
+Chapter: [\$100 Test](../Test_Solution.qmd#sec-100-test). Finds which features carry the value, by forcing a trade-off instead of asking for an opinion.
+
+1. **Present the pain and the solution**, in person or in a survey.
+2. **List candidate features** generously. Cover function, design, and experience, and include some you expect to lose.
+3. **Give each person \$100** to allocate across the features, more to what they value more.
+4. **Read the allocations**, not the enthusiasm. Features that consistently draw money are the minimum viable product; features that draw none are feature creep you have not built yet.
+
+Watch for segments. If two groups allocate very differently, you may be looking at two populations rather than one, which is a Diamond 2 finding arriving through a Diamond 3 instrument. Take it back to [From Community to People](Pain_Guides.qmd#sec-boundary).
+
+::: {.limit}
+**It is hypothetical money**
+
+Nobody hands anything over, so the totals are softer than a purchase. What is reliable is the *ranking* and the *spread*: which features beat which, and whether people concentrate their money or scatter it. Concentration means a clear core; scattering usually means the concept is doing several unrelated jobs.
+:::
+
+#### Wizard of Oz Test {#sec-wizard-guide}
+
+Chapter: [Wizard of Oz](../Test_Solution.qmd#sec-wizard-test). A person does by hand what the product would do automatically, so you can test whether anyone wants the behavior before building the machinery.
+
+1. **Create the illusion.** A mock-up, a slide animation, a plain interface — enough that the person believes they are using a working thing.
+2. **Operate it manually.** Somebody behind the scenes enters the data, produces the result, sends the message.
+3. **Let them use it** as they would a real product, and watch rather than explain.
+4. **Collect feedback** on concept, usability and perceived value, and note where they hesitated.
+5. **Let them go off script.** The unexpected actions are the most informative part, and the temptation to steer them back is the thing to resist.
+
+It is also an **input to other tests**, and that is the use most people miss. Wow factor, the \$100 test and validation all need the person to *experience* the solution rather than imagine one. A Wizard of Oz rig is usually the cheapest way to give them that experience.
+
+::: {.threshold}
+**Done when**
+
+You can describe what the person did, not only what they said. If your notes contain opinions and no behavior, the rig was a demonstration rather than a test.
+:::
+
+#### Profit Analytics {#sec-profit-guide}
+
+Chapter: [Profit Analytics Testing](../Test_Solution.qmd#sec-profit-test). Comes last, because it needs a concept concrete enough to price.
+
+Deliberately partial here, and the chapter says so too. What belongs in this book is the shape: customers' willingness to pay reflects how well the solution relieves the pain, so a demand curve estimated from real responses lets you find the price that maximizes expected profit, and a low or negative result is a reason to reconsider rather than to push on.
+
+Doing it properly, which means eliciting willingness to pay without biasing it, estimating the curve, assembling costs, and finding the threshold at which the answer flips, is a book's worth of method, and that book is [*Is This Worth Doing?*](https://ea.nilehatch.com/). The overlap is intentional. Leave here knowing the test exists and why it comes last; do not try to run it from what is written here.
 
 #### Running a Smoke Test {#sec-smoke-guide}
 

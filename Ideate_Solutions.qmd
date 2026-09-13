@@ -97,6 +97,28 @@ Skipping it is expensive. The ideas that come out of an hour of generation are m
 
 Two tools do this deliberately.
 
+### Deliberately Bad Ideas {.method-header #sec-bad-ideas}
+
+Somewhere in the generating, spend a round inventing the worst thing you could possibly build. Not a weak idea or a boring one. Something actively bad, and bad in one of two specific ways: it cannot be built at all, or, better, **it makes the pain worse**.
+
+This sounds like a game and it is one. It is also the most reliable way to break the thing that stops teams generating.
+
+**It removes the pressure that kills divergence.** The rule everyone agrees to and nobody manages is *suspend judgment*. Ask for a good idea and people edit before they speak. Ask for a terrible one and there is nothing left to suppress, and the quiet members of a team are usually the first to get funny.
+
+**Making the pain worse requires understanding the pain.** To design something that makes a difficulty genuinely worse, you have to know what produces it. That makes this a test disguised as a game: a team that cannot invent a way to make their people's lives worse does not yet understand what makes them hard. If the round produces nothing, go back to your experience map rather than pressing on.
+
+**It puts cards in the catalog from a region nobody visits.** The bad ideas are far from where you have been searching, which is exactly what makes them useful raw material for the next round of recombination. Take the worst one and invert a single attribute, or ask what would have to be true for it to be good. That question has a habit of producing something usable.
+
+You do not need to protect the funnel from these. A concept that harms your people scores minus against the reference on every requirement and dies in the first screening. What survives is never the bad idea itself; it is the mechanism you noticed while building it.
+
+::: {.mini-case}
+The Halo Alert team produced one without meaning to. Among their candidate solutions for women walking home after dark was **electrified clothing** that would shock an assailant.
+
+The women they described it to were alarmed, and for reasons the team had not considered: an assailant could take it and use it on them, or they might shock a friend by accident. The idea was eliminated immediately, as it should have been.
+
+But it did two things on the way out. It produced two market requirements that had not existed before anyone proposed anything — *not usable against me* and *not dangerous to bystanders* — and it generated ideas about making the alert ring more discreet and more wearable. A bad idea, killed in screening, left the surviving concept better than it found it.
+:::
+
 ### SCAMPER {.method-header}
 
 SCAMPER is a checklist of transformations. Take an existing concept and apply each in turn:
