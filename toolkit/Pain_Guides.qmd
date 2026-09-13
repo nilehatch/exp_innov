@@ -6,7 +6,7 @@ These are the steps behind [Find and Validate Pains](../Find_Pain_part.qmd). The
 
 The same steps in machine-readable form, for working with an AI, are Stages 4 through 10 of [The Method Layer](../method-layer.qmd). Three of the methods below are yours alone and no model can run them, which is why they are the longest entries here: conversation, observation, and role play all require you to be in the room.
 
-| | |
+| Phase | What it covers |
 |---|---|
 | **Diverge** | [Getting People to Talk](#sec-recruiting) · [Conversation](#sec-conversation) · [Observation](#sec-observation) · [Role Play](#sec-role-play) · [Secondary Research](#sec-secondary-research) |
 | **Converge** | [Clustering](#sec-clustering) · [Personas](#sec-persona) · [Experience Mapping](#sec-experience-map) · [Abduction](#sec-abduction) · [Prioritize and Refrigerate](#sec-prioritize) |

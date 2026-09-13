@@ -4,7 +4,7 @@
 
 These are the steps behind [Build and Test Solutions](../Build_Solutions_part.qmd), and they run in the same three phases as the two diamonds before them: widen, narrow, then test before you commit. If you have worked through [Community Guides](Community_Guides.qmd) and [Pain Guides](Pain_Guides.qmd), the shape here will be familiar. That repetition is the method, not a coincidence.
 
-| | |
+| Phase | What it covers |
 |---|---|
 | [Diverge — Generate Many Solutions](#sec-solution-diverge) | [Fill the Catalog](#sec-catalog) · [Generate](#sec-generate) · [Recombine](#sec-recombine) |
 | [Converge — Narrow to One](#sec-solution-converge) | Feasibility filter · dot voting · screening matrix · SIT |

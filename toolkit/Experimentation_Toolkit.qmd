@@ -4,7 +4,7 @@
 
 The chapters of this book carry the judgment: what you are looking for, what makes a good one, how to know you have arrived. This part carries the procedure: one page per diamond, each running the same three phases, plus a gallery for the two artifacts people most often get wrong in ways that look right.
 
-| | |
+| Page | What it holds |
 |---|---|
 | [Community Guides](Community_Guides.qmd) | Diamond 1. Casting a wide net, committing to a community, testing access. |
 | [Community Choice Gallery](Community_Choice_Gallery.qmd) | Badly and well scoped communities side by side. Scope is a resolution setting, not a description. |

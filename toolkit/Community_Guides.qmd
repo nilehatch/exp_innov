@@ -6,12 +6,13 @@ These are the steps behind [Choose Where to Look](../Choose_Community_part.qmd).
 
 The same steps in machine-readable form, for working with an AI, are Stages 1 through 3 of [The Method Layer](../method-layer.qmd).
 
-| | |
+| Phase | What it covers |
 |---|---|
 | [Diverge — Cast a Wide Net](#sec-community-diverge) | A timed sprint producing 10 to 30 candidate communities with access signals. |
 | [Converge — Commit to a Community](#sec-community-converge) | Compare, notice the pull, assess access, select, and refrigerate the rest. |
 | [Test — Test Your Access](#sec-community-test) | Confirm you can reach them repeatedly before investing in conversations. |
-| [Community Choice Gallery](Community_Choice_Gallery.qmd) | Badly and well scoped communities side by side, with what makes the difference. |
+
+Alongside these, the [Community Choice Gallery](Community_Choice_Gallery.qmd) sets badly and well scoped communities side by side. Read it before you commit to one.
 
 ::: {.limit}
 **A community is not yet your people**
