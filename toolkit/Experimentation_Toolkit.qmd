@@ -27,7 +27,7 @@ Whether you are watching a person in a setting, testing a part, or sitting with 
 > Without documentation there is no evidence.
 > Without evidence there is no progress under uncertainty.
 
-## What Counts as Documentation
+## What Counts as Documentation {#sec-what-counts}
 
 It does not have to look like a lab notebook. A field log, an interview summary, a data table, a short write-up, a photographed wall of sticky notes — any of these works, as long as it captures four things:
 
@@ -37,6 +37,12 @@ It does not have to look like a lab notebook. A field log, an interview summary,
 - **The update.** What you now believe, how strongly, and how you could still be wrong.
 
 The fourth is what makes the record worth keeping. Findings without an update are a diary.
+
+Written out as the sections of an actual record, those four become six:
+
+**Unknown → Design → Execution → Evidence → Knowledge update → Next steps.**
+
+The first is the logic, the middle three are the method and the findings, and the last two are the update. Every entry in the [Halo Alert demonstration](../demo/demo-halo-alert.qmd) follows that shape, and it is worth copying because the order stops you writing the conclusion first.
 
 ## Your Data Room
 

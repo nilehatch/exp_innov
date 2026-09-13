@@ -64,7 +64,7 @@ The toolkit's conversation guide adapted to this community. Notice how little of
 
 ### After the Conversation  
 - **Debrief immediately:** What surprised us? What patterns did we hear?  
-- **Document:** Store transcript + notes in the Supporting Experiment template.  
+- **Document:** Store the transcript and notes as a full record, unknown through next steps.  
 - **Feed into analysis:** Later cluster insights into themes (predictability, vigilance, connection).
 
 ## Recruiting: an Intercept Screener {#sec-ha-screener}

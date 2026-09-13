@@ -18,25 +18,31 @@ Everything around it is **reconstructed**: the generation session, the requireme
 
 ### 6-3-5 Brainwriting {#sec-ha-d3-brainwriting}
 
-Five people, three ideas each, five minutes a round, six rounds. The pain statement sat at the top of every sheet, phrased as a cost rather than a gap: *she rearranges her route, her timing and her attention to manage a risk she cannot put down.*
+**Unknown.** What could relieve this pain? The team held one validated pain and no solution, and the risk they named was the obvious one: that they would generate three variations of the idea they already liked.
 
-The pool that came out held roughly ninety distinct concepts. Most were variations on two themes — something you carry, and something that tells somebody where you are — which is itself a finding, and the reason the next move mattered.
+**Design.** Five people, three ideas each, five minutes a round, six rounds, sheets passing right. The pain statement at the top of every sheet, phrased as a cost rather than a gap: *she rearranges her route, her timing and her attention to manage a risk she cannot put down.* No discussion during rounds; debrief afterward.
 
-### The Bad-Ideas Round {#sec-ha-d3-bad-ideas}
+**Execution.** Thirty minutes. One round given over to [deliberately bad ideas](#sec-ha-d3-bad-ideas), run fourth rather than first, once the room had loosened.
 
-One round given over to the worst thing they could build. The instruction was the sharp version: not merely useless, but something that would make her situation *worse*.
+**Evidence.** Roughly ninety distinct concepts. Sorted loosely, they fell into two families: *something you carry*, and *something that tells somebody where you are*. A third and much smaller family proposed changing the environment rather than equipping the person — better lighting, staffed routes — which nobody could act on but which nobody deleted either.
 
-It produced, among others, **electrified clothing** — a garment that would shock anyone who grabbed the wearer.
+**Knowledge update.** The pool was large and narrow. Ninety ideas across two families is one idea wearing many hats, and the team recognized it: the count looked healthy and the *variety* did not. That is what sent them into recombination rather than straight to screening.
 
-::: {.reflect}
-**Why that round paid for itself**
+**Next steps.** Recombine before screening, and deliberately cross the two families.
 
-Shock clothing was never going to survive screening, and it did two things on the way out.
+### Recombination {#sec-ha-d3-recombine}
 
-It was the idea the team described to women in the community, and their reaction produced two requirements nobody had held before anyone proposed anything: *not usable against me* if an assailant took it, and *not dangerous to bystanders* if it fired by accident.
+**Unknown.** Whether anything in the pile could do both jobs at once — be carried without thought *and* tell somebody where she was.
 
-And working out why it was frightening produced the ideas that made the surviving concept more discreet and more wearable. The bad idea was the parent of a good one.
-:::
+**Design.** Work the catalog rather than generate afresh. SCAMPER over the strongest candidates, then subtraction on the two families in turn.
+
+**Execution.** The productive pass was subtraction. Remove the deliberate action from *something you carry* and you get an object that must act without being operated. Remove the phone from *something that tells somebody where you are* and you get a device that has to signal on its own.
+
+**Evidence.** Those two subtractions meet in the same place: a small worn object, already on the body, that sends without being unlocked. The ring and the keychain are both that object, differing only in whether it is worn or carried.
+
+**Knowledge update.** The interesting axis was not what the thing is but whether it is *already in your hand when you need it*. That distinction survived into testing and turned out to be what separated the two survivors.
+
+**Next steps.** Screen the recombined candidates against the women's requirements.
 
 ### What the Catalog Held {#sec-ha-d3-catalog}
 
@@ -70,7 +76,11 @@ Seven, and the provenance is mixed in the way the [chapter warns it will be](../
 
 ### The Screening Matrix {#sec-ha-d3-matrix}
 
-Each candidate rated against **Mace** — the best thing these women actually had — on each requirement: better, the same, or worse. This is the team's own matrix.
+**Unknown.** Which candidates were worth the cost of testing, given what the women had said they needed.
+
+**Design.** Each candidate rated against **Mace** — the best thing these women actually had — on each requirement: better, the same, or worse. Unweighted, because every requirement on the list was a gate.
+
+This is the team's own matrix.
 
 ::: {#tab:ha-screening-matrix .worksheet}
 |                      | Reference: Mace | Alert Ring | Taser Wearables | ... | Alert Keychain |
@@ -89,7 +99,11 @@ Each candidate rated against **Mace** — the best thing these women actually ha
 
 Two concepts went forward: the **alert ring** and the **alert keychain**. The taser scored *minus one* and was marked **combine** rather than dropped, which is the matrix doing what it is for — the concept dies and its one advantage, genuine discreteness, is carried into the survivors.
 
+**Knowledge update.** Two survivors rather than one, and a requirement list that had just grown by two entries it did not have when screening began. The list was already out of date.
+
 Note what the matrix does not say. A net score of three means *better than pepper spray on three more counts than it is worse*. It does not mean the ring is the right thing to build, and the team did not treat it that way.
+
+**Next steps.** Take both survivors to the women who had been talking to them, and find out whether either produced anything beyond approval.
 
 ## Test — What They Ran {#sec-ha-d3-test}
 
@@ -97,13 +111,37 @@ Both survivors went to the women who had been talking to them all along.
 
 ### Wow Factor {#sec-ha-d3-wow}
 
-The ring drew stronger reactions than the keychain, and the reason was not the technology. A keychain is a thing you carry and might forget; a ring is already on your hand when you need it. The objections were about credibility rather than desire — whether something that size could do anything useful, and what happened if the battery died.
+**Unknown.** Whether either survivor produced any emotional pull, or only polite approval. The team had two concepts that screened well and no idea whether anyone actually wanted one.
+
+**Design.** Both concepts presented to the same group, in the same session, in randomised order. Rating one to ten on emotional connection, then the four question sets: what appeals, what benefit, what they dislike, what would stop them. Closing with what would make them more likely to buy.
+
+**Execution.** Run with women already known to the team from the exploration conversations, which is a limitation the team recorded rather than hid: these were people invested in the project and inclined to be kind.
+
+**Evidence.** The ring drew stronger reactions than the keychain, and the reason was not the technology. A keychain is a thing you carry and might leave in a bag; a ring is already on your hand. The objections clustered on credibility rather than desire — whether something that size could do anything useful, and what happens when the battery dies. Nobody objected to the idea of being tracked, which the team had expected to be the sticking point.
+
+**Knowledge update.** *Already in your hand* is the attribute doing the work, and it was not on the requirement list. It had come out of recombination and nobody had written it down as a requirement, which is how a requirement list goes stale between passes.
+
+**Next steps.** Add it as a requirement and re-screen. Find respondents with no prior relationship to the team.
+
+::: {.limit}
+**What that sample can and cannot support**
+
+Testing on people who already know you and already care about the project inflates every warm signal and suppresses every objection. It is fine for finding out *what the objections are*, which is what this round was for. It is not evidence of demand, and the team did not treat it as such.
+:::
 
 ### \$100 Test {#sec-ha-d3-100}
 
-Allocations concentrated on two features: the alert working **without unlocking a phone**, and the **confirmation** that somebody had received it. Appearance mattered and drew less money than the team expected. Nothing went to features that escalated a confrontation.
+**Unknown.** Which features carry the value, and whether the concept was doing one job or several.
 
-That concentration is the useful signal. Money gathering on two features rather than scattering across eight says the concept is doing one job, which is what you want before building anything.
+**Design.** Eight candidate features listed, including three the team expected to lose. Each respondent given a hypothetical hundred dollars to allocate. Ranking and spread to be read rather than the totals.
+
+**Execution.** Run immediately after the wow factor session, with the same limitation.
+
+**Evidence.** Allocations concentrated on two features: the alert working **without unlocking a phone**, and **confirmation** that somebody had received it. Appearance drew money, and less than the team expected. Nothing at all went to the two features that escalated a confrontation — an alarm and a light intended to deter.
+
+**Knowledge update.** Concentration rather than scatter says the concept is doing one job, which is what you want before building. And the two features that drew nothing were not neutral: they were the ones the team had assumed a safety product needed. Deterrence was the team's instinct, not the women's.
+
+**Next steps.** Build the minimum around those two features. Drop deterrence entirely.
 
 ## Where the Record Stops {#sec-ha-d3-stop}
 

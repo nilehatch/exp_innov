@@ -68,8 +68,7 @@ landing page. Explorable smoke-test examples are being prepared separately.
 
 ## Conventions & Reuse {#sec-conventions}
 
-- **Templates:** Primary & Supporting Experiment templates live in the Toolkit; each demo links back to them.  
-- **Structure:** Each supporting experiment includes: *Unknown → Design → Execution → Evidence → Knowledge update → Next steps*.  
+- **Structure:** Every record here follows the same six sections — *Unknown → Design → Execution → Evidence → Knowledge update → Next steps* — which is the shape [the toolkit describes](../toolkit/Experimentation_Toolkit.qmd#sec-what-counts). Copy it; the order is what stops you writing the conclusion first.  
 - **IDs & Links:** Use stable anchors (e.g., `#sec-conversation-guide`) for cross-refs from narrative chapters.  
 - **File naming:** `exp-XX-[modality]-[short-label]-YYYY-MM-DD.qmd` (sortable, human-readable).
 
@@ -86,7 +85,7 @@ Every demo ties to at least one guide:
 
 - Conversations → see [conversation guide](../toolkit/Pain_Guides.qmd#sec-conversation)
 - Observation → see [observation guide](../toolkit/Pain_Guides.qmd#sec-observation)
-- Supporting/Primary Experiment templates → [experimentation toolkit](../toolkit/Experimentation_Toolkit.qmd)
+- Recording any of it → [the experimentation toolkit](../toolkit/Experimentation_Toolkit.qmd)
 
 The intent is **traceability**: a student can jump from a technique in the narrative → to a guide → to a concrete Halo Alert example → and back to their own data room with the same template.
 
