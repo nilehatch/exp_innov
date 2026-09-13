@@ -22,9 +22,26 @@ Everything around it is **reconstructed**: the generation session, the requireme
 
 **Design.** Five people, three ideas each, five minutes a round, six rounds, sheets passing right. The pain statement at the top of every sheet, phrased as a cost rather than a gap: *she rearranges her route, her timing and her attention to manage a risk she cannot put down.* No discussion during rounds; debrief afterward.
 
-**Execution.** Thirty minutes. One round was given over to deliberately bad ideas, run fourth rather than first, once the room had loosened. It is described below, because it did more work than the other five.
+**Execution.** Thirty minutes. One round was given over to deliberately bad ideas, run fourth rather than first, once the room had loosened. It is [described below](#sec-ha-d3-bad-ideas), because it did more work than the other five.
 
-**Evidence.** Roughly ninety distinct concepts. Sorted loosely, they fell into two families: *something you carry*, and *something that tells somebody where you are*. A third and much smaller family proposed changing the environment rather than equipping the person — better lighting, staffed routes — which nobody could act on but which nobody deleted either.
+**Evidence.** Roughly ninety distinct concepts. Sorted loosely, they fell into two families: *something you carry*, and *something that tells somebody where you are*. A third and much smaller family proposed changing the environment rather than equipping the person, with better lighting and staffed routes, which nobody could act on but which nobody deleted either.
+
+One sheet, reproduced whole, because the count is not the interesting part. Watch what each round does with the round before it.
+
+::: {.gridded}
+| Round | What was written |
+|---|---|
+| **1** | A whistle on a keyring · an app that texts a friend when you press it · shoes that light up |
+| **2** | A whistle that *also* sends a text · an app that texts only if you **fail** to check in · lights that come on when your pace drops |
+| **3** | A bracelet you squeeze · a check-in that cancels itself when you arrive · a light only other people can see |
+| **4** | *(bad-ideas round)* clothing that shocks whoever grabs you · a siren that cannot be turned off · a tracker your employer can read |
+| **5** | Something that fires *unless* you stop it · a signal nobody nearby can perceive · a device an attacker gains nothing by taking |
+| **6** | A worn object that sends silently, confirms receipt, and needs no phone · a ring · a keychain fob |
+:::
+
+Round one is three people's first thoughts and they are all obvious. Round two is the first evidence anyone is reading rather than writing: *texts a friend* becomes *texts a friend if you fail to check in*, which is a different product. Round five is the bad-ideas round being metabolized — the siren that cannot be turned off becomes *fires unless you stop it*, and the tracker an employer can read becomes *a device an attacker gains nothing by taking*.
+
+Nobody proposed the ring in round one. It is a round-six object, and it did not exist until five rounds of other people's sheets had happened to it.
 
 **Knowledge update.** The pool was large and narrow. Ninety ideas across two families is one idea wearing many hats, and the team recognized it: the count looked healthy and the *variety* did not. That is what sent them into recombination rather than straight to screening.
 
@@ -36,25 +53,61 @@ Everything around it is **reconstructed**: the generation session, the requireme
 
 **Design.** Work the catalog rather than generate afresh. SCAMPER over the strongest candidates, then subtraction on the two families in turn.
 
-**Execution.** The productive pass was subtraction. Remove the deliberate action from *something you carry* and you get an object that must act without being operated. Remove the phone from *something that tells somebody where you are* and you get a device that has to signal on its own.
+**Execution.** Four passes, worked out loud, because the intermediate objects are the part that cannot be summarized. The rule was the closed world: nothing allowed in that was not already in the concept or its surroundings.
 
-**Evidence.** Those two subtractions meet in the same place: a small worn object, already on the body, that sends without being unlocked. The ring and the keychain are both that object, differing only in whether it is worn or carried.
+::: {.gridded}
+| Move | Applied to | The object it produced | What it turned out to be for |
+|---|---|---|---|
+| **Subtraction** | *an app that texts a friend when you press it* | Remove the **phone**. A thing that texts a friend with no phone in it. | It has to be worn and connected some other way. This is the first appearance of the ring. |
+| **Subtraction** | *a worn button that sends when pressed* | Remove the **press**. Something that sends while you do nothing. | Either it detects, which nobody could build, or it sends *unless cancelled*. The check-in inverts. |
+| **Task unification** | *a ring with a button and an indicator light* | The **jewelry itself** does a second job: the band is the antenna, the stone is the button. | Removes the part that made it look like a device rather than a ring, which is what made it discreet. |
+| **Multiplication** | *one alert to one contact* | Copy the alert and change the copy: a second, different alert. | A quiet one to a friend and a loud one nobody controls. Rejected, and it is why *escalation* got written down as something to avoid. |
+:::
+
+**Evidence.** Two subtractions met in the same place: a small worn object, already on the body, that sends without being unlocked. The ring and the keychain are both that object, differing only in whether it is worn or carried.
+
+The fourth move produced nothing usable and was still worth running. Deterrence was the team's own assumption, and this is where they first saw it fail on contact rather than at the \$100 test, where it failed again.
 
 **Knowledge update.** The interesting axis was not what the thing is but whether it is *already in your hand when you need it*. That distinction survived into testing and turned out to be what separated the two survivors.
 
 **Next steps.** Screen the recombined candidates against the women's requirements.
 
+### The Bad-Ideas Round {#sec-ha-d3-bad-ideas}
+
+Round four was given over to the worst thing they could build. The instruction was the sharp version: not merely useless, but something that would make her situation *worse*.
+
+Five minutes produced, among others:
+
+- **Electrified clothing.** Shocks anyone who grabs the wearer, including the wearer.
+- **A siren with no off switch.** Once it is triggered it runs, whatever she wants.
+- **A tracker the employer can read.** Somebody always knows where she is, and it is not her choosing who.
+- **A panic button that calls the police.** Automatically, and whether or not she wants them to arrive.
+
+Each of those is harmful in a different way: by injuring her, by taking away her control, by handing surveillance to the wrong person, by escalating something she wanted to defuse. That spread is the round working. Four bad ideas that are all bad in the *same* way would mean the team had found one objection rather than four.
+
+::: {.reflect}
+**Why that round paid for itself**
+
+Shock clothing was never going to survive screening, and it did two things on the way out.
+
+It was the concept the team described to women in the community, and their reaction produced two requirements nobody had held before anything was proposed: *not usable against me* if an assailant took it, and *not dangerous to bystanders* if it fired by accident.
+
+Working out why it frightened them produced the ideas that made the surviving concept more discreet and more wearable. The bad idea was the parent of a good one.
+
+And look at round five on the sheet above. *Fires unless you stop it* and *a device an attacker gains nothing by taking* are both direct descendants of round four. The bad ideas were not set aside; they were passed to the right and built on, which is the only reason they were worth writing down.
+:::
+
 ### What the Catalog Held {#sec-ha-d3-catalog}
 
 After recombination, the candidates worth screening included:
 
-- electrified clothing that shocks an assailant
-- non-jewelry accessories that track and send a distress call, such as a headband or ear buds
+- electrified shock clothing, to send a charge through anyone who grabs the wearer
+- non-jewelry accessories that track and send a distress call, hidden in a headband or ear buds
 - jewelry that sends a distress call at the press of a button, such as a ring
-- a concealed knife
-- noise makers to scare an assailant away
-- light-emitting devices to stun or deter
-- a keychain that sends an alert and confirms it was received
+- a concealed knife carried for defense, on the person rather than in a bag
+- noise makers loud enough to scare an assailant away and draw attention
+- light-emitting devices intended to stun an assailant or deter an approach
+- a keychain that sends an alert and confirms to the wearer that it was received
 
 ## Converge — Screening {#sec-ha-d3-converge}
 
@@ -113,7 +166,7 @@ Both survivors went to the women who had been talking to them all along.
 
 **Unknown.** Whether either survivor produced any emotional pull, or only polite approval. The team had two concepts that screened well and no idea whether anyone actually wanted one.
 
-**Design.** Both concepts presented to the same group, in the same session, in randomised order. Rating one to ten on emotional connection, then the four question sets: what appeals, what benefit, what they dislike, what would stop them. Closing with what would make them more likely to buy.
+**Design.** Both concepts presented to the same group, in the same session, in randomized order. Rating one to ten on emotional connection, then the four question sets: what appeals, what benefit, what they dislike, what would stop them. Closing with what would make them more likely to buy.
 
 **Execution.** Run with women already known to the team from the exploration conversations, which is a limitation the team recorded rather than hid: these were people invested in the project and inclined to be kind.
 

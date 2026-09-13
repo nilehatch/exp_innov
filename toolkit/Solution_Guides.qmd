@@ -91,6 +91,10 @@ Two rules govern it.
 5. **Judge it last**, against feasibility and against the market requirements you have. Most results are discarded. That is the expected yield and it is not a failure of the method.
 6. **Repeat with a different template** on the same concept before moving to the next one. The templates find different things.
 
+::: {.see-demo}
+Four templates worked through on a real concept, with the strange intermediate objects left in, are in the [Halo Alert recombination record](../demo/halo-alert-d3-solutions.qmd#sec-ha-d3-recombine). The subtraction that removes the phone is the one that produced the surviving concept.
+:::
+
 ::: {.trap}
 **Fixing the absurdity before you have questioned it**
 
