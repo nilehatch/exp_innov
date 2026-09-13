@@ -37,17 +37,17 @@ Once a subset of ideas has passed the initial evaluation, they should undergo se
 -   An iterative approach, while appearing time-consuming, can significantly accelerate the process of finding a viable solution.
 -   Iteration allows for quick pivots based on feedback, reducing the risk of pursuing ineffective solutions and ensuring a better fit with market demands.
 
-## Feasibility Filter: The First Line of Defense
+## Feasibility Filter: The First Line of Defense {#sec-feasibility-filter}
 
 The feasibility filter is your first tool in the evaluation phase. It's a straightforward yet powerful way to quickly eliminate ideas that are clearly impractical or impossible to implement. It helps in streamlining the pool of ideas by removing those that fail to meet basic feasibility criteria, such as technological constraints, resource limitations, or fundamental misalignments with customer needs. Review each idea and ask simple yet critical questions: Can this be built within reasonable constraints? Does it align with the customer pain identified? If the answer is no, set it aside. Remember, every idea, even the infeasible ones, has contributed to the creative process and brought you closer to viable solutions.
 
-## Dot Voting: Harnessing Team Passion and Insight
+## Dot Voting: Harnessing Team Passion and Insight {#sec-dot-vote}
 
 With the obviously infeasible ideas out of the way, focus shifts to those ideas that ignite passion within your team. Dot voting is an effective and democratic way to gauge team enthusiasm and support for different ideas. Spread out all the remaining ideas and give each team member a set number of votes (dots) they can use. Encourage team members to vote for ideas they genuinely believe in and are passionate about solving. This method not only narrows down the list to the most promising ideas but also ensures that the team is collectively invested in the ideas moving forward. Typically, this process will help you condense your list from hundreds to around 10-20 ideas, setting the stage for deeper analysis and refinement.
 
 The tools outlined here are designed to help you move from a broad array of possibilities to a focused set of promising ideas. They are the stepping stones to identifying solutions that not only address the customer pain effectively but also resonate with your team's capabilities and passions. As you proceed through this phase, keep an open mind and remember that the best solutions often emerge from the confluence of feasibility and team conviction.
 
-## Screening Matrix: Filtering for the Best Ideas
+## Screening Matrix: Filtering for the Best Ideas {#sec-screening-matrix}
 
 A screening matrix is a form of *controlled convergence* to evaluate and separate good ideas from better ideas.[^1] The first step is to construct a decision matrix to rank the solution concepts. The decision matrix comprises market requirements, a reference solution, and the list of remaining solutions.
 
@@ -67,7 +67,7 @@ To use a screening matrix effectively, start by listing the market requirements 
 -   the solution must confirm that notices have been sent and received, and
 -   the solution must not be able to be used as a weapon by the assailant if it gets taken.
 
-#### Where Those Requirements Actually Come From {.unnumbered}
+#### Where Those Requirements Actually Come From {#sec-where-requirements .unnumbered}
 
 That list arrives looking more settled than it was, and it is worth being honest about how such a list gets built, because it changes how much weight it can carry.
 
@@ -168,7 +168,11 @@ On a later pass this changes, because you have something you did not have before
 
 That is a **scoring matrix**: the same table, with weights on the requirements, ratings rather than plus and minus, and a weighted total. It discriminates among survivors in a way the screening matrix deliberately will not.
 
-It is optional, and most readers will not need it. If two or three concepts survive screening, testing all of them is usually cheaper and more informative than ranking them precisely. Reach for a scoring matrix when you have more survivors than you can afford to test, and when your weights came from customers. The procedure is in [Solution Guides](toolkit/Solution_Guides.qmd#sec-solution-converge).
+It is optional, and most readers will not need it. If two or three concepts survive screening, testing all of them is usually cheaper and more informative than ranking them precisely. Reach for a scoring matrix when you have more survivors than you can afford to test, and when your weights came from customers.
+
+::: {.see-guide}
+The convergence filters — feasibility, dot voting, the screening matrix, and SIT applied to what survives — are in [Solution Guides](toolkit/Solution_Guides.qmd#sec-solution-converge).
+:::
 
 ::: {.trap}
 **Scoring your way to an answer you already had**
@@ -176,7 +180,7 @@ It is optional, and most readers will not need it. If two or three concepts surv
 A weighted matrix produces a number, and a number feels like a finding. If the weights are yours rather than your customers', the number tells you only what you already believed, expressed to two decimal places. When the score disagrees with your instinct, check the provenance column before you trust either one.
 :::
 
-### Enhancing Solutions with Systematic Inventive Thinking (SIT)
+### Enhancing Solutions with Systematic Inventive Thinking (SIT) {#sec-sit-enhance}
 
 The decision for low-scoring solutions is "combine" while the decision for high-scoring solutions is "improve." These decisions refer to another round of divergent, recombination to generate even better ideas. Most low scoring ideas and all high scoring ideas will have market requirements where they outperform the reference solution. Identify the features that cause low-performing innovations to outperform on certain market requirements and recombine them with features in high-performing solutions to create a new batch of promising ideas for solutions that are particularly good at meeting the customer requirements. This round of ideation is one of the most powerful and valuable features of the screening matrix.
 
@@ -194,7 +198,11 @@ The focus here is on using SIT principles to creatively recombine or adapt the m
 -   **Division**: Split the solution functionally or physically and rearrange the pieces in time or space.
 -   **Attribute Dependency**: Change the relationship between elements of the solution based on different conditions or contexts.
 
-All five run the same reversal, and it is the part that makes them work rather than merely break things: you apply the template first, describe the strange object it produces, and only then ask what it is good for. The full procedure, with the closed-world rule that keeps the results buildable, is in [Solution Guides](toolkit/Solution_Guides.qmd#sec-sit-guide).
+All five run the same reversal, and it is the part that makes them work rather than merely break things: you apply the template first, describe the strange object it produces, and only then ask what it is good for.
+
+::: {.see-guide}
+The five templates and the procedure, with the closed-world rule that keeps the results buildable, are in [Systematic Inventive Thinking](toolkit/Solution_Guides.qmd#sec-sit-guide).
+:::
 
 #### Practical Example {.unnumbered}
 

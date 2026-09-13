@@ -85,7 +85,9 @@ Run six rounds and the arithmetic is startling: a team of six produces around *a
 
 It also fixes brainstorming's two failure modes. Nobody can dominate, because everyone writes simultaneously. And nobody can evaluate, because everyone is busy producing. What you get instead is *building*: each sheet arrives carrying someone else's thinking, and you extend it rather than judge it.
 
+::: {.see-guide}
 The practical notes on running a session — adjusting the numbers, keeping the sheets, debriefing after rather than during — are in [Solution Guides](toolkit/Solution_Guides.qmd#sec-generate).
+:::
 
 ## Move Three: Recombine
 
@@ -117,7 +119,13 @@ SIT is the more disciplined cousin, and it is aimed squarely at *elegance*. Wher
 
 [^sit]: For detail on Systematic Inventive Thinking, see @goldenbergFindingYourInnovation2003 and @boydBox2013.
 
-The five templates and the procedure for running them are in [Solution Guides](toolkit/Solution_Guides.qmd#sec-sit-guide); the reversal they depend on is that you build the strange object first and ask what it is for second. You will meet SIT again in the next chapter. Screening does not only eliminate concepts — it reveals which *features* of the losing concepts outperformed, and those features are exactly what recombination is for. That is the loop back into this move, and it is one of the most productive rounds you will run.
+The reversal SIT depends on is that you build the strange object first and ask what it is for second.
+
+You will meet SIT again in the next chapter. Screening does not only eliminate concepts: it reveals which *features* of the losing concepts outperformed, and those features are exactly what recombination is for. That is the loop back into this move, and it is one of the most productive rounds you will run.
+
+::: {.see-guide}
+The five templates and the procedure for running them are in [Systematic Inventive Thinking](toolkit/Solution_Guides.qmd#sec-sit-guide).
+:::
 
 ### Serendipity Favors a Full Catalog
 

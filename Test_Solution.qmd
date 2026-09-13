@@ -187,7 +187,9 @@ If your call to action invites a purchase and you are not ready to fulfil one, y
 This is not only ethics, though it is that. A smoke test run dishonestly poisons the only channel where these people were willing to find you, and they are the most valuable respondents you will ever have — they arrived looking.
 :::
 
-The procedure, including what a landing page has to contain and what to count, is in [Solution Guides](toolkit/Solution_Guides.qmd#sec-smoke-guide).
+::: {.see-guide}
+The procedure — what a landing page has to contain, what to count, and how to buy traffic that reaches intent rather than a demographic — is in [Running a Smoke Test](toolkit/Solution_Guides.qmd#sec-smoke-guide).
+:::
 
 ### Profit Analytics Testing {#sec-profit-test}
 

@@ -7,7 +7,7 @@ These are the steps behind [Build and Test Solutions](../Build_Solutions_part.qm
 | Phase | What it covers |
 |---|---|
 | [Diverge — Generate Many Solutions](#sec-solution-diverge) | [Fill the Catalog](#sec-catalog) · [Generate](#sec-generate) · [Recombine](#sec-recombine) |
-| [Converge — Narrow to One](#sec-solution-converge) | Feasibility filter · dot voting · screening matrix · SIT |
+| [Converge — Narrow to One](#sec-solution-converge) | [Feasibility filter](#sec-feasibility) · [Dot voting](#sec-dot-voting) · [Screening matrix](#sec-screening) · [SIT](#sec-sit-converge) |
 | [Test — Test Before You Build](#sec-solution-test) | The seven tests and what each asks · [Running a Smoke Test](#sec-smoke-guide) |
 
 ::: {.limit}
@@ -103,7 +103,23 @@ Large, varied, and reaching is ready for screening. Large but narrow is not: it 
 
 Use with [Hypothesize a Good Solution](../Hypothesize_Solution.qmd). *Procedure extraction in progress; the chapter carries the full method today.*
 
-Four filters, applied in order from cheapest to most deliberate: the **feasibility filter** as a first pass, **dot voting** to surface where team conviction actually sits, the **screening matrix** to score candidates against market requirements and a reference solution, and **Systematic Inventive Thinking** applied to the high-scoring requirements to improve what survives rather than merely ranking it.
+Four filters, applied in order from cheapest to most deliberate.
+
+#### Feasibility filter {#sec-feasibility}
+
+A first pass that removes what cannot be built, afforded, or legally sold by a team like yours. Chapter: [Feasibility Filter](../Hypothesize_Solution.qmd#sec-feasibility-filter). Cheap, fast, and applied before anything more careful, so the careful work runs on a shorter list. *Procedure pending; the chapter carries it today.*
+
+#### Dot voting {#sec-dot-voting}
+
+Surfaces where team conviction actually sits, which is information about your team rather than about your customers. Useful as a tiebreaker and as a way to see disagreement early. Chapter: [Dot Voting](../Hypothesize_Solution.qmd#sec-dot-vote). It is not evidence, and the guide will say so once it carries the steps. *Procedure pending.*
+
+#### Screening matrix {#sec-screening}
+
+The main instrument. Candidates rated plus, zero or minus against a **reference solution** on unweighted market requirements, then netted. It is built to *eliminate* rather than to rank, and the requirements it runs on are provisional on the first pass. Chapter: [Screening Matrix](../Hypothesize_Solution.qmd#sec-screening-matrix). See [Where those requirements come from](../Hypothesize_Solution.qmd#sec-where-requirements) for why. *Procedure pending.*
+
+#### Systematic Inventive Thinking {#sec-sit-converge}
+
+Returns here, applied to the requirements your surviving concepts scored well on, to improve what survived rather than merely rank it. The five templates and the procedure are in the divergence phase above, at [Systematic Inventive Thinking](#sec-sit-guide).
 
 Then, once and usually only once, a [second pass](../Hypothesize_Solution.qmd#sec-second-pass). Testing generates market requirements faster than exploration does, because rejection needs a concept to push against, so the list you screened against is stale by the time you finish screening. Come back with the objections, add rows, rescore. It needs no new respondents and takes about twenty minutes.
 

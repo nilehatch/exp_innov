@@ -241,16 +241,17 @@ Use with [Experience Mapping](../Hypothesize_Pain.qmd#sec-experience-map-section
 **Build it as a grid.** One row per stage, one column per lens, in a spreadsheet or on a shared board. The format is doing real work: a lens read straight down its column is a trend, and that is what you are looking for. A stack of stage-by-stage notes hides exactly the comparison you need.
 
 ::: {.gridded}
-| Stage | Doing | Thinking | Saying | Feeling |
+| Lens ↓ / Stage → | 1. *before it begins* | 2. | 3. | … |
 |---|---|---|---|---|
-| 1. *before it begins* | | | | |
-| 2. | | | | |
-| … | | | | |
+| **Doing** | | | | |
+| **Thinking** | | | | |
+| **Saying** | | | | |
+| **Feeling** | | | | |
 :::
 
 Empty cells stay empty. On a grid they are visible at a glance, and a column with holes in it tells you which lens you failed to ask about.
 
-The designed maps you will see elsewhere are transposed: lenses down the side, stages across the top, with an emotion curve running above them. That suits a poster, which is wide and has a fixed reading direction. It does not suit a page or a screen, because stages are the dimension that grows and columns are the direction that runs out of room. In a spreadsheet the question is moot; transpose whenever it helps.
+Which way round? The traditional layout puts lenses down the side and stages across the top, and it works when the cells are **terse** — a phrase per cell, not a sentence. Once cells carry full sentences, seven or eight columns squeeze the prose into slivers and the grid stops being readable, at which point stages belong in the rows instead. Write short and use the traditional orientation; write long and transpose. In a spreadsheet it costs one command either way.
 
 ::: {.limit}
 **You are not making a poster**
@@ -260,7 +261,7 @@ Designers produce experience maps that are genuinely beautiful, with illustrated
 Yours is an analysis instrument and nobody else has to read it. A spreadsheet or a board frame is the right medium, and time spent styling it is time not spent in the field. If you later need the handsome version for a deck, your AI can produce one from the grid in minutes, which is the correct order: analyze first, decorate last and only if someone asks.
 :::
 
-See the [Halo Alert experience map](../demo/exp-08.a-experience-map-2025-03-14.qmd) for a filled grid, and [the companion note](../demo/exp-08.b-experience-map-2025-03-14.qmd) for how that team built theirs.
+The Halo Alert team kept both: a [grid view](../demo/exp-08.b-experience-map-2025-03-14.qmd) for analysis, terse enough to read across, and a [narrative view](../demo/exp-08.a-experience-map-2025-03-14.qmd) that carries the fuller observations stage by stage.
 
 ### Abduction {#sec-abduction}
 
