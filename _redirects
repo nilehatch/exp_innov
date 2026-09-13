@@ -50,3 +50,13 @@
 # view of the same journey. Merged 13 Sep 2026.
 /demo/exp-08.a-experience-map-2025-03-14.html  /demo/exp-08-experience-map-2025-03-14.html  301
 /demo/exp-08.b-experience-map-2025-03-14.html  /demo/exp-08-experience-map-2025-03-14.html  301
+
+# Halo Alert demo consolidated by diamond, 13 Sep 2026: the stage files were
+# fragments of one record and the separators were faking a structure the book
+# already teaches.
+/demo/exp-01-diverge-people-2025-02-19.html  /demo/halo-alert-d1-choose.html#sec-ha-d1-diverge       301
+/demo/exp-01.b-bias-check.html               /demo/halo-alert-d1-choose.html#sec-ha-d1-bias         301
+/demo/exp-01.c-draft-access-notes.html       /demo/halo-alert-d1-choose.html#sec-ha-d1-access-notes 301
+/demo/exp-02-converge-worksheet.html         /demo/halo-alert-d1-choose.html#sec-ha-d1-converge     301
+/demo/exp-03-access-test.html                /demo/halo-alert-d1-choose.html#sec-ha-d1-test         301
+/demo/_diamond1-separator.html               /demo/halo-alert-d1-choose.html                        301

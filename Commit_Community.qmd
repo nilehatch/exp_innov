@@ -34,7 +34,7 @@ Two things are worth more than they look. Workarounds are the strongest signal a
 
 Be careful with the opposite signal. A group that is easy to describe is not the same as a group with a real problem. Some communities are highly visible precisely because they are already well served.
 
-*For an example of how this looks in practice, see the [Compare section](demo/exp-02-converge-worksheet.qmd#sec-ha-people-converge-compare) of the Halo Alert demo.*
+*For an example of how this looks in practice, see the [Compare section](demo/halo-alert-d1-choose.qmd#sec-ha-people-converge-compare) of the Halo Alert demo.*
 
 ## 2. Empathize: Follow the Emotional Pull
 
@@ -52,7 +52,7 @@ It is also the most practical criterion on this page. Done with concentration, d
 
 Be honest about where the pull comes from. Wanting to help is a good reason. Already knowing the answer is not: if you chose this group because you have a solution in mind for them, you have skipped two diamonds and are now looking for permission.
 
-*For an example of how this looks in practice, see the [Empathize section](demo/exp-02-converge-worksheet.qmd#sec-ha-people-converge-empathize) of the Halo Alert demo.*
+*For an example of how this looks in practice, see the [Empathize section](demo/halo-alert-d1-choose.qmd#sec-ha-people-converge-empathize) of the Halo Alert demo.*
 
 ## 3. Assess Access: Can You Reach Them?
 
@@ -74,7 +74,7 @@ This is an assessment, not yet a test. You are making a judgment from your desk 
 
 If the answer is no to any of the three, revisit your shortlist. Sometimes an opportunity becomes workable after a slight redefinition: not "people in crisis" but "the counsellors who work with them," not "surgeons" but "surgical residents."
 
-*For an example of how this looks in practice, see the [Assess Access section](demo/exp-02-converge-worksheet.qmd#sec-ha-people-converge-access) of the Halo Alert demo.*
+*For an example of how this looks in practice, see the [Assess Access section](demo/halo-alert-d1-choose.qmd#sec-ha-people-converge-access) of the Halo Alert demo.*
 
 ## 4. Commit to a Community
 
@@ -98,7 +98,7 @@ Innovation does not begin with building. It begins with noticing, and noticing b
 
 ---
 
-Use the [convergence guide](toolkit/Community_Guides.qmd#sec-community-converge) from the toolkit to work through this decision with your team, and review the [Halo Alert Demo](demo/exp-02-converge-worksheet.qmd) to see how another team narrowed its options and chose its people.
+Use the [convergence guide](toolkit/Community_Guides.qmd#sec-community-converge) from the toolkit to work through this decision with your team, and review the [Halo Alert Demo](demo/halo-alert-d1-choose.qmd#sec-ha-d1-converge) to see how another team narrowed its options and chose its people.
 
 ---
 

@@ -9,7 +9,7 @@ It is also discouraging if it is the first thing you see. So here is the same ex
 ::: {.limit}
 **What this is**
 
-The concept comes from a real innovation project whose artifacts are gone, so the record here was **reconstructed** rather than recovered. It illustrates the *form* of a complete expedition, not the *fact* of any finding about commuters. The [demonstration overview](demo-halo-alert.qmd#sec-what-halo-alert) says more, including why generating a record like this would break the method if you did it with your own project.
+The concept comes from a real innovation project, most of whose artifacts are gone, so the record here was **reconstructed** rather than recovered. It illustrates the *form* of a complete expedition, not the *fact* of any finding about commuters. One exception: the screening matrix in [Hypothesize a Good Solution](../Hypothesize_Solution.qmd#sec-screening-matrix) is the original team's own. The [demonstration overview](demo-halo-alert.qmd#sec-what-halo-alert) says more, including why generating a record like this would break the method if you did it with your own project.
 
 Read the numbers as an honest picture of the scale of a first expedition rather than as a benchmark to hit.
 :::
@@ -19,10 +19,10 @@ Read the numbers as an honest picture of the scale of a first expedition rather 
 ::: {.gridded}
 | When | Step | What they did | What came back |
 |---|---|---|---|
-| **19 Feb** | [Diverge](exp-01-diverge-people-2025-02-19.qmd) | Generated **ten** candidate communities near one problem space, with orbit roles and access signals for each | A shortlist, and the discovery that the obvious group was not the only one |
-| 19 Feb | [Bias check](exp-01.b-bias-check.qmd) | Asked which candidates were only there because they were easy to reach | Additions that would not have surfaced otherwise |
-| **24 Feb** | [Converge](exp-02-converge-worksheet.qmd) | Compared candidates on coherence, neglect and access; named the emotional pull | Chose **professional women commuting on foot in mid-sized cities**, explicitly as a *working commitment, not a final lock-in* |
-| **24 Feb** | [Access test](exp-03-access-test.qmd) | Three channels, real outreach: 10 LinkedIn messages, 1 coworking email, 1 forum post | **21 approached, 15 replies, 9 strong leads.** Green light |
+| **19 Feb** | [Diverge](halo-alert-d1-choose.qmd#sec-ha-d1-diverge) | Generated **ten** candidate communities near one problem space, with orbit roles and access signals for each | A shortlist, and the discovery that the obvious group was not the only one |
+| 19 Feb | [Bias check](halo-alert-d1-choose.qmd#sec-ha-d1-bias) | Asked which candidates were only there because they were easy to reach | Additions that would not have surfaced otherwise |
+| **24 Feb** | [Converge](halo-alert-d1-choose.qmd#sec-ha-d1-converge) | Compared candidates on coherence, neglect and access; named the emotional pull | Chose **professional women commuting on foot in mid-sized cities**, explicitly as a *working commitment, not a final lock-in* |
+| **24 Feb** | [Access test](halo-alert-d1-choose.qmd#sec-ha-d1-test) | Three channels, real outreach: 10 LinkedIn messages, 1 coworking email, 1 forum post | **21 approached, 15 replies, 9 strong leads.** Green light |
 | **24–25 Feb** | [Conversations](exp-04.a-conversation-sarah-thompson-2025-02-24.qmd) | Two long conversations, recorded and transcribed in full | Stories about route choice, check-in texts, and the cost of being late |
 | **5–8 Mar** | [Observations](exp-05.a-observation-2025-03-05.qmd) | Three outings: a subway exit at 8am, the same at 8pm, a campus on a Friday night | What people *did* rather than said: keys in hand, street crossings, phones already out |
 | **12 Mar** | [Clustering](exp-06-cluster-themes-2025-03-12.qmd) | Sorted the raw observations on a board | **Six core themes** plus edge clusters, including reassurance routines, route choice, and predictability |

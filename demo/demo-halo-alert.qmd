@@ -23,7 +23,7 @@ The **Halo Alert** demos show what that process looks like when it is written do
 
 **Halo Alert** is a personal-safety concept for **women who walk as part of their commute**, including professionals and university students. It explores **discreet, low-friction ways to stay connected**: a subtle trigger that signals *I need you watching me now*, without escalating a situation or visibly reaching for a phone.
 
-The concept and much of the framing come from a **real innovation project**, one that never shipped. The idea was promising and the team could not work together, and it died on the drawing board and the bench rather than in the market. No test found it wanting. It never got far enough to be tested.
+The concept and much of the framing come from a **real innovation project** that never shipped. The idea was promising, and it had been tested: the team ran solution tests with real customers, including a wow-factor test and a \$100 test. What they could not do was work together. The innovation died on the drawing board and the bench rather than in the market, and no test ever found it wanting.
 
 That failure is why [Organize for Innovation](../Organize_Team.qmd) exists, and why this book treats psychological safety as a condition of the method rather than a courtesy. A team that cannot suspend judgment cannot diverge, and a team that cannot disagree safely will converge on whatever the loudest person already wanted.
 
@@ -36,10 +36,12 @@ That makes these pages illustrative of **form** rather than evidence of **fact**
 
 And notice what that means for you, because it is the opposite of what it might seem to license. **Doing this with your own project would break the method.** This demo may generate a record, because its job is to show you the shape of one. Yours may not, because yours has to *be* the evidence — which is the one prohibited act in [the standing orders](../method-layer.qmd#sec-ml-role).
 
-Two further notes. The setting is New York and the original work was not; a dense transit city makes a walking commute legible to readers anywhere, so it was chosen rather than reported. And Diamond 3 is simulated for an additional reason: the original project never reached it, and this method did not exist yet when the work was done.
+One artifact is genuine. The **screening matrix** in [Hypothesize a Good Solution](../Hypothesize_Solution.qmd#sec-screening-matrix) is the original team's own, recovered from course files because it happened to have been built in software that kept a copy. Its ideas, its reference solution and its ratings are theirs.
+
+Two further notes. The setting is New York and the original work was not; a dense transit city makes a walking commute legible to readers anywhere, so it was chosen rather than reported. And Diamond 3 here is reconstructed rather than recorded: the original team did diverge, converge, and test, but this method did not exist in this form when they worked, most of their artifacts are gone, and they never reached the later market-facing tests.
 :::
 
-## How to Use This Demo Part {#sec-how-to-use}
+## How to Use These Demos {#sec-how-to-use}
 
 1. **Read the appropriate narrative chapter** first (e.g., Explore the Community, Hypothesize a Pain…).  
 2. **Skim the matching toolkit guide** for the method (template + checklist).  

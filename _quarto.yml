@@ -74,12 +74,7 @@ book:
         # The short version, first, because the full record's completeness is
         # both its credibility and its discouragement.
         - demo/halo-alert-at-a-glance.qmd
-        - demo/_diamond1-separator.qmd
-        - demo/exp-01-diverge-people-2025-02-19.qmd
-        - demo/exp-01.b-bias-check.qmd
-        - demo/exp-01.c-draft-access-notes.qmd
-        - demo/exp-02-converge-worksheet.qmd
-        - demo/exp-03-access-test.qmd
+        - demo/halo-alert-d1-choose.qmd
         - demo/_diamond2-separator.qmd
         - demo/Conversation_Guide_ha.qmd
         - demo/exp-04.a-conversation-sarah-thompson-2025-02-24.qmd
