@@ -4,13 +4,27 @@ subtitle: "Private ordering for effective innovation in (interdisciplinary) team
 
 # Organize for Innovation {#sec-organize-chapter .unnumbered}
 
-## Team Governance for Innovation Success
+## Why This Appendix Exists
 
-Interdisciplinary teams often play a crucial role in expeditionary innovation, especially when tackling complex problems that require a diverse set of skills. These teams can be powerhouses of creativity and productivity, but their diversity can also lead to challenges. Misunderstandings and mistrust among team members with different backgrounds and skill sets can hinder progress and even lead to the failure of the innovation process.
+Everything this book asks you to do is easy alone and hard in a group.
 
-In the early stages of team formation, it's common to experience a "honeymoon" period filled with optimism and cooperation. However, this initial phase can quickly give way to conflicts and misunderstandings if not managed properly. The success of a team hinges on its ability to foster a culture of collaboration and psychological safety from the outset.
+Suspend judgment for the length of a divergence, when you can already see which idea is best. Come back from a conversation and report the part that went badly. Say out loud that the concept you argued for last week did not survive the screening matrix. Write down, before you field a test, [the result that would make you abandon](Validate_Pain.qmd#sec-how-much-evidence) the pain statement you wrote, and then honor it when that result arrives.
 
-This chapter is designed to guide both interdisciplinary teams and more homogenous groups through the complexities of team dynamics in the innovation process. We will explore why teams fail, how they can succeed, and strategies to cultivate a cooperative and productive team culture. By understanding the common pitfalls and learning effective collaboration techniques, your team can unlock its full potential and drive successful innovation.
+Each of those is a small act of self-exposure. Alone they cost nothing, because there is nobody to lose standing in front of. On a team they cost whatever the team charges for being wrong out loud.
+
+Which matters more than it sounds, because a team that charges a high price does not fail loudly. It runs the expedition, fills in every artifact, and hands you a pain statement, a screening matrix, and a test result that look exactly like good ones. What is missing is invisible. The objection nobody raised. The disconfirming quote that stayed in somebody's notebook. The concept that survived convergence because its author had the most to lose. The machinery keeps producing output long after it has stopped producing evidence.
+
+So this is not a chapter about being kind to each other. A team's capacity to disagree is a condition of the method in the same way that reach is a condition of Diamond 1. Without it the process still turns and the readings are fiction.
+
+::: {.mini-case}
+The concept behind [the Halo Alert demonstration](demo/demo-halo-alert.qmd) came from a real innovation project that had done the work: a community, a validated pain, concepts screened against the women's own requirements, and two solution tests with real customers. No test ever found it wanting. It died anyway, because the team could not work together, and it died on the drawing board, where nobody outside the team ever found out whether it would have worked.
+
+That is the ordinary ending for these. The market rarely gets the chance to reject them.
+:::
+
+Interdisciplinary teams carry both halves of this at once. The diversity of skill that lets a team see a problem from several sides is the same diversity that makes its members misread each other, and the early weeks tend to hide it: formation has a honeymoon, full of optimism and deference, and the honeymoon is not evidence that the team can disagree. It is evidence that nothing has been at stake yet.
+
+What follows moves from description to instrument. Teams pass through predictable stages, and there is one most of them get stuck in. The thing that traps them there has a name. Psychological safety is the condition for getting out. And two documents, one informal and one binding, let a team settle its rules while it still wants to.
 
 ## The Stages of Team Development
 
@@ -47,115 +61,27 @@ The key to continued progress is to engage in *inquiry* rather than *advocacy.*[
 [^3]: For more detail on making decisions with inquiry rather than advocacy, see @garvinWhatYouDont2001.
 
 
-<style>
-/* General table styles */
-.custom-table {
-  width: 100%;
-  border-collapse: collapse;
-  margin-left: auto;
-  margin-right: auto;
-  table-layout: fixed; /* This helps with uniform column widths */
-}
+![](images/advocacy-v-inquiry-circles.png){fig-alt="A team of competing individuals beside a team of collaborators" width="60%" fig-align="center"}
 
-/* Column widths */
-.custom-table th, .custom-table td {
-  text-align: left;
-  padding: 3px;
-}
-
-.custom-table th:first-child, .custom-table td:first-child {
-  width: 25%; /* Adjust the width for the first column */
-}
-
-.custom-table th:nth-child(2), .custom-table td:nth-child(2),
-.custom-table th:nth-child(3), .custom-table td:nth-child(3) {
-  width: 37.5%; /* Adjust the width for the second and third columns */
-}
-
-/* Styles for smaller font size in specific cells */
-.small-font {
-  font-size: 0.9em; /* Smaller font size, adjust as needed */
-}
-
-/* Row and column border styles */
-.custom-table th, .custom-table td {
-  border-right: none;
-  border-left: none;
-  border-top: none;
-  border-bottom: 1px solid #ccc;
-}
-
-/* Header styles */
-.custom-table th {
-  border-bottom: 2px solid #ccc;
-  font-weight: bold;
-}
-
-}
-
-/* Data cell styles */
-.custom-table td {
-  text-align: center; /* Centered text in cells */
-  padding: 8px; /* Adjust padding as needed */
-  border-bottom: 1px solid #ccc; /* Horizontal border for rows */
-}
-
-/* Removing vertical borders and top border */
-.custom-table th, .custom-table td {
-  border-right: none;
-  border-left: none;
-  border-top: none;
-}
-
-/* Additional custom styles can go here */
-</style>
-
-<!-- Place the image above the table -->
-<div style="text-align: center;">
-  <img src="images/advocacy-v-inquiry-circles.png" alt="A team of competing individuals vs a team of collaborators"style="width: 60%; max-width: 600px; height: auto; margin-bottom: 2px;"/> <!-- Adjust as needed -->
-</div>
-
-<!-- Table content -->
-<table class="custom-table">
-  <!-- Column headers -->
-  <tr>
-    <th></th> <!-- Placeholder for the graphic -->
-    <th>Advocacy</th>
-    <th>Inquiry</th>
-  </tr>
-  
-  <!-- Data rows -->
-  <tr>
-    <td>Concept of decision making</td>
-     <td class="small-font">a contest</td>
-     <td class="small-font">collaborative problem solving</td>
-  </tr>
-  <tr>
-    <td>Purpose of discussion</td>
-     <td class="small-font">persuasion and lobbying</td>
-     <td class="small-font">testing and evaluation</td>
-  </tr>
-  <tr>
-    <td>Participant's role</td>
-     <td class="small-font">spokespeople</td>
-     <td class="small-font">critical thinkers</td>
-  </tr>
-  <tr>
-    <td>Patterns of behavior</td>
-    <td class="small-font">strive to persuade others<br>defend your position<br>downplay weaknesses</td>
-     <td class="small-font">present balanced arguments<br>remain open to alternatives<br>accept constructive criticism</td>
-  </tr>
-  <tr>
-    <td>Minority Views</td>
-     <td class="small-font">discouraged or dismissed</td>
-     <td class="small-font">cultivated and valued</td>
-  </tr>
-  <tr>
-    <td>Outcome</td>
-     <td class="small-font">winners and losers</td>
-     <td class="small-font">collective ownership</td>
-  </tr>
-</table>
+::: {.gridded}
++------------------------------+------------------------------------+------------------------------------+
+|                              | Advocacy                           | Inquiry                            |
++==============================+====================================+====================================+
+| Concept of decision making   | a contest                          | collaborative problem solving      |
++------------------------------+------------------------------------+------------------------------------+
+| Purpose of discussion        | persuasion and lobbying            | testing and evaluation             |
++------------------------------+------------------------------------+------------------------------------+
+| Participant's role           | spokespeople                       | critical thinkers                  |
++------------------------------+------------------------------------+------------------------------------+
+| Patterns of behavior         | -   strive to persuade others      | -   present balanced arguments     |
+|                              | -   defend your position           | -   remain open to alternatives    |
+|                              | -   downplay weaknesses            | -   accept constructive criticism  |
++------------------------------+------------------------------------+------------------------------------+
+| Minority views               | discouraged or dismissed           | cultivated and valued              |
++------------------------------+------------------------------------+------------------------------------+
+| Outcome                      | winners and losers                 | collective ownership               |
++------------------------------+------------------------------------+------------------------------------+
+:::
 
 
 In the innovation process detailed in this book, I have never seen a team succeed that was also highly engaged in advocacy. If you want to succeed with high probability, embrace inquiry. Instead, prioritize your team members, your customers, and the team's innovation over yourself. If you do, you will be more likely to succeed personally and do it while enjoying the emotional benefits of helping others succeed.
@@ -207,41 +133,49 @@ Building psychological safety is a deliberate process, requiring conscious effor
 
 To gauge the level of psychological safety within a team, conducting anonymous surveys can be invaluable. These surveys can cover various aspects of team dynamics, including confidence in feedback mechanisms, dependability, clarity, meaning, and impact. Survey questions might include:
 
--------------------
+::: {.worksheet}
+**Psychological safety**
 
-##### Psychological Safety:
+- How comfortable do you feel brainstorming with your team?
+- How confident are you that you could fail openly without being shunned?
 
-- How comfortable do you feel comfortable brainstorming with your team? 
-- How comfortable are you that you can fail openly (you would not be shunned)?
+**Dependability**
 
-##### Dependability:
+- When team members say they will get something done, how reliably does it get done?
+- How well do team members flag delays early and take responsibility for them?
 
-- When team members say they will get something done, how well do they get it done?
-- How well do team members proactively communicate with each other about delays and assume responsibility?
+**Clarity**
 
-##### Clarity:
+- Do you know what the team's goals are and how you contribute to them?
+- Do you have autonomy and ownership of your tasks?
 
-- Do you know what the team goals are and how to get there?
-- Do you have autonomy and ownership of tasks?
+**Meaning**
 
-##### Meaning:
+- Does the work give you a sense of personal and professional fulfillment?
+- Is work assigned to you on the basis of both your skills and your interests?
 
-- Does the work give you a sense of personal and professional fulfillment? 
-- Is the work assigned to you based both on your skills and your interest? 
-
-##### Impact:
+**Impact**
 
 - Do you see your work creating change for the better?
-- Do you feel your work matters for higher-order goals?
-- Do team processes improve your personal well-being?
+- Does your work matter for goals larger than the task?
+- Do the team's processes improve your well-being or erode it?
+:::
 
--------------------
+By focusing on these aspects, teams can move beyond just coexistence to truly collaborative and innovative problem-solving. Psychological safety is the bedrock upon which successful interdisciplinary teams are built. It enables team members to leverage their diverse skills fully, leading to more innovative and effective solutions. The commitment to nurturing an environment of psychological safety can transform the potential of an interdisciplinary team into a reality of creative and impactful innovation. This approach ensures that team members not only contribute their best but also feel valued and supported in the process.
 
-By focusing on these aspects, teams can move beyond just coexistence to truly collaborative and innovative problem-solving. Psychological safety is the bedrock upon which successful interdisciplinary teams are built. It enables team members to leverage their diverse skills fully, leading to more innovative and effective solutions. The commitment to nurturing an environment of psychological safety, can transform the potential of an interdisciplinary team into a reality of creative and impactful innovation. This approach ensures that team members not only contribute their best but also feel valued and supported in the process.
+Creating a culture of cooperation takes conscious effort from everyone on the team, and effort alone will not carry it, because the moment you need the culture most is the moment it is hardest to summon. A team under pressure does not rise to its intentions. It falls back to its rules.
 
-Creating a culture of cooperation and collaboration in an interdisciplinary team requires a conscious effort and commitment from all team members. Successful teams typically exhibit a common purpose, specific performance goals, diverse skills, a clear commitment to work processes, and mutual accountability. One effective way to achieve these objectives is through developing a team charter.
+## Private Ordering
 
-## Team Charter
+So write the rules while you still agree on them. That is *private ordering*: a team settling its own terms in advance rather than discovering them in an argument. It rests on one observation, uncomfortable and reliable. Agreements reached while things are calm are legitimate. Agreements reached while things are at stake are negotiations, and somebody loses a negotiation. The time to decide what happens when a member disengages is a month before anyone disengages, while nobody knows whether it will be them.
+
+If that reasoning sounds familiar, it should. It is the same move as writing down what would change your mind before you field a pain test, rather than after you have seen the answers. Both bind a future self who will have a motive, and in both cases the sentence is worthless if written afterward, because from the inside the two feel identical.
+
+Teams have two instruments for this, and they do different work. The *team charter* governs behavior: how you will communicate, how you will decide, what happens when somebody does not deliver. It binds no one legally, which is not a defect, because its value is the conversation it forces. A team that has argued its way to a charter has already rehearsed disagreeing about something small.
+
+The *operating agreement* governs ownership and control: who holds what, who decides, and what becomes of a departing member's stake. It is a legal document and it is enforceable, and it does the one thing a charter cannot. It takes the profit out of advocacy.
+
+## The Team Charter
 
 A practical tool for nurturing psychological safety is the creation and utilization of a *team charter*. A team charter is a contract among team members, establishing the team's purpose, roles, rules, and procedures, thereby guiding its collaborative efforts. It can outline agreed-upon norms and practices that promote psychological safety, ensuring every team member knows what to expect and what is expected of them.
 
@@ -261,33 +195,19 @@ Here is an example of a project objective statement for a project developing a h
 
 > Design, build, and test a human-powered drill that reaches underground potable water at depths of 250 ft in all soil types by March 25, 2011 with a prototyping budget of \$2,800 USD for less than 1,700 hours of development.
 
-#### 2. Ownership Structure
-
-Define the equity distribution among team members, considering contributions and future expectations. This section should address how to handle departures, ownership transfer, and equity compensation. It's crucial to establish these rules upfront to prevent conflicts as the project progresses.
-
-People who contribute something must be compensated. Determine who gets equity based on forward looking considerations -- incentives for future contributions that can be issued based on milestones such as outside investment, vesting, time, or progress in the company. Assign ownership of the team (company) according to an agreed upon rule. There are three common approaches to allocating founder equity but only one creates incentive that encourage participation with less risk of fights over fairness:
-
--   Allocate equity immediately so there is nothing to fight about.
--   Wait to allocate equity until you understand the value of founder contributions.
--   Allocate a few shares to every member immediately and then allocate future shares based on contributions and value creation.
-
-In the early days of a team, you typically do not know who will eventually contribute the most value. To avoid unfair allocations, award a small number of shares for participation in the team and regularly allocate more shares for continued participation. For example, you may want to allocate one share to each member for every month of participation in the team. This way every team member is compensated for their work but there are few enough shares allocated that it does not create conflict when value creation becomes clearer and equity allocation is not equal.
-
-You should also choose a method for owners to leave the team. For example, if a team member decides to leave, they will be compensated for their accumulated equity at the current value of the company. Similarly, if a member of the team dies, you can specify that their ownership passes to another party only after approval by the other team members. These are just examples. Discuss these issues and choose a method that you agree on. Once you agree, live by the agreement. You can change the allocation rules later if the change is agreed to.
-
-#### 3. Roles and Responsibilities
+#### 2. Roles and Responsibilities
 
 Clearly defined roles and responsibilities for each team member enhance clarity and accountability. The charter should also be flexible enough to adapt to new tasks and changing team dynamics. You should revisit the roles and responsibilities as you learn more about the work to be done and the skills and preferences of the team members. When a new task needs to be done, assign it as a responsibility to a team member with the approval of the team.
 
-#### 4. Decision-Making Process
+#### 3. Decision-Making Process
 
-Establish how the team will make decisions. Consider differentiating between day-to-day decisions (simple majority) and major decisions (super-majority). Ensure this process supports advocacy and collaboration. **Do not fall into the trap of consensus.** Consensus is often slow to build and the last person to agree effectively has as many votes as the rest of the team put together because the last person can kill whatever proposal is being considered.
+Establish how the team will make decisions. Consider differentiating between day-to-day decisions (simple majority) and major decisions (super-majority). Ensure the process supports inquiry rather than advocacy. Do not fall into the trap of consensus: it is slow to build and the last person to agree effectively has as many votes as the rest of the team put together because the last person can kill whatever proposal is being considered.
 
 When new decision categories emerge, add them to the simple majority list or the super majority list as you choose. For example, you may specify that tasks, assignments, and other day-to-day decisions that are below a financial threshold can be settled by a simple majority while bigger decisions, such as hiring new executive officers, selling the company, acquiring funding, or budgeting, require the super majority. Be sure to focus on inquiry and collaboration so that no one is perpetually outvoted and then loses interest.
 
 You should also specify what decisions a team member can make while fulfilling their tasks and what decisions need to be brought back to the team for consideration.
 
-#### 5. Ground Rules
+#### 4. Ground Rules
 
 Lay out specific protocols for communication, participation, work products, conflict management, and attendance. These guidelines will help maintain order and ensure productive team interactions.
 
@@ -303,7 +223,7 @@ Lay out specific protocols for communication, participation, work products, conf
 
 -   **Attendance:** We require attendance at all team meetings. If an unexpected conflict arises, the member is responsible for sending in his or her work for the day and for notifying the team.
 
-#### 6. Addressing Violations
+#### 5. Addressing Violations
 
 Develop a tiered response to rule violations, balancing accountability with constructive outcomes. This approach helps maintain discipline while being fair and proportionate to the nature of the violation.
 
@@ -319,16 +239,105 @@ Develop a tiered response to rule violations, balancing accountability with cons
 
 Apply project management principles to assign tasks and manage accountability effectively. This structured approach ensures that the team's efforts in navigating the uncertainties of innovation lead to success.
 
+## The Operating Agreement
+
+A charter is enough while the only thing at stake is effort. It stops being enough the moment the team holds something worth owning: a validated pain, a concept that survived screening, a customer who said yes and meant it. From then on, every disagreement about the work is entangled with a disagreement about standing, and goodwill does not untangle them. A document does, by answering the ownership question in advance so that the argument in front of you is free to be about the evidence.
+
+That document is an *operating agreement*, the contract among the owners of a company setting out who holds what, who decides, and what becomes of a departing member's stake. It is the formal half of private ordering, and for most teams it comes due at the same moment as the first real asset.
+
+### Why This Belongs in a Book About Exploration
+
+An operating agreement looks like corporate housekeeping, and it would be, except for what this method asks a team to do.
+
+The expedition runs on abandonment. You refrigerate communities you had good reasons to like. You kill pain statements that failed the test you wrote for them before you ran it. You [eliminate concepts in convergence](Hypothesize_Solution.qmd#sec-screening-matrix), including the one you brought in. Every one of those acts destroys something a specific person argued for in front of everyone else.
+
+So ask what abandonment costs under two different ownership rules.
+
+If ownership tracks what people have already contributed, then killing an idea takes something real away from whoever brought it. The central act of the method becomes an attack on a teammate, and teammates defend themselves. The defense will not announce itself as a defense. It will arrive as a careful argument about whether the evidence really supports that conclusion, and the person making it will believe every word.
+
+If ownership tracks what people do next, abandoning your own concept costs you nothing, and doing it early and cleanly may be the clearest demonstration of your value the team has seen. The argument about the evidence is then free to be about the evidence.
+
+Read that way, vesting is not a retention device. It is the financial instrument that makes abandonment affordable.
+
+### Two Principles
+
+Every clause worth arguing over follows from two ideas.
+
+#### Reward Future Contribution, Not Past Effort
+
+Equity is an incentive, not a trophy. It is also the main thing a young company can pay with, which means spending it on the past spends it twice: once on work already done, and again on the work it can no longer buy.
+
+Early on you do not know who will end up contributing the most. That is not poor judgment on your part. The information does not exist yet. There are three common ways of handling that, and only one of them survives contact with a team that changes.
+
+-   Allocate all the equity immediately, so there is nothing left to fight about. This trades a fight now for a worse one later, when the allocation turns out to be wrong and cannot be undone.
+-   Wait until contributions are legible and then allocate. This is fair, and it leaves everyone uncompensated and anxious through exactly the period when the hardest work happens.
+-   Allocate a small amount for participation and the rest against contribution over time. Only this one pays people as they go while keeping most of the incentive still ahead of them.
+
+The mechanics can be simple. One unit per member for each month of active participation compensates everyone for what they actually do, keeps the issued total small enough that nobody is defending a windfall, and leaves the bulk of the ownership to be earned once it is clearer what earning means. Vesting schedules, milestone grants, and grants triggered by outside investment do the same job with more precision.
+
+#### Settle Fairness While the Stakes Are Low
+
+There is a perverse arithmetic in a venture that starts to work. The more the thing is worth, the harder it becomes to agree about who deserves what, because now every position has a number attached to it and every concession is a real loss. Success makes renegotiation more necessary and less possible at the same time.
+
+So the terms have to be set while they are still nearly hypothetical. A rule you agree to when the company is worth nothing feels like housekeeping. The same rule proposed a year later feels like a raid, whatever its merits, and the team spends its attention litigating instead of exploring.
+
+That is the whole argument for doing this early, and it is why the awkwardness of the conversation is the point rather than a reason to postpone it.
+
+### The Decisions Only You Can Make
+
+A lawyer can draft the document. A lawyer cannot make any of these decisions for you, because all of them are downstream of how your team actually works. Settle them first and the drafting is short, cheap, and largely a matter of writing down what you already agreed.
+
+::: {.worksheet}
+**Who owns, and with what voice?**
+
+-   Who is a full-time builder, and who is contributing part-time or advising?
+-   Do the part-time contributors vote? Splitting ownership into a voting class and a non-voting class lets you compensate somebody generously without handing them a say over decisions they are not close enough to make.
+
+**How is ownership earned?**
+
+-   What triggers a grant: time, milestones, outside investment, or some mixture?
+-   Is there a period at the start during which a departing member keeps nothing? How long is it?
+
+**Who decides?**
+
+-   Which decisions can an individual make inside their own responsibilities?
+-   Which take a simple majority, and which take a super-majority?
+-   If the team deadlocks, what breaks the tie? A small board, one to three people, is the usual answer, and it exists mainly so that a convergence cannot stall forever.
+
+**What happens when somebody leaves?**
+
+-   Does unearned ownership return to the company automatically?
+-   Can the company buy back what a departing member already earned, and at what price?
+-   What becomes of a member's stake if they die or are no longer able to participate?
+
+**Formation**
+
+-   What is the company's name, and is it available where you will register?
+-   Who receives legal notices on the company's behalf?
+:::
+
+Notice what the departure questions are really for. They are how a team changes its composition without dissolving, which is the ordinary case rather than the sad one. People take jobs, move, and lose interest. A team with no way to let somebody go ends up carrying members who hold a vote and do no work.
+
+### What a Drafted Agreement Looks Like
+
+[An example operating agreement](files/operating-agreement-template.docx) is included here, drafted by law faculty for early-stage teams and prepopulated so that a team supplies only four things: its name, its registered agent, its initial ownership, and its board of managers. It carries both principles above in its actual clauses, including vesting, voting and non-voting units, and the company's right to buy back the ownership of a member who stops contributing.
+
+::: {.limit}
+**What this example is, and is not**
+
+It is one drafting of these decisions, for one entity type, under one state's law. It is not legal advice, it is not your agreement, and it is not a form to sign. Jurisdictions differ in ways that matter, and a document that is enforceable in one place can be inert in another.
+
+Use it the way you use the demonstration in this book: as evidence of *form* rather than of *fact*. It shows you what these decisions look like once somebody has written them down properly. The reasoning travels. The clauses do not.
+
+Take your answers from the worksheet above to a lawyer where you are. The worksheet is the expensive part, and it is the part nobody can do for you.
+:::
+
 ## Organizing to Harness the Power of Team Collaboration
 
-Innovation thrives in an environment fostered by effective teamwork. The journey of creating and sustaining a successful interdisciplinary team is complex, yet achievable through deliberate and strategic efforts. As we've explored in this chapter, the key to unlocking the full potential of a team lies in understanding the stages of team development, advocating inquiry over advocacy, safeguarding psychological safety, and establishing a robust team charter.
+Four things have to hold for a team to run this method rather than perform it.
 
-The stages of team development --- forming, storming, norming, and performing --- provide a roadmap for teams to navigate the complexities of collaboration. Embracing these stages with awareness and adaptability enables teams to evolve from a group of individuals with diverse skills to a cohesive unit with a shared vision.
+The team has to get through storming instead of settling there, which takes time that enthusiasm cannot shorten. It has to treat decisions as inquiry rather than as a contest, so that ideas are weighed on their merits and not on who brought them. It has to be safe enough that somebody will say the inconvenient thing out loud while there is still time to act on it. And it has to have settled its rules, the behavioral ones and the binding ones both, back when settling them was cheap.
 
-Advocacy versus inquiry is a critical distinction that can make or break the creative problem-solving process. Teams should strive for an environment where ideas are shared freely and evaluated on their merit, not based on who proposed them. This shift from self-promotion to collective problem-solving is pivotal for fostering innovation.
+The fourth is what holds the other three in place. Stages pass, intentions fade under pressure, and the membership changes. A rule agreed while nobody had a motive keeps working after everybody has one, and that is the only kind of rule that survives the week you need it.
 
-Psychological safety stands as the cornerstone of effective team collaboration. A team environment where members feel safe to take risks, share ideas, and express concerns without fear of reprisal is essential for creativity and innovation. Regularly assessing and reinforcing psychological safety ensures that all team members can contribute their best.
-
-Finally, the development of a team charter is a practical tool for aligning team members towards common goals and establishing clear roles, responsibilities, and protocols. A well-crafted charter not only provides clarity and structure but also serves as a living document that evolves with the team's needs.
-
-In conclusion, the successful management of interdisciplinary teams in the entrepreneurial landscape requires a balanced approach that respects individual contributions while prioritizing collective goals. By fostering a culture of inquiry, psychological safety, and structured collaboration, teams can navigate the challenges of innovation and harness their collective potential to create impactful solutions.
+None of this guarantees a good expedition. A team can be safe, well governed, and wrong about the market. What it buys is narrower than that and worth more than it sounds: when the evidence says something nobody wants to hear, somebody will say it anyway, and saying it will not cost them anything they cannot afford.

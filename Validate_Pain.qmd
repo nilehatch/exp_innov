@@ -161,7 +161,7 @@ Here are my logged responses. For each pain, report how many people recalled a s
 - **Find the people who said no.** They are the most useful respondents you have, and a summary organized around your hypothesis will put them last or leave them out.
 :::
 
-## How Much Evidence Is Enough
+## How Much Evidence Is Enough {#sec-how-much-evidence}
 
 This is where pain testing usually goes wrong, and not because people run too few conversations. They run enough and never decided in advance what would count, so the evidence gets read as support no matter what it says.
 

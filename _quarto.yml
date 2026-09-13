@@ -6,6 +6,8 @@ project:
   # toolkit URLs alive for anything already linked in a syllabus or an LMS.
   resources:
     - _redirects
+    # The example operating agreement linked from Organize for Innovation.
+    - files/
   # Mirrors cited entries from the Zotero Better BibTeX export into references.bib.
   # See scripts/sync-refs.py and the Quarto publishing playbook.
   pre-render:
