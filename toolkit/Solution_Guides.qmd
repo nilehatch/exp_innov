@@ -220,11 +220,15 @@ A **scoring matrix** belongs to that second pass and nowhere earlier: weighted r
 <details>
 <summary>For the Curious — where weights come from when this is done properly</summary>
 
-The formal answer is **conjoint analysis**, also called a discrete choice experiment. You construct product profiles that vary systematically across the attributes you care about, ask people to choose or rate among them, and estimate a model in which the outcome is preference and each attribute contributes a coefficient. Those coefficients are the weights. It is a real and well-established method, and it is how the numbers in a professionally built scoring matrix are actually produced.
+The formal answer is **conjoint analysis**, and it is how the numbers in a professionally built scoring matrix are actually produced [@greenConjointAnalysisConsumer1978; @greenConjointAnalysisMarketing1990].
+
+The idea is easier than the name. Instead of asking people how important each attribute is, which they answer badly, you show them whole products and let the importance be inferred from their choices. Say you were doing it for Halo Alert. You would write a dozen descriptions of a personal safety device, varying four things independently across them: how discreet it is, whether it confirms the alert was received, whether it works without the phone, and the price. Each respondent sees several and ranks them or picks one. Nobody is ever asked what matters most.
+
+Then you estimate a model in which preference is the outcome and each attribute contributes a coefficient. Those coefficients say how much of people's choosing each attribute accounted for, and *those* are the weights. The trick is that the attributes vary independently by design, which is what lets the model separate their effects.
 
 Two things stop it working at this point in an expedition, and both are worth understanding rather than taking on trust.
 
-**You cannot estimate seven weights from three concepts.** The method needs profiles designed so that attributes vary independently of one another, and enough of them that each coefficient is identified. What you hold after screening is a handful of survivors differing in tangled ways. There is nothing to regress.
+**You cannot estimate seven weights from three concepts.** Notice what the dozen designed descriptions were for: the attributes had to vary independently, and there had to be enough combinations to pin each coefficient down. What you hold after screening is three survivors that differ in tangled ways, all at once. There is nothing to regress.
 
 **Gates do not have coefficients.** A model of this kind is *compensatory*: it assumes a deficit on one attribute can be offset by a surplus on another, and it estimates the exchange rate between them. That assumption is exactly false for a requirement phrased as *must*. A solution that can be turned against its owner is not redeemed by being attractive, however the arithmetic comes out.
 
