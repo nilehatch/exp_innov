@@ -163,6 +163,8 @@ Frustration and emotion are the signal to follow a thread further rather than mo
 
 An abandonment is an experiment somebody already ran. They tried a solution, it failed, and the reason it failed is a requirement isolated more cleanly than an interview can isolate one. You are being handed a result.
 
+One more, at the very end, after the referral ask and before you thank them: **"What should I have asked you that I didn't?"** It hands the frame over. Your guide encodes what you already suspect, and this is the only question in it that invites somebody to tell you what you left out.
+
 What people build for themselves is worth the same attention. A workaround encodes what a solution had to do, what it failed to do, and what they were willing to put up with instead. Ask what they rigged up, when they started doing it that way, and what it still does not fix.
 
 ::: {.trap}

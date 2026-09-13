@@ -7,13 +7,13 @@ These are the steps behind [Build and Test Solutions](../Build_Solutions_part.qm
 | Phase | What it covers |
 |---|---|
 | [Diverge — Generate Many Solutions](#sec-solution-diverge) | [Fill the Catalog](#sec-catalog) · [Generate](#sec-generate) · [Bad ideas](#sec-bad-ideas-guide) · [Recombine](#sec-recombine) |
-| [Converge — Narrow to One](#sec-solution-converge) | [Feasibility filter](#sec-feasibility) · [Dot voting](#sec-dot-voting) · [Screening matrix](#sec-screening) · [SIT](#sec-sit-converge) · [The second pass](#sec-second-pass-guide) |
+| [Converge — Narrow to One](#sec-solution-converge) | [Feasibility filter](#sec-feasibility) · [Dot voting](#sec-dot-voting) · [Screening matrix](#sec-screening) · [SIT](#sec-sit-converge) · [Second pass](#sec-second-pass-guide) · [Scoring matrix](#sec-scoring-matrix-guide) |
 | [Test — Test Before You Build](#sec-solution-test) | [Validation & verification](#sec-val-ver-guide) · [Wow factor](#sec-wow-guide) · [\\$100](#sec-100-guide) · [Wizard of Oz](#sec-wizard-guide) · [Smoke test](#sec-smoke-guide) · [Profit analytics](#sec-profit-guide) |
 
 ::: {.limit}
 **How this page relates to the chapters**
 
-Unlike the other two diamonds, Diamond 3 never had guides: its methods were written into the chapters and stayed there. So this page is **extracted from** the chapters rather than written beside them, and every entry links back to the section it came from. All three phases now carry their procedures. The scoring matrix is deliberately absent while its place in the method is still being settled, and [The Method Layer](../method-layer.qmd) still stops at the end of Diamond 2.
+Unlike the other two diamonds, Diamond 3 never had guides: its methods were written into the chapters and stayed there. So this page is **extracted from** the chapters rather than written beside them, and every entry links back to the section it came from. All three phases now carry their procedures. [The Method Layer](../method-layer.qmd) still stops at the end of Diamond 2.
 
 Everything on this page concerns solutions you have not built yet. Nothing here asks a customer to commit, and nothing here decides whether the venture is worth doing — that question belongs to [*Is This Worth Doing?*](https://ea.nilehatch.com/) and the decision itself to [*Make the Call*](https://mc.nilehatch.com/).
 :::
@@ -245,7 +245,54 @@ The \$100 test is the field-expedient version of the same idea. It elicits relat
 </details>
 :::
 
-The scoring matrix procedure is not in this guide, deliberately. Its place in the method is still being settled.
+#### Scoring Matrix {#sec-scoring-matrix-guide}
+
+The same table with the coarseness taken out: weights on the requirements, a five-point rating instead of plus and minus, and a weighted total. It eliminates further and it separates the survivors, which screening deliberately will not.
+
+**Do not run it on a first pass.** Its weights have to come from customers rather than from you, which in practice means after a [\$100 test](../Test_Solution.qmd#sec-100-test), and its ratings assume trade-offs are possible, which is false while every requirement is still a gate.
+
+1. **Keep the same requirements** you screened against, corrected by whatever testing has told you since.
+
+2. **Keep a reference solution**, and keep a column for it. It can be the same reference as before, or the strongest surviving concept if that is now clearly better than what people use today.
+
+3. **Assign a weight to each requirement**, summing to one across the list. This is the step that decides whether the exercise is worth anything. A weight is a claim about how much customers care, so it needs evidence: \$100 allocations, ranking data, observed spending. A weight you reasoned your way to is a number wearing a costume.
+
+4. **Rate each concept on each requirement** against the reference, one row at a time, on five points.
+
+::: {.gridded}
+| Rating | Meaning |
+|:--|:---------------------------------------|
+| **1** | Much worse than the reference |
+| **2** | Worse than the reference |
+| **3** | Equal to the reference |
+| **4** | Better than the reference |
+| **5** | Much better than the reference |
+:::
+
+Rate a row at a time rather than a concept at a time, so you are comparing like with like, and argue the ratings out loud as a team rather than averaging private guesses.
+
+5. **Score.** Each concept's total is the sum of weight times rating across the requirements.
+
+$$S_j = \sum_i w_i \, r_{ij}$$
+
+where $w_i$ is the weight on requirement $i$ and $r_{ij}$ is concept $j$'s rating on it.
+
+::: {.gridded}
+| Requirement | Weight | Reference | Concept A | Concept B |
+|---|:--:|:--:|:--:|:--:|
+| *requirement 1* | | 3 | | |
+| *requirement 2* | | 3 | | |
+| *requirement 3* | | 3 | | |
+| **Weighted total** | **1.00** | | | |
+:::
+
+::: {.trap}
+**Letting the total decide**
+
+The highest score is not automatically the idea to build, and the arithmetic is not where the value is. Most of what this exercise gives you happens while you are arguing about weights and ratings, which forces the team to say out loud what it believes about customers and where those beliefs came from.
+
+Treat a surprising total as a question rather than an answer. Check the provenance of the two or three requirements carrying the most weight before you trust it, and check whether a gate has been smuggled in as a heavily weighted preference, because a weighted model will happily let a concept fail one and win anyway.
+:::
 
 ## Test — Test Before You Build {#sec-solution-test}
 

@@ -33,6 +33,33 @@ They are not equally good, and the ranking is stable across almost every communi
 
 The practical consequence is worth sitting with: most people spend their effort on route four while their results come from routes one and two. Build a habit of converting every conversation into the next one, and the expensive route stops being the main one.
 
+#### The referral message
+
+Route one and route two are worth a script of their own, because a message that arrives carrying somebody's name is a different object from a cold one. This is the form that works.
+
+```
+Sarah may have mentioned that I would email to ask for your advice.
+
+I am exploring the problems of carpooling to try to improve them. Sarah
+suggested I talk to you, given your passion for reducing emissions through
+ridesharing.
+
+Do you have time this week for a quick call? I am not selling anything,
+just looking for advice.
+```
+
+Four things are doing the work.
+
+**The referrer's name comes first**, before anything else, because that is the only line that buys you the next sentence.
+
+**You ask for advice, not for time.** Being asked for advice is flattering and being asked for twenty minutes is a cost. They are the same request and they land differently.
+
+**You say why *them*.** *Given your passion for reducing emissions* is the sentence that says this is not a mailing list. If you cannot write that line for a particular person, you do not have a referral, you have a name.
+
+**You disclaim the sale**, and you do it last, where it reads as courtesy rather than defensiveness.
+
+Ask your referrer to expect the mention. A forwarded introduction beats a name-drop, and *would you be willing to introduce me* is a better question than *may I use your name*.
+
 #### The cold message
 
 It has one job: to make a stranger believe that twenty minutes with you is low-risk and mildly interesting. It is not a pitch, and anything that resembles a pitch converts it into one.
@@ -115,21 +142,35 @@ Do not pitch. Do not ask "would you buy this?" Stay in story-first mode: real ev
 
 **Opening.** Exchange names and thank them. Keep your purpose to one sentence. *I am working on a project and would like to learn from your experience.*
 
+**Opening.** Say what it is for, that you are not selling, and that you need their expertise. Ask permission before recording.
+
 **Story-first questions.** Anchor every question in a specific past event rather than a hypothetical.
 
 - "Tell me about the last time you ______."
-- "What was hardest about that?"
-- "Why was it hard?"
-- "How did you solve it then?"
-- "Why was that solution not awesome?"
+- "What was memorable about that day?"
+- "What did you like about that experience?"
+- "What was frustrating about it?"
+- "What was hardest about that? Why was it hard?"
+- "How did you solve it then? Why was that solution not awesome?"
 
-Follow up to keep the story moving: *What else happened? What surprised you most? What were you thinking at that point? What would I not expect about that experience?*
+When *the last time* produces nothing, ask for a superlative instead. "What is your best experience with ______? Your worst? The one you remember?" A superlative retrieves an episode when a date will not, and it is still an episode rather than an average.
+
+Follow up to keep the story moving: *What else happened? What surprised you most? What were you thinking at that point? What would I find surprising about your experience?*
+
+**Two closing questions worth protecting.** They get cut when time runs short and they are the two most likely to change your next conversation.
+
+- **"What should I have asked you that I didn't?"** This hands the frame to them, and the answer is often the thing your guide was built to miss.
+- **"Who else should I be talking to?"** Asked as a role rather than a person, and followed by *would you be willing to introduce me*.
 
 **Emotional triggers.** Emotion marks unmet need. When frustration, excitement, or guilt appears, follow it rather than the topic.
 
 - "Why do you say that? Tell me more."
 - "How did you feel when that happened?"
-- "Why is that important to you?"
+- "Why is that important to you? What emotions do you have about it?"
+- "Walk me through how you ______. What were you thinking at that point?"
+- "What was going on for you emotionally when that happened, if you want to talk about it?"
+
+That last clause is not padding. Attaching an explicit out to an emotional question is what makes it askable by a stranger, and people who are given the option to decline mostly do not take it.
 
 Two tools worth having by reflex:
 
