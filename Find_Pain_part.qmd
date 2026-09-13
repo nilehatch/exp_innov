@@ -46,13 +46,15 @@ This work is both empathetic and analytical. It demands curiosity to see the hid
 
 ---
 
-::: callout-note
-**How to Use This Diamond**  
-Pair each chapter with its companion tools and demos:  
+::: {.key-action}
+**How to Use This Diamond**
 
-- Narrative chapters explain the *why* and *what*.  
-- Guides in the Toolkit show you *how*.  
-- Halo Alert demos show the *real application*: unfiltered notes, transcripts, and synthesis from the field.  
+Each stage pairs a chapter with its tools:
 
-Together, these resources give you both the reasoning and the practice to hypothesize customer pain with confidence.
+- **Chapter** — the *why*, the judgment, and the traps.
+- **Guide** — the steps, in [Pain Guides](toolkit/Pain_Guides.qmd).
+- **Demo** — the Halo Alert team's real application: unfiltered notes, transcripts, and synthesis from the field.
+- **Your AI** — the sorting, drafting and cross-checking, once you have gathered the evidence. It cannot gather it.
+
+Together these give you both the reasoning and the practice to hypothesize customer pain with confidence.
 :::

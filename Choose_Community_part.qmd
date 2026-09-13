@@ -185,9 +185,9 @@ By the end of this part you will not have chosen a target audience. You will hav
 
 
 ::: {.key-action}
-**How to Use This Part**
+**How to Use This Diamond**
 
-Each stage of this diamond (diverge, converge, test) comes with more than a chapter:
+Each stage (diverge, converge, test) comes with more than a chapter:
 
 - **Chapter** — the *why*, the judgment, and the traps. Read this.
 - **Guide** — a step-by-step worksheet for the parts you do by hand.
