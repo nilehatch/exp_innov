@@ -85,13 +85,7 @@ Run six rounds and the arithmetic is startling: a team of six produces around *a
 
 It also fixes brainstorming's two failure modes. Nobody can dominate, because everyone writes simultaneously. And nobody can evaluate, because everyone is busy producing. What you get instead is *building*: each sheet arrives carrying someone else's thinking, and you extend it rather than judge it.
 
-::: {.key-action}
-**Running it well**
-
-- Adjust the numbers to your team; keep the structure. Four participants and four rounds still works.
-- Keep every sheet. They are the raw material for the next chapter and for recombination.
-- Debrief afterward, but not during. The session ends, then you look at what you have.
-:::
+The practical notes on running a session — adjusting the numbers, keeping the sheets, debriefing after rather than during — are in [Solution Guides](toolkit/Solution_Guides.qmd#sec-generate).
 
 ## Move Three: Recombine
 
