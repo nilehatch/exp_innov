@@ -238,6 +238,28 @@ Use with [Experience Mapping](../Hypothesize_Pain.qmd#sec-experience-map-section
 5. **Mark peaks and valleys**, and flag the in-between stages especially. Friction accumulates in the middle more often than at either end.
 6. **Capture contradictions.** Anything unexpected or inconsistent, and every place where saying and doing disagree. Record both without resolving them.
 
+**Build it as a grid.** One row per stage, one column per lens, in a spreadsheet or on a shared board. The format is doing real work: a lens read straight down its column is a trend, and that is what you are looking for. A stack of stage-by-stage notes hides exactly the comparison you need.
+
+::: {.gridded}
+| Stage | Doing | Thinking | Saying | Feeling |
+|---|---|---|---|---|
+| 1. *before it begins* | | | | |
+| 2. | | | | |
+| … | | | | |
+:::
+
+Empty cells stay empty. On a grid they are visible at a glance, and a column with holes in it tells you which lens you failed to ask about.
+
+::: {.limit}
+**You are not making a poster**
+
+Designers produce experience maps that are genuinely beautiful, with illustrated personas and a swooping emotion curve. Those are communication artifacts, built to carry a finding to somebody who was not there.
+
+Yours is an analysis instrument and nobody else has to read it. A spreadsheet or a board frame is the right medium, and time spent styling it is time not spent in the field. If you later need the handsome version for a deck, your AI can produce one from the grid in minutes, which is the correct order: analyze first, decorate last and only if someone asks.
+:::
+
+See the [Halo Alert experience map](../demo/exp-08.a-experience-map-2025-03-14.qmd) for a filled grid, and [the companion note](../demo/exp-08.b-experience-map-2025-03-14.qmd) for how that team built theirs.
+
 ### Abduction {#sec-abduction}
 
 Use with [Abduction](../Hypothesize_Pain.qmd#sec-abduction-section).

@@ -26,54 +26,21 @@ The goal is not to list every step but to surface **emotional peaks and valleys*
 
 ## Stages of the Commute
 
-### 1. Leaving the Office / Class
-- **Doing:** Packs bag, checks phone for time, sends quick text (“heading out now”).  
-- **Thinking:** “I hope I didn’t stay too late; the streets will be quieter now.”  
-- **Saying:** “I’ll text you when I’m on the train.” (to roommate)  
-- **Feeling:** Mild apprehension; mentally shifts from work to commute mode.  
+Laid out as a grid rather than as seven separate blocks, so a single lens can be read straight down the column. The *Feeling* column is the emotional arc of the commute, and it is the reason this format is worth the trouble.
 
+::: {.gridded}
+| Stage | Doing | Thinking | Saying | Feeling |
+|---|---|---|---|---|
+| **1. Leaving the office or class** | Packs bag, checks phone for time, sends a quick text ("heading out now"). | "I hope I didn't stay too late; the streets will be quieter now." | "I'll text you when I'm on the train." (to roommate) | Mild apprehension; mentally shifts from work to commute mode. |
+| **2. Walking to the subway** | Chooses well-lit streets, keeps keys in hand, avoids alleys. | "Better to add 10 minutes than cut through the dark shortcut." | *None* — headphones in, but no music. | Alert; small spike in anxiety on quieter blocks. |
+| **3. Entering the station** | Navigates crowds, scans pass, heads to the platform. | "I should've left earlier; rush hour might still be bad." | Brief "excuse me" when passing people. | Heightened vigilance; crowd noise and unpredictability increase stress. |
+| **4. In the car (crowded)** | Holds bag close, avoids eye contact, plans exit two stops early. | "What if I can't get out in time?" | *None* — silence as shield. | Stress spikes; pulse quickens when jostled. |
+| **5. Transfer or delay** | Reroutes if the platform is packed or the train is delayed. | "This will make me late… I hate not knowing how long." | Might mutter frustration ("Not again"). | Frustration and anxiety; the uncertainty is more stressful than the delay itself. |
+| **6. Neighborhood walk** | Walks briskly, stays under streetlights, texts roommate with ETA. | "Almost there. Just two more blocks." | Sends a text: "5 minutes out." | Anxiety peaks briefly when the street is empty; relief grows nearing the building. |
+| **7. Arrival and check-in** | Unlocks the door, texts roommate "home safe." | "Glad that's over." | "Sorry if I made you worry." | Relief; stress subsides once inside. |
+:::
 
-### 2. Walking to the Subway
-- **Doing:** Chooses well-lit streets, keeps keys in hand, avoids alleys.  
-- **Thinking:** “Better to add 10 minutes than cut through the dark shortcut.”  
-- **Saying:** None (headphones in, but no music).  
-- **Feeling:** Alert; small spike in anxiety on quieter blocks.  
-
-
-### 3. Entering the Subway Station
-- **Doing:** Navigates crowds, scans MetroCard/phone pass, heads to platform.  
-- **Thinking:** “I should’ve left earlier; rush hour might still be bad.”  
-- **Saying:** Brief “excuse me” when passing people.  
-- **Feeling:** Heightened vigilance; crowd noise and unpredictability increase stress.  
-
-
-### 4. In the Subway Car (Crowded Segment)
-- **Doing:** Holds bag close, avoids eye contact, plans exit two stops early.  
-- **Thinking:** “What if I can’t get out in time?”  
-- **Saying:** None — silence as shield.  
-- **Feeling:** Stress spikes; pulse quickens when jostled.  
-
-
-### 5. Transfer or Delay
-- **Doing:** Reroutes if platform is packed or if train is delayed.  
-- **Thinking:** “This will make me late… I hate not knowing how long.”  
-- **Saying:** Might mutter frustration (“Not again”).  
-- **Feeling:** Frustration + anxiety; uncertainty is more stressful than the delay itself.  
-
-
-### 6. Neighborhood Walk (Final Stretch)
-- **Doing:** Walks briskly, stays under streetlights, texts roommate with ETA.  
-- **Thinking:** “Almost there. Just two more blocks.”  
-- **Saying:** Sends text: “5 minutes out.”  
-- **Feeling:** Anxiety peaks briefly when street is empty; relief grows as she nears her building.  
-
-
-### 7. Arrival & Check-In
-- **Doing:** Unlocks apartment door, texts roommate “home safe.”  
-- **Thinking:** “Glad that’s over.”  
-- **Saying:** “Sorry if I made you worry.”  
-- **Feeling:** Relief; stress subsides once inside.  
-
+Read down *Saying* and something else appears: two of the seven stages have nothing in it, and both are the stages where stress is highest. She goes quiet exactly when it is worst. No single stage block would have shown that.
 
 ## Emotional Peaks & Valleys
 
