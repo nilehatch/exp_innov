@@ -13,7 +13,7 @@ These are the steps behind [Build and Test Solutions](../Build_Solutions_part.qm
 ::: {.limit}
 **This page is still being written**
 
-Unlike the other two diamonds, Diamond 3 never had guides: its methods were written into the chapters and stayed there. So these pages are being **extracted from** the chapters rather than written beside them, and the extraction is partway done. Divergence is complete here. Convergence and testing name every method and what each one asks, and the chapters still carry them in full. Follow the links. [The Method Layer](../method-layer.qmd) stops at the end of Diamond 2.
+Unlike the other two diamonds, Diamond 3 never had guides: its methods were written into the chapters and stayed there. So these pages are being **extracted from** the chapters rather than written beside them, and the extraction is partway done. Divergence is complete here, SIT included. Convergence and testing name every method and what each one asks, and the chapters still carry them in full. Follow the links. [The Method Layer](../method-layer.qmd) stops at the end of Diamond 2.
 
 Everything on this page concerns solutions you have not built yet. Nothing here asks a customer to commit, and nothing here decides whether the venture is worth doing — that question belongs to [*Is This Worth Doing?*](https://ea.nilehatch.com/) and the decision itself to [*Make the Call*](https://mc.nilehatch.com/).
 :::
@@ -44,7 +44,48 @@ It fixes both brainstorming failures at once. Nobody can dominate, because every
 
 The move teams skip, because it looks like effort and arrives dressed in overalls.
 
-**SCAMPER** and **Systematic Inventive Thinking** are the two structured recombination methods the chapter sets out; SIT returns in the next phase, applied to high-scoring market requirements. Work the pile into better candidates rather than treating generation output as finished.
+**SCAMPER** and **Systematic Inventive Thinking** are the two structured recombination methods. SCAMPER is a checklist and the chapter carries it in full. SIT needs a procedure, and it is below, because it returns in the next phase applied to high-scoring requirements.
+
+#### Systematic Inventive Thinking {#sec-sit-guide}
+
+SIT works by a reversal that is the whole method, and skipping it turns the templates into arbitrary vandalism. Ordinary design runs *problem first*: name a need, then invent something to meet it. SIT runs **function follows form**. You take the thing in front of you, damage it according to a template, look at the strange object you now have, and only then ask what it might be good for [@boydBox2013].
+
+Two rules govern it.
+
+**The closed world.** Work only with components already present in the product or its immediate surroundings. Nothing new may be introduced. The constraint is the engine: ideas that could use anything tend toward the elaborate, and elaborate solutions are the ones that do not get built.
+
+**Function follows form.** Build the virtual product first, absurd as it looks, and withhold judgment until you have asked what it could do. The instinct to reject arrives before the instinct to interpret, and the whole technique lives in that gap.
+
+**The five templates.** Apply each to a concept that survived screening.
+
+| template | what you do | the question afterward |
+|---|---|---|
+| **Subtraction** | Remove an essential component. Not a trivial one — the one that seems indispensable. | What is the remainder good for? Who would want it *because* that part is gone? |
+| **Task unification** | Assign an existing component a second, unrelated job. | What does the doubled-up part now let you delete? |
+| **Multiplication** | Copy a component, then change the copy in some qualitative way. | Why would anyone want two of these, one of them altered? |
+| **Division** | Divide the product, functionally or physically, and rearrange the pieces in time or space. | What becomes possible when the parts need not be together? |
+| **Attribute dependency** | Make two attributes that were independent vary with each other. | Which pair, and in which direction, and what does that make possible? |
+
+**Running it.** Twenty minutes per concept is usually enough.
+
+1. **List the components** of the concept and its immediate surroundings. That list is your closed world; nothing off it is allowed in.
+2. **Pick one template and apply it literally.** Do not adjust it to be sensible. If subtraction produces a safety device with no alarm, write down the device with no alarm.
+3. **Describe the virtual product** in a sentence, as though it existed.
+4. **Ask what it is for**, and only now. Who would want this? What does it now do that the original could not? What did removing the part make possible?
+5. **Judge it last**, against feasibility and against the market requirements you have. Most results are discarded. That is the expected yield and it is not a failure of the method.
+6. **Repeat with a different template** on the same concept before moving to the next one. The templates find different things.
+
+::: {.trap}
+**Fixing the absurdity before you have questioned it**
+
+The reflex when subtraction produces a device with no alarm is to put the alarm back, or to substitute something for it. Both end the exercise. The absurd object is the point: it is a place in the design space you would never have walked to deliberately, and its value shows up only when you ask what it is good for rather than what is wrong with it.
+:::
+
+::: {.limit}
+**What this page does not cover**
+
+This is enough to run the five templates on a concept you already hold. SIT is a fuller system than that — it has more to say about which template suits which situation, and about applying templates to a market rather than to a product. See @goldenbergFindingYourInnovation2003 and @boydBox2013.
+:::
 
 ::: {.threshold}
 **Diverge is complete when**

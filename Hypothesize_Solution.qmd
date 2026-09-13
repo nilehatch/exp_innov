@@ -129,7 +129,7 @@ Ideas that score high are good candidates to choose for validation and testing. 
 
 Consider the screening matrix for ideas aimed at solving the risk and anxiety of women walking alone in the dark. As you can see in this example, the alert ring and the alert keychain were taken forward to the next evaluation step as well as a number of other solution ideas. The idea of a taser wearable frightened the women that heard about it. They worried that an assailant might turn it on the wearer or, worse, the wearer might accidentally shock a friend or innocent bystander. The screening matrix makes clear that it was not necessary to test the taser wearables with potential customers. While this solution is laughable on second thought, it did generate some ideas about how to make the alert ring more wearable and more discrete.
 
-::: {#tab:screening-matrix}
+::: {#tab:screening-matrix .worksheet}
 |                      | Reference: Mace | Alert Ring | Taser Wearables | ... | Alert Keychain |
 |------------|:----------:|:----------:|:----------:|:----------:|:----------:|
 | **Discrete**         |        =        |     \+     |       \+        | ... |       \+       |
@@ -190,7 +190,11 @@ The focus here is on using SIT principles to creatively recombine or adapt the m
 
 -   **Subtraction**: Remove an essential component from the solution and explore how it might function or create value in its absence.
 -   **Task Unification**: Combine two or more tasks or functions into a single element of the solution.
+-   **Multiplication**: Copy a component and change the copy, then ask why anyone would want both.
+-   **Division**: Split the solution functionally or physically and rearrange the pieces in time or space.
 -   **Attribute Dependency**: Change the relationship between elements of the solution based on different conditions or contexts.
+
+All five run the same reversal, and it is the part that makes them work rather than merely break things: you apply the template first, describe the strange object it produces, and only then ask what it is good for. The full procedure, with the closed-world rule that keeps the results buildable, is in [Solution Guides](toolkit/Solution_Guides.qmd#sec-sit-guide).
 
 #### Practical Example {.unnumbered}
 
