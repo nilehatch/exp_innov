@@ -9,6 +9,8 @@ Most people start here. It is the part of innovation that feels like innovation:
 
 You now know the question. Two diamonds of work have told you *who* you are serving and *what* hurts, and both claims have been tested rather than assumed. That is what earns you the right to build.
 
+None of which is an argument against building fast. The **lean startup** is right that the cheapest way to learn is to put something in front of someone early, and **customer development** is right that the answers are outside the building [@riesLeanStartupHow2011; @blankFourStepsEpiphany2006]. The disagreement is narrower than it first appears, and it is about one thing: when you are entitled to a solution hypothesis worth testing. Everything behind you was the price of that entitlement.
+
 ![Diverge and converge to design a solution, then test whether it relieves the pain.](images/diamond-3.svg){#fig-solution-diamond-3 fig-align="center"}
 
 ## The Pattern: Diverge, Converge, Test {.unnumbered}

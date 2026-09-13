@@ -169,7 +169,9 @@ Set the bar before you collect. Two parts, and the second matters more.
 
 **A floor on how many.** Pilot with eight to fifteen people in one segment, which is enough to find out that your wording is broken and not enough to conclude anything. Then grow toward twenty-five to fifty for a prioritization you would act on. These are floors and not targets: fifty polite agreements with no behavior attached is still nothing, and twelve people who all describe the same workaround is already something.
 
-**A statement of what would change your mind.** Before you ask anyone, write down the result that would make you abandon this hypothesis. *If fewer than half can name a recent instance. If nobody has built a workaround. If it ranks last against the two pains beside it.* Written in advance, that sentence is a test. Written afterward, it is a rationalization, and you will not be able to tell the difference from the inside.
+**A statement of what would change your mind.** Before you ask anyone, write down the result that would make you abandon this hypothesis. *If fewer than half can name a recent instance. If nobody has built a workaround. If it ranks last against the two pains beside it.* Written in advance, that sentence is a test. Written afterward, it is a rationalization, and you will not be able to tell the difference from the inside.[^falsify]
+
+[^falsify]: The rule is Popper's. What makes a claim testable is that it forbids something, so you have to be able to say beforehand which observation would refute it [@popperScienceFalsification1963]. It transfers to entrepreneurship without modification, and it is the cheapest discipline in this book.
 
 ::: {.threshold}
 **Enough to Move On**

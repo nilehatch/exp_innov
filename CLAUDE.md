@@ -114,9 +114,18 @@ guide keeps steps.** Gallery shows good beside bad; the layer is the machine ren
 - Every factual claim needs a real citation from Zotero. **Never fabricate a
   source.** If a claim needs support that isn't in the bib, say what you would
   need — a collection, a starting paper, an author — and leave the claim flagged.
-- The rivals (Ries, Blank, Popper, Plattner, Camuffo) are in the bibliography and
-  largely uncited in the text. That is a known gap, not an oversight to fix
-  silently.
+- **The rivals are now cited (13 Sep 2026), additively and at the points of
+  divergence** rather than as a literature review. Ries and Blank in
+  `Build_Solutions_part`, Sarasvathy and Kim/Mauborgne in `Choose_Community_part`,
+  Ulwick and Plattner in `Explore_Community`, Popper in `Validate_Pain`, Camuffo in
+  `Expeditionary_Innovation`, and all of them again in the Conclusion, which sets
+  how each is characterized.
+
+  **The tone is the rule here, set by NWH: acknowledge the work, name what is
+  improved, never dismiss and never argue.** Each rival is credited with what it
+  gets right before any divergence is stated, and Camuffo is treated as the ally he
+  is rather than as a rival at all. If you add another, match that register.
+  Effectuation gets the most care, because it is the genuine opposite.
 
 ### Salience assertions: whose claim is it?
 

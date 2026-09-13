@@ -223,6 +223,8 @@ The question has been modelled. Hatch and Ostler compare firms that enter a new 
 
 Two honest qualifications. These are simulations rather than field studies: they show what follows from a set of assumptions about how markets and rivals behave. And both are working papers rather than published findings.
 
+The field evidence exists and points the same way, from a different direction. In a randomized controlled trial, entrepreneurs trained to treat their beliefs as theories and to test them explicitly made better decisions than a control group, pivoted more precisely, and abandoned failing ideas sooner [@camuffoScientificApproachEntrepreneurial2020]. That study is about the *posture* rather than about this particular procedure, which is the right kind of support to have: it says the discipline pays, and leaves the question of which method to run entirely open.
+
 What they establish is narrower than "this method works," and more useful. The time you spend finding out is not a tax on the venture; it is part of what makes the venture worth more than the alternative of building first and asking later.
 
 </details>

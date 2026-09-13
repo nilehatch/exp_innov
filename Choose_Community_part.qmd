@@ -40,6 +40,8 @@ These people live under the *tyranny of the market*:
 - They adapt with workarounds, hacks, and compromises.  
 - They quietly accept friction, delays, and risks as “normal life.”  
 
+The strategic version of this observation is well known: **blue ocean strategy** urges firms to leave contested space and create demand where there is none [@kimBlueOceanStrategy2005]. The economics underneath is the same one. What differs is altitude. That argument is made about industries and market boundaries, and this one is made about a particular set of people you could go and meet this week, which is the only height at which an entrepreneur without a strategy department can actually act.
+
 ```{r}
 #| label: fig-tyranny-market
 #| echo: false
@@ -168,6 +170,8 @@ The choice matters less than it feels like it should, because you are not choosi
 What you *can* do is choose *badly*: out of convenience, or so broadly that the group shares nothing but a label. Those choices cost real time, and they are common.
 
 The constraint is rarely the market. It is access. Can you observe these people in context? Can you get real conversations rather than polite ones? Will they open up enough to show you what they have stopped noticing? This diamond ends with a test of exactly that, and the test exists because the answer is sometimes no. Finding that out in week two is cheap. Finding it out in month four is not.
+
+That emphasis on what you already have will be familiar if you have met **effectuation**, which holds that expert entrepreneurs begin from means rather than goals: who they are, what they know, and whom they know [@sarasvathyCausationEffectuationTheoretical2001]. This diamond agrees about the starting point, because access is exactly that kind of means. It parts company over what is allowed to emerge. Effectuation lets the goal take shape from whoever commits; an expedition lets the *people* take shape from the pain, and insists the pain be found on purpose rather than arrived at.
 
 ---
 

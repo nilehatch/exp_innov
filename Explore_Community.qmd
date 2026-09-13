@@ -99,7 +99,9 @@ The routes and the messages are in [Getting People to Talk](toolkit/Pain_Guides.
 
 ## Ethnographic Exploration
 
-Once you have found and engaged your people, the next step is to immerse yourself in their lived experience. Ethnographers use many tools, but three stand out as especially powerful for entrepreneurs: conversations, observation, and role playing. Each is not just a technique but an exploratory experiment: a structured way to surface evidence of unmet needs.
+Once you have found and engaged your people, the next step is to immerse yourself in their lived experience. Ethnographers use many tools, but three stand out as especially powerful for entrepreneurs: conversations, observation, and role playing.[^dt]
+
+[^dt]: All three are staples of design practice, and the empathy-first framing is design thinking's contribution before it is this book's [@plattnerDesignThinking2009; @plattnerEmpathyFieldGuide2013]. What changes here is where they are pointed: at a community you chose for expected neglect, rather than at a user group somebody handed you. Each is not just a technique but an exploratory experiment: a structured way to surface evidence of unmet needs.
 
 What these three share is that they let you find what you did not know to ask about. That is the whole point of this diamond, and it is why the survey, the tool most founders reach for first, comes later in this chapter rather than here.
 
@@ -310,7 +312,9 @@ See the [Role Play Guide](toolkit/Pain_Guides.qmd#sec-role-play) for a ready-to-
 
 Surveys are the tool most founders reach for first, and this diamond is the wrong place for them.
 
-A respondent can only answer the question you thought to ask. That is fine when you already know what you are looking for — and fatal when you don't. The needs worth building on are the ones your people have stopped noticing: the workaround so old it feels like the weather, the anxiety they would never call a problem. No one writes a survey item for a need nobody has named yet, least of all the person living with it.
+A respondent can only answer the question you thought to ask. That is fine when you already know what you are looking for — and fatal when you don't. The needs worth building on are the ones your people have stopped noticing: the workaround so old it feels like the weather, the anxiety they would never call a problem. No one writes a survey item for a need nobody has named yet, least of all the person living with it.[^odi]
+
+[^odi]: There is a serious counter-position and it deserves naming. Outcome-driven innovation argues that customers *can* report what they are trying to accomplish, reliably and in a form you can rank, provided you ask about desired outcomes rather than about products or features [@ulwickWhatCustomersWant2005]. Where that holds it is faster than anything in this chapter and you should use it. The wager of this diamond is that the needs with the most room left in them are the ones that have been normalized past the point of being reportable at all.
 
 Occasionally a survey does explore, when respondents happen to be unusually willing to type at length and you have left them room to. It happens. It cannot be relied on, and you should not design your exploration around the hope of it.
 
