@@ -36,7 +36,7 @@ It does not have to look like a lab notebook. A field log, an interview summary,
 - **The findings.** What happened, including the parts that were inconvenient.
 - **The update.** What you now believe, how strongly, and how you could still be wrong.
 
-The fourth is the one people skip, and it is the only one that makes the record worth keeping. Findings without an update are a diary.
+The fourth is what makes the record worth keeping. Findings without an update are a diary.
 
 ## Your Data Room
 

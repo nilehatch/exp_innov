@@ -136,6 +136,16 @@ Two tools worth having by reflex:
 - **3-peat.** Ask about another time it happened. Three times, to see whether it is a pattern or an anecdote.
 - **5-whys.** Ask why repeatedly until you reach a root cause or an emotion.
 
+**Going deeper when you find something.** Frustration is the signal to follow the thread rather than move on. After *how did you solve it then* and *why was that solution not awesome*, three questions reach what those do not. See [Going Deeper](../Explore_Community.qmd#sec-going-deeper) for why each one works.
+
+- "Have you ever **bought** anything to help with this?"
+- "Tell me about getting it. What happened the first time you used it?"
+- "Do you still use it?" If not: "when did you stop, and what happened?"
+
+Ask about workarounds the same way: what did you rig up, when did you start doing it that way, what does it still not fix.
+
+Keep every one of these anchored to an event. *How do you deal with this* asks for an average and returns a summary with the specifics filed off; *what did you do right then* and *what have you bought* are both particular days. Purchases, workarounds and abandonments are events, which is what makes them reachable without breaking the stance.
+
 **Closing.** Ask whether they know others you should talk to. Referrals are how access compounds. Thank them, and say how their story helps.
 
 **After.** Document thoroughly and immediately, or debrief with a teammate while it is fresh. Compare notes and find the gaps. Log which questions you failed to follow up on, because that list is the best input to your next conversation.

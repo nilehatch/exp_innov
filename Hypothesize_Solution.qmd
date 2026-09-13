@@ -88,7 +88,7 @@ This has two consequences worth acting on.
 | Works without the phone | exploration, unprompted | 6 | "first thing they grab is your phone" |
 | Confirms the alert was received | assumption | 0 | *(nobody said this)* |
 
-The last column is the one that does the work. If you cannot produce something a person actually said, the requirement is yours rather than theirs, and it goes in marked as an assumption rather than quietly promoted. Assumptions are allowed here. Unmarked ones are how a matrix eliminates a good idea *for a reason nobody ever held*.
+If you cannot produce something a person actually said, the requirement is yours rather than theirs, and it goes in marked as an assumption rather than quietly promoted. Assumptions are allowed here. Unmarked ones are how a matrix eliminates a good idea *for a reason nobody ever held*.
 
 The same column catches the more common error, which is hardening. Every requirement in the list above reads *must*. A list where nothing is a preference is usually a list where somebody converted "I probably wouldn't wear that" into "must look and feel feminine" while typing. Record whether *they* framed it as a gate, and let preferences stay preferences.
 

@@ -289,5 +289,5 @@ A hypothesis is ready when you can do three things without looking anything up:
 - **Name its kinds** from the five above.
 - **Point to the person** who gave you the evidence, and say what they said.
 
-All three, or it goes back. The third is the one people skip, and it is the one that separates a hypothesis from a hunch you have grown attached to.
+All three, or it goes back. The third is what separates a hypothesis from a hunch you have grown attached to.
 :::

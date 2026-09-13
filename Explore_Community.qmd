@@ -147,6 +147,36 @@ Your AI drafted a guide from a description you wrote. Both of you may be wrong a
 - **Keep at least two prompts you would not have thought to ask.** If the whole guide reflects what you already believe, you have automated your assumptions.
 :::
 
+#### Going Deeper When You Find Something {#sec-going-deeper .unnumbered}
+
+Frustration and emotion are the signal to follow a thread further rather than move on. You already know the first moves: what was hardest, why was it hard, how did you solve it then, why was that solution not awesome. Three more belong at the end of that sequence, and they reach something the others do not.
+
+**"Have you ever bought anything to help with this?"** A purchase is an event, so it keeps you in the same mode as the rest of the conversation. It is also a costly signal: paying money for a difficulty says more than describing one does.
+
+**"Tell me about getting it. What happened the first time you used it?"**
+
+**"Do you still use it?"** — and if not, **"when did you stop, and what happened?"**
+
+An abandonment is an experiment somebody already ran. They tried a solution, it failed, and the reason it failed is a requirement isolated more cleanly than an interview can isolate one. You are being handed a result.
+
+What people build for themselves is worth the same attention. A workaround encodes what a solution had to do, what it failed to do, and what they were willing to put up with instead. Ask what they rigged up, when they started doing it that way, and what it still does not fix.
+
+::: {.trap}
+**The averaging question**
+
+*How do you deal with this?* sounds like the same question and is not. It asks someone to summarize across every time it has happened, and what comes back is a tidy general account with the specifics filed off.
+
+Everything else here anchors to a particular day. Keep the anchor:
+
+| asks for an average | asks for an event |
+|---|---|
+| How do you deal with this? | What did you do *right then*? |
+| Do you use anything for it? | What have you **bought** for this? |
+| Did it work? | When did you stop using it? |
+
+Purchases, workarounds, and abandonments are all events. That is what makes them reachable without breaking the stance.
+:::
+
 #### How to run the experiment (short form)
 
 1. Prepare a light interview protocol: a few “last time” prompts, not a long script.  
@@ -430,6 +460,25 @@ If most new conversations yield no fresh themes, if further observation only con
 :::
 
 Entrepreneurs often struggle here. Quitting too early risks thin data and shaky insights. Quitting too late risks delay and wasted effort. But when novelty fades, and repetition dominates, the exploration phase has done its work. It is time to move from gathering to reasoning, from raw discovery to shaping hypotheses that can be tested.
+
+### What Stopping Actually Means {#sec-reopening .unnumbered}
+
+Be clear about what the entropy signal is and is not. It ends the **broad sweep**. It does not prove that nobody out there would have surprised you, and you should not pretend otherwise: you cannot know that one more conversation would have taught you nothing, and you never will. What you are doing is deciding, under real pressure from time and money and the rest of your life, that further undirected gathering is no longer the best use of the next week.
+
+That is a defensible decision and a provisional one. The question reopens, and it reopens for specific reasons rather than out of a general worry that you should have done more.
+
+::: {.threshold}
+**Go back when one of these appears**
+
+- **You need a cell you never filled.** Your experience map has nothing in Thinking or Feeling at a stage that matters, because nobody asked. Go and ask, at that stage, of three or four people.
+- **Something load-bearing rests on one person.** A theme, a requirement, or a pain that your whole direction depends on, and one respondent is carrying it.
+- **Everyone arrived through the same door.** Referrals compound inside one network, and repetition across one channel is not saturation.
+- **A result comes back and you cannot interpret it.** Not because the test was bad, but because you do not know enough about the person who gave it.
+
+Each of these names a question, a target, and a finish line, and that is what makes it a return rather than a relapse. *I need to know what she was thinking at the handoff* is an afternoon. *I should understand my customers better* is a month you will not spend.
+:::
+
+Going back is not a verdict on the work you already did. Evidence arrives unevenly, and a gap you can name is worth more than a corpus you never interrogated.
 
 ---
 
