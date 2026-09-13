@@ -118,6 +118,40 @@ guide keeps steps.** Gallery shows good beside bad; the layer is the machine ren
   largely uncited in the text. That is a known gap, not an oversight to fix
   silently.
 
+### Salience assertions: whose claim is it?
+
+**The test: if the sentence would need a citation under this book's own rules, it is
+NWH's to make or it goes.** Structural claims are anyone's — *"this condition is easy
+to omit"* is a property of the thing. **Frequency claims about people are NWH's** —
+*"most people omit it"* asserts a vantage point over many practitioners, which he has
+and a drafting assistant does not.
+
+Caught 13 Sep: the formula *"the Nth is the one people skip"* had appeared **three times
+in two days across three files**, each time an unsourced empirical claim in a book whose
+thesis is that claims need evidence. Swept.
+
+It exists because lists are flat and a flat list gives the reader no purchase. That is a
+real problem, and hierarchy can be built three other ways at no cost:
+
+| | |
+|---|---|
+| assertion | "The fourth is the one people skip." — incurs the debt |
+| **mechanism** | "The fourth is what turns a record into something you can be wrong about." |
+| **consequence** | "Skip the fourth and you have a diary." |
+| **conditional** | "If you do only one of these, do the fourth, because…" |
+
+Often the lead-in can simply go: the sentence after it was already carrying the argument.
+
+**Two frequency claims stand deliberately**, confirmed by NWH 13 Sep as things he has
+watched happen: *"most people spend their effort on route four"* (`Pain_Guides`) and
+*"Most people set it too wide"* (`Community_Choice_Gallery`). These are his observations,
+not inferences. Do not sweep them.
+
+NWH is wary of superlatives and audits his own prose by asking whether he could justify
+the claim if challenged. That is the book's own standard applied to its voice, and it is
+a feature. Do not smooth it away, and do not pay for emphasis with claims when mechanism
+is free.
+
 ## Cross-references: link by filename
 
 **This book does not use Quarto's `@sec-` cross-references between files.** Use
