@@ -7,13 +7,13 @@ These are the steps behind [Build and Test Solutions](../Build_Solutions_part.qm
 | Phase | What it covers |
 |---|---|
 | [Diverge — Generate Many Solutions](#sec-solution-diverge) | [Fill the Catalog](#sec-catalog) · [Generate](#sec-generate) · [Recombine](#sec-recombine) |
-| [Converge — Narrow to One](#sec-solution-converge) | [Feasibility filter](#sec-feasibility) · [Dot voting](#sec-dot-voting) · [Screening matrix](#sec-screening) · [SIT](#sec-sit-converge) |
+| [Converge — Narrow to One](#sec-solution-converge) | [Feasibility filter](#sec-feasibility) · [Dot voting](#sec-dot-voting) · [Screening matrix](#sec-screening) · [SIT](#sec-sit-converge) · [The second pass](#sec-second-pass-guide) |
 | [Test — Test Before You Build](#sec-solution-test) | The seven tests and what each asks · [Running a Smoke Test](#sec-smoke-guide) |
 
 ::: {.limit}
 **This page is still being written**
 
-Unlike the other two diamonds, Diamond 3 never had guides: its methods were written into the chapters and stayed there. So these pages are being **extracted from** the chapters rather than written beside them, and the extraction is partway done. Divergence is complete here, SIT included, and smoke testing has its procedure. Convergence and the other six tests name every method and what each one asks, and the chapters still carry them in full. Follow the links. [The Method Layer](../method-layer.qmd) stops at the end of Diamond 2.
+Unlike the other two diamonds, Diamond 3 never had guides: its methods were written into the chapters and stayed there. So these pages are being **extracted from** the chapters rather than written beside them, and the extraction is partway done. Divergence and convergence are complete here, SIT included, and smoke testing has its procedure. The other six tests name what each one asks, and the chapters still carry them in full. Follow the links. The scoring matrix is deliberately absent while its place in the method is still being settled. [The Method Layer](../method-layer.qmd) stops at the end of Diamond 2.
 
 Everything on this page concerns solutions you have not built yet. Nothing here asks a customer to commit, and nothing here decides whether the venture is worth doing — that question belongs to [*Is This Worth Doing?*](https://ea.nilehatch.com/) and the decision itself to [*Make the Call*](https://mc.nilehatch.com/).
 :::
@@ -101,29 +101,104 @@ Large, varied, and reaching is ready for screening. Large but narrow is not: it 
 
 ## Converge — Narrow to One {#sec-solution-converge}
 
-Use with [Hypothesize a Good Solution](../Hypothesize_Solution.qmd). *Procedure extraction in progress; the chapter carries the full method today.*
+Use with [Hypothesize a Good Solution](../Hypothesize_Solution.qmd), which carries the judgment: where market requirements actually come from, why the first list is provisional, and why this phase eliminates rather than ranks.
 
-Four filters, applied in order from cheapest to most deliberate.
+Four filters, cheapest first. Run them in order. Each is designed to be quick, because the expensive instrument should only ever see a short list.
 
 #### Feasibility filter {#sec-feasibility}
 
-A first pass that removes what cannot be built, afforded, or legally sold by a team like yours. Chapter: [Feasibility Filter](../Hypothesize_Solution.qmd#sec-feasibility-filter). Cheap, fast, and applied before anything more careful, so the careful work runs on a shorter list. *Procedure pending; the chapter carries it today.*
+Chapter: [Feasibility Filter](../Hypothesize_Solution.qmd#sec-feasibility-filter).
+
+Two questions per idea, answered fast:
+
+1. **Could a team like yours build this**, within the money, skills and time you actually have?
+2. **Does it address the validated pain**, rather than an adjacent one that happens to be interesting?
+
+No to either, set it aside. This should take minutes across a pool of a hundred, not a meeting. You are not judging quality yet and you will be wrong about a few; the point is to stop the careful instruments from spending time on the impossible.
+
+**Set aside, do not delete.** Every idea earned its place by widening the pool, and an infeasible idea often contains a feasible mechanism. They go to the refrigerator with the rest.
+
+::: {.threshold}
+**Done when**
+
+What remains is *plausible*, not *good*. If you find yourself arguing about which of two survivors is better, you have left the filter and started screening early. Stop and move on.
+:::
 
 #### Dot voting {#sec-dot-voting}
 
-Surfaces where team conviction actually sits, which is information about your team rather than about your customers. Useful as a tiebreaker and as a way to see disagreement early. Chapter: [Dot Voting](../Hypothesize_Solution.qmd#sec-dot-vote). It is not evidence, and the guide will say so once it carries the steps. *Procedure pending.*
+Chapter: [Dot Voting](../Hypothesize_Solution.qmd#sec-dot-vote).
+
+1. **Spread the survivors** where everyone can see them at once, one idea per note.
+2. **Give each person a fixed number of dots**, three to five. Fewer than the number of ideas by a wide margin, or the exercise does nothing.
+3. **Vote silently and at the same time.** Sequential voting is not voting; it is watching the first person vote.
+4. **Vote for what you would want to work on**, not for what you predict will win. The information you are collecting is conviction, and predicted-winner voting destroys it.
+5. **Count, and read the spread as well as the top.** A clear favorite is useful. So is a dead tie, which says the team is genuinely split and that the split will surface later whatever you decide now.
+
+Expect to go from a hundred-odd ideas to ten or twenty.
+
+::: {.limit}
+**What dot voting is evidence of**
+
+Your team's enthusiasm, and nothing else. It is a real input — a team that does not believe in the concept will build it badly — and it is not customer evidence. Do not let a dot count overrule a screening result, and never report it as validation.
+:::
 
 #### Screening matrix {#sec-screening}
 
-The main instrument. Candidates rated plus, zero or minus against a **reference solution** on unweighted market requirements, then netted. It is built to *eliminate* rather than to rank, and the requirements it runs on are provisional on the first pass. Chapter: [Screening Matrix](../Hypothesize_Solution.qmd#sec-screening-matrix). See [Where those requirements come from](../Hypothesize_Solution.qmd#sec-where-requirements) for why. *Procedure pending.*
+Chapter: [Screening Matrix](../Hypothesize_Solution.qmd#sec-screening-matrix). The method is Pugh's concept screening, and its first stage is deliberately coarse.
+
+**1. Rows: market requirements.** Each stated as something the solution must or should do for these people. Record where each one came from — exploration, a rejected concept, or an assumption — because [provenance](../Hypothesize_Solution.qmd#sec-where-requirements) is what tells you which result to doubt when one surprises you.
+
+**2. Pick a reference solution.** The best thing currently available to your people, whatever it is. In the Halo Alert demonstration it was pepper spray. The reference is not a competitor to beat; it is the zero point that makes the ratings mean something, so choose what these people actually use today rather than the most sophisticated product on the market.
+
+**3. Columns: the surviving ideas**, from dot voting.
+
+**4. Rate each cell against the reference**, not against the other ideas:
+
+| mark | meaning |
+|---|---|
+| **+** | better than the reference on this requirement |
+| **=** | about the same |
+| **−** | worse |
+
+**5. Net score:** pluses minus minuses, equals counting zero.
+
+**6. Decide, per column.** *Improve* a high scorer. *Combine* a low scorer that nonetheless beat the reference on something, because that plus is a feature worth transplanting. *Drop* what beat the reference nowhere.
+
+::: {.gridded}
+| Requirement | Reference | Idea A | Idea B | Idea C |
+|---|---|---|---|---|
+| *requirement 1* | = | | | |
+| *requirement 2* | = | | | |
+| *requirement 3* | = | | | |
+| **Net score** | 0 | | | |
+| **Decision** | reference | | | |
+:::
+
+::: {.trap}
+**Reading the top score as the best idea**
+
+The matrix scores each idea *against the reference*, so a high net score means "beats pepper spray on more counts than it loses," which is not the same as "is the right thing to build." It eliminates confidently and chooses only weakly. Carry two or three forward, not one.
+
+It is also unweighted on purpose. On a first pass your requirements are gates rather than preferences, and weighting gates lets a well-rounded concept outscore one that actually clears them.
+:::
+
+::: {.threshold}
+**Done when**
+
+- Every surviving idea has a decision written against it: improve, combine, or drop.
+- You can say which requirement did the most eliminating, and you can trace it to a person.
+- **Two or three concepts go forward.** One means you ranked rather than screened.
+:::
 
 #### Systematic Inventive Thinking {#sec-sit-converge}
 
-Returns here, applied to the requirements your surviving concepts scored well on, to improve what survived rather than merely rank it. The five templates and the procedure are in the divergence phase above, at [Systematic Inventive Thinking](#sec-sit-guide).
+Returns here, applied to the requirements your surviving concepts scored well on, to improve what survived rather than merely rank it. Take the pluses from the *combine* column too: a feature that beat the reference inside a losing concept is exactly what recombination is for. The five templates and the procedure are in the divergence phase above, at [Systematic Inventive Thinking](#sec-sit-guide).
 
-Then, once and usually only once, a [second pass](../Hypothesize_Solution.qmd#sec-second-pass). Testing generates market requirements faster than exploration does, because rejection needs a concept to push against, so the list you screened against is stale by the time you finish screening. Come back with the objections, add rows, rescore. It needs no new respondents and takes about twenty minutes.
+#### The second pass {#sec-second-pass-guide}
 
-A **scoring matrix** belongs to that second pass and nowhere earlier: weighted requirements, ratings instead of plus and minus, a weighted total. It is worth building only when the weights came from customers rather than from you, which in practice means after a [\$100 test](../Test_Solution.qmd#sec-100-test). On the first pass every requirement is a gate, and gates cannot be weighted without letting a well-rounded concept outscore one that actually clears them.
+Once, and usually only once, a [second pass](../Hypothesize_Solution.qmd#sec-second-pass). Testing generates market requirements faster than exploration does, because rejection needs a concept to push against, so the list you screened against is stale by the time you finish screening. Come back with the objections, add rows, rescore. It needs no new respondents and takes about twenty minutes.
+
+A **scoring matrix** belongs to that second pass and nowhere earlier: weighted requirements, ratings instead of plus and minus, a weighted total. It is worth building only when the weights came from customers rather than from you, which in practice means after a [\$100 test](../Test_Solution.qmd#sec-100-test). Its procedure is not in this guide yet.
 
 ## Test — Test Before You Build {#sec-solution-test}
 
