@@ -171,7 +171,7 @@ Take this persona and this specific goal, and build an experience map from my ob
 :::
 
 ::: {.see-demo}
-In the [Halo Alert demo of experience mapping](demo/exp-08.a-experience-map-2025-03-14.qmd), Maya's journey home is mapped stage by stage. The map shows where her anxiety spikes and how her family becomes drawn into the stress, surfacing several candidate pains at once.
+In the [Halo Alert demo of experience mapping](demo/exp-08-experience-map-2025-03-14.qmd), Maya's journey home is mapped stage by stage. The map shows where her anxiety spikes and how her family becomes drawn into the stress, surfacing several candidate pains at once.
 :::
 
 ## What You Are Looking For {#sec-hypothesize-pain-section}

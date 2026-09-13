@@ -45,3 +45,8 @@
 # about choosing a community to search. Renamed 11 Sep 2026.
 /Choose_People_part.html                /Choose_Community_part.html            301
 /Choose_People.html                     /Commit_Community.html                 301
+
+# The Halo Alert experience map was split across a narrative view and a grid
+# view of the same journey. Merged 13 Sep 2026.
+/demo/exp-08.a-experience-map-2025-03-14.html  /demo/exp-08-experience-map-2025-03-14.html  301
+/demo/exp-08.b-experience-map-2025-03-14.html  /demo/exp-08-experience-map-2025-03-14.html  301

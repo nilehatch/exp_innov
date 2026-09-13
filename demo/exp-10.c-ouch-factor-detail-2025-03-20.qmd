@@ -85,7 +85,7 @@ Questions asked (from the [Pain Testing Guide](../toolkit/Pain_Guides.qmd#sec-pa
 - **From clusters:** [Commuting themes](exp-06-cluster-themes-2025-03-12.qmd) 
   <!--Reassurance routines, Route choice & environment, Crowding & vigilance.  -->
 - **From persona:** [Maya Patel](exp-07.a-persona-2025-03-12.qmd)
-- **From experience map:** [Maya Patel commute](exp-08.a-experience-map-2025-03-14.qmd) 
+- **From experience map:** [Maya Patel commute](exp-08-experience-map-2025-03-14.qmd) 
 - **From pain hypothesis:** [Maya Patel commuting pain hypothesis](exp-09-hypothesize-pain-2025-03-16.qmd)
 - **Next step:** Summarize these results for the [pain hypothesis test summary](exp-10.a-pain-test-summary-2025-03-20.qmd)
 - **Toolkit link:** [Pain Testing Guide](../toolkit/Pain_Guides.qmd#sec-pain-testing)

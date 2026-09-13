@@ -1,10 +1,8 @@
-# Experience Map — Maya Patel (narrative) {#sec-exp-map-a-ha .unnumbered}
+# Experience Map — Maya Patel {#sec-exp-map-ha .unnumbered}
 
 #### Representative journey map for a professional commuter persona {.subtitle}
 
-> Following the toolkit naming conventions, this file is named `exp-08.a-experience-map-2025-03-14.qmd`.
-
-See also: [Grid view](exp-08.b-experience-map-2025-03-14.qmd) of Maya’s commute
+> Following the toolkit naming conventions, this file is named `exp-08-experience-map-2025-03-14.qmd`.
 
 ---
 
@@ -26,54 +24,20 @@ The goal is not to list every step but to surface **emotional peaks and valleys*
 
 ## Stages of the Commute
 
-### 1. Leaving the Office / Class
-- **Doing:** Packs bag, checks phone for time, sends quick text (“heading out now”).  
-- **Thinking:** “I hope I didn’t stay too late; the streets will be quieter now.”  
-- **Saying:** “I’ll text you when I’m on the train.” (to roommate)  
-- **Feeling:** Mild apprehension; mentally shifts from work to commute mode.  
+The working format is a grid: one row per lens, one column per stage. Read a lens straight across and you are reading a trend, which is the comparison a stack of stage-by-stage notes hides.
 
+::: {.gridded}
+| **Lens ↓ / Stage →** | **Leaving Office / Class** | **Walking to Subway** | **Entering Station** | **In Subway Car** | **Delay / Reroute** | **Neighborhood Walk** | **Arrival & Check-In** |
+|---|---|---|---|---|---|---|---|
+| **Doing** | Packs bag, checks phone, texts roommate | Chooses lit streets, keeps keys in hand | Navigates crowds, scans pass | Holds bag close, plans exit early | Reroutes or waits | Walks briskly, texts ETA | Unlocks door, texts "home safe" |
+| **Thinking** | "It's late, streets will be quieter" | "Better add 10 mins than risk shortcut" | "Rush hour might still be bad" | "What if I can't get out in time?" | "I hate not knowing how long" | "Almost there — two blocks" | "Glad that's over" |
+| **Saying** | "I'll text you when I'm on the train" | *(silent — headphones in, no music)* | "Excuse me" when passing | *(silent — uses silence as shield)* | Mutters frustration | Sends text: "5 mins out" | "Sorry if I made you worry" |
+| **Feeling** | Mild apprehension | Alert, small anxiety spikes | Heightened vigilance | Stress peaks, pulse quickens | Frustrated + anxious | Anxiety peak then relief | Relief, guilt about burdening others |
+:::
 
-### 2. Walking to the Subway
-- **Doing:** Chooses well-lit streets, keeps keys in hand, avoids alleys.  
-- **Thinking:** “Better to add 10 minutes than cut through the dark shortcut.”  
-- **Saying:** None (headphones in, but no music).  
-- **Feeling:** Alert; small spike in anxiety on quieter blocks.  
+Read the *Saying* row across and something appears that no single stage would have shown: it is empty at two stages, and both are the stages where stress is highest. Maya goes quiet exactly when it is worst.
 
-
-### 3. Entering the Subway Station
-- **Doing:** Navigates crowds, scans MetroCard/phone pass, heads to platform.  
-- **Thinking:** “I should’ve left earlier; rush hour might still be bad.”  
-- **Saying:** Brief “excuse me” when passing people.  
-- **Feeling:** Heightened vigilance; crowd noise and unpredictability increase stress.  
-
-
-### 4. In the Subway Car (Crowded Segment)
-- **Doing:** Holds bag close, avoids eye contact, plans exit two stops early.  
-- **Thinking:** “What if I can’t get out in time?”  
-- **Saying:** None — silence as shield.  
-- **Feeling:** Stress spikes; pulse quickens when jostled.  
-
-
-### 5. Transfer or Delay
-- **Doing:** Reroutes if platform is packed or if train is delayed.  
-- **Thinking:** “This will make me late… I hate not knowing how long.”  
-- **Saying:** Might mutter frustration (“Not again”).  
-- **Feeling:** Frustration + anxiety; uncertainty is more stressful than the delay itself.  
-
-
-### 6. Neighborhood Walk (Final Stretch)
-- **Doing:** Walks briskly, stays under streetlights, texts roommate with ETA.  
-- **Thinking:** “Almost there. Just two more blocks.”  
-- **Saying:** Sends text: “5 minutes out.”  
-- **Feeling:** Anxiety peaks briefly when street is empty; relief grows as she nears her building.  
-
-
-### 7. Arrival & Check-In
-- **Doing:** Unlocks apartment door, texts roommate “home safe.”  
-- **Thinking:** “Glad that’s over.”  
-- **Saying:** “Sorry if I made you worry.”  
-- **Feeling:** Relief; stress subsides once inside.  
-
+Cells are kept to a phrase deliberately. Seven stages fit across a page only while the writing stays terse; once cells carry full sentences the columns squeeze the prose into slivers and the grid has to be transposed.
 
 ## Emotional Peaks & Valleys
 
@@ -174,6 +138,16 @@ ggplot(data_evening, aes(x = stage, y = Emotion, group = 1)) +
 - **Dual routines:** Headphones in (avoid engagement) vs. no music (stay alert).  
 - **Relief ≠ relaxation:** “Safe arrival” brings relief but also guilt about making others worry.  
 
+
+## Building the Grid
+
+The grid is a **bridge format**, not the finished artifact. Three ways to bring it alive on a board or in a classroom:
+
+- **Color-code emotions.** Give each sticky a background color — green for calm, yellow for mild stress, red for peak anxiety. Laid out stage by stage, the color pattern makes the peaks and valleys jump out before anyone reads a word.
+- **One sticky per cell.** Each observation becomes its own note in Miro or on paper. It prevents overcrowding and keeps every observation movable, which matters because you will move them.
+- **Compare variants.** Map the *same* journey under different conditions — Maya's 9:30 PM walk against her 5:30 PM daylight walk. The contrast shows how lighting, crowd density, and time of day shift the emotional landscape, and it isolates which of them is doing the work.
+
+Use it to structure the raw material before any of it is translated into something presentable.
 
 ## Next Steps
 
