@@ -13,7 +13,7 @@ These are the steps behind [Build and Test Solutions](../Build_Solutions_part.qm
 ::: {.limit}
 **How this page relates to the chapters**
 
-Unlike the other two diamonds, Diamond 3 never had guides: its methods were written into the chapters and stayed there. So this page is **extracted from** the chapters rather than written beside them, and every entry links back to the section it came from. All three phases now carry their procedures. The same procedures in machine-readable form are Stages 12 through 14 of [The Method Layer](../method-layer.qmd).
+Unlike the other two diamonds, Diamond 3 never had guides: its methods were written into the chapters and stayed there. So this page is **extracted from** the chapters rather than written beside them, and every entry links back to the section it came from. All three phases now carry their procedures. The same procedures in machine-readable form are [Block 3 of The Method Layer](../method-layer.qmd#sec-ml-layer3), Stages 12 to 14.
 
 Everything on this page concerns solutions you have not built yet. Nothing here asks a customer to commit, and nothing here decides whether the venture is worth doing — that question belongs to [*Is This Worth Doing?*](https://ea.nilehatch.com/) and the decision itself to [*Make the Call*](https://mc.nilehatch.com/).
 :::

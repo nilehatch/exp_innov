@@ -4,7 +4,7 @@
 
 These are the steps behind [Choose Where to Look](../Choose_Community_part.qmd). The chapters carry the judgment: why you are looking away from the center of a problem, what makes a community coherent, why an easy yes is suspicious. This page carries the procedure, in the order a diamond runs it: widen, narrow, then test before you commit.
 
-The same steps in machine-readable form, for working with an AI, are Stages 1 through 3 of [The Method Layer](../method-layer.qmd).
+The same steps in machine-readable form are [Block 1 of The Method Layer](../method-layer.qmd#sec-ml-layer1), Stages 0 to 3, which you paste into an AI and work through.
 
 | Phase | What it covers |
 |---|---|
