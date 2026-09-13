@@ -21,7 +21,7 @@ number-sections: false
 - **Destination:** Midtown Manhattan, New York  
 - **Commute Shape:** ~15-minute walk → subway → ~10-minute walk  
 - **Setting:** Outside subway station (morning commute)  
-- **Interviewer:** Nile  
+- **Interviewer:** Dana  
 - **Consent:** Verbal consent to a ~20-minute recorded conversation for a research project; no sales intent.
 
 ::: callout-note
@@ -29,9 +29,9 @@ number-sections: false
 :::
 
 # Opening & Rapport
-**Interviewer:** Good morning, thank you so much for agreeing to speak with me today. My name is Nile, and I'm exploring the experiences of commuters in urban settings. May I have your name, please?
+**Interviewer:** Good morning, thank you so much for agreeing to speak with me today. My name is Dana, and I'm exploring the experiences of commuters in urban settings. May I have your name, please?
 
-**Sarah:** Good morning, Nile. I'm Sarah Thompson.
+**Sarah:** Good morning, Dana. I'm Sarah Thompson.
 
 **Interviewer:** Nice to meet you, Sarah. Before we dive into the specifics of your commute, could you share a bit about yourself — perhaps your age, the area you're living in, and where you commute to for work?
 
@@ -197,4 +197,4 @@ Sarah begins her commute by walking ~15 minutes to the nearest subway, rides ~20
 - **Next Steps:** Expand interviews to late-night riders, different lines; pair with **observations** at entrances/exits; compare with different commuting modes (bus, rideshare, biking).  
 
 ---
-**Attribution:** Interview conducted by Nile as part of the Halo Alert exploratory research series (Diamond 2).
+**Attribution:** Interview conducted by Dana as part of the Halo Alert exploratory research series (Diamond 2).

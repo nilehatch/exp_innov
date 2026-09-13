@@ -23,14 +23,14 @@ Read the numbers as an honest picture of the scale of a first expedition rather 
 | 19 Feb | [Bias check](halo-alert-d1-choose.qmd#sec-ha-d1-bias) | Asked which candidates were only there because they were easy to reach | Additions that would not have surfaced otherwise |
 | **24 Feb** | [Converge](halo-alert-d1-choose.qmd#sec-ha-d1-converge) | Compared candidates on coherence, neglect and access; named the emotional pull | Chose **professional women commuting on foot in mid-sized cities**, explicitly as a *working commitment, not a final lock-in* |
 | **24 Feb** | [Access test](halo-alert-d1-choose.qmd#sec-ha-d1-test) | Three channels, real outreach: 10 LinkedIn messages, 1 coworking email, 1 forum post | **21 approached, 15 replies, 9 strong leads.** Green light |
-| **24–25 Feb** | [Conversations](halo-alert-d2-explore.qmd#sec-ha-conv-sarah) | Two long conversations, recorded and transcribed in full | Stories about route choice, check-in texts, and the cost of being late |
+| **24 Feb – 6 Mar** | [Conversations](halo-alert-d2-explore.qmd#sec-ha-conversations) | Twelve conversations across two weeks, two of them recorded and transcribed in full | Stories about route choice, check-in texts, and the cost of being late |
 | **5–8 Mar** | [Observations](halo-alert-d2-explore.qmd#sec-ha-obs-morning) | Three outings: a subway exit at 8am, the same at 8pm, a campus on a Friday night | What people *did* rather than said: keys in hand, street crossings, phones already out |
 | **12 Mar** | [Clustering](halo-alert-d2-converge.qmd#sec-ha-cluster) | Sorted the raw observations on a board | **Six core themes** plus edge clusters, including reassurance routines, route choice, and predictability |
 | **12 Mar** | [Personas](halo-alert-d2-converge.qmd#sec-ha-persona-maya) | Built three personas from the themes | Maya Patel, the one that carried the strongest emotional signal |
 | **14 Mar** | [Experience map](halo-alert-d2-converge.qmd#sec-ha-expmap) | Traced Maya's evening commute across seven stages and four lenses | The emotional arc, and two stages where she says nothing at all |
 | **16 Mar** | [Abduction](halo-alert-d2-converge.qmd#sec-ha-abduction) | Generated competing explanations, checked each against the evidence, chose one | *Anxiety when commuting at night, especially in unpredictable or poorly lit environments.* Emotional and functional, with social overtones. Two rivals refrigerated |
 | **20 Mar** | [Pain test](halo-alert-d2-validate.qmd#sec-ha-test-summary) | Ran three probes against three candidate pains | **Dark or unlit blocks: green.** Crowded exits and unexpected detours: yellow |
-| **24 Mar** | [Brainwriting](halo-alert-d3-solutions.qmd#sec-ha-d3-brainwriting) | Five people, six rounds, half an hour, including one round of deliberately bad ideas | ~90 concepts in two families, which is fewer families than it sounds |
+| **24 Mar** | [Brainwriting](halo-alert-d3-solutions.qmd#sec-ha-d3-brainwriting) | Five people, six rounds, half an hour, including one round of deliberately bad ideas | ~90 concepts, but only two families: *something you carry* and *something that tells someone where you are* |
 | 24 Mar | [Recombination](halo-alert-d3-solutions.qmd#sec-ha-d3-recombine) | Worked the pile rather than generating more | A small worn object that sends without being unlocked |
 | **25 Mar** | [Screening](halo-alert-d3-solutions.qmd#sec-ha-d3-matrix) | Rated candidates against pepper spray on the women's own requirements | Two survivors: the **alert ring** and the **alert keychain**. The taser eliminated, its one advantage carried forward |
 | **28 Mar** | [Wow factor](halo-alert-d3-solutions.qmd#sec-ha-d3-wow) | Both concepts to the same group, rated and probed | The ring pulled harder, because it is *already in your hand* |
@@ -67,7 +67,9 @@ Three moments where evidence overturned an expectation. These are the reason the
 
 ## What It Cost
 
-One small team. Twenty-one people approached, fifteen of whom answered. Two long conversations, three observation outings, three pain-test probes. A month of calendar time, most of it not full-time.
+One small team. Twenty-one people approached, fifteen of whom answered, twelve who talked at length. Three observation outings and three pain-test probes. A month of calendar time, most of it not full-time.
+
+Two of the twelve conversations are reproduced here in full. The rest exist as notes and quotes in the clustering, which is the normal ratio: you transcribe a few completely and take the others down as they happen.
 
 That is the honest scale of a first expedition. It is less than most people expect and more than most people do.
 

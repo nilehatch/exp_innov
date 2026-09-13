@@ -9,7 +9,7 @@
 - **Destination:** Midtown Manhattan, New York  
 - **Commute Shape:** Short walk → subway → walk home from station  
 - **Setting:** Outside subway station (evening, ~9:30 PM, return commute)  
-- **Interviewer:** Nile  
+- **Interviewer:** Dana  
 - **Consent:** Verbal consent to a ~20-minute recorded conversation for a research project; no sales intent.
 
 ::: callout-note
@@ -17,7 +17,7 @@
 :::
 
 # Opening & Rapport
-**Interviewer:** Thank you for taking a moment to speak with me tonight. My name is Nile, and I’m learning from commuters about their everyday experiences. Could you please tell me your name?  
+**Interviewer:** Thank you for taking a moment to speak with me tonight. My name is Dana, and I’m learning from commuters about their everyday experiences. Could you please tell me your name?  
 
 **Emily:** My name’s Emily Rivera.  
 
@@ -131,4 +131,4 @@ Emily works late some evenings and commutes home around 9:30 PM. Streets are qui
 - **Next Steps:** Compare day/night commuter coping strategies; explore digital check-in practices as implicit “safety tech.”  
 
 ---
-**Attribution:** Interview conducted by Nile as part of the Halo Alert exploratory research series (Diamond 2).
+**Attribution:** Interview conducted by Dana as part of the Halo Alert exploratory research series (Diamond 2).

@@ -2,7 +2,7 @@
 
 #### Two weeks in the field: the guide they wrote, the people they talked to, the things they watched {.subtitle}
 
-*24 February to 8 March.* Two long conversations and three observation outings, from a community the team had just proved it could reach.
+*24 February to 8 March.* Twelve conversations and three observation outings, from a community the team had just proved it could reach.
 
 Chapter: [Explore the Community](../Explore_Community.qmd). Guides: [Conversation](../toolkit/Pain_Guides.qmd#sec-conversation) and [Observation](../toolkit/Pain_Guides.qmd#sec-observation).
 
@@ -105,13 +105,15 @@ Can I ask you a few quick questions? It’ll only take a minute.
 
 ## Conversations {#sec-ha-conversations}
 
+Twelve in all, over two weeks. Two are reproduced below in full, because a complete transcript shows things a summary cannot: the questions that went nowhere, the places the interviewer talked too much, the answer that only arrived on the third attempt. The other ten survive as notes and quotes, which is the ordinary ratio and the reason the clustering has more voices in it than these two pages do.
+
 ### Sarah Thompson, 24 February {#sec-ha-conv-sarah}
 
 ### General Info
 - **Title / Observation Type**: Interview with Sarah Thompson, Professional Woman Commuter  
 - **Date**: [24 February 2024]  
 - **Location / Setting**: Outside Queens–Midtown subway route, New York  
-- **Team Member(s)**: Nile  
+- **Team Member(s)**: Dana  
 - **Modality**: Interview (exploratory)  
 - **Linked Primary Experiment**: Diamond 2 — Find and Validate Pain for Professional Women Commuters  
 
@@ -188,7 +190,7 @@ The [full transcript](halo-alert-transcript-sarah.qmd) runs unedited, including 
 - **Title / Observation Type**: Interview with Emily Rivera, Professional Woman Commuter  
 - **Date**: 2025-02-24  
 - **Location / Setting**: Downtown Manhattan → Brooklyn (late evening return, ~9:30 PM)  
-- **Team Member(s)**: Nile  
+- **Team Member(s)**: Dana  
 - **Modality**: Interview (exploratory)  
 - **Linked Primary Experiment**: Diamond 2 — Pain Discovery & Validation for Professional Women Commuters
 
@@ -275,7 +277,7 @@ Three outings, deliberately varied by time and place, because a single setting t
 - **Date & Time:** 2025-03-05, ~8:00 AM  
 - **Location:** Subway exit, Manhattan  
 - **Focus:** Commuters emerging from underground into the street environment during morning rush  
-- **Observer:** Nile  
+- **Observer:** Dana  
 - **Consent:** Public-space observation (no identifying details recorded).  
 
 ::: {.reflect}
@@ -329,7 +331,7 @@ Observation was chosen to complement commuter interviews. By watching morning fl
 - **Assumptions Updated:** Commuters are not only “rushing” — they also perform care, create rituals, and carve out solitude.  
 - **Next Steps:** Compare these morning dynamics to evening ones (Session 2). Look especially at whether safety and vulnerability cues become more salient at night.  
 
-**Attribution:** Observation conducted by Nile as part of the Halo Alert exploratory research series (Diamond 2).
+**Attribution:** Observation conducted by Dana as part of the Halo Alert exploratory research series (Diamond 2).
 
 *For a practical checklist to use in the field, see the [Observation Guide](../toolkit/Pain_Guides.qmd#sec-observation) in the [Experimentation Toolkit](../toolkit/Experimentation_Toolkit.qmd).*
 
@@ -337,7 +339,7 @@ Observation was chosen to complement commuter interviews. By watching morning fl
 
 - **Date & Time:** 2025-03-06, ~8:00 PM  
 - **Location:** Manhattan subway entrance, 8 PM   
-- **Observer:** Seth
+- **Observer:** Ray
 - **Consent:** Public-space observation (no identifying details recorded).  
 
 ### 1. Clarify the Unknown
@@ -385,7 +387,7 @@ Observation was chosen to complement commuter interviews. By watching morning fl
 
 - **Date & Time:** 2025-03-08, ~11:00 PM  
 - **Location:** Urban university campus and nearby streets
-- **Observer:** Nile + Seth
+- **Observer:** Dana and Ray
 - **Consent:** Public-space observation (no identifying details recorded).  
 
 ### 1. Clarify the Unknown

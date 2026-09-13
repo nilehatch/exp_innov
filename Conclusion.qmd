@@ -2,7 +2,7 @@
 subtitle: "What you are holding at the end of an expedition, what it cost, and what it does not settle"
 ---
 
-# Succeed with Expeditionary Innovation {.unnumbered #sec-conclusion-chapter}
+# What the Expedition Leaves You {.unnumbered #sec-conclusion-chapter}
 
 ## What You Have Now
 
