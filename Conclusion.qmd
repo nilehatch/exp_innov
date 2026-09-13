@@ -1,40 +1,69 @@
 ---
-subtitle: "Maximize the probability of a successful innovation through iterative use of exploratory experiments, hypothesizing, and confirmatory test"
+subtitle: "What you are holding at the end of an expedition, what it cost, and what it does not settle"
 ---
 
 # Succeed with Expeditionary Innovation {.unnumbered #sec-conclusion-chapter}
 
+## What You Have Now
 
+You began with a problem space and, most likely, an idea you were fond of. Here is what you can say at the end that you could not say at the start.
 
-## Embracing Expeditionary Innovation
+**You can name a community and say why you chose it.** Not a demographic. A set of people shaped by the same constraints, chosen because you could reach them and because there was reason to expect neglect. You tested that reach before you spent a month on it.
 
-Expeditionary innovation represents a paradigm shift in the approach to creating impactful and successful innovations. This book has journeyed through the intricacies of this approach, underscoring the importance of identifying unmet needs and developing solutions that genuinely resonate with customers. The expeditionary process is meticulous, requiring patience, curiosity, and a willingness to explore uncharted territories of customer needs and potential solutions.
+**You can name a pain as a personal cost**, not as a gap in the world, and you can point at the person who told you about it. You know which of its five kinds are in play. Somebody is already spending time or money to escape it, which is the part that is hard to fake.
 
-## Overcoming the Solution-First Trap
+**You know who your people are**, and they are probably not who you named in the first diamond. They are the ones who carry the pain, bounded by a circumstance rather than a category, and you can name people inside your original community who fall outside that boundary. That migration is not a mistake you made. It is the method working.
 
-A common pitfall in innovation is the 'solution-first' approach, where innovators jump to create solutions before thoroughly understanding the problem. This intuition-driven method often leads to the creation of products or services that fail to address real customer needs, resulting in high failure rates. Expeditionary innovation, by contrast, emphasizes a problem-first approach, ensuring that innovations are grounded in genuine customer needs, thereby significantly reducing the risk of failure.
+**You have a solution concept that survived elimination**, and evidence from people who were looking for a solution rather than people you recruited.
 
-## The Triple Diamond Framework
+**And you have a refrigerator.** A record of the communities, pains, and concepts you set aside and why. That record is worth more than it looks, because most of what happens next is a surprise sending you back to it.
 
-The triple diamond is the structural backbone of expeditionary innovation. It carries you through three phases, each ending in a decision you can defend: choosing the people you will serve, discovering and validating the pain they live with, and designing and validating a solution that relieves it. Every diamond has the same shape — diverge to explore widely, converge to make sense of what you gathered, then test the result before you move on — so the discipline you learn in the first diamond is the discipline you use in the third.
+You are not certain about any of this. You are less wrong than you were, about smaller things, earlier, and at a cost you could afford.
 
-The second and third diamonds cover ground that design practice already maps: define the problem, then develop the solution. The first diamond is the one most frameworks assume you have already settled.
+## Where Most Methods Start
 
-## The Role of Exploratory Experiments
+Every serious method for building under uncertainty tells you to test your assumptions. They differ in which assumption they let you keep.
 
-Exploratory experiments are instrumental in the early stages of the innovation process. They involve venturing into the unknown, gathering insights, and generating a wealth of ideas and possibilities. These experiments are not about testing preconceived hypotheses but about observing, learning, and forming educated guesses about potential customer needs.
+The **lean startup** begins with a hypothesis about a product and a customer and teaches you to test it fast and cheaply [@riesLeanStartupHow2011]. Customer development sharpens that into a discipline of leaving the building [@blankFourStepsEpiphany2006]. Both are right that shipping before learning is expensive. Both assume you already hold a solution worth testing, and this book spends two diamonds refusing to hold one.
 
-## Hypothesizing through Abduction
-Abduction plays a pivotal role in transitioning from exploratory experiments to formulating hypotheses. It involves observing surprising facts or phenomena, generating hypotheses that could explain these observations, and then evaluating these hypotheses based on their fit with known facts, simplicity, and explanatory power.
+**Design thinking** puts empathy first and structures the work as a double diamond: discover the problem, then develop the solution [@plattnerDesignThinking2009; @designcouncilDesignProcessWhat2015]. That is exactly right, and it starts one diamond too late. It assumes you know whom you are designing for, and the choosing is left to intuition or to whoever commissioned the project.
 
-## Confirmatory Experiments for Validation
+**Outcome-driven innovation** holds that customers can tell you what they are trying to get done, if you ask about outcomes rather than features [@ulwickWhatCustomersWant2005]. Where people can name what they want, that works, and it is faster than anything here. This book is built for the case where they cannot, because the need has been normalized into the shape of an ordinary Tuesday.
 
-Once a hypothesis is formulated, the next step is validation through confirmatory experiments. This traditional aspect of the scientific method tests the hypothesized solutions against real-world scenarios, ensuring they are viable, effective, and truly meet customer needs.
+**Blue ocean strategy** looks for uncontested space and value innovation [@kimBlueOceanStrategy2005]. The instinct matches this book's economics. The difference is altitude: that argument is made about markets and industries, while this one is made about the specific people a market has walked past.
 
-## The Journey from Uncertainty to Market Success
+**Effectuation** is the real opposite, and it deserves to be met squarely. It says expert entrepreneurs start from the means at hand, take what loss they can afford, and let goals emerge from who commits [@sarasvathyCausationEffectuationTheoretical2001]. That describes a great deal of actual venture creation, and it is not wrong. The expedition simply chooses where the emergence happens. You still begin with means, because access is a means and it is what Diamond 1 tests. What you refuse to let emerge by accident is the *pain*, because that is the one thing that cannot be fixed later by effort.
 
-Expeditionary innovation transforms the journey of innovation from a gamble in the dark to a guided exploration of unmet needs. By starting with a deep understanding of people and their problems, this approach aligns innovations with actual market needs. Innovations developed through this process are more likely to succeed as they are rooted in real-world problems and crafted to meet specific customer demands.
+And a finding worth knowing, since it is about method rather than for it: entrepreneurs trained to treat their beliefs as theories to be tested make better decisions, pivot more precisely, and abandon bad ideas earlier than entrepreneurs who are not [@camuffoScientificApproachEntrepreneurial2020]. The discipline is not free, and it pays.
 
-## Final Thoughts
+**The thing this book adds is the first diamond.** The others begin where you already know whom you are serving. That assumption is the one that fails quietly, because a method that works perfectly on the wrong people returns confident answers the whole way down.
 
-Expeditionary innovation offers a robust, systematic approach to innovation. By steering clear of the solution-first trap and focusing on discovering and solving real customer problems, innovators can significantly enhance their chances of success. The triple diamond, coupled with exploratory experiments, abduction, and confirmatory experiments, provides a comprehensive roadmap for navigating the complexities of innovation in uncertain environments. This process leads to solutions that not only solve real problems but also resonate deeply with customers, ensuring both satisfaction and market success.
+## What This Method Will Not Do
+
+It will not tell you whether the business is worth building. Reaching people, relieving a real pain, and making something they will adopt still says nothing about whether the revenue exceeds the cost. That question has its own methods and its own book: [*Is This Worth Doing?*](https://ea.nilehatch.com/)
+
+It will not make the decision. At some point you will hold good evidence pointing in two directions and have to commit anyway. Weighing evidence and deciding under irreducible uncertainty is the subject of [*Make the Call*](https://mc.nilehatch.com/).
+
+And it will not make you right. It lowers the cost of being wrong and moves the discovery earlier, which is a different and more achievable thing. A validated pain is still a hypothesis that survived; it is not a fact.
+
+## What Will Go Wrong
+
+Four failures, in roughly the order they arrive.
+
+**You will choose a community that is several communities.** The clusters come out thin, two or three notes each from different people, and nothing repeats. Narrow and go back. This is common and it is recoverable from inside.
+
+**You will fall in love with a pain statement.** It will be the one you wrote most fluently. The defense is the discipline of writing down, before you test, what result would make you abandon it. Written in advance that sentence is a test; written afterward it is a rationalization, and from the inside they feel identical [@popperScienceFalsification1963].
+
+**You will hear agreement and count it as evidence.** People are kind. The cure is to require a specific incident, a ranking, and a behavior, and to treat the third as the one that matters.
+
+**You will want to build.** This is the strongest of the four and it does not weaken with experience. The whole structure of this method is a set of reasons to wait that are cheaper than waiting would otherwise be.
+
+## Why There Is Always Another Expedition
+
+Markets converge on the average customer. That is not a failure of anyone's attention; it is what a working market does, and it means neglect is produced continuously and predictably at the edges [@waldfogelTyrannyMarketWhy2009]. Whatever you found this time, the supply of unmet need is not running out.
+
+Which has a consequence worth sitting with. The people you serve by working this way are usually people who have been making do, quietly, for a long time, and who assumed that was simply how things were. Relieving that is good business, and it is also the reason the work is worth doing on a week when it is going badly.
+
+So run it again. You have the method now, and the second expedition is faster than the first: you know what a real pain statement looks like, you know what an easy yes sounds like, and you have a refrigerator full of leads you already understand.
+
+Start where you always start. Not with what you could build. With whose Tuesday is harder than it needs to be.
