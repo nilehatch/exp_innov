@@ -141,31 +141,53 @@ The Wizard of Oz Test is a powerful tool in the early stages of product developm
 
 ### Smoke Testing {#sec-smoke-test}
 
-Smoke Testing is a critical step in the validation process that provides valuable insights from actual customers. Unlike previous tests that rely on potential customer feedback, smoke testing focuses on real customer behavior, offering a more accurate picture of market reception.
+Every test so far has had the same flaw, and it is worth naming before the remedy. You recruited the people. You found them, you asked them, and they answered knowing they were helping you. They are *potential* customers, and they are your customers only to the degree that your sampling was right. Some of them were never going to buy from anyone, and they have been politely leading you astray.
 
-This method employs a "looks-like" prototype, which customers encounter online as if it were a finished product. The goal is to observe and analyze real customer interactions, providing insights that potential customer feedback alone cannot offer.
+Smoke testing removes the recruiting. You put a convincing prototype in front of people who were **already looking for a solution** and had no idea you existed, then watch what they do. Their behavior is genuine because they have every reason to believe your solution is there to help them.
 
-#### Implementing Smoke Testing {.unnumbered}
+Prospectors in the old West took their nuggets to an assay office to be certified as genuine. In innovation, customers are the only assayers there are, and this is the test that takes your ore to them.
 
-1.  **Creating a Convincing Prototype**: Develop a prototype that convincingly represents the final product. This prototype should be polished enough to pass as a market-ready solution.
+#### The Landing Page Is an Experiment, Not a Brochure {#sec-smoke-experiment}
 
-2.  **Building a Landing Page**: Design a landing page that mirrors a real product page. This page should be crafted to test hypotheses about customer preferences, including their likelihood of purchasing.
+This is the part that goes wrong most often, and it goes wrong quietly because the output looks like success either way.
 
-3.  **Setting Up Conversion Tracking**: Implement tools to track customer interactions and conversions on the landing page. This data will provide insights into customer behavior and preferences.
+A brochure asks *do you like it?* and the answer is almost always some form of yes. An experiment asks a question whose answer could be **no**, and whose answer changes what you do next. Both produce a page with a headline and a button. Only one of them teaches you anything.
 
-4.  **Running Targeted Ads**: Use platforms like Facebook to run an advertising campaign aimed at your target customer segment. The ads should direct potential customers to the landing page.
+So design the page the way you designed every other experiment in this book: decide what you are asking, decide what result would change your mind, and only then build the thing that asks it. What varies on the page is the instrument.
 
-5.  **Analyzing Customer Behavior**: Utilize web analytics to study customer interactions with your ads and the landing page. Pay close attention to click patterns, browsing behavior, and conversion rates.
+**One page, one question.** The default and usually the right choice. Does anyone want this at all? Set your conversion threshold before you launch, not after you see the number.
 
-#### Challenges and Considerations {.unnumbered}
+**Two hooks, one offer.** Same solution, two headlines framing two different pains. Which one converts tells you which pain is live. That is a Diamond 2 finding arriving through a Diamond 3 instrument, and it is often the most valuable thing a smoke test returns.
 
--   **Prototype Convincingness**: The prototype must be credible enough for customers to believe in its functionality, or they may disengage.
+**Two value propositions, one pain.** Same difficulty, different promises about how you relieve it.
 
--   **Relevance of Online Presence**: Smoke testing is more effective for products where customers typically seek solutions online. It may not be as informative for products traditionally discovered through other channels, like medical devices.
+**A feature list you measure.** Put the features on the page and watch which ones draw attention and clicks. This is the [\$100 test](#sec-100-test) run passively, on strangers, without asking anyone anything.
 
--   **Evolving Nature of the Test**: The specifics of smoke testing, particularly in digital marketing and analytics, are constantly evolving. Staying updated with current best practices is crucial for effective testing.
+**Different segments, matched pages.** Point ads at two or three different slices of your community and see which converts. This one tests something no other instrument here can reach: it tells you *who your people are*. If the night-shift slice converts at triple the rate of the general one, you have just drawn a boundary with behavior instead of with interview quotes. Take it back to [From Community to People](toolkit/Pain_Guides.qmd#sec-boundary).
 
-Smoke testing is a powerful tool for gaining in-depth insights into customer preferences and behaviors. It bridges the gap between hypothetical customer feedback and real market reactions, making it an indispensable part of the solution validation process. However, its success hinges on the quality of the prototype, the effectiveness of the landing page and advertising campaign, and the correct interpretation of analytics data.
+::: {.limit}
+**How much traffic a comparison needs**
+
+Two variants split your traffic in half and you need enough conversions in *each* arm for a difference to mean anything. Most first smoke tests do not have that, and a split test on thin traffic returns noise wearing the costume of a finding.
+
+If your budget is small, run one question at a time and run it properly. Sequential beats simultaneous when traffic is scarce, and a clear answer to one question beats an ambiguous answer to three.
+:::
+
+#### Where It Does Not Work {#sec-smoke-limits}
+
+Smoke testing depends on customers searching for solutions online, and not all of them do. Medical professionals do not browse the web for new devices; they meet them at conferences or through sales agents who visit. Many business-to-business buyers will never encounter you through a search. Where the buying journey does not pass through a search box, a smoke test tells you about the internet rather than about your customer.
+
+It also depends on the prototype being convincing. If it does not read as a real solution, people leave, and you cannot tell that from people leaving because the solution is wrong. Those two failures produce the same number.
+
+::: {.trap}
+**Selling something you cannot ship**
+
+If your call to action invites a purchase and you are not ready to fulfil one, you owe the visitor the truth on the next page: you are refining the product, and they will be first in line. Then honour it.
+
+This is not only ethics, though it is that. A smoke test run dishonestly poisons the only channel where these people were willing to find you, and they are the most valuable respondents you will ever have — they arrived looking.
+:::
+
+The procedure, including what a landing page has to contain and what to count, is in [Solution Guides](toolkit/Solution_Guides.qmd#sec-smoke-guide).
 
 ### Profit Analytics Testing {#sec-profit-test}
 

@@ -8,12 +8,12 @@ These are the steps behind [Build and Test Solutions](../Build_Solutions_part.qm
 |---|---|
 | [Diverge — Generate Many Solutions](#sec-solution-diverge) | [Fill the Catalog](#sec-catalog) · [Generate](#sec-generate) · [Recombine](#sec-recombine) |
 | [Converge — Narrow to One](#sec-solution-converge) | Feasibility filter · dot voting · screening matrix · SIT |
-| [Test — Test Before You Build](#sec-solution-test) | The seven tests, and which question each one asks |
+| [Test — Test Before You Build](#sec-solution-test) | The seven tests and what each asks · [Running a Smoke Test](#sec-smoke-guide) |
 
 ::: {.limit}
 **This page is still being written**
 
-Unlike the other two diamonds, Diamond 3 never had guides: its methods were written into the chapters and stayed there. So these pages are being **extracted from** the chapters rather than written beside them, and the extraction is partway done. Divergence is complete here, SIT included. Convergence and testing name every method and what each one asks, and the chapters still carry them in full. Follow the links. [The Method Layer](../method-layer.qmd) stops at the end of Diamond 2.
+Unlike the other two diamonds, Diamond 3 never had guides: its methods were written into the chapters and stayed there. So these pages are being **extracted from** the chapters rather than written beside them, and the extraction is partway done. Divergence is complete here, SIT included, and smoke testing has its procedure. Convergence and the other six tests name every method and what each one asks, and the chapters still carry them in full. Follow the links. [The Method Layer](../method-layer.qmd) stops at the end of Diamond 2.
 
 Everything on this page concerns solutions you have not built yet. Nothing here asks a customer to commit, and nothing here decides whether the venture is worth doing — that question belongs to [*Is This Worth Doing?*](https://ea.nilehatch.com/) and the decision itself to [*Make the Call*](https://mc.nilehatch.com/).
 :::
@@ -126,5 +126,53 @@ Seven tests. The first distinction to hold on to is what each one asks: **valida
 | [Profit analytics](../Test_Solution.qmd#sec-profit-test) | At what they would pay, does this earn more than it costs? |
 
 **Wizard of Oz is not only a test.** It is also an *input* to several of the others, because it is how you put a solution concept in front of someone convincingly enough that their reaction means something. Reach for it whenever a test needs the customer to experience the solution rather than imagine it.
+
+#### Running a Smoke Test {#sec-smoke-guide}
+
+Five steps. The chapter carries why it works and what it cannot reach; this is what to build.
+
+**1. A prototype convincing enough to be believed.** Looks-like and works-like far enough that a visitor treats it as a real offer. If it reads as a mock-up they leave, and that is indistinguishable in your numbers from leaving because they do not want it.
+
+**2. A landing page that asks your question.** Decide the question first. The anatomy below is what the page needs regardless of which question it asks.
+
+**3. A way to count.** Whatever analytics your site builder offers is enough. What matters is not the tool but that you can count arrivals, scroll depth, clicks on the call to action, and completions — and that you verify it records a test conversion of your own before you spend anything on traffic.
+
+**4. Traffic.** Two kinds of channel, and the distinction outlasts whichever platforms are current. **Search** reaches *intent*: people already looking for a solution, which is the population this test exists to reach. **Social and display** reach *demographics*: people who match a profile but were not looking. Prefer intent when you can buy it. If you use social, remember you have partly re-created the recruiting problem the test was meant to remove.
+
+**5. Analysis against a threshold you set first.** Write the number that would count as a pass before the first visitor arrives.
+
+##### What a landing page contains {.unnumbered}
+
+**Above the fold**, where visitors land before scrolling, and often all they see:
+
+| element | job |
+|---|---|
+| **Headline** | The benefit, in a few words. Sell the relief, not the product. |
+| **Subheader** | Reinforce the headline and clarify the offer. |
+| **Offer** | One vivid image or short video showing the life improvement. |
+| **Call to action** | The thing you want them to do, and the thing you are measuring. |
+
+**Below it**, in order:
+
+- **Value proposition.** The pain, the relief, and why yours rather than another. Listing features or competing propositions here is what lets you measure which ones draw attention.
+- **Trust elements.** Honest ones only, and as a new venture you will not have all of them: experience, testimonials, who you are and why you care, what you guarantee, what you promise. Promise nothing you cannot keep.
+- **A second call to action**, plus a way to capture contact details. That list is your next round of validation respondents, and they volunteered.
+
+##### Things that hold regardless of platform {.unnumbered}
+
+- One topic per page. A page asking two questions answers neither.
+- The call to action goes above the fold.
+- The value has to land in about ten seconds.
+- Directional cues — an arrow, a gaze, an image pointing — move attention where you want it.
+- Be succinct. Every extra paragraph is a chance to leave.
+- Design for the conversion you are counting, not for how the page looks to you.
+
+::: {.limit}
+**Why this guide names no tools**
+
+An earlier version of this material specified site builders, analytics packages, and a click-by-click advertising setup. Nearly all of it was wrong within a year: the menus moved, the products were renamed, the support links died. Nothing here is worth learning from a book that cannot be updated as fast as the interface changes.
+
+What does not move is the structure: intent traffic beats demographic traffic, the page asks one question, the threshold is set before the test, and the conversion is verified before you pay for a visitor. Use whichever builder and analytics you like; check the vendor's own current documentation for the buttons.
+:::
 
 **Profit analytics is deliberately partial here.** The chapter introduces what the test does and when it belongs, then hands off: estimating a demand curve and computing expected profit properly is a book's worth of method, and that book is [*Is This Worth Doing?*](https://ea.nilehatch.com/). The overlap is intentional. A reader should leave knowing the test exists and why it comes last, and should not try to run it from what is written here.
