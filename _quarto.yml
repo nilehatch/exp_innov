@@ -75,25 +75,11 @@ book:
         # both its credibility and its discouragement.
         - demo/halo-alert-at-a-glance.qmd
         - demo/halo-alert-d1-choose.qmd
-        - demo/_diamond2-separator.qmd
-        - demo/Conversation_Guide_ha.qmd
-        - demo/exp-04.a-conversation-sarah-thompson-2025-02-24.qmd
-        - demo/exp-04.a-results-full-transcript-2025-02-24.qmd
-        - demo/exp-04.b-conversation-emily-rivera-2025-02-25.qmd
-        - demo/exp-04.b-results-full-transcript-2025-02-25.qmd
-        - demo/exp-05.a-observation-2025-03-05.qmd
-        - demo/exp-05.b-observation-2025-03-06.qmd
-        - demo/exp-05.c-observation-2025-03-08.qmd
-        - demo/exp-06-cluster-themes-2025-03-12.qmd
-        - demo/exp-07.a-persona-2025-03-12.qmd
-        - demo/exp-07.b-persona-2025-03-12.qmd
-        - demo/exp-07.c-persona-2025-03-12.qmd
-        - demo/exp-08-experience-map-2025-03-14.qmd
-        - demo/exp-09-hypothesize-pain-2025-03-16.qmd
-        - demo/exp-10.a-pain-test-summary-2025-03-20.qmd
-        - demo/exp-10.b-pain-validation-detail-2025-03-20.qmd
-        - demo/exp-10.c-ouch-factor-detail-2025-03-20.qmd
-        - demo/exp-10.d-wtp-detail-2025-03-20.qmd
+        - demo/halo-alert-d2-explore.qmd
+        - demo/halo-alert-transcript-sarah.qmd
+        - demo/halo-alert-transcript-emily.qmd
+        - demo/halo-alert-d2-converge.qmd
+        - demo/halo-alert-d2-validate.qmd
         - demo/_diamond3-separator.qmd
 
     - references.qmd

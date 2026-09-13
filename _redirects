@@ -7,56 +7,78 @@
 # Netlify reads this file from the root of the publish directory. It gets there
 # because _quarto.yml declares it under project.resources.
 
-/toolkit/People_Diverge_Guide.html      /toolkit/Community_Guides.html#sec-community-diverge      301
-/toolkit/People_Converge_Guide.html     /toolkit/Community_Guides.html#sec-community-converge     301
-/toolkit/People_Test_Guide.html         /toolkit/Community_Guides.html#sec-community-test         301
+/toolkit/People_Diverge_Guide.html                   /toolkit/Community_Guides.html#sec-community-diverge   301
+/toolkit/People_Converge_Guide.html                  /toolkit/Community_Guides.html#sec-community-converge  301
+/toolkit/People_Test_Guide.html                      /toolkit/Community_Guides.html#sec-community-test      301
 
-/toolkit/Conversation_Guide.html        /toolkit/Pain_Guides.html#sec-conversation          301
-/toolkit/Observation_Guide.html         /toolkit/Pain_Guides.html#sec-observation           301
-/toolkit/Role_Play_Guide.html           /toolkit/Pain_Guides.html#sec-role-play             301
-/toolkit/Secondary_Research_Guide.html  /toolkit/Pain_Guides.html#sec-secondary-research    301
-/toolkit/Survey_Guide.html              /toolkit/Pain_Guides.html#sec-survey                301
-/toolkit/Clustering_Guide.html          /toolkit/Pain_Guides.html#sec-clustering            301
-/toolkit/Persona_Guide.html             /toolkit/Pain_Guides.html#sec-persona               301
-/toolkit/Experience_Map_Guide.html      /toolkit/Pain_Guides.html#sec-experience-map        301
-/toolkit/Abduction_Guide.html           /toolkit/Pain_Guides.html#sec-abduction             301
-/toolkit/Prioritize_Pain_Guide.html     /toolkit/Pain_Guides.html#sec-prioritize            301
-/toolkit/Test_Pain_Guide.html           /toolkit/Pain_Guides.html#sec-pain-testing          301
+/toolkit/Conversation_Guide.html                     /toolkit/Pain_Guides.html#sec-conversation             301
+/toolkit/Observation_Guide.html                      /toolkit/Pain_Guides.html#sec-observation              301
+/toolkit/Role_Play_Guide.html                        /toolkit/Pain_Guides.html#sec-role-play                301
+/toolkit/Secondary_Research_Guide.html               /toolkit/Pain_Guides.html#sec-secondary-research       301
+/toolkit/Survey_Guide.html                           /toolkit/Pain_Guides.html#sec-survey                   301
+/toolkit/Clustering_Guide.html                       /toolkit/Pain_Guides.html#sec-clustering               301
+/toolkit/Persona_Guide.html                          /toolkit/Pain_Guides.html#sec-persona                  301
+/toolkit/Experience_Map_Guide.html                   /toolkit/Pain_Guides.html#sec-experience-map           301
+/toolkit/Abduction_Guide.html                        /toolkit/Pain_Guides.html#sec-abduction                301
+/toolkit/Prioritize_Pain_Guide.html                  /toolkit/Pain_Guides.html#sec-prioritize               301
+/toolkit/Test_Pain_Guide.html                        /toolkit/Pain_Guides.html#sec-pain-testing             301
 
 # The experiment templates and log tracker are retired rather than moved. They
 # were course infrastructure for a shared Drive folder, had zero inbound links
 # from any chapter or demo, and their procedure is now in the method layer.
-/toolkit/Primary_Experiment_Template.html    /toolkit/Experimentation_Toolkit.html  301
-/toolkit/Supporting_Experiment_Template.html /toolkit/Experimentation_Toolkit.html  301
-/toolkit/Experiment_Log_Tracker.html         /toolkit/Experimentation_Toolkit.html  301
+/toolkit/Primary_Experiment_Template.html            /toolkit/Experimentation_Toolkit.html                  301
+/toolkit/Supporting_Experiment_Template.html         /toolkit/Experimentation_Toolkit.html                  301
+/toolkit/Experiment_Log_Tracker.html                 /toolkit/Experimentation_Toolkit.html                  301
 
 # Sub-part separators.
-/toolkit/_people_guides_separator.html        /toolkit/Community_Guides.html         301
-/toolkit/_pain_guides_separator.html          /toolkit/Pain_Guides.html              301
-/toolkit/_solution_guides_separator.html      /toolkit/Solution_Guides.html          301
-/toolkit/_experiment_templates_separator.html /toolkit/Experimentation_Toolkit.html  301
+/toolkit/_people_guides_separator.html               /toolkit/Community_Guides.html                         301
+/toolkit/_pain_guides_separator.html                 /toolkit/Pain_Guides.html                              301
+/toolkit/_solution_guides_separator.html             /toolkit/Solution_Guides.html                          301
+/toolkit/_experiment_templates_separator.html        /toolkit/Experimentation_Toolkit.html                  301
 
 # People Guides was live for about an hour on 11 Sep before being renamed to
 # Community Guides: Diamond 1 chooses a community to search, and "your people"
 # are not defined until the pain is validated. Kept in case the URL escaped.
-/toolkit/People_Guides.html             /toolkit/Community_Guides.html          301
+/toolkit/People_Guides.html                          /toolkit/Community_Guides.html                         301
 
 # Diamond 1 filenames predated the reframe: both said "People" while both are
 # about choosing a community to search. Renamed 11 Sep 2026.
-/Choose_People_part.html                /Choose_Community_part.html            301
-/Choose_People.html                     /Commit_Community.html                 301
+/Choose_People_part.html                             /Choose_Community_part.html                            301
+/Choose_People.html                                  /Commit_Community.html                                 301
 
 # The Halo Alert experience map was split across a narrative view and a grid
 # view of the same journey. Merged 13 Sep 2026.
-/demo/exp-08.a-experience-map-2025-03-14.html  /demo/exp-08-experience-map-2025-03-14.html  301
-/demo/exp-08.b-experience-map-2025-03-14.html  /demo/exp-08-experience-map-2025-03-14.html  301
+/demo/exp-08.a-experience-map-2025-03-14.html        /demo/halo-alert-d2-converge.html#sec-ha-expmap            301
+/demo/exp-08.b-experience-map-2025-03-14.html        /demo/halo-alert-d2-converge.html#sec-ha-expmap            301
 
 # Halo Alert demo consolidated by diamond, 13 Sep 2026: the stage files were
 # fragments of one record and the separators were faking a structure the book
 # already teaches.
-/demo/exp-01-diverge-people-2025-02-19.html  /demo/halo-alert-d1-choose.html#sec-ha-d1-diverge       301
-/demo/exp-01.b-bias-check.html               /demo/halo-alert-d1-choose.html#sec-ha-d1-bias         301
-/demo/exp-01.c-draft-access-notes.html       /demo/halo-alert-d1-choose.html#sec-ha-d1-access-notes 301
-/demo/exp-02-converge-worksheet.html         /demo/halo-alert-d1-choose.html#sec-ha-d1-converge     301
-/demo/exp-03-access-test.html                /demo/halo-alert-d1-choose.html#sec-ha-d1-test         301
-/demo/_diamond1-separator.html               /demo/halo-alert-d1-choose.html                        301
+/demo/exp-01-diverge-people-2025-02-19.html          /demo/halo-alert-d1-choose.html#sec-ha-d1-diverge      301
+/demo/exp-01.b-bias-check.html                       /demo/halo-alert-d1-choose.html#sec-ha-d1-bias         301
+/demo/exp-01.c-draft-access-notes.html               /demo/halo-alert-d1-choose.html#sec-ha-d1-access-notes 301
+/demo/exp-02-converge-worksheet.html                 /demo/halo-alert-d1-choose.html#sec-ha-d1-converge     301
+/demo/exp-03-access-test.html                        /demo/halo-alert-d1-choose.html#sec-ha-d1-test         301
+/demo/_diamond1-separator.html                       /demo/halo-alert-d1-choose.html                        301
+
+# Diamond 2 demo files, consolidated 13 Sep 2026.
+/demo/exp-04.a-conversation-sarah-thompson-2025-02-24.html /demo/halo-alert-d2-explore.html#sec-ha-conv-sarah     301
+/demo/exp-04.b-conversation-emily-rivera-2025-02-25.html /demo/halo-alert-d2-explore.html#sec-ha-conv-emily     301
+/demo/exp-04.a-results-full-transcript-2025-02-24.html /demo/halo-alert-transcript-sarah.html                 301
+/demo/exp-04.b-results-full-transcript-2025-02-25.html /demo/halo-alert-transcript-emily.html                 301
+/demo/exp-04.c-sample-intercept-screener.html        /demo/halo-alert-d2-explore.html#sec-ha-screener       301
+/demo/Conversation_Guide_ha.html                     /demo/halo-alert-d2-explore.html#sec-ha-conv-guide     301
+/demo/exp-05.a-observation-2025-03-05.html           /demo/halo-alert-d2-explore.html#sec-ha-obs-morning    301
+/demo/exp-05.b-observation-2025-03-06.html           /demo/halo-alert-d2-explore.html#sec-ha-obs-evening    301
+/demo/exp-05.c-observation-2025-03-08.html           /demo/halo-alert-d2-explore.html#sec-ha-obs-campus     301
+/demo/exp-06-cluster-themes-2025-03-12.html          /demo/halo-alert-d2-converge.html#sec-ha-cluster       301
+/demo/exp-07.a-persona-2025-03-12.html               /demo/halo-alert-d2-converge.html#sec-ha-persona-maya  301
+/demo/exp-07.b-persona-2025-03-12.html               /demo/halo-alert-d2-converge.html#sec-ha-persona-b     301
+/demo/exp-07.c-persona-2025-03-12.html               /demo/halo-alert-d2-converge.html#sec-ha-persona-c     301
+/demo/halo-alert-d2-converge.html#sec-ha-expmap          /demo/halo-alert-d2-converge.html#sec-ha-expmap        301
+/demo/exp-09-hypothesize-pain-2025-03-16.html        /demo/halo-alert-d2-converge.html#sec-ha-abduction     301
+/demo/exp-10.a-pain-test-summary-2025-03-20.html     /demo/halo-alert-d2-validate.html#sec-ha-test-summary  301
+/demo/exp-10.b-pain-validation-detail-2025-03-20.html /demo/halo-alert-d2-validate.html#sec-ha-test-validation 301
+/demo/exp-10.c-ouch-factor-detail-2025-03-20.html    /demo/halo-alert-d2-validate.html#sec-ha-test-ouch     301
+/demo/exp-10.d-wtp-detail-2025-03-20.html            /demo/halo-alert-d2-validate.html#sec-ha-test-wtp      301
+/demo/_diamond2-separator.html                       /demo/halo-alert-d2-explore.html                       301

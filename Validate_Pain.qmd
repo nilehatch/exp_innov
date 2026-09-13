@@ -107,7 +107,7 @@ Here is my pain hypothesis and the segment it applies to. Draft a ten-minute int
 :::
 
 ::: {.see-demo}
-The [Halo Alert pain test](demo/exp-10.a-pain-test-summary-2025-03-20.qmd) shows all three probes run against one hypothesis, with the [validation detail](demo/exp-10.b-pain-validation-detail-2025-03-20.qmd), the [ouch scores](demo/exp-10.c-ouch-factor-detail-2025-03-20.qmd), and the [willingness-to-pay responses](demo/exp-10.d-wtp-detail-2025-03-20.qmd) recorded separately so you can see how they disagreed.
+The [Halo Alert pain test](demo/halo-alert-d2-validate.qmd#sec-ha-test-summary) shows all three probes run against one hypothesis, with the [validation detail](demo/halo-alert-d2-validate.qmd#sec-ha-test-validation), the [ouch scores](demo/halo-alert-d2-validate.qmd#sec-ha-test-ouch), and the [willingness-to-pay responses](demo/halo-alert-d2-validate.qmd#sec-ha-test-wtp) recorded separately so you can see how they disagreed.
 :::
 
 ## Reading the Signals Together

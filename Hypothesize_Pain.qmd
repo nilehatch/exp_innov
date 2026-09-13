@@ -96,7 +96,7 @@ Two ways forward, and both are narrowing rather than starting over.
 What you should not do is promote a single observation into a theme because it is interesting. A singleton is a *lead*, not a finding. The move is to go looking for it deliberately: put it into your next few conversations and see whether it recurs. If it does, you have a theme and you found it on purpose. If it does not, refrigerate it. Nobody builds a persona on one person.
 
 ::: {.see-demo}
-In the [Halo Alert demo of clustering into themes](demo/exp-06-cluster-themes-2025-03-12.qmd), dozens of raw quotes and notes from interviews are clustered into themes about safety during evening commutes. Watch the noise of scattered observations turn into patterns you can work with.
+In the [Halo Alert demo of clustering into themes](demo/halo-alert-d2-converge.qmd#sec-ha-cluster), dozens of raw quotes and notes from interviews are clustered into themes about safety during evening commutes. Watch the noise of scattered observations turn into patterns you can work with.
 :::
 
 ### Developing Personas {#sec-persona-section}
@@ -130,7 +130,7 @@ The prompt asked your AI to mark every line *evidenced* or *inferred*, so you do
 :::
 
 ::: {.see-demo}
-The [Halo Alert demo of developing personas](demo/exp-07.a-persona-2025-03-12.qmd) shows how themes become a vivid persona, Maya Patel. Maya is an archetypal composite built from more than a hundred conversations with professional women who walk as part of their commute.
+The [Halo Alert demo of developing personas](demo/halo-alert-d2-converge.qmd#sec-ha-persona-maya) shows how themes become a vivid persona, Maya Patel. Maya is an archetypal composite built from more than a hundred conversations with professional women who walk as part of their commute.
 :::
 
 ### Experience Mapping {#sec-experience-map-section}
@@ -171,7 +171,7 @@ Take this persona and this specific goal, and build an experience map from my ob
 :::
 
 ::: {.see-demo}
-In the [Halo Alert demo of experience mapping](demo/exp-08-experience-map-2025-03-14.qmd), Maya's journey home is mapped stage by stage. The map shows where her anxiety spikes and how her family becomes drawn into the stress, surfacing several candidate pains at once.
+In the [Halo Alert demo of experience mapping](demo/halo-alert-d2-converge.qmd#sec-ha-expmap), Maya's journey home is mapped stage by stage. The map shows where her anxiety spikes and how her family becomes drawn into the stress, surfacing several candidate pains at once.
 :::
 
 ## What You Are Looking For {#sec-hypothesize-pain-section}
@@ -251,7 +251,7 @@ Working only from these clusters, personas, and maps, generate candidate pain hy
 :::
 
 ::: {.see-demo}
-The [Halo Alert demo of hypothesizing pain](demo/exp-09-hypothesize-pain-2025-03-16.qmd) takes candidate pains through abductive reasoning, drafting and comparing and refining until one stands out as most urgent and testable.
+The [Halo Alert demo of hypothesizing pain](demo/halo-alert-d2-converge.qmd#sec-ha-abduction) takes candidate pains through abductive reasoning, drafting and comparing and refining until one stands out as most urgent and testable.
 :::
 
 ## Choose One, and Keep the Rest Cold

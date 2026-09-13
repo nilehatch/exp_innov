@@ -264,7 +264,7 @@ Designers produce experience maps that are genuinely beautiful, with illustrated
 Yours is an analysis instrument and nobody else has to read it. A spreadsheet or a board frame is the right medium, and time spent styling it is time not spent in the field. If you later need the handsome version for a deck, your AI can produce one from the grid in minutes, which is the correct order: analyze first, decorate last and only if someone asks.
 :::
 
-See the [Halo Alert experience map](../demo/exp-08-experience-map-2025-03-14.qmd) for a filled grid, terse enough to read across seven stages, with the contradictions and next steps that came out of it.
+See the [Halo Alert experience map](../demo/halo-alert-d2-converge.qmd#sec-ha-expmap) for a filled grid, terse enough to read across seven stages, with the contradictions and next steps that came out of it.
 
 ### Abduction {#sec-abduction}
 

@@ -1,3 +1,0 @@
-# ── 2. Customer Pain ── {#sec-demo-pain-separator .unnumbered}
-
-#### Demonstration of finding and validating pain for Halo Alert {.subtitle}

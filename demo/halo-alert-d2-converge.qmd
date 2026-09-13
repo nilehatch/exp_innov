@@ -1,0 +1,681 @@
+# Diamond 2 — Making Sense of What They Gathered {#sec-ha-d2-converge .unnumbered}
+
+#### Clustering, personas, the experience map, and the leap to a pain hypothesis {.subtitle}
+
+*12 to 16 March.* Four days, and the only stretch of the whole expedition with nobody in the room. The material was already in hand; the work was reading it.
+
+Chapter: [Hypothesize Customer Pain](../Hypothesize_Pain.qmd). Guides: [Clustering](../toolkit/Pain_Guides.qmd#sec-clustering) through [Abduction](../toolkit/Pain_Guides.qmd#sec-abduction).
+
+## Clustering into Themes {#sec-ha-cluster}
+
+*12 March.*
+
+### Overview {.unnumbered}
+
+In this demo, we take the mountain of raw data from [conversations](halo-alert-transcript-sarah.qmd) and [observations](halo-alert-d2-explore.qmd#sec-ha-obs-morning) and cluster it into themes.  
+
+We demonstrate how we used a **Google Sheet** (one observation per row) imported into a **Miro board** for sticky clustering. It pairs with the Toolkit: [Clustering Guide](../toolkit/Pain_Guides.qmd#sec-clustering).
+
+The goal is to see what frictions, routines, and emotional cues repeat often enough to point toward **hypotheses of pain**.
+
+> **Outputs you’ll see here**  
+> – Screenshots of the clustering wall (before/after)  
+> – The theme labels we settled on  
+> – Narrative explanations for each cluster  
+> – Core vs. edge distinction, so you can see which themes anchor hypotheses and which are “refrigerated” for later surprises  
+
+### Files & Links {.unnumbered}
+
+- **Sample dataset (Google Sheet):** [halo-alert-clustering-sample-sheet](https://docs.google.com/document/d/1bXnXDxHQFHoGwALlyIgDc2imnDhtmuR0NqYVRegRgbc/edit?usp=drive_link)
+  - One observation per row; ready for Miro sticky import.
+- **Miro board (view-only):** [halo-alert-clustering-board](https://miro.com/app/board/uXjVOYyhaPM=/?share_link_id=861713686923) *(optional)*
+
+### 1. Clarify the Unknown
+
+- **Question:** What unmet needs (pains) emerge repeatedly in women’s commuting experiences?
+- **Why clustering now:** We’ve finished exploratory conversations and observations. Novelty is dropping; it’s time to **converge** by turning fragments into patterns.
+
+### 2. Inputs We Clustered
+
+We combined **quotes from interviews** and **notes from observations**. Each was reduced to a *single* movable unit (one per sticky).
+
+**Examples of raw observations (short & concrete):**
+
+- “I text my roommate when I leave campus so she can watch my ETA.”  
+- Avoids shortcut street; takes a longer lit route; arrives 12–15 minutes later.  
+- “Crowded trains make me vigilant; I grip my bag and plan my exit two stops early.”  
+- Keys between fingers; bag positioned tightly under arm.  
+- Family texts: “Ping me when you’re home.” If no ping by 10:30pm, they call.  
+
+> These are examples only. The **full set** is in the sample sheet.
+
+### 3. Method: Miro + Sheet Import
+
+1. **Prepare the Sheet**
+   - Column A = `observation` (one per row).  
+   - Optional columns: `source` (interview/observation), `time`, `context`.
+
+2. **Import into Miro**
+   - In Miro: **Apps → Sticky Note Import** (or **Paste as sticky notes**).
+   - Select Column A; each row becomes a sticky note.
+   - Arrange stickies loosely; don’t categorize yet.
+
+3. **Affinity Map**
+   - Drag stickies into small groups where **similar meaning** emerges.
+   - Start new clusters when a sticky doesn’t fit an existing group.
+   - Keep moving until **repetition** and **coherence** feel strong.
+
+4. **Name Clusters**
+   - Add a short label (2–4 words) above each group.
+   - Write a one-sentence “why this belongs together” note under the label.
+
+> Paper option: write each observation on a sticky note; cluster on a wall; snap photos at each stage.
+
+### 4. Before / After (Screenshots)
+
+**Raw, ungrouped stickies**  
+![Raw scattered stickies before clustering](../images/Conversation_Observation_Notes.png)
+
+**After grouping & naming clusters**  
+![Clusters labeled and arranged](../images/Conversation_Observation_Themes.png)
+
+<!-- 
+::: {.reflect}
+**Reading the wall**
+ We place **stronger signals** (larger clusters, frequent repeats) near the center and **edge cases** toward the periphery. Oddballs that later attracted friends often became new clusters.
+:::
+-->
+
+### 5. Resulting Clusters
+
+After clustering, we sorted themes into **core clusters** (strong repeated signals) and **edge clusters** (smaller, but worth keeping).  
+
+Core = likely to anchor hypotheses.  
+Edge = stored in the “refrigerator” for surprises later.
+
+#### Core Clusters
+
+1. **Reassurance Routines**  
+   - *Inside:* “Text when you leave/arrive,” timed check-ins, live-tracking links.  
+   - *Why it holds:* Shared acts that transfer anxiety from walker to trusted other.  
+   - *Signal:* Frequent; across late-evening and unfamiliar routes.  
+
+2. **Social Spillover**  
+   - *Inside:* Family anxiety, roommate stress, “call me if no ping.”  
+   - *Why it holds:* Pain extends beyond the walker to their network.  
+   - *Signal:* Moderate; strongest after 9:00pm.  
+   - *Note:* Could be treated as a sub-cluster of Reassurance, but distinct enough to stand on its own.  
+
+3. **Route Choice & Environment**  
+   - *Inside:* Choosing lit/busier streets, crossing street to manage spacing, avoiding alleys.  
+   - *Why it holds:* Micro-decisions that trade convenience for predictability and visibility.  
+   - *Signal:* Strong; often co-occurs with Reassurance.  
+
+4. **Crowding & Vigilance**  
+   - *Inside:* Gripping bags, scanning, discomfort in forced closeness.  
+   - *Why it holds:* Overcrowding heightens vigilance and amplifies stress.  
+   - *Signal:* Moderate-high.  
+
+5. **Predictability & Control**  
+   - *Inside:* Frustration at detours, anxiety when late, recalibrating when routine breaks.  
+   - *Why it holds:* Security comes from routine; disruption sparks unease.  
+   - *Signal:* Strong, consistent across sources.  
+
+6. **Body Management & Micro-frictions**  
+   - *Inside:* Footwear discomfort, juggling bags, fatigue, instinctive flinches.  
+   - *Why it holds:* Small bodily frictions accumulate into real stress.  
+   - *Signal:* Smaller, but recurring.  
+
+#### Edge Clusters
+
+7. **Stranger Dynamics**  
+   - *Inside:* Respectful distance, offers of help, ignoring slower commuters.  
+   - *Why it holds:* Social interactions with strangers shape comfort.  
+   - *Signal:* Small, situational.  
+
+8. **Respite (Personal)**  
+   - *Inside:* Podcasts, daydreaming, phone scrolling, headphones as shield.  
+   - *Why it holds:* Solo commuters carve out mini “bubble zones.”  
+   - *Signal:* Individual but common.  
+
+9. **Connection (Social)**  
+   - *Inside:* Chats with friends, shared meals, group laughter.  
+   - *Why it holds:* Commute as social ritual, not just transit.  
+   - *Signal:* Small, but meaningful.  
+
+10. **Street Ecology**  
+   - *Inside:* Vendors, buskers, security staff.  
+   - *Why it holds:* Environmental features that color mood, sometimes add safety.  
+   - *Signal:* Thin cluster, but vivid.  
+
+11. **Conflict/Frustration**  
+   - *Inside:* Heated discussions, blocked paths.  
+   - *Why it holds:* Social friction; not large, but worth noting.  
+   - *Signal:* Tiny; could merge with Connection.  
+
+### 6. What We Learned
+
+- **Patterns, not anecdotes:** Seeing multiple notes echo the same idea makes these clusters reliable.  
+- **Core vs. edge:** Core clusters give us the best candidates for unmet needs. Edge clusters are weaker signals now but may resurface as hidden opportunities later.  
+- **Variety matters:** Conversations gave access to *feelings/thoughts*; observations gave *behaviors/body language*. Together, they balanced the picture.  
+
+### 7. Next Steps
+
+1. Draft **one persona per major core cluster** (unless one persona naturally spans multiple).  
+2. Build **experience maps** for each persona’s key activities.  
+3. Highlight emotional peaks and valleys to surface **candidate pains**.  
+4. Keep edge clusters visible — don’t lead with them, but don’t throw them away.  
+
+::: {.key-action}
+**The refrigerator rule**
+
+Edge clusters are like leftovers: not dinner tonight, but they keep well. Store them in your “refrigerator” so you can revisit when surprises appear in testing or solution design.  
+:::
+
+### Traceability
+
+- **Toolkit links:**  
+  - [Guide — Clustering into Themes](../toolkit/Pain_Guides.qmd#sec-clustering)  
+  - [Guide — Developing Personas](../toolkit/Pain_Guides.qmd#sec-persona)
+  - [Guide — Experience Mapping](../toolkit/Pain_Guides.qmd#sec-experience-map)
+
+- **Related demos:**  
+  - Conversations: [Exp 04.a — Sarah Thompson (summary)](halo-alert-d2-explore.qmd#sec-ha-conv-sarah)  
+  - Observations: [Exp 05.a — Morning Subway Exit](halo-alert-d2-explore.qmd#sec-ha-obs-morning)
+
+<!-- 
+# Appendix — Import Template (Optional)
+
+If you don’t want to open the sample sheet, here’s the minimal structure that Miro’s sticky importer expects:
+
+`observation,source,time,context` 
+`“I text my roommate when I leave campus so she can watch my ETA.”,“interview”,“22:05”,“university → off-campus”` 
+`“Avoids shortcut; takes lit route; +12–15 minutes.”,“observation”,“21:40”,“two low-traffic blocks”` 
+`“Headphones in, but no music after 9pm.”,“interview”,“21:55”,“earbuds as ‘do-not-engage’ signal”` 
+`“Keys between fingers on low-traffic block.”,“observation”,“22:10”,“one burnt-out streetlight”` 
+`“Family pings if no check-in by 10:30pm.”,“interview”,“22:30”,“shared stress at home”` 
+
+> In Miro: **Paste as stickies** or use **Apps → Sticky Note Import** and select the `observation` column.
+-->
+
+## Personas {#sec-ha-personas}
+
+*12 March.* Three, built from the clusters. Maya carried the strongest signal and is the one the rest of the expedition follows, but the other two are kept because a single persona hides the variation that later draws the boundary.
+
+### Maya Patel {#sec-ha-persona-maya}
+
+### Overview {.unnumbered}
+
+This demo shows how we move from **clustered themes** to a **persona**: a fictional yet evidence-based character that represents the lived experiences of real commuters.  
+Maya Patel embodies recurring pains found in the *Reassurance Routines*, *Route Choice & Environment*, and *Crowding & Vigilance* clusters.  
+
+The purpose of this persona is to **anchor empathy**: it’s easier to reason about “Maya, a 23-year-old graduate student” than about “women who feel unsafe at night.”  
+
+### General Info
+- **Name (fictional):** Maya Patel  
+- **Age:** 27  
+- **Occupation:** Accountant 
+- **Location:** Queens, commuting daily to Manhattan  
+- **Commute Mode:** Subway + 15-minute walk (often after evening classes)  
+- **Household:** Shares an apartment with a roommate (also her safety check-in contact)  
+
+### Snapshot
+![Persona image - Maya Patel](../images/Maya_Patel.jpg)  
+
+**At a glance:**  
+Maya is an ambitious young professional who values efficiency and independence, but commuting forces her into daily trade-offs. Her pains come not from one dramatic event, but from constant low-grade stressors: detours that wreck predictability, vigilance in crowded trains, and the subtle anxiety of poorly lit streets at night. To manage this, she leans on routines like timed texts to her roommate.  
+
+<!--
+### Pains
+- **Functional:** Longer routes, delays, detours break her tight schedule.  
+- **Emotional:** Anxiety spikes at night, in crowds, or when routines are disrupted.  
+- **Social:** Family/roommate stress — they share her safety concerns.  
+- **Physical:** Fatigue from juggling bags, shoes, and long hours in transit.  
+-->
+
+### Goals & Values
+- Wants independence: prefers to handle her commute alone without constant worry.  
+- Values efficiency: likes a predictable routine and minimal wasted time.  
+- Seeks connection: appreciates subtle reassurance from family/friends during late commutes.  
+- Exudes Professionalism: commits concerted effort to arrive composed and ready for work.  
+
+### Day-in-the-Life (Narrative)
+> “I leave class around 9:15. By the time I get to the subway, the streets are quieter. I text my roommate when I head out — she says it helps her too, but honestly, I sometimes feel bad making her worry. On the train, I usually read or listen to podcasts, but if it’s too crowded, I spend the whole ride thinking about how I’ll get off at my stop. When I walk the last stretch home, I keep my keys in my hand and stay under the streetlights, even if it means taking a longer route. It costs me 15 minutes, but I’d rather be late than feel unsafe. It’s not that I expect something bad to happen — it’s just that the possibility is always there.”  
+
+### Why Maya Represents the Cluster Themes
+
+- **Reassurance routines** → nightly texts, system with her roommate.  
+- **Route choice & environment** → avoids shortcuts, stays under streetlights, reroutes after mugging news.  
+- **Crowding & vigilance** → hyper-aware in packed subway cars; grips belongings.  
+
+Maya’s persona gives a **human face** to these themes, making it easier to hypothesize unmet needs around **predictability, reassurance, and emotional safety**.  
+
+### Next Steps
+
+1. Use Maya’s persona to create an **experience map** of her commute (daytime vs. nighttime).  
+2. Identify emotional peaks and valleys in the map (especially late-evening anxiety).  
+3. Draft multiple **pain hypotheses** grounded in her lived experience.  
+4. Carry forward **edge cases** (e.g., footwear discomfort, street musician rituals) as additional color for later tests.  
+
+### Traceability
+
+- **From clusters:**  
+  - Reassurance routines  
+  - Route choice & environment  
+  - Crowding & vigilance  
+
+- **Toolkit links:**  
+  - [Guide — Persona](../toolkit/Pain_Guides.qmd#sec-persona)  
+  - [Guide — Experience Mapping](../toolkit/Pain_Guides.qmd#sec-experience-map) (next step)
+
+- **Related demos:**  
+  - [Clustering Themes](halo-alert-d2-converge.qmd#sec-ha-cluster)  
+  - [Conversation: Emily Rivera (summary)](halo-alert-d2-explore.qmd#sec-ha-conv-emily)    
+  - [Observation: Evening University Campus](halo-alert-d2-explore.qmd#sec-ha-obs-campus)
+
+### Second Persona {#sec-ha-persona-b}
+
+### General Info
+- **Name:** Elena Rodriguez  
+- **Age:** 22  
+- **Role/Context:** College junior, lives off-campus, commutes daily with friends.  
+- **Cluster Anchors:** *Respite (personal)* and *Connection (social)*.  
+- **Why this persona matters:** Elena represents students whose commute feels like a **social ritual** rather than a source of anxiety. Her story shows how *connection* can mask vulnerabilities, and how safety often depends on the presence of others.  
+
+### Snapshot
+![Persona image - Elena Rodriguez](../images/Elena_Rodriguez.jpg)  
+
+<!--
+### Pains
+- **Dependence on group presence:** Feels secure and upbeat when with friends, but uneasy when alone.  
+- **Disrupted rituals:** Small breaks in her routine (a friend absent, a missed meetup) trigger stress disproportionate to the event.  
+- **Overcrowding stress:** Enjoys conversation, but finds physical crowding (packed trains, blocked exits) emotionally draining.  
+- **Invisible reliance:** Hasn’t built strong solo coping mechanisms, leaving her exposed when circumstances shift.  
+-->
+
+### Goals & Values
+- To enjoy commuting as a *buffer* between classes and home.  
+- To maintain connection rituals that make the city feel friendlier.  
+- To avoid feeling like she’s “at risk” when separated from her group.  
+- To preserve spontaneity and joy without sacrificing safety.  
+
+### Day-in-the-Life
+> Elena leaves campus around 6:00 PM most evenings, walking with two roommates toward the subway. This part of the day is her favorite: stories from class, shared jokes, sometimes pausing for food from a street vendor. The bustle feels energizing — the musician at the subway entrance is part of their routine, a familiar marker that signals “day’s done.”
+>
+> When the train is crowded, Elena laughs it off with her friends, but she notices her pulse quicken when they’re separated in the car. Once, when she had to commute alone after a late study session, she found herself clenching her phone and rushing through poorly lit blocks, surprised at how different the same streets felt without company.
+>
+> For Elena, the commute is less about getting from point A to point B and more about the **connection moments** that make the city livable. But those moments also hide a dependence: her sense of security is relational, not internal.  
+
+### Next Steps
+
+- **Feeds into Experience Mapping:** Elena’s map highlights how *companionship lowers vigilance* — and how its absence spikes anxiety.  
+- **Contrast with Maya Patel:** Maya relies on structured *reassurance routines* (texts, check-ins), while Elena leans on *companionship*. Both point to unmet needs in **safety without constant dependence**.  
+
+### Traceability
+
+- **From clusters:**  
+  - Personal respite
+  - Social connection
+
+- **Toolkit links:**  
+  - [Guide — Persona](../toolkit/Pain_Guides.qmd#sec-persona)  
+  - [Guide — Experience Mapping](../toolkit/Pain_Guides.qmd#sec-experience-map) (next step)
+
+- **Related demos:**  
+  - [Clustering Themes](halo-alert-d2-converge.qmd#sec-ha-cluster)  
+  - [Conversation: Emily Rivera (summary)](halo-alert-d2-explore.qmd#sec-ha-conv-emily)    
+  - [Observation: Evening University Campus](halo-alert-d2-explore.qmd#sec-ha-obs-campus)
+
+### Third Persona {#sec-ha-persona-c}
+
+### General Info
+- **Name:** Anika Shah  
+- **Representative Theme(s):** Predictability & Control  
+- **Demographics (only where relevant):**  
+  - Age: 27  
+  - Profession: Junior Associate at a Midtown law firm  
+  - Commute: Lives in Queens, subway to Manhattan daily  
+- **Why this persona:** Built from repeated patterns in commuter interviews/observations where small disruptions, delays, or unfamiliar routes produced disproportionate stress.
+
+### Snapshot
+
+Anika is in her late 20s, early in her legal career, and fiercely committed to punctuality and professionalism. Her commute is tightly integrated into her daily rhythm — the train she catches, the block she walks, even the coffee vendor she greets. When that rhythm breaks, stress spikes. A missed train, a detour down an unfamiliar street, or a rescheduled evening meeting creates not just inconvenience but anxiety about being late, looking unprepared, or losing control of her day.
+
+![Persona image - Anika Shah](../images/Anika_Shah.jpg)  
+
+### Themes & Routines
+- **Timing matters:** Leaves home at 7:45 AM sharp to catch the same train car; later trains feel riskier and less reliable.  
+- **Structured mindset:** Pre-loads podcasts, organizes her bag, and carries backup flats in case her heels slow her down.  
+- **Response to disruption:** Feels tension when delays, detours, or crowding force her to improvise.  
+- **Micro-strategies:** Adjusts platform position, scouts less crowded exits, and recalibrates if she misses a routine marker.  
+
+### Goals & Values
+- **Professional reliability:** Being on time and composed for client meetings and court filings.  
+- **Routine as stability:** Prefers a predictable schedule that reduces mental load.  
+- **Efficiency:** Wants her commute to feel like “buffered time,” not wasted time.  
+- **Personal safety:** Aware of surroundings, especially in the evening, but prioritizes *predictability* over novelty in route choices.  
+
+### Representative Quotes
+
+- “Even small changes can throw me off… I feel like I need to recalibrate my whole day.”  
+- “If I can stay on my routine, I start work calm. If something breaks the routine, I arrive tense.”  
+- “The detour itself isn’t the problem — it’s the not knowing how long it will take.”  
+
+### Day-in-the-Life
+> Anika’s mornings are choreographed. She leaves her apartment at nearly the same time every day, aiming to catch the train that she knows will give her a seat by stop three. She queues at the same platform spot, earbuds ready, coffee finished by the time the train doors open.  Most days the rhythm works, and she uses the train ride to scan briefs or listen to legal podcasts.  
+>
+> When the system works, it feels seamless — the commute doubles as prep time for the day ahead. But on days with a delay, detour, or unexpected reroute, her calm unravels. The uncertainty of “will I be late?” gnaws at her. She texts her supervisor if she thinks she might cut it close, even when she probably won’t. She recalibrates quickly, but the energy cost is real.  
+>
+> In the evenings, when she’s tired, that loss of predictability feels sharper. A delayed train means lost gym time or a rushed dinner. The sense of control — not just the minutes — is what’s at stake.  If a shortcut feels unpredictable, she’ll add ten minutes just to preserve peace of mind.  Her commute is not only transportation — it is her anchor of control. Break the anchor, and the ripple spreads through her entire day.  
+
+### Next Steps
+
+- **Feeds into Experience Mapping:** Anika’s map will spotlight anxiety spikes when timing slips or routes shift.  
+- **Contrast with Maya & Elena:** Unlike Maya (reassurance routines) and Elena (companionship), Anika relies on **predictable systems and personal routines**. Each persona illustrates a different form of control-seeking.  
+
+### Traceability
+
+- **From cluster(s):**  
+  - Predictability and control
+
+- **Toolkit links:**  
+  - [Guide — Persona](../toolkit/Pain_Guides.qmd#sec-persona)  
+  - [Guide — Experience Mapping](../toolkit/Pain_Guides.qmd#sec-experience-map) (next step)
+
+- **Related demos:**  
+  - [Clustering Themes](halo-alert-d2-converge.qmd#sec-ha-cluster)  
+  - [Conversation: Emily Rivera (summary)](halo-alert-d2-explore.qmd#sec-ha-conv-emily)    
+  - [Observation: Evening University Campus](halo-alert-d2-explore.qmd#sec-ha-obs-campus)
+
+### Reflection
+Anika shows how the desire for **predictability** can shape commuting behaviors as much as safety concerns do. Designing for her means asking: *how might reassurance come not from people, but from stability and reliable cues?*
+
+## Experience Map {#sec-ha-expmap}
+
+*14 March.*
+
+### Overview {.unnumbered}
+
+This demo shows how we move from a **persona** (Maya Patel, 27-year-old accountant in Queens) to an **experience map**: a stage-by-stage trace of her evening commute.  
+The map helps us see when Maya’s stress rises, when she finds relief, and how reassurance routines and environmental cues shape her journey.  
+
+The goal is not to list every step but to surface **emotional peaks and valleys** — moments that later become candidate pains for hypothesis generation.
+
+### Journey Context {.unnumbered}
+
+- **Persona:** [Maya Patel](halo-alert-d2-converge.qmd#sec-ha-persona-maya)  
+- **Goal:** Commute home safely and predictably after work or late evening class  
+- **Mode:** Subway + 15-minute walk  
+- **Check-in routine:** Text roommate when leaving / arriving  
+
+### Stages of the Commute
+
+One row per stage, one column per lens. Read a column straight down and you are reading a trend across the whole journey, which is the comparison a stack of stage-by-stage notes hides.
+
+::: {.gridded}
+| Stage | Doing | Thinking | Saying | Feeling |
+|---|---|---|---|---|
+| **1. Leaving the Office / Class** | Packs bag, checks phone for time, sends quick text (“heading out now”). | “I hope I didn’t stay too late; the streets will be quieter now.” | “I’ll text you when I’m on the train.” (to roommate) | Mild apprehension; mentally shifts from work to commute mode. |
+| **2. Walking to the Subway** | Chooses well-lit streets, keeps keys in hand, avoids alleys. | “Better to add 10 minutes than cut through the dark shortcut.” | None (headphones in, but no music). | Alert; small spike in anxiety on quieter blocks. |
+| **3. Entering the Subway Station** | Navigates crowds, scans MetroCard/phone pass, heads to platform. | “I should’ve left earlier; rush hour might still be bad.” | Brief “excuse me” when passing people. | Heightened vigilance; crowd noise and unpredictability increase stress. |
+| **4. In the Subway Car (Crowded Segment)** | Holds bag close, avoids eye contact, plans exit two stops early. | “What if I can’t get out in time?” | None — silence as shield. | Stress spikes; pulse quickens when jostled. |
+| **5. Transfer or Delay** | Reroutes if platform is packed or if train is delayed. | “This will make me late… I hate not knowing how long.” | Might mutter frustration (“Not again”). | Frustration + anxiety; uncertainty is more stressful than the delay itself. |
+| **6. Neighborhood Walk (Final Stretch)** | Walks briskly, stays under streetlights, texts roommate with ETA. | “Almost there. Just two more blocks.” | Sends text: “5 minutes out.” | Anxiety peaks briefly when street is empty; relief grows as she nears her building. |
+| **7. Arrival & Check-In** | Unlocks apartment door, texts roommate “home safe.” | “Glad that’s over.” | “Sorry if I made you worry.” | Relief; stress subsides once inside. |
+:::
+
+Read the *Saying* column down and something appears that no single stage would have shown: it is empty at two stages, and both are the stages where stress is highest. Maya goes quiet exactly when it is worst.
+
+Notice that most cells carry two clauses — the state, then what produced it. *Heightened vigilance; crowd noise and unpredictability increase stress.* The second clause is the one abduction works from, so it is worth the width. That width is why the grid runs this way round rather than the traditional way, with lenses down the side and stages across the top. Seven stage columns only fit when every cell is a phrase, and compressing these cells to phrases would throw away the causes and keep the labels.
+
+### Emotional Peaks & Valleys
+
+- **Peak stress:** Subway crowding + dark neighborhood blocks.  
+- **Moderate stress:** Entering station, reroutes/delays.  
+- **Relief moments:** Texting roommate, approaching home, entering apartment.  
+
+<!-- ![Emotional state of Mayas evening commute](../images/Experience_Map_Emotions_1.png) -->
+
+<!--
+```{r}
+#| label: maya-evening-commute
+#| fig-cap: "Maya's Emotional State during Her Commute (Evening vs. Daytime)"
+#| fig-width: 8
+#| fig-height: 5
+#| warning: false
+
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+
+# Data: emotional state scores (1=very calm, 5=high anxiety)
+stages <- c("Leave work", "Walk to subway", "On the train", "Exit station", "Walk home", "Arrive home")
+
+data <- tibble(
+  stage = factor(stages, levels = stages),
+  Evening = c(-1, -2, -3, -2, -4, 2),
+  Daytime = c( 2,  3,3.5,  3,  3, 4)
+) %>%
+  pivot_longer(cols = c(Evening, Daytime), names_to = "Commute", values_to = "Emotion")
+
+ggplot(data, aes(x = stage, y = Emotion, group = Commute, color = Commute)) +
+  scale_color_manual(values = c("Evening" = "tomato", 
+                                "Daytime" = "steelblue")) +
+  geom_hline(yintercept = 0, linetype = "solid", color = "gray50") +
+  geom_line(size = 1.2) +
+  geom_point(size = 3) +
+  #geom_text(aes(label = Emotion), vjust = -1, size = 4) +   # show values
+  scale_y_continuous(breaks = -5:5, limits = c(-5,5)) + #,                     labels = c("Very Calm","Calm","Neutral","Stressed","Anxious")) +
+  labs(x = "Commute Stage",
+       y = "Emotional State\n (-5 = anxious, +5 = calm)",
+       title = "Maya's Emotional State during Her Commute",
+       subtitle = "Comparing Evening vs. Daytime") +
+  theme_minimal(base_size = 14) +
+  theme(axis.text.x = element_text(angle = 25, hjust = 1))
+```
+-->
+
+<br>
+
+```{r}
+#| label: maya-evening-commute-1
+# #| fig-cap: "Maya's Emotional State during Her Commute"
+#| fig-width: 8
+#| fig-height: 5
+#| message: false
+#| warning: false
+
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+
+# Data: Maya's emotional state during her evening commute
+data_evening <- data.frame(
+  stage = factor(c("Leave work", "Walk to train", "On train", "Exit station", "Walk home", "Arrive home"),
+                 levels = c("Leave work", "Walk to train", "On train", "Exit station", "Walk home", "Arrive home")),
+  Emotion = c(2, 3.5, 3, 3.8, 5, 1.2) # 1 = Very Calm … 5 = Anxious
+)
+
+# Plot: Evening commute only
+ggplot(data_evening, aes(x = stage, y = Emotion, group = 1)) +
+  geom_line(color = "tomato", size = 1.2) +
+  geom_point(shape = 21,  # Shape 21 allows for separate fill and border
+             colour = "tomato", # Border color
+             fill = "white",   # Inner color (creates the "hole" effect)
+             size = 5,         # Overall size of the point
+             stroke = 2) +    # Thickness of the border
+#  geom_point(color = "tomato", size = 5) +
+#  geom_text(aes(label = Emotion), vjust = -1, color = "tomato") +
+#   geom_hline(yintercept = 0, linetype = "dashed", color = "gray60") +
+  scale_y_continuous(
+    breaks = 1:5, limits = c(1, 5),
+    labels = c("Very Calm", "Calm", "Neutral", "Stressed", "Anxious")
+  ) +
+  labs(
+    x = "Commute Stage",
+    y = "Emotional State",
+    title = "Maya's Emotional State during Her Commute",
+    subtitle = "Emotional peaks and valleys across key stages"
+  ) +
+  theme_minimal(base_size = 14) +
+  theme(axis.text.x = element_text(angle = 25, hjust = 1))
+```
+
+### Surprises & Contradictions
+
+- **Social spillover:** Roommate shares the burden of vigilance — safety is a *shared stress*.  
+- **Dual routines:** Headphones in (avoid engagement) vs. no music (stay alert).  
+- **Relief ≠ relaxation:** “Safe arrival” brings relief but also guilt about making others worry.  
+
+### Building the Grid
+
+The grid is a **bridge format**, not the finished artifact. Three ways to bring it alive on a board or in a classroom:
+
+- **Color-code emotions.** Give each sticky a background color — green for calm, yellow for mild stress, red for peak anxiety. Laid out stage by stage, the color pattern makes the peaks and valleys jump out before anyone reads a word.
+- **One sticky per cell.** Each observation becomes its own note in Miro or on paper. It prevents overcrowding and keeps every observation movable, which matters because you will move them.
+- **Compare variants.** Map the *same* journey under different conditions — Maya's 9:30 PM walk against her 5:30 PM daylight walk. The contrast shows how lighting, crowd density, and time of day shift the emotional landscape, and it isolates which of them is doing the work.
+
+Use it to structure the raw material before any of it is translated into something presentable.
+
+### Next Steps
+
+1. Compare this map with other personas (e.g., Anika Shah) for similarities/differences.  
+2. Highlight **emotional spikes** as candidate pains.  
+3. Use abduction to generate multiple **pain hypotheses** from these peaks.  
+4. Retain edge-case clusters (footwear discomfort, social interactions) as possible secondary pains.  
+
+### Traceability
+
+- **From persona:** [Maya Patel](halo-alert-d2-converge.qmd#sec-ha-persona-maya)  
+- **From clusters:** Reassurance routines, Route choice & environment, Crowding & vigilance, Predictability & control  
+- **Toolkit link:** [Guide — Experience Mapping](../toolkit/Pain_Guides.qmd#sec-experience-map)
+
+## Abduction: from Patterns to a Pain Hypothesis {#sec-ha-abduction}
+
+*16 March.*
+
+### 1. Clarify the Unknown  
+
+- **Most Urgent Unknown:**  
+  What *hidden pain* best explains Maya’s recurring anxiety spikes during her evening commute home?  
+
+- **Supporting Evidence:**  
+  - Clustered themes: *Reassurance routines*, *Route choice & environment*, *Crowding & vigilance*.  
+  - Persona: [Maya Patel](halo-alert-d2-converge.qmd#sec-ha-persona-maya).  
+  - Experience Map: shows **low anxiety leaving work**, **rising vigilance on train**, and a **peak when walking home at night**.  
+
+### 2. Generate Possible Explanations  
+
+From the evidence, we brainstormed multiple plausible pain hypotheses and tagged each with pain type(s):  
+
+1. **Uncertainty pain**  
+   - *Hypothesis*: Maya’s stress spikes when her environment feels unpredictable (dark streets, sudden detours).  
+   - *Pain types*: **Functional** (lost time from rerouting), **Emotional** (anxiety from unpredictability).  
+
+2. **Isolation pain**  
+   - *Hypothesis*: Anxiety rises when she feels *alone* — being “watched” over text reduces but doesn’t erase the fear.  
+   - *Pain types*: **Emotional** (fear when walking alone), **Social** (strain on roommate as safety contact).  
+
+3. **Control pain**  
+   - *Hypothesis*: Crowds, erratic strangers, or blocked routes make Maya feel she has *no control* over her commute safety.  
+   - *Pain types*: **Emotional** (stress from powerlessness), **Physical** (fatigue from constant vigilance).  
+
+4. **Social burden pain**  
+   - *Hypothesis*: Her check-in system creates secondary stress — she feels guilty for making her roommate worry.  
+   - *Pain types*: **Social** (guilt, burden on others), **Emotional** (worry about straining relationships).  
+
+### 3. Check Alignment  
+
+- **Uncertainty pain**: Supported by route-avoidance behaviors (longer lit path) and her quotes about disruption.  
+- **Isolation pain**: Strongly matches reassurance routines; her texting is evidence.  
+- **Control pain**: Supported by crowded train behaviors (bag-holding, scanning, “keys in hand”).  
+- **Social burden pain**: Present, but less urgent; seems secondary compared to her direct anxieties.  
+
+### 4. Refine the List  
+
+We trimmed to three stronger candidates:  
+
+1. **Uncertainty pain** (functional + emotional).  
+2. **Isolation pain** (emotional + social).  
+3. **Control pain** (emotional + physical).  
+
+*Social burden pain* is retained in the “refrigerator” but deprioritized for now.  
+
+### 5. Select the Most Plausible  
+
+- **Chosen hypothesis:**  
+  *Maya experiences significant anxiety when commuting at night because she feels unsafe walking alone, especially in unpredictable or poorly lit environments.*  
+
+- **Pain types:**  
+  **Emotional + Functional**, with social overtones.  
+
+- **Reason:**  
+  This explanation best integrates the **emotional spike** in her experience map, the **route-choice cluster**, and her reliance on reassurance routines.  
+
+- **Refrigerated hypotheses:**  
+  - *Control pain*: revisit if subway crowding proves stronger in tests.  
+  - *Social burden pain*: may resurface if reassurance routines become problematic.  
+
+<br>
+
+```{r}
+library(ggplot2)
+library(tidyr)
+
+# Candidate hypotheses with pain type tags
+pain_matrix <- data.frame(
+  Hypothesis = c("Uncertainty pain", "Isolation pain", "Control pain", "Social burden pain"),
+  Physical   = c(FALSE, FALSE, TRUE, FALSE),
+  Functional = c(TRUE, FALSE, FALSE, FALSE),
+  Financial  = c(FALSE, FALSE, FALSE, FALSE),
+  Emotional  = c(TRUE, TRUE, TRUE, TRUE),
+  Social     = c(FALSE, TRUE, FALSE, TRUE)
+)
+
+# Convert to long format for plotting
+pain_long <- pivot_longer(pain_matrix, cols = -Hypothesis, names_to = "PainType", values_to = "Present")
+
+# Heatmap-style matrix
+ggplot(pain_long, aes(x = PainType, y = Hypothesis, fill = Present)) +
+  geom_tile(color = "white", linewidth = 0.5) +
+  scale_fill_manual(values = c("TRUE" = "firebrick", "FALSE" = "grey90")) +
+  labs(
+    title = "Pain Type Matrix for Candidate Hypotheses",
+    subtitle = "Tagging hypotheses across five pain types",
+    x = "Pain Type", y = "Candidate Hypothesis"
+  ) +
+  theme_minimal(base_size = 14) +
+  theme(
+    axis.text.x = element_text(angle = 30, hjust = 1),
+    legend.position = "none"
+  )
+```
+
+### 6. Next Steps  
+
+- Convert the chosen pain into a **testable hypothesis** (Diamond 2 → Test stage).  
+- Design **pain validation experiments** to measure frequency, urgency, and willingness to solve.  
+- Keep refrigerated hypotheses visible — surprises often point back to them.  
+
+<!--
+### Teaching Notes  
+
+- **Why tag pain types:** Forces precision. If students can’t assign at least one type, they probably named a *problem* not a pain.  
+- **Stacked pains = high value:** Pains that cut across multiple types (e.g., functional + emotional + social) are often the most compelling to address.  
+- **Reminder:** Hypothesizing pains ≠ proposing solutions. Stay in the *what hurts* stage.  
+-->
+
+### Traceability  
+
+- **From clusters:** [Commuting themes](halo-alert-d2-converge.qmd#sec-ha-cluster) 
+  <!--Reassurance routines, Route choice & environment, Crowding & vigilance.  -->
+- **From persona:** [Maya Patel](halo-alert-d2-converge.qmd#sec-ha-persona-maya)
+- **From experience map:** 
+    - [Experience map](halo-alert-d2-converge.qmd#sec-ha-expmap)
+- **Toolkit link:** [Abduction Guide](../toolkit/Pain_Guides.qmd#sec-abduction)
+
+## What Convergence Produced {#sec-ha-d2-converge-result}
+
+One pain hypothesis, stated as a personal cost and carrying its evidence: *anxiety when commuting at night, especially in unpredictable or poorly lit environments.* Emotional and functional, with social overtones.
+
+Two rivals went to the refrigerator rather than the bin, and one of them nearly came back during testing. The next stage is [validating the pain](halo-alert-d2-validate.qmd).
