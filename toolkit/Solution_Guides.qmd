@@ -214,7 +214,28 @@ Returns here, applied to the requirements your surviving concepts scored well on
 
 Once, and usually only once, a [second pass](../Hypothesize_Solution.qmd#sec-second-pass). Testing generates market requirements faster than exploration does, because rejection needs a concept to push against, so the list you screened against is stale by the time you finish screening. Come back with the objections, add rows, rescore. It needs no new respondents and takes about twenty minutes.
 
-A **scoring matrix** belongs to that second pass and nowhere earlier: weighted requirements, ratings instead of plus and minus, a weighted total. It is worth building only when the weights came from customers rather than from you, which in practice means after a [\$100 test](../Test_Solution.qmd#sec-100-test). Its procedure is not in this guide yet.
+A **scoring matrix** belongs to that second pass and nowhere earlier: weighted requirements, ratings instead of plus and minus, a weighted total. It is worth building only when the weights came from customers rather than from you, which in practice means after a [\$100 test](../Test_Solution.qmd#sec-100-test).
+
+::: {.for-curious}
+<details>
+<summary>For the Curious — where weights come from when this is done properly</summary>
+
+The formal answer is **conjoint analysis**, also called a discrete choice experiment. You construct product profiles that vary systematically across the attributes you care about, ask people to choose or rate among them, and estimate a model in which the outcome is preference and each attribute contributes a coefficient. Those coefficients are the weights. It is a real and well-established method, and it is how the numbers in a professionally built scoring matrix are actually produced.
+
+Two things stop it working at this point in an expedition, and both are worth understanding rather than taking on trust.
+
+**You cannot estimate seven weights from three concepts.** The method needs profiles designed so that attributes vary independently of one another, and enough of them that each coefficient is identified. What you hold after screening is a handful of survivors differing in tangled ways. There is nothing to regress.
+
+**Gates do not have coefficients.** A model of this kind is *compensatory*: it assumes a deficit on one attribute can be offset by a surplus on another, and it estimates the exchange rate between them. That assumption is exactly false for a requirement phrased as *must*. A solution that can be turned against its owner is not redeemed by being attractive, however the arithmetic comes out.
+
+So conjoint belongs where the attribute set has already settled and the customers are already known: established products, line extensions, pricing an option package. Early in an expedition you have neither.
+
+The \$100 test is the field-expedient version of the same idea. It elicits relative value directly instead of inferring it from choices, which costs precision and buys the ability to run it on twenty people next week. That is usually the right trade when what you need is a ranking rather than an exchange rate.
+
+</details>
+:::
+
+The scoring matrix procedure is not in this guide, deliberately. Its place in the method is still being settled.
 
 ## Test — Test Before You Build {#sec-solution-test}
 
@@ -307,14 +328,6 @@ It is also an **input to other tests**, and that is the use most people miss. Wo
 You can describe what the person did, not only what they said. If your notes contain opinions and no behavior, the rig was a demonstration rather than a test.
 :::
 
-#### Profit Analytics {#sec-profit-guide}
-
-Chapter: [Profit Analytics Testing](../Test_Solution.qmd#sec-profit-test). Comes last, because it needs a concept concrete enough to price.
-
-Deliberately partial here, and the chapter says so too. What belongs in this book is the shape: customers' willingness to pay reflects how well the solution relieves the pain, so a demand curve estimated from real responses lets you find the price that maximizes expected profit, and a low or negative result is a reason to reconsider rather than to push on.
-
-Doing it properly, which means eliciting willingness to pay without biasing it, estimating the curve, assembling costs, and finding the threshold at which the answer flips, is a book's worth of method, and that book is [*Is This Worth Doing?*](https://ea.nilehatch.com/). The overlap is intentional. Leave here knowing the test exists and why it comes last; do not try to run it from what is written here.
-
 #### Running a Smoke Test {#sec-smoke-guide}
 
 Five steps. The chapter carries why it works and what it cannot reach; this is what to build.
@@ -364,3 +377,11 @@ What does not move is the structure: intent traffic beats demographic traffic, t
 :::
 
 **Profit analytics is deliberately partial here.** The chapter introduces what the test does and when it belongs, then hands off: estimating a demand curve and computing expected profit properly is a book's worth of method, and that book is [*Is This Worth Doing?*](https://ea.nilehatch.com/). The overlap is intentional. A reader should leave knowing the test exists and why it comes last, and should not try to run it from what is written here.
+
+#### Profit Analytics {#sec-profit-guide}
+
+Chapter: [Profit Analytics Testing](../Test_Solution.qmd#sec-profit-test). Comes last, because it needs a concept concrete enough to price.
+
+Deliberately partial here, and the chapter says so too. What belongs in this book is the shape: customers' willingness to pay reflects how well the solution relieves the pain, so a demand curve estimated from real responses lets you find the price that maximizes expected profit, and a low or negative result is a reason to reconsider rather than to push on.
+
+Doing it properly, which means eliciting willingness to pay without biasing it, estimating the curve, assembling costs, and finding the threshold at which the answer flips, is a book's worth of method, and that book is [*Is This Worth Doing?*](https://ea.nilehatch.com/). The overlap is intentional. Leave here knowing the test exists and why it comes last; do not try to run it from what is written here.
