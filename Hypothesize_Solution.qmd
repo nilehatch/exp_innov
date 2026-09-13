@@ -67,6 +67,31 @@ To use a screening matrix effectively, start by listing the market requirements 
 -   the solution must confirm that notices have been sent and received, and
 -   the solution must not be able to be used as a weapon by the assailant if it gets taken.
 
+#### Where Those Requirements Actually Come From {.unnumbered}
+
+That list arrives looking more settled than it was, and it is worth being honest about how such a list gets built, because it changes how much weight it can carry.
+
+Some requirements do come out of exploration. When someone describes a workaround, the workaround encodes what it had to do. When someone tells you what they bought and stopped using, the reason they stopped is a requirement, isolated for you by a person who already ran the experiment.
+
+**But many of them will not exist until you propose something.** Nobody walking home at night is carrying an opinion about whether a personal safety device could be turned against them. They form that opinion the moment you describe a taser you can wear, which is exactly what happened in the demonstration below. *Rejection is where most requirements are born*, and rejection needs a concept to reject.
+
+This has two consequences worth acting on.
+
+**Your first requirement list is provisional.** It is thinner and more speculative than it will look once it is typed into a table with rows and headings. Build the matrix anyway, because eliminating on a thin list still beats not eliminating, and because the gaps become visible only once something is in the rows.
+
+**Record where each requirement came from.** Not as bookkeeping, but because when a result surprises you, provenance is what tells you whether to doubt the result or the requirement. Four columns, filled in as you write each one down rather than later:
+
+| requirement | source | people | in their words |
+|---|---|---|---|
+| Not usable as a weapon | rejected the taser concept | 4 | "he'd just take it off me" |
+| Feminine | rejected an early ring mock-up | 2 | "I wouldn't wear that" |
+| Works without the phone | exploration, unprompted | 6 | "first thing they grab is your phone" |
+| Confirms the alert was received | assumption | 0 | *(nobody said this)* |
+
+The last column is the one that does the work. If you cannot produce something a person actually said, the requirement is yours rather than theirs, and it goes in marked as an assumption rather than quietly promoted. Assumptions are allowed here. Unmarked ones are how a matrix eliminates a good idea *for a reason nobody ever held*.
+
+The same column catches the more common error, which is hardening. Every requirement in the list above reads *must*. A list where nothing is a preference is usually a list where somebody converted "I probably wouldn't wear that" into "must look and feel feminine" while typing. Record whether *they* framed it as a gate, and let preferences stay preferences.
+
 #### Reference Solution {.unnumbered}
 
 Identify a reference solution that you believe is the best solution currently available to your people. You will use the reference solution to compare and rate the solution ideas. For women concerned with safety while walking alone the innovators determined that pepper spray (Mace) is the best, most prevalent solution available so it was chosen as the reference solution.
@@ -120,6 +145,36 @@ Consider the screening matrix for ideas aimed at solving the risk and anxiety of
 :::
 
 Incomplete example of a screening matrix for solutions to the risks and anxiety of women walking alone after dark.
+
+### The Second Pass {#sec-second-pass}
+
+Notice what happened in that demonstration. The taser wearable was eliminated, and on the way out it produced two requirements nobody had before: *not usable against me*, and *not dangerous to bystanders*. It also, as the text says, generated ideas for making the ring more wearable and more discrete.
+
+So the matrix did not only filter. It taught you something about your requirements, which means the list you screened against is already out of date by the time you finish screening.
+
+This is the part the process usually leaves implicit: you *will* come back here. Not many times, and not on a schedule: once is normal. It happens after you have taken your two or three surviving concepts out to people and watched what they say, because that is when requirements arrive in quantity. You return with a better list, you re-screen against it, and sometimes a concept you dropped comes back or one you kept falls over.
+
+Two things make this cheap enough to actually do, which matters because nobody reruns an expensive step.
+
+**It needs no new respondents.** The requirements come from the testing you were going to do anyway. Showing a concept and writing down what people objected to is a logging discipline, not another round of recruiting.
+
+**It is a revision, not a rebuild.** You are adding rows to a table that exists and rescoring a handful of columns. Twenty minutes, not an afternoon.
+
+#### When a Scoring Matrix Becomes Worth Building {.unnumbered}
+
+On the first pass, all your requirements are gates: *must be discrete*, *must not be a weapon*. Gates cannot be weighted, because failing one is disqualifying however well an idea does elsewhere. Weighting them would let a well-rounded mediocre concept outrank a sharp one that clears every gate, and it would do it with arithmetic attached, which makes the error harder to see. So the screening matrix is deliberately unweighted, and its job is elimination rather than ranking.
+
+On a later pass this changes, because you have something you did not have before: a [\$100 test](Test_Solution.qmd#sec-100-test) asks customers to allocate a fixed budget across features, and what comes back is a set of **weights that customers produced rather than weights you assigned**. Once you hold real allocations and a requirement list corrected by real rejections, the arithmetic has something to stand on.
+
+That is a **scoring matrix**: the same table, with weights on the requirements, ratings rather than plus and minus, and a weighted total. It discriminates among survivors in a way the screening matrix deliberately will not.
+
+It is optional, and most readers will not need it. If two or three concepts survive screening, testing all of them is usually cheaper and more informative than ranking them precisely. Reach for a scoring matrix when you have more survivors than you can afford to test, and when your weights came from customers. The procedure is in [Solution Guides](toolkit/Solution_Guides.qmd#sec-solution-converge).
+
+::: {.trap}
+**Scoring your way to an answer you already had**
+
+A weighted matrix produces a number, and a number feels like a finding. If the weights are yours rather than your customers', the number tells you only what you already believed, expressed to two decimal places. When the score disagrees with your instinct, check the provenance column before you trust either one.
+:::
 
 ### Enhancing Solutions with Systematic Inventive Thinking (SIT)
 

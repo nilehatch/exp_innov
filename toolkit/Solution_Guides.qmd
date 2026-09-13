@@ -64,6 +64,10 @@ Use with [Hypothesize a Good Solution](../Hypothesize_Solution.qmd). *Procedure 
 
 Four filters, applied in order from cheapest to most deliberate: the **feasibility filter** as a first pass, **dot voting** to surface where team conviction actually sits, the **screening matrix** to score candidates against market requirements and a reference solution, and **Systematic Inventive Thinking** applied to the high-scoring requirements to improve what survives rather than merely ranking it.
 
+Then, once and usually only once, a [second pass](../Hypothesize_Solution.qmd#sec-second-pass). Testing generates market requirements faster than exploration does, because rejection needs a concept to push against, so the list you screened against is stale by the time you finish screening. Come back with the objections, add rows, rescore. It needs no new respondents and takes about twenty minutes.
+
+A **scoring matrix** belongs to that second pass and nowhere earlier: weighted requirements, ratings instead of plus and minus, a weighted total. It is worth building only when the weights came from customers rather than from you, which in practice means after a [\$100 test](../Test_Solution.qmd#sec-100-test). On the first pass every requirement is a gate, and gates cannot be weighted without letting a well-rounded concept outscore one that actually clears them.
+
 ## Test — Test Before You Build {#sec-solution-test}
 
 Use with [Test Solutions with Prototypes](../Test_Solution.qmd). *Procedure extraction in progress; the chapter carries each test in full today.*
@@ -72,13 +76,13 @@ Seven tests. The first distinction to hold on to is what each one asks: **valida
 
 | test | what it asks |
 |---|---|
-| [Validation testing](../Test_Solution.qmd) | Does this solve the pain, for these people? |
-| [Verification testing](../Test_Solution.qmd) | Can it be built, and does it work as intended? |
-| [Wow factor test](../Test_Solution.qmd) | Is there emotional pull, not merely acceptance? |
-| [\$100 test](../Test_Solution.qmd) | Which features do they actually value, given a forced trade-off? |
-| [Wizard of Oz test](../Test_Solution.qmd) | Would they use it, if the manual version behaves like the real one? |
-| [Smoke test](../Test_Solution.qmd) | Will anyone act on the offer before it exists? |
-| [Profit analytics](../Test_Solution.qmd) | At what they would pay, does this earn more than it costs? |
+| [Validation testing](../Test_Solution.qmd#sec-validation-test) | Does this solve the pain, for these people? |
+| [Verification testing](../Test_Solution.qmd#sec-verification-test) | Can it be built, and does it work as intended? |
+| [Wow factor test](../Test_Solution.qmd#sec-wow-test) | Is there emotional pull, not merely acceptance? |
+| [\$100 test](../Test_Solution.qmd#sec-100-test) | Which features do they actually value, given a forced trade-off? |
+| [Wizard of Oz test](../Test_Solution.qmd#sec-wizard-test) | Would they use it, if the manual version behaves like the real one? |
+| [Smoke test](../Test_Solution.qmd#sec-smoke-test) | Will anyone act on the offer before it exists? |
+| [Profit analytics](../Test_Solution.qmd#sec-profit-test) | At what they would pay, does this earn more than it costs? |
 
 **Wizard of Oz is not only a test.** It is also an *input* to several of the others, because it is how you put a solution concept in front of someone convincingly enough that their reaction means something. Reach for it whenever a test needs the customer to experience the solution rather than imagine it.
 
