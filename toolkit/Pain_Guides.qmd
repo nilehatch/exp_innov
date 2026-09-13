@@ -241,17 +241,20 @@ Use with [Experience Mapping](../Hypothesize_Pain.qmd#sec-experience-map-section
 **Build it as a grid.** One row per stage, one column per lens, in a spreadsheet or on a shared board. The format is doing real work: a lens read straight down its column is a trend, and that is what you are looking for. A stack of stage-by-stage notes hides exactly the comparison you need.
 
 ::: {.gridded}
-| Lens ↓ / Stage → | 1. *before it begins* | 2. | 3. | … |
+| Stage | Doing | Thinking | Saying | Feeling |
 |---|---|---|---|---|
-| **Doing** | | | | |
-| **Thinking** | | | | |
-| **Saying** | | | | |
-| **Feeling** | | | | |
+| 1. *before it begins* | | | | |
+| 2. | | | | |
+| … | | | | |
 :::
 
 Empty cells stay empty. On a grid they are visible at a glance, and a column with holes in it tells you which lens you failed to ask about.
 
-Which way round? The traditional layout puts lenses down the side and stages across the top, and it works when the cells are **terse** — a phrase per cell, not a sentence. Once cells carry full sentences, seven or eight columns squeeze the prose into slivers and the grid stops being readable, at which point stages belong in the rows instead. Write short and use the traditional orientation; write long and transpose. In a spreadsheet it costs one command either way.
+Which way round? Decide what the cells have to hold, and the orientation follows.
+
+A cell earns its keep when it carries two things: the state, and what produced it. *Heightened vigilance; crowd noise and unpredictability increase stress.* The second clause is what abduction works from, so cells that carry causes are worth more than cells that carry labels — and they are longer.
+
+That settles the layout. Long cells need width, width means few columns, and stages are the dimension that grows, so stages go in the rows. The traditional layout you will see elsewhere runs the other way, lenses down and stages across with an emotion curve above, and it works where every cell is a phrase. That is a poster built to carry a finding to someone who was not there. Compressing your cells to fit it would keep the labels and throw away the causes, which is the wrong trade while you are still working. In a spreadsheet the question is moot; transpose whenever it helps.
 
 ::: {.limit}
 **You are not making a poster**

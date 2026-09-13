@@ -24,20 +24,23 @@ The goal is not to list every step but to surface **emotional peaks and valleys*
 
 ## Stages of the Commute
 
-The working format is a grid: one row per lens, one column per stage. Read a lens straight across and you are reading a trend, which is the comparison a stack of stage-by-stage notes hides.
+One row per stage, one column per lens. Read a column straight down and you are reading a trend across the whole journey, which is the comparison a stack of stage-by-stage notes hides.
 
 ::: {.gridded}
-| **Lens ↓ / Stage →** | **Leaving Office / Class** | **Walking to Subway** | **Entering Station** | **In Subway Car** | **Delay / Reroute** | **Neighborhood Walk** | **Arrival & Check-In** |
-|---|---|---|---|---|---|---|---|
-| **Doing** | Packs bag, checks phone, texts roommate | Chooses lit streets, keeps keys in hand | Navigates crowds, scans pass | Holds bag close, plans exit early | Reroutes or waits | Walks briskly, texts ETA | Unlocks door, texts "home safe" |
-| **Thinking** | "It's late, streets will be quieter" | "Better add 10 mins than risk shortcut" | "Rush hour might still be bad" | "What if I can't get out in time?" | "I hate not knowing how long" | "Almost there — two blocks" | "Glad that's over" |
-| **Saying** | "I'll text you when I'm on the train" | *(silent — headphones in, no music)* | "Excuse me" when passing | *(silent — uses silence as shield)* | Mutters frustration | Sends text: "5 mins out" | "Sorry if I made you worry" |
-| **Feeling** | Mild apprehension | Alert, small anxiety spikes | Heightened vigilance | Stress peaks, pulse quickens | Frustrated + anxious | Anxiety peak then relief | Relief, guilt about burdening others |
+| Stage | Doing | Thinking | Saying | Feeling |
+|---|---|---|---|---|
+| **1. Leaving the Office / Class** | Packs bag, checks phone for time, sends quick text (“heading out now”). | “I hope I didn’t stay too late; the streets will be quieter now.” | “I’ll text you when I’m on the train.” (to roommate) | Mild apprehension; mentally shifts from work to commute mode. |
+| **2. Walking to the Subway** | Chooses well-lit streets, keeps keys in hand, avoids alleys. | “Better to add 10 minutes than cut through the dark shortcut.” | None (headphones in, but no music). | Alert; small spike in anxiety on quieter blocks. |
+| **3. Entering the Subway Station** | Navigates crowds, scans MetroCard/phone pass, heads to platform. | “I should’ve left earlier; rush hour might still be bad.” | Brief “excuse me” when passing people. | Heightened vigilance; crowd noise and unpredictability increase stress. |
+| **4. In the Subway Car (Crowded Segment)** | Holds bag close, avoids eye contact, plans exit two stops early. | “What if I can’t get out in time?” | None — silence as shield. | Stress spikes; pulse quickens when jostled. |
+| **5. Transfer or Delay** | Reroutes if platform is packed or if train is delayed. | “This will make me late… I hate not knowing how long.” | Might mutter frustration (“Not again”). | Frustration + anxiety; uncertainty is more stressful than the delay itself. |
+| **6. Neighborhood Walk (Final Stretch)** | Walks briskly, stays under streetlights, texts roommate with ETA. | “Almost there. Just two more blocks.” | Sends text: “5 minutes out.” | Anxiety peaks briefly when street is empty; relief grows as she nears her building. |
+| **7. Arrival & Check-In** | Unlocks apartment door, texts roommate “home safe.” | “Glad that’s over.” | “Sorry if I made you worry.” | Relief; stress subsides once inside. |
 :::
 
-Read the *Saying* row across and something appears that no single stage would have shown: it is empty at two stages, and both are the stages where stress is highest. Maya goes quiet exactly when it is worst.
+Read the *Saying* column down and something appears that no single stage would have shown: it is empty at two stages, and both are the stages where stress is highest. Maya goes quiet exactly when it is worst.
 
-Cells are kept to a phrase deliberately. Seven stages fit across a page only while the writing stays terse; once cells carry full sentences the columns squeeze the prose into slivers and the grid has to be transposed.
+Notice that most cells carry two clauses — the state, then what produced it. *Heightened vigilance; crowd noise and unpredictability increase stress.* The second clause is the one abduction works from, so it is worth the width. That width is why the grid runs this way round rather than the traditional way, with lenses down the side and stages across the top. Seven stage columns only fit when every cell is a phrase, and compressing these cells to phrases would throw away the causes and keep the labels.
 
 ## Emotional Peaks & Valleys
 
