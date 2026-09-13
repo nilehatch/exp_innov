@@ -359,10 +359,6 @@ Open, and none of it blocking:
 - **27 stock callouts remain in `demo/`**, 20 inside the two transcripts. Those are field
   records rather than instructional prose and may not want the family taxonomy. Decide
   rather than sweep.
-- **Two principles in `Organize_Team.qmd` are argued and not cited.** Reward future
-  contribution; settle fairness while stakes are low. The canonical source is Wasserman on
-  founder equity splits, and **there is no Wasserman and no equity-split literature in the
-  Zotero master** (checked 13 Sep). Add the collection, or leave them as reasoning.
 - **Permission for the operating agreement template** is NWH's to confirm with the law
   faculty who drafted it. He has general permission to use it outside the fellowship and
   authorized shipping it; the attribution line in the chapter names no institution, pending

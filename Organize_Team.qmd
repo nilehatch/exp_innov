@@ -19,8 +19,10 @@ So this is not a chapter about being kind to each other. A team's capacity to di
 ::: {.mini-case}
 The concept behind [the Halo Alert demonstration](demo/demo-halo-alert.qmd) came from a real innovation project that had done the work: a community, a validated pain, concepts screened against the women's own requirements, and two solution tests with real customers. No test ever found it wanting. It died anyway, because the team could not work together, and it died on the drawing board, where nobody outside the team ever found out whether it would have worked.
 
-That is the ordinary ending for these. The market rarely gets the chance to reject them.
+That is the ordinary ending for these. The market rarely gets the chance to reject them.[^founders]
 :::
+
+[^founders]: This is the strong version of the claim, and it is Noam Wasserman's: across a decade of research on nearly ten thousand founders, people problems rather than market or technology problems are the leading cause of startup failure, and the decisions that cause them are made early, made quickly, and are hard to undo [@wassermanFoundersDilemmasAnticipating2012].
 
 Interdisciplinary teams carry both halves of this at once. The diversity of skill that lets a team see a problem from several sides is the same diversity that makes its members misread each other, and the early weeks tend to hide it: formation has a honeymoon, full of optimism and deference, and the honeymoon is not evidence that the team can disagree. It is evidence that nothing has been at stake yet.
 
@@ -265,7 +267,9 @@ Every clause worth arguing over follows from two ideas.
 
 #### Reward Future Contribution, Not Past Effort
 
-Equity is an incentive, not a trophy. It is also the main thing a young company can pay with, which means spending it on the past spends it twice: once on work already done, and again on the work it can no longer buy.
+Equity is an incentive, not a trophy. It is also the main thing a young company can pay with, which means spending it on the past spends it twice: once on work already done, and again on the work it can no longer buy.[^split]
+
+[^split]: Splitting the equity is the decision Wasserman treats as the most consequential of the early ones, precisely because founding teams tend to settle it fast, settle it on the basis of what has happened so far, and then find it nearly impossible to revisit once the company is worth something [@wassermanFoundersDilemmasAnticipating2012].
 
 Early on you do not know who will end up contributing the most. That is not poor judgment on your part. The information does not exist yet. There are three common ways of handling that, and only one of them survives contact with a team that changes.
 
@@ -281,7 +285,9 @@ There is a perverse arithmetic in a venture that starts to work. The more the th
 
 So the terms have to be set while they are still nearly hypothetical. A rule you agree to when the company is worth nothing feels like housekeeping. The same rule proposed a year later feels like a raid, whatever its merits, and the team spends its attention litigating instead of exploring.
 
-That is the whole argument for doing this early, and it is why the awkwardness of the conversation is the point rather than a reason to postpone it.
+That is the whole argument for doing this early, and it is why the awkwardness of the conversation is the point rather than a reason to postpone it. The comfortable short-term choice, which is almost always to leave it vague for now, is the one that turns out to be dangerous later.[^easy]
+
+[^easy]: The pattern recurs throughout Wasserman's cases: the easy early choice and the durable one are rarely the same choice [@wassermanFoundersDilemmasAnticipating2012].
 
 ### The Decisions Only You Can Make
 
