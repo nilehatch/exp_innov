@@ -58,9 +58,10 @@ what it produced. Rather than repeat that here, two notes about scope:
 transcripts, three observation outings, clustering, personas, the experience map,
 abduction, and three pain-test probes with their raw responses.
 
-**Diamond 3 is not written yet.** Ideation, screening, and the solution tests have no
-Halo Alert record, so the chapters in that part stand on their own for now. That gap is
-real and it is the largest one in this book.
+**Diamond 3 runs as far as the original project did**: generation, screening against the
+women's own requirements, and two solution tests. It stops before the smoke test, because
+that is where the team stopped and because a landing page shown as screenshots is not a
+landing page. Explorable smoke-test examples are being prepared separately.
 
 > New files follow `exp-XX-[modality]-[short-label]-YYYY-MM-DD.qmd`, lowercase with
 > dashes, with a readable title set inside the file.

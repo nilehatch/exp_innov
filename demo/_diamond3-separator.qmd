@@ -1,3 +1,0 @@
-# ── 3. Solution ── {#sec-demo-solution-separator .unnumbered}
-
-#### Demonstration of building and validating a solution to customer pain for Halo Alert {.subtitle}

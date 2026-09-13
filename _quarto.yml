@@ -80,7 +80,7 @@ book:
         - demo/halo-alert-transcript-emily.qmd
         - demo/halo-alert-d2-converge.qmd
         - demo/halo-alert-d2-validate.qmd
-        - demo/_diamond3-separator.qmd
+        - demo/halo-alert-d3-solutions.qmd
 
     - references.qmd
 

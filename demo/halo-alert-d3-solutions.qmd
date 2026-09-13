@@ -1,0 +1,120 @@
+# Diamond 3 — Toward a Solution {#sec-ha-d3 .unnumbered}
+
+#### Generating candidates, screening them against what the women said, and the point where the record stops {.subtitle}
+
+The team carried one validated pain into this diamond: *anxiety when commuting at night, especially in unpredictable or poorly lit environments*, already costing time and money to avoid.
+
+Chapters: [Ideate Many Solutions](../Ideate_Solutions.qmd) and [Hypothesize a Good Solution](../Hypothesize_Solution.qmd). Guide: [Solution Guides](../toolkit/Solution_Guides.qmd).
+
+::: {.limit}
+**What is genuine on this page, and what is not**
+
+The **screening matrix** below is the original team's own work, recovered from course files. Its ideas, its reference solution, its ratings and its decisions are theirs.
+
+Everything around it is **reconstructed**: the generation session, the requirement provenance, and the test results. The team did diverge, converge and test, but this method did not exist in this form when they worked, and those artifacts are gone. What you are reading is a plausible route to a real destination.
+:::
+
+## Diverge — Generating Candidates {#sec-ha-d3-diverge}
+
+### 6-3-5 Brainwriting {#sec-ha-d3-brainwriting}
+
+Five people, three ideas each, five minutes a round, six rounds. The pain statement sat at the top of every sheet, phrased as a cost rather than a gap: *she rearranges her route, her timing and her attention to manage a risk she cannot put down.*
+
+The pool that came out held roughly ninety distinct concepts. Most were variations on two themes — something you carry, and something that tells somebody where you are — which is itself a finding, and the reason the next move mattered.
+
+### The Bad-Ideas Round {#sec-ha-d3-bad-ideas}
+
+One round given over to the worst thing they could build. The instruction was the sharp version: not merely useless, but something that would make her situation *worse*.
+
+It produced, among others, **electrified clothing** — a garment that would shock anyone who grabbed the wearer.
+
+::: {.reflect}
+**Why that round paid for itself**
+
+Shock clothing was never going to survive screening, and it did two things on the way out.
+
+It was the idea the team described to women in the community, and their reaction produced two requirements nobody had held before anyone proposed anything: *not usable against me* if an assailant took it, and *not dangerous to bystanders* if it fired by accident.
+
+And working out why it was frightening produced the ideas that made the surviving concept more discreet and more wearable. The bad idea was the parent of a good one.
+:::
+
+### What the Catalog Held {#sec-ha-d3-catalog}
+
+After recombination, the candidates worth screening included:
+
+- electrified clothing that shocks an assailant
+- non-jewelry accessories that track and send a distress call — a headband, ear buds
+- jewelry that sends a distress call at the press of a button, such as a ring
+- a concealed knife
+- noise makers to scare an assailant away
+- light-emitting devices to stun or deter
+- a keychain that sends an alert and confirms it was received
+
+## Converge — Screening {#sec-ha-d3-converge}
+
+### The Market Requirements {#sec-ha-d3-requirements}
+
+Seven, and the provenance is mixed in the way the [chapter warns it will be](../Hypothesize_Solution.qmd#sec-where-requirements). Some came out of exploration. Two did not exist until a concept was put in front of someone.
+
+::: {.gridded}
+| Requirement | Where it came from |
+|---|---|
+| Stops an assault | exploration — the reason the project exists |
+| Discreet, rather than visibly deterrent | exploration — several women preferred to scare an assailant off than to advertise a defense |
+| Looks like real jewelry | reaction to an early mock-up |
+| Looks and feels feminine | reaction to an early mock-up |
+| Works without the phone | exploration, unprompted — *the first thing they grab is your phone* |
+| Confirms the alert was sent and received | assumption, held by the team |
+| Not usable as a weapon if taken | **reaction to the shock-clothing concept** |
+:::
+
+### The Screening Matrix {#sec-ha-d3-matrix}
+
+Each candidate rated against **Mace** — the best thing these women actually had — on each requirement: better, the same, or worse. This is the team's own matrix.
+
+::: {#tab:ha-screening-matrix .worksheet}
+|                      | Reference: Mace | Alert Ring | Taser Wearables | ... | Alert Keychain |
+|------------|:----------:|:----------:|:----------:|:----------:|:----------:|
+| **Discrete**         |        =        |     \+     |       \+        | ... |       \+       |
+| **Feminine**         |        =        |     \+     |       --        | ... |       \+       |
+| **Confirmed Alerts** |        =        |     =      |        =        | ... |       \+       |
+| **...**              |       ...       |    ...     |       ...       | ... |      ...       |
+| **Non-weaponized**   |        =        |     \+     |       --        | ... |       \+       |
+| **Pluses**           |        0        |     5      |        2        | ... |       5        |
+| **Equals**           |        N        |     2      |        2        | ... |       0        |
+| **Minuses**          |        0        |     2      |        3        | ... |       2        |
+| **Net Score**        |        0        |     3      |       -1        | ... |       3        |
+| **Decision**         |    reference    |  improve   |     combine     | ... |    improve     |
+:::
+
+Two concepts went forward: the **alert ring** and the **alert keychain**. The taser scored *minus one* and was marked **combine** rather than dropped, which is the matrix doing what it is for — the concept dies and its one advantage, genuine discreteness, is carried into the survivors.
+
+Note what the matrix does not say. A net score of three means *better than pepper spray on three more counts than it is worse*. It does not mean the ring is the right thing to build, and the team did not treat it that way.
+
+## Test — What They Ran {#sec-ha-d3-test}
+
+Both survivors went to the women who had been talking to them all along.
+
+### Wow Factor {#sec-ha-d3-wow}
+
+The ring drew stronger reactions than the keychain, and the reason was not the technology. A keychain is a thing you carry and might forget; a ring is already on your hand when you need it. The objections were about credibility rather than desire — whether something that size could do anything useful, and what happened if the battery died.
+
+### \$100 Test {#sec-ha-d3-100}
+
+Allocations concentrated on two features: the alert working **without unlocking a phone**, and the **confirmation** that somebody had received it. Appearance mattered and drew less money than the team expected. Nothing went to features that escalated a confrontation.
+
+That concentration is the useful signal. Money gathering on two features rather than scattering across eight says the concept is doing one job, which is what you want before building anything.
+
+## Where the Record Stops {#sec-ha-d3-stop}
+
+Here. No smoke test, no landing page, no profit analytics.
+
+That is where the original project stopped, and stopping with it is more honest than manufacturing an ending. The team had a concept, evidence that the pain was real, and evidence that two features carried the value. What they never had was a working relationship, and the innovation died on the bench rather than in the market.
+
+::: {.see-demo}
+**Smoke testing is coming, and not as screenshots.**
+
+A landing page rendered as images and captions is not a landing page. You cannot see what a visitor sees, and you certainly cannot click. Real smoke-test pages, explorable rather than pictured, are being prepared separately at [nilehatch.com](https://nilehatch.com/).
+
+Until then, the [smoke test procedure](../toolkit/Solution_Guides.qmd#sec-smoke-guide) carries what to build and what to count.
+:::

@@ -66,4 +66,6 @@ That is the honest scale of a first expedition. It is less than most people expe
 
 ## Reading the Full Record
 
-Every row above links into the working file that produced it. Two are worth opening even if you read nothing else: a [complete conversation transcript](halo-alert-transcript-sarah.qmd), because it shows how unpolished real evidence is, and the [clustering board](halo-alert-d2-converge.qmd#sec-ha-cluster), because it shows scattered notes becoming themes in one place.
+Every row above links into the record that produced it. Two are worth opening even if you read nothing else: a [complete conversation transcript](halo-alert-transcript-sarah.qmd), because it shows how unpolished a real record is, and the [clustering board](halo-alert-d2-converge.qmd#sec-ha-cluster), because it shows scattered notes becoming themes in one place.
+
+[Diamond 3](halo-alert-d3-solutions.qmd) continues past the table above, through generation and screening to two solution concepts. It stops where the original project stopped, without a smoke test, because that is where the team stopped and because a landing page deserves to be clicked rather than pictured.
