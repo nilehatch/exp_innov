@@ -240,8 +240,23 @@ BibTeX auto-export and the path `sync-refs.py` actually uses. **Do not use
 
 ## The method layer and the toolkit: one method, two renderings
 
-`method-layer.qmd` (appendix) is the procedure rendered for a machine. The toolkit guides
-hold the same steps rendered for a person with a wall and sticky notes. **This is not an AI
+`method-layer.qmd` (appendix) is the procedure rendered for a machine, in **three blocks, one
+per diamond** — Stages 0–3, 4–11, 12–14 — because an expedition takes weeks and no conversation
+does. Each block repeats the standing orders, because they must be in force every time, and each
+emits an **expedition state block** the reader carries between sessions. Splitting was the
+compression: the blocks run roughly 2,060 / 5,140 / 2,110 tokens, and Block 2 is largest because
+Diamond 2 is. Do not strip the rationale to shrink them further; the appendix is read by a human
+as well as pasted to a model.
+
+Three things in it were added because the design was audited rather than assumed, and they
+should not be quietly dropped. **A resume instruction**, since most sessions start in the middle.
+**A standing order that stops mean stop**, because models answer their own judgment stops out of
+helpfulness. And **a `.limit` stating what the instructions cannot do**: they constrain the model
+and cannot constrain the reader, so nothing in the block can tell whether a pasted transcript was
+gathered or generated. That passage is the counterpart of the Halo Alert provenance disclosure
+and the two must stay consistent.
+
+The toolkit guides hold the same steps rendered for a person with a wall and sticky notes. **This is not an AI
 path plus a manual alternative** — that framing rebuilds the two-track confusion and brands
 the hand-worker's route as lesser. Nothing in the prose should suggest one is primary.
 
@@ -327,6 +342,24 @@ node geometry are all derived, and editing one breaks the family's consistency.
   deliberately; leave it unless asked.
 
 The editor is VS Code or Cursor. Do not assume RStudio or add `.Rproj` files.
+
+## Where the manuscript stands (14 Sep 2026)
+
+Nothing structural is open. Preface through Conclusion revised, three diamonds of chapters,
+a complete toolkit, a nine-page Halo Alert demonstration, and a three-block method layer.
+The rivals are cited, the stopping rules are written, and everything outside `demo/` passes
+`prose-check`.
+
+Open, and none of it blocking:
+
+- **The method layer has never been run against a live AI.** Its design was audited, not
+  tested. Paste Block 1 into a model and walk a real problem space through Stages 0 to 3.
+- **Smoke-test landing pages** for nilehatch.com are NWH's to capture; the pointers exist in
+  the D3 demo and the smoke-test guide, so wiring URLs later is a two-line change.
+- **27 stock callouts remain in `demo/`**, 20 inside the two transcripts. Those are field
+  records rather than instructional prose and may not want the family taxonomy. Decide
+  rather than sweep.
+- **`Organize_Team.qmd`** is unrevised, and the Halo Alert origin story now points at it.
 
 ## Notes and audits go to the vault, not here
 
